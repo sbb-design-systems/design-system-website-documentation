@@ -3,7 +3,7 @@ name: Feature request Website
 about: Suggest an idea for the website design system
 title: 'Feature Request Website: '
 labels: design-system-website
-assignees: ''
+assignees: mikemorgenthaler
 
 ---
 

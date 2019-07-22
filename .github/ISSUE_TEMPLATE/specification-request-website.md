@@ -3,7 +3,7 @@ name: Specification request Website
 about: Specification request for a website component
 title: 'Specification request Website: '
 labels: design-system-website
-assignees: ''
+assignees: mikemorgenthaler
 
 ---
 
