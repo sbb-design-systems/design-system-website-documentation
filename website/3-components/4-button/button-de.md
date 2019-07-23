@@ -25,10 +25,10 @@ Das Element hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-(srcset: button_primary extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/3-components/4-button/images/button_primary.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect text: Hover)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect text: On-Click)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect text: Disabled)
