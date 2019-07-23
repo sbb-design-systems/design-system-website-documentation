@@ -1,0 +1,49 @@
+##1. Was macht das Modul?
+* Blättert durch eine Liste von Elementen oder Seiten.
+
+##2. Wann soll das Modul eingesetzt werden?
+* Bei langen Listen von Elementen oder Seiten.
+
+##3. Regeln
+* Anzahl Elemente pro Seite muss kontextspezifisch definiert werden.
+
+##4. Ausprägungen und Zustände 
+###4.1 Nummern
+Diese Ausprägung hat folgende Zustände:
+* First
+* Middle
+* Last
+* Hover
+
+(srcset: pagination_numbers extension: png class: image)
+* Maximal 5 Seitenzahlen werden angezeigt.
+* Tastaturbedienung
+		* Die aktive Seite kann nicht angesprungen werden.
+		* Tab-Reihenfolge: Pfeil zurück, erste anspringbare Seite, nächste anspringbare Seite usw., Pfeil vorwärts.
+		* Die Kurzform «...» für versteckte Seiten kann nicht angesprungen werden.
+
+####Design Spezifikation
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136679/inspect text: First)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136680/inspect text: Middle)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136681/inspect text: Last)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136682/inspect text: Hover)
+
+####Code Spezifikation
+* (link: https://sbb-angular.app.sbb.ch/latest/content/pagination text: SBB Angular Component Library)
+
+###4.2 Seitennamen
+Diese Ausprägung hat folgende Zustände:
+* Default
+* Hover
+
+(srcset: pagination_pages extension: png class: image)
+* Kann «vor» und «zurück» Link enthalten, oder optional nur «vor» oder «zurück» (wenn die erste oder letzte Seite aktiv ist).
+* Beschriftet sind die Pagination-Links mit dem Titel der anzuspringenden Seite.
+* Der Link-Text hat eine Maximalbreite entsprechend dem Layout. Längere Texte werden mittels «...» abgeschnitten.
+
+####Design Spezifikation
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136683/inspect text: Default)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136684/inspect text: Hover)
+
+####Code Spezifikation
+* (link: https://sbb-angular.app.sbb.ch/latest/content/pagination text: SBB Angular Component Library)
