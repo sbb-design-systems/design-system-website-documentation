@@ -1,20 +1,20 @@
-##1. Was macht das Modul?
+## 1. Was macht das Modul?
 * Stellt unterschiedliche Informationen und Funktionen zur Verfügung.
 
-##2. Wann soll das Modul eingesetzt werden? 
+## 2. Wann soll das Modul eingesetzt werden? 
 * Zur Ergänzung von Inhaltsseiten.
 
-##3. Regeln
+## 3. Regeln
 * Das Modul wird immer in der Marginalspalte (rechts) eingesetzt.
 * Es können mehrere Module in der Marginalspalte untereinander platziert werden.
 * Beim Scrollen werden alle Boxen in der Marginalspalte sticky. Die einzelnen Boxen werden sukzessive minimiert, sobald sie am oberen Rand des Viewports angelangt sind.
 * Einzelne Boxen im gescrollten Zustand können vom Benutzer aufgeklappt werden.
 * Es darf im gescrollten Zustand immer nur eine Box aufgeklappt sein.
 
-##4. Ausprägungen und Zustände 
+## 4. Ausprägungen und Zustände 
 Der Next Best Click Container hat keine Viewport übergreifenden Zustände, da sie sich unterschiedlich verhalten. Des Weiteren haben die einzelnen Ausprägungen zusätzlich unterschiedliche Varianten.
 
-###4.1 Aktion
+### 4.1 Aktion
 (srcset: nbc_action extension: png class: image)
 
 ####Design Spezifikation
@@ -22,52 +22,52 @@ Der Next Best Click Container hat keine Viewport übergreifenden Zustände, da s
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616914/inspect text: Double)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616915/inspect text: Collapsed)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
-###4.2 Kontakt
+### 4.2 Kontakt
 (srcset: nbc_contact extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616916/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616917/inspect text: Collapsed)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
-###4.3 Link
+### 4.3 Link
 (srcset: nbc_link extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616918/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616919/inspect text: Collapsed)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
-###4.4 Download
+### 4.4 Download
 (srcset: nbc_download extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616920/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616921/inspect text: App)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616922/inspect text: Collapsed)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
-###4.5 Chat
+### 4.5 Chat
 (srcset: nbc_chat extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616923/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616924/inspect text: Collapsed)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
-##5. Verhalten
-###5.1 Desktop (und grössere Auflösungen)
+## 5. Verhalten
+### 5.1 Desktop (und grössere Auflösungen)
 * Alle Next-Best-Click Optionen sind auf Inhalts-Seiten in der Margin-Spalte (rechten Spalte) angeordnet.
 * Beim Scrollen werden alle Boxen in der rechten Spalte sticky. Die einzelnen Boxen werden sukzessive minimiert, sobald sie an den oberen Rand des Viewports (unterhalb des Sticky Headers) angelangt sind (respektive bei schon minimierten Boxen jeweils darunter).
 * Im minimierten Zustand bleiben alle Boxen jederzeit für den User zugängig/erreichbar.
@@ -78,14 +78,14 @@ In Bearbeitung.
 
 (srcset: nbc_behaviour_desktop_default extension: png class: image)
 
-####Sonderfall NBC-Box innerhalb eines Accordion
+#### Sonderfall NBC-Box innerhalb eines Accordion
 * Bei der Anwendung einer NBC-Box innerhalb eines (link: websites/components/accordion text: Accordion) wird diese nie minimiert.
 * Es darf nur eine NBC-Box in einem Accordion eingesetzt werden.
 * Beim Scrollen bleibt die NBC-Box sticky am oberen Rand bis zum Ende der Content-Area des Accordions, dannach wird die Box mit dem Content weitergescrollt.
 
 (srcset: nbc_behaviour_desktop_accordion extension: png class: image)
 
-###5.2 Tablet
+### 5.2 Tablet
 * Alle Next-Best-Click Optionen sind jederzeit über das sticky Element rechts unten verfügbar.
 * Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im offenen Zustand nebeneinander (zweispaltige Darstellung)
 * Das Icon im Sticky-Element wechselt dann zum Schliessen-Button (Toggle-Button).
@@ -95,7 +95,7 @@ In Bearbeitung.
 
 (srcset: nbc_behaviour_tablet extension: png class: image)
 
-###5.3 Mobile
+### 5.3 Mobile
 * Alle Next-Best-Click Optionen sind jederzeit über das Sticky-Element rechts unten aufrufbar.
 * Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im geschlossenen Zustand. 
 * Es kann jeweils nur ein Modul einzeln geöffnet werden.

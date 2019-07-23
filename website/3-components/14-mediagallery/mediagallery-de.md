@@ -32,15 +32,15 @@ Das Modul hat folgende Zustände:
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074098/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074099/inspect text: Details)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
 (srcset: mediagallery_text extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074100/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074101/inspect text: Details)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.

@@ -1,11 +1,11 @@
-##1. Was macht dieses Element?
+## 1. Was macht dieses Element?
 * Bilder unterstützen das Verständnis von Texten und lockern textlastige Seiten auf.
 
-##2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll das Element eingesetzt werden?
 * Zur Unterstützung der textuellen Kommunikation können Bilder eingesetzt werden (visuelle Kommunikation).
 * Grosse (content-wide) Bilder sollen sparsam eingesetzt werden.
 
-##3. Regeln 
+## 3. Regeln 
 * Die Aufbereitung von Bildern und Illustrationen ist durch die Vorgaben von KOM geregelt (siehe Links).
 * Illustrationen und Infografiken als SVG einsetzen, bei Fotografien auf genügend grosse Auflösung für alle Screengrössen achten.
 * Ausser dem roten SBB Panel dürfen Bilder keine Overlays enthalten.
@@ -14,13 +14,13 @@
 * Um die Wichtigkeit von Bildern zu unterstreichen (zu priorisieren), können verschiedene Bildgrössen helfen.
 * Bilder haben optional einen Beschreibungstext (Caption).
 
-##4. Ausprägungen und Zustände 
+## 4. Ausprägungen und Zustände 
 Bei Bildern werden folgende Stile unterschieden:
 * Fotografie
 * Illustration
 * Infografik
 
-###4.1 Key Visual 
+### 4.1 Key Visual 
 * Nur Fotografien (keine Illustrationen) verwenden.
 * Keyvisuals haben keinen eigenen Informationsgehalt.
 * Keyvisuals können statische Bilder oder Videos sein. Animated GIFs sind nicht möglich.
@@ -103,7 +103,7 @@ Bei Bildern werden folgende Stile unterschieden:
 </table>
 
 
-##4.2 Infobild 
+## 4.2 Infobild 
 * Infobilder können statische Bilder, animated GIFs oder Videos sein.
     * Statische Bilder, animated GIFs und Videos werden grundsätzlich gleich behandelt.
 * Infobilder können optional eine Bildunterschrift und eine Copyright-Info unter dem Bild stehen haben.
@@ -113,13 +113,13 @@ Bei Bildern werden folgende Stile unterschieden:
 * Infobilder haben immer das Format 16:9
 * Infobilder haben keine Grossansicht
 
-##4.3 Lazyload 
+## 4.3 Lazyload 
 * Wenn viele Bilder auf einer Seite vorhanden sind, dann werden Bilder ausserhalb des Viewports lazyloaded.
 
-##4.4 Innerhalb eines Teasers
+## 4.4 Innerhalb eines Teasers
 * Bild muss bei Mouseover leicht reingezoomt werden.
 
-##4.5 Als Hintergrund (z.B. Karte)
+## 4.5 Als Hintergrund (z.B. Karte)
 * Beim Scrollen nach unten, wird das Bild eingezoomt, beim Scrollen nach oben wird es ausgezoomt.
 * Bild soll den ganzen Viewport des Contentbereichs bedecken.
 * Text und Interaktionselemente (Buttons) über dem Bild sind erlaubt.

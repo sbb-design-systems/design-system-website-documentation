@@ -36,5 +36,6 @@ Das Modul hat folgende Zustände:
 ### 4.6 Kontakt, Firma, Adresse, E-Mail und Telefon 
 ### 4.7 Rechnungs- und Lieferadresse identisch
 * [Radio-Buttons](WE21---Radiobutton_30824096.html) mit Auswahl identischer Lieferadresse
+
 ### 4.8 Rechnungs- und Lieferadresse abweichend 
 * [Radio-Buttons](WE21---Radiobutton_30824096.html) mit Auswahl abweichender Lieferadresse

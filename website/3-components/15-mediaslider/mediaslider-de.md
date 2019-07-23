@@ -1,4 +1,4 @@
-##1. Was macht das Modul?
+## 1. Was macht das Modul?
 * Dient zur Darstellung von 2 bis 6 Bildern/Videos in einer Auflistung.
 
 ## 2. Wann soll das Modul eingesetzt werden?
@@ -23,17 +23,17 @@ Das Modul hat folgende Zustände:
 ### 4.1 Standard
 (srcset: mediaslider_default extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect text: Default)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
 (srcset: mediaslider_text extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect text: Default)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.

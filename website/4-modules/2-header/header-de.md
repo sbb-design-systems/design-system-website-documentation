@@ -17,7 +17,7 @@ Die Komponente hat folgende Zustände:
 ### 4.1 Standard
 (srcset: header_default extension: png class: image)
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985465/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985466/inspect text: Collapsed)
 
@@ -27,7 +27,7 @@ Die Komponente hat folgende Zustände:
 * Die Hauptnavigation ist frei wählbar.
 * Nebst dem Login wird nur noch die Suche angezeigt.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985467/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985468/inspect text: Collapsed)
 
@@ -38,6 +38,6 @@ Die Komponente hat folgende Zustände:
 * Die Hauptnavigation ist frei wählbar.
 * Nebst dem Login wird nur noch die Suche angezeigt.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985469/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985470/inspect text: Collapsed)

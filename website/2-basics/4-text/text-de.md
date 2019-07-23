@@ -1,4 +1,4 @@
-##1. Schreibregeln
+## 1. Schreibregeln
 * Text muss von allen verstanden werden, egal welcher kultureller Herkunft, Sprache oder Bildungsniveau. Es sollen einfache, verständliche Texte (keine Spezialbegriffe) eingesetzt werden. (Barrierefreiheit)
 * Texte sollen kurz und knapp gehalten werden.
 * Texte sollen in aktiver und direkter Schreibweise formuliert werden.
@@ -7,25 +7,25 @@
 
 Weitere Details zu den Schreibregeln sind in den (link: https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html text: SBB Sprach- und Schreibregeln) ersichtlich.
 
-##2. Formatierung
-###2.1 Zahlen
+## 2. Formatierung
+### 2.1 Zahlen
 * Eins, zwei, drei, ... (bis zwölf) ausgeschrieben; 13, 14, ... als Ziffern, bspw. «zum zweiten Mal», «15. Lebensjahr»
 
-###2.2 Prozentangaben
+### 2.2 Prozentangaben
 * Ziffer gefolgt von '%' («30% Ermässigung»)
 
-###2.3 Altersangaben 
+### 2.3 Altersangaben 
 * Ziffern, nicht ausgeschrieben («15 Jahre alt»)
 
-###2.4 Preise
+### 2.4 Preise
 * Währung vor Preisangabe («Ab CHF 13.50», «CHF 95.00»)
 
-###2.5 Datum
+### 2.5 Datum
 * In Fliesstext wird das Datum immer ausgeschrieben, Tag ohne führende Null («Freitag, 2. Dezember 2019»).
 * Die Kurzform wird bei Auflistungen, Tabellen und Eingabefeldern verwendet. In diesem Anwendungsfall wird beim Tag und Monat eine führende Null eingesetzt. Das Jahr ist immer vierstellig darzustellen («Freitag, 02.09 2019»).
 * In verknapptem Text dürfen die Wochentage und Monate abgekürzt werden.
 
-####Abkürzungen Wochentage
+#### Abkürzungen Wochentage
 
 <table>
 		<tr>
@@ -46,7 +46,7 @@ Weitere Details zu den Schreibregeln sind in den (link: https://company.sbb.ch/d
 		</tr>
 	</table>
 
-####Abkürzungen Monate
+#### Abkürzungen Monate
 <table>
 		<tr>
 		<th>Deutsch</th>
@@ -68,11 +68,11 @@ Weitere Details zu den Schreibregeln sind in den (link: https://company.sbb.ch/d
 		</tr>
 	</table>
 
-###2.6 Dateigrössen
+### 2.6 Dateigrössen
 * Dateien  < 1 MB: in KB angeben («800 KB»)
 * Dateien  > 1 MB: in MB mit einer Kommastelle angeben («1.2 MB»)
 
-###2.7 Telefonnummern
+### 2.7 Telefonnummern
 * Telefonnummer Standard: +41 xx xxx xx xx
 * Telefonnummer mit Erreichbarkeit: +41 xx xxx xx xx zzgl. Erreichbarkeit in Klammern (z.B. täglich 24h)
 * Kostenlose Servicenummern: 0xxx xxx xx xx (kostenlos aus der Schweiz)

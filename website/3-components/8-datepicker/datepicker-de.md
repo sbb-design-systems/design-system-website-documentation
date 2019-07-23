@@ -1,10 +1,10 @@
-##1. Was macht das Element?
+## 1. Was macht das Element?
 * Dient zur Eingabe eines Datums.
 
-##2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll das Element eingesetzt werden?
 * Immer wenn vom Benutzer ein Datumswert verlangt wird.
 
-##3. Regeln
+## 3. Regeln
 * Datumsangaben sind immer einzeilig.
 * Die Datumswahl hat immer ein Label.
 * Optionale Datumseingaben werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
@@ -16,13 +16,13 @@
 * Im Kalender-Layer können einzelne Tage oder ganze Datumsbereiche deaktiviert werden.
 * Die Navigationspfeile im Kalender-Layer (Monat / Jahr) werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
-##4. Ausprägungen und Zustände 
+## 4. Ausprägungen und Zustände 
 Das Element hat folgende Zustände:
 * Default
 * Focused
 * Disabled
 
-###4.1 Standard
+### 4.1 Standard
 (srcset: datepicker_default extension: png class: image)
 * Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 * Ein Klick auf das Kalender-Icon öffnet den Kalender-Layer.
@@ -30,15 +30,15 @@ Das Element hat folgende Zustände:
         * Pfeiltasten: Wechseln des markierten Tages.
         * Leertaste / Enter: Auswahl des markierten Tages.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605628/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605629/inspect text: Focused)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605630/inspect text: Disabled)
 
-####Code Spezifikation
+#### Code Spezifikation
 * (link: https://sbb-angular.app.sbb.ch/latest/content/datepicker text: SBB Angular Components Library)
 
-###4.2 Mit Blätterfunktion
+### 4.2 Mit Blätterfunktion
 (srcset: datepicker_pageable extension: png class: image)
 * Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
@@ -47,34 +47,34 @@ Das Element hat folgende Zustände:
         * Pfeiltasten: Wechseln des markierten Tages.
         * Leertaste / Enter: Auswahl des markierten Tages.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605631/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605632/inspect text: Focused)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605633/inspect text: Disabled)
 
-####Code Spezifikation
+#### Code Spezifikation
 * (link: https://sbb-angular.app.sbb.ch/latest/content/datepicker text: SBB Angular Components Library)
 
-###4.3 Datumsbereich
+### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
 * Wird das Von-Datum mittels Kalender-Layer gewählt und das Bis-Datum ist noch nicht definiert, öffnet sich der Kalender-Layer des Bis-Feldes. Wurde bereits ein Bis-Datum gewählt, öffnet sich der Kalender-Layer nicht.
 * Wählt der Benutzer ein Von-Datum > Bis-Datum, wird das Bis-Datum gelöscht und dessen Kalender-Layer eingeblendet.
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 * Die gewählten Daten wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 
-###4.4 Geburtsdatum
+### 4.4 Geburtsdatum
 (srcset: datepicker_birthdate extension: png class: image)
 * Das Geburtsdatum wird im Format TT.MM.JJJJ dargestellt (Beispiel 02.09.1986).
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605634/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605635/inspect text: Focused)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605636/inspect text: Disabled)
 
-####Code Spezifikation
+#### Code Spezifikation
 * (link: https://sbb-angular.app.sbb.ch/latest/content/datepicker text: SBB Angular Components Library)
 
-###4.5 Kalender-Layer
+### 4.5 Kalender-Layer
 (srcset: datepicker_picker extension: png class: image)
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt
 defniert:
@@ -84,7 +84,7 @@ defniert:
 4.  Jahr vor
 5.  Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tageliegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605637/inspect text: Keine Auswahl)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605638/inspect text: Datum gewählt)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605639/inspect text: Datum mir Hover)
@@ -92,5 +92,5 @@ defniert:
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605641/inspect text: Datumsbereich innerhalb eines Monats)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327605642/inspect text: Datumsbereich über Monatsgrenze)
 
-####Code Spezifikation
+#### Code Spezifikation
 * (link: https://sbb-angular.app.sbb.ch/latest/content/datepicker text: SBB Angular Components Library)

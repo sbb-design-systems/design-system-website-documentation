@@ -23,17 +23,17 @@ Das Modul hat folgende Zustände:
 * No Result
 * Suggested
  
-###4.1 Standard
+### 4.1 Standard
 (srcset: searchfield_default extension: png class: image)
 * Die Anzahl der angezeigten Auto-Suggest Begriffe ist für jeden Anwendungsfall zu definieren.
 * Empfehlung maximal 10 Einträge.
 
-####Design Spezifikation
+#### Design Spezifikation
 *  (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622859/inspect text: Default)
 * (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622860/inspect text: No Result)
 * (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622861/inspect text: Suggested)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Im Header
@@ -51,12 +51,12 @@ Diese Ausprägung hat folgende Zustände:
 * Beim Auslösen der Suche werden die Resultate auf einer eigenen Seite dargestellt.
 * Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622862/inspect text: Default)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622863/inspect text: Hover)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622864/inspect text: Focused)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622865/inspect text: No Result)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622866/inspect text: Suggested)
 
-####Code Spezifikation
+#### Code Spezifikation
 In Bearbeitung.

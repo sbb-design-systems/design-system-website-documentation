@@ -28,7 +28,7 @@
     -   Optional interne Social Media Plattformen (z.B. Links zum SBB Blog (Bezeichnung «SBB Stories»)  und der SBB Community).
 -   Die letzte Spalte beinhaltet Links zu ausgewählten SBB-Inhalten. Diese sind je nach Kontext zu definieren.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985471/inspect text: Default)
 
 ### 4.2 Microsite mit einem Kontakt
@@ -36,14 +36,14 @@
 -   Der Bereich Kontakt hat genau eine Kontaktinformation.
 -   Die zweite Spalte enthält Microsite-spezifische Informationen.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985472/inspect text: Default)
 
 ### 4.3 Microsite mit mehreren Kontakten
 (srcset: footer_microsite_multi_contact extension: png class: image)
 -   Die zweite Spalte enthält Microsite-spezifische Informationen.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985473/inspect text: Default)
 
 ### 4.4 Microsite mit eigenem Logo
@@ -53,5 +53,5 @@
 -   Die zweite Spalte enthält Microsite-spezifische Informationen.
 -   Das SBB-Logo ist mit (link: http://sbb.ch text: sbb.ch) verlinkt.
 
-####Design Spezifikation
+#### Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326985474/inspect text: Default)
