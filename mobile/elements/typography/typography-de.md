@@ -7,6 +7,10 @@
 ## 3. Regeln
 *   Keine
 
+
+
+[create an anchor](#anchors-in-markdown)
+
 ## 4. Ausprägungen
 *   [4.1 Header](#header)
 *   [4.2 Headline](#headline)
@@ -19,7 +23,7 @@
 *   [4.9 Formular](#formular)
 
 
-### 4.1 Header {#header}
+### <a name="header"></a>4.1 Header
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Header.png 'class: image')
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166937/inspect)
 
