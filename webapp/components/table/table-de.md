@@ -39,6 +39,7 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat folgende Zustände:
 * Sorted
 * Unsorted
+
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
 
 
