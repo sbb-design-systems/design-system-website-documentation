@@ -1,0 +1,44 @@
+## 1. Was macht das Element?
+* Stellt Werte und Kategorien als kompakte Elemente dar.
+
+## 2. Wann soll das Element eingesetzt werden?
+* Wenn es in einem Formular möglich sein soll, zu einem Attribut mehrere Werte zu setzen.
+* Wenn nach Kategorien gefiltert werden soll.
+
+## 3. Regeln
+* Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
+* Der Begriff im Chip ist immer einzeilig (keine Zeilenumbrüche) und der Chip selber wächst in der Breite mit dem Text mit.
+* Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
+* Die Input-Chips werden in einem (link: webapps/components/textfiled text: Textfield) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
+
+## 4. Ausprägungen und Zustände
+Die Komponente hat folgende Zustände:
+* Active
+
+### 4.1 Input
+Diese Ausprägung hat zusätzlich folgende Zustände:
+* Disabled
+* Hover
+* On-Click/Dragged
+
+(srcset: chip_input extension: png class: image)
+
+* * Je nach Anwendungsfall können die Chips über "autocomplete"-Auswahlen oder mit Freitext generiert werden.
+
+#### 4.1.1 Vermassung
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect text: Active)
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect text: Disabled)
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect text: Hover)
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318414/inspect text: On-Click/Dragged)
+
+### 4.2 Filter
+Diese Ausprägung hat zusätzlich folgende Zustände:
+* Inactive
+
+(srcset: chip_filter extension: png class: image)
+
+* Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
+
+#### 4.2.1 Vermassung
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318415/inspect text: Active)
+* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318416/inspect text: Inactive)

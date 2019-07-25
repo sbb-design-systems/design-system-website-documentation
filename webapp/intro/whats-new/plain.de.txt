@@ -1,0 +1,29 @@
+Title: Was ist neu?
+
+----
+
+Subtitle: 
+
+----
+
+Hero: 
+
+----
+
+Class: 
+
+----
+
+Ux: 
+
+## Stand
+
+Das Design System Business Applikationen (DSBA) ist noch im Aufbau. Derzeit besteht es aus der UX-Dokumentation (Styleguide / Pattrenbeschriebe). Als Komponentenbibliothek kann zurzeit noch PrimeNG (Standard in ESTA Web) eingesetzt werden. Wir sind aktuell an einer Prüfung zur Verwendung der Angular Komponentenbibliothek (ACL) des (link: websites text: Design Systems Web) mit entsprechender Adaption der Komponentengrössen.
+
+## Updates
+* * *
+31.03.2019: Initialer Upload der Dokumentation. (FE)
+
+----
+
+Kommentare: 0
