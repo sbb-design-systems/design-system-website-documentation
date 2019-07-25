@@ -7,8 +7,6 @@
 ## 3. Regeln
 *   Keine
 
-
-
 [create an anchor](#anchors-in-markdown)
 
 ## 4. Ausprägungen
@@ -27,7 +25,7 @@
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Header.png 'class: image')
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166937/inspect)
 
-### 4.2 Headline {#headline}
+### <a name="headline"></a>4.2 Headline
 #### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Headline_Black.png 'class: image')
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166938/inspect)
@@ -36,7 +34,7 @@
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Headline_White.png 'class: image')
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166939/inspect)
 
-### 4.3 Title {#title}
+### <a name="title"></a>4.3 Title
 #### 4.3.1 Default
 ##### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Title_Default_Black.png 'class: image')
@@ -53,7 +51,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166951/inspect)
 
-### 4.4 Subtitle {#subtitle}
+### <a name="subtitle"></a>4.4 Subtitle
 #### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Subtitle_Black.png 'class: image')
 
@@ -64,7 +62,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166948/inspect)
 
-### 4.5 Copy {#copy}
+### <a name="copy"></a>4.5 Copy
 #### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Copy_Black.png 'class: image')
 
@@ -75,7 +73,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166910/inspect)
 
-### 4.6 Body {#body}
+### <a name="body"></a>4.6 Body
 #### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Body_Black.png 'class: image')
 
@@ -91,7 +89,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166908/inspect)
 
-### 4.7 Legend {#legend}
+### <a name="legend"></a>4.7 Legend
 #### 4.7.1 Normal
 ##### Black
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Legend_Normal_Black.png 'class: image')
@@ -118,7 +116,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166944/inspect)
 
-### 4.8 Link {#link}
+### <a name="link"></a>4.8 Link
 #### Default
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/typography/images/ME01_Link_Default.png 'class: image')
 
@@ -129,7 +127,7 @@
 
 [Vermassung](https://sbb.invisionapp.com/d/main#/console/14051805/313166946/inspect)
 
-### 4.9 Formular {#formular}
+### <a name="formular"></a>4.9 Formular
 
 #### 4.9.1 Button Primary
 ##### Default
