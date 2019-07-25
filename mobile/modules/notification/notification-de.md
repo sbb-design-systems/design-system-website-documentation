@@ -12,7 +12,7 @@
 
 ##4. Ausprägungen
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/4-notification/images/MM04.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/notification/images/MM04.png 'class: image')
 
 ####4.1.1 Vermassung
 [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943546/inspect)

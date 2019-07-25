@@ -17,9 +17,9 @@ Das Modul hat folgende Zustände:
 *   Second Level
 
 ###4.1 Menü mit Login
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/10-menu/images/MM10_login_first.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/menu/images/MM10_login_first.png 'class: image')
 
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/10-menu/images/MM10_login_second_level.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/menu/images/MM10_login_second_level.png 'class: image')
 
 *   Menü besteht aus dem [Profil](https://digital.sbb.ch/de/mobile/elemente/profil) und [Menüeinträgen](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
 *   Nach dem letzten Menüeintrag werden je nach Login-Zustand die Funktionen «Logout» rsp. «Login» und registrieren.
@@ -30,7 +30,7 @@ Das Modul hat folgende Zustände:
 [2. Level unggeschützt](https://sbb.invisionapp.com/d/main#/console/14051805/322943562/inspect)
 
 ###4.2 Menü ohne Login
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/10-menu/images/MM10_ohne_login.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/menu/images/MM10_ohne_login.png 'class: image')
 
 *   Menü besteht aus [Menüeinträgen](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
 ####4.2.1 Vermassung

@@ -14,7 +14,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/20-card/images/ME20_Standard.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
 
 
 #### 4.1.1 Vermassung

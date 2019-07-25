@@ -17,7 +17,7 @@ Das Element hat folgende Zustände:
 *   On-Swipe-to-right (optional)
 
 ### 4.1 Standard (nur Anzeige)
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/21-list-item/images/ME21_Standard.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Standard.png 'class: image')
 
 
 #### 4.1.1 Vermassung
@@ -27,7 +27,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167013/inspect)
 
 ### 4.2 Mit Icon
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/21-list-item/images/ME21_Icon.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Icon.png 'class: image')
 
 
 #### 4.2.1 Vermassung
@@ -37,7 +37,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167022/inspect)
 
 ### 4.3 Mit Funktion
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/21-list-item/images/ME21_Funktion.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Funktion.png 'class: image')
 
 
 #### 4.3.1 Vermassung
@@ -47,7 +47,7 @@ Das Element hat folgende Zustände:
 *   [On-Swipe-to-left](https://sbb.invisionapp.com/d/main#/console/14051805/313167018/inspect)
 
 ### 4.4 Mit Selektion
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/21-list-item/images/ME21_Selektion.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Selektion.png 'class: image')
 
 
 #### 4.4.1 Vermassung

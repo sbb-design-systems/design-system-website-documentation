@@ -18,7 +18,7 @@ Das Modul hat folgende Ausprägungen:
 *   Fullscreen
 
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/13-map/images/MM13_Karte.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/map/images/MM13_Karte.png 'class: image')
 
 ####4.1.1 Vermassung
 [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)
