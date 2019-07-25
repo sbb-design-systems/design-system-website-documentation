@@ -1,5 +1,3 @@
-# Design System für SBB Business Web-Applikationen.
-
 ## Was ist ein Design System?
 Ein Design System besteht aus einer Sammlung von Vorgaben, Regeln, Prinzipien für Design (Verhalten und visuelle Sprache) und Code.
 Dies sorgt für eine kohärente und konsistente Ordnung des User Interfaces innerhalb von Applikationen, Landing-Pages und kompletten Systemen.

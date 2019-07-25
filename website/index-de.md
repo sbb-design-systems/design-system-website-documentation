@@ -1,4 +1,3 @@
-# Design System Web
 ## Was ist ein Design System?
 Ein Design System besteht aus einer Sammlung von Vorgaben, Regeln, Prinzipien für Design (Verhalten und visuelle Sprache) und Code.
 
