@@ -25,7 +25,8 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-(srcset: dateinput_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect text: Default)
@@ -34,7 +35,7 @@ Die Komponente hat folgende Zustände:
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect text: Error)
 
 ### 4.2 Mit Blätterfunktion
-(srcset: dateinput_pageable extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
 #### 4.2.1 Vermassung
@@ -50,7 +51,7 @@ Die Komponente hat folgende Zustände:
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 
 ### 4.4 Geburtsdatum
-(srcset: dateinput_birthdate extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
 #### 4.4.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect text: Default)
@@ -60,7 +61,7 @@ Die Komponente hat folgende Zustände:
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect text: Error)
 
 ### 4.5 Kalender-Layer (Datepicker)
-(srcset: dateinput_picker extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 1. Monat zurück
 2. Monat vor

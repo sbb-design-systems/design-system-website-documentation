@@ -12,7 +12,7 @@ Das Modul hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-(srcset: header_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect text: Prod)
@@ -22,7 +22,7 @@ Das Modul hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect text: Edu)
 
 ### 4.2 Minimal
-(srcset: header_minimal extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
 
 #### 4.2.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect text: Default)

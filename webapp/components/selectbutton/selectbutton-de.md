@@ -13,14 +13,14 @@ Das Element hat folgende Zustände:
 * Inactive
 
 ### 4.1 Single 
-(srcset: we19_toggle_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/selectbutton/images/we19_toggle_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect text: First)
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849837/inspect text: Second)
    
 ### 4.2 Multiple
-(srcset: we19_toggle_icon extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/selectbutton/images/we19_toggle_icon.png 'class: image')
 
 #### 4.2.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect text: First)

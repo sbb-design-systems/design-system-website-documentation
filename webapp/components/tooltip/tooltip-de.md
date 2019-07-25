@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-(srcset: tooltip_above extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect text: Hidden)
@@ -29,7 +29,7 @@ Die Komponente hat folgende Zustände:
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect text: Visible)
 
 ### 4.2 Overlay unterhalb des Icons
-(srcset: tooltip_underneath extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### 4.2.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect text: Hidden)

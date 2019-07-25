@@ -14,13 +14,13 @@ Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-(srcset: fieldset_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect text: Default)
 
 ### 4.2 Verschachteltes Fieldset
-(srcset: fieldset_nested extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
 
 #### 4.2.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect text: Default)

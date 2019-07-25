@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded (optional)
 
-(srcset: contextmenu_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect text: Default)
@@ -35,7 +35,8 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-(srcset: contextmenu_icon extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_icon.png 'class: image')
+
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
 #### 4.2.1 Vermassung
@@ -48,7 +49,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-(srcset: contextmenu_sorting extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_sorting.png 'class: image')
 * Zur Anzeige der Sortierung wird das Pfeil-Icon verwendet.
 * Per Default wird absteigend (ascending) sortiert.
 * Beim Hover auf aktiv sortiertes Attribut wird das Pfeil-Icon gedreht.

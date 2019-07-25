@@ -24,7 +24,8 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-(srcset: radiobutton_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect text: Checked)

@@ -16,6 +16,7 @@ Die Komponente hat folgende Zustände:
 
 ### 4.1 Standard
 (srcset: breadcrumb_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect text: Default)

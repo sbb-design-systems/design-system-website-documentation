@@ -20,7 +20,8 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-(srcset: pagination_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect text: First)

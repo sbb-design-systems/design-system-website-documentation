@@ -17,7 +17,7 @@ Das Modul hat folgende Zustände:
 * Expanded Hover
 
 ### 4.1 Standard
-(srcset: mainnavigation_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/mainnavigation/images/mainnavigation_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318674/inspect text: Default)

@@ -16,25 +16,28 @@
 
 ## 4. Ausprägungen
 ### 4.1 Tiny
-_______(srcset: we12_loading_indicator_tiny extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_tiny.png 'class: image')
+
 
 #### 4.1.1 Vermassung
-_______*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect text: Default)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect text: Default)
 
 ### 4.2 Small
-_______(srcset: we12_loading_indicator_small extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_small.png 'class: image')
+
 
 #### 4.2.1 Vermassung
-_______*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect text: Default)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect text: Default)
 
 ### 4.3 Medium 
-_______(srcset: we12_loading_indicator_medium extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_medium.png 'class: image')
+
 
 #### 4.3.1 Vermassung
-_______*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect text: Default)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect text: Default)
 
 ### 4.4 Big
-_______(srcset: we12_loading_indicator_big extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_big.png 'class: image')
 
 #### 4.4.1 Vermassung
-_______*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect text: Default)
+*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect text: Default)

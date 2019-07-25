@@ -22,13 +22,15 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-(srcset: table_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect text: Default / Hover)
 
 ### 4.2 Gruppiert
-(srcset: table_grouped extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
+
 
 #### 4.2.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect text: Default / Hover)
@@ -37,7 +39,8 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat folgende Zustände:
 * Sorted
 * Unsorted
-(srcset: table_sortable extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
+
 
 #### 4.3.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect text: Default / Hover)

@@ -20,7 +20,8 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-(srcset: autocompletion_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 *  (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect text: Default)
@@ -28,6 +29,8 @@ Die Komponente hat folgende Zustände:
 
 ### 4.2 Mit statischen Einträgen
 (srcset: autocompletion_static extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_static.png 'class: image')
+
 
 #### 4.2.1 Vermassung
 *  (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect text: Default)

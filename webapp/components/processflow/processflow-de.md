@@ -15,7 +15,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-(srcset: processflow_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect text: Default)

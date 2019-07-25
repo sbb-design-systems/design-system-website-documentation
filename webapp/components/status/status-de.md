@@ -12,14 +12,14 @@ Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Bubble
-(srcset: status_bubble extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_bubble.png 'class: image')
 * Diese Ausprägung dient als platzsparende Variante, welche z.B. in einer Tabelle eingesetzt werden kann.
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355348242/inspect text: Default)
 
 ### 4.2 Extended 
-(srcset: status_extended extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_extended.png 'class: image')
 * Diese Ausprägung soll vor allem in der Detailansicht eines Objekts eingesetzt werden.
 
 #### 4.2.1 Vermassung

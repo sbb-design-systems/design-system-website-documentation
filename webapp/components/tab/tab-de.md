@@ -21,7 +21,8 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-(srcset: tab_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect text: Active)

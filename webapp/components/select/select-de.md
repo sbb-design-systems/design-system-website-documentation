@@ -24,7 +24,8 @@ Die Komponente hat folgende Zustände:
 - Expanded
 
 ### 4.1 Standard
-(srcset: select_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect text: Default)
@@ -36,7 +37,8 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect text: Active)
 
 ### 4.2 Mehrfachauswahl 
-(srcset: select_multi extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_multi.png 'class: image')
+
 
 #### 4.2.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect text: Collapsed)
@@ -44,13 +46,15 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect text: Expanded Autocomplete)
 
 ### 4.3 Gruppierte Einfachauswahl
-(srcset: select_grouped_single extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_single.png 'class: image')
+
 
 #### 4.3.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect text: Expanded)
 
 ### 4.4 Gruppierte Mehrfachauswahl
-(srcset: select_grouped_multi extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_multi.png 'class: image')
+
 
 #### 4.4.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect text: Expanded)

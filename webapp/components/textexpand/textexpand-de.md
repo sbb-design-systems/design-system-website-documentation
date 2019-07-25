@@ -19,7 +19,8 @@ Die Komponente hat folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-(srcset: textexpand_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textexpand/images/textexpand_default.png 'class: image')
+
 
 ####Design Spezifikation
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect text: Collapsed)

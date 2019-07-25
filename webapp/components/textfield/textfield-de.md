@@ -22,7 +22,7 @@ Das Element hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-(srcset: textfield_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318592/inspect text: Default)
@@ -32,7 +32,7 @@ Das Element hat folgende Zustände:
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect text: Error)
 
 ### 4.2 Passworteingabe
-(srcset: textfield_password extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_password.png 'class: image')
 * Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Hinted» zur Verfügung.
 
 #### 4.2.1 Vermassung

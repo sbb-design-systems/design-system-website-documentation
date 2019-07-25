@@ -9,7 +9,7 @@
 
 ## 3. Ausprägungen
 ### 3.1 Standard
-(srcset: logo_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/brand/images/logo_default.png 'class: image')
 
 #### 3.1.1 Vermassung
 (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318787/inspect text: Default)

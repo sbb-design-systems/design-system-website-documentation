@@ -22,7 +22,8 @@ Die Komponente hat die folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-(srcset: accordion_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 *   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect text: Collapsed)

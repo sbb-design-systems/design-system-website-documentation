@@ -17,7 +17,8 @@ Die Komponente hat folgende Zustände:
 * On-Click
 
 ## 4.1 Standard
-(srcset: link_copy extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
+
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect text: Default)
@@ -25,7 +26,7 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect text: On-Click)
 
 ## 4.2 Nach Formularelementen
-(srcset: link_form extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
 
 #### 4.2.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect text: Default)

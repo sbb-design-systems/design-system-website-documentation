@@ -23,7 +23,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-(srcset: button_primary extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary.png 'class: image')
 
 #### 4.1.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318382/inspect text: Default)
@@ -32,7 +32,7 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318385/inspect text: Disabled)
 
 ### 4.2 Alternative Primary Button
-(srcset: button_primary_alternative extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary_alternative.png 'class: image')
 
 #### 4.2.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355328674/inspect text: Default)
@@ -41,7 +41,7 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355328677/inspect text: Disabled)
 
 ### 4.3 Secondary Button
-(srcset: button_secondary extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_secondary.png 'class: image')
 
 #### 4.3.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318390/inspect text: Default)
@@ -50,7 +50,7 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318393/inspect text: Disabled)
 
 ### 4.4 Ghost Button
-(srcset: button_ghost extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_ghost.png 'class: image')
 
 #### 4.4.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318394/inspect text: Default)
@@ -59,7 +59,7 @@ Die Komponente hat folgende Zustände:
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318397/inspect text: Disabled)
 
 ### 4.5 Icon Button
-(srcset: button_icon extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_icon.png 'class: image')
 
 #### 4.5.1 Vermassung
 * (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318398/inspect text: Default)
