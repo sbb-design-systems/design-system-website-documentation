@@ -26,5 +26,5 @@ Die Komponente hat die folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect text: Expanded)
+*   [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect)
+*   [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect)

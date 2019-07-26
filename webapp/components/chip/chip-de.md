@@ -9,7 +9,7 @@
 * Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
 * Der Begriff im Chip ist immer einzeilig (keine Zeilenumbrüche) und der Chip selber wächst in der Breite mit dem Text mit.
 * Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
-* Die Input-Chips werden in einem (link: webapps/components/textfiled text: Textfield) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
+* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/webapps/components/textfiled) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
@@ -27,10 +27,10 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * * Je nach Anwendungsfall können die Chips über "autocomplete"-Auswahlen oder mit Freitext generiert werden.
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect text: Active)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect text: Disabled)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318414/inspect text: On-Click/Dragged)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
+* [On-Click/Dragged](https://sbb.invisionapp.com/d/main#/console/17140415/355318414/inspect)
 
 ### 4.2 Filter
 Diese Ausprägung hat zusätzlich folgende Zustände:
@@ -42,5 +42,5 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318415/inspect text: Active)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318416/inspect text: Inactive)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318415/inspect)
+* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318416/inspect)

@@ -11,7 +11,7 @@
 * Die Registerbezeichungen sind immer einzeilig.
 * Die Registerbezeichung sollte möglichst kurz und prägnant sein, damit die Themen schnell erfasst werden können.
 * Alle Register sollten gleich breit sein, auch wenn eine Bezeichnung nicht so lang ist.
-* Falls die Register für den Viewport zu lang sind, wird die Breite verkürzt und die Bezeichungen werden mit «...» abgeschnitten. Ein Hover über den Tab blendet den kompletten Namen in einem (link: webapps/components/tooltip text: Tooltip) ein.
+* Falls die Register für den Viewport zu lang sind, wird die Breite verkürzt und die Bezeichungen werden mit «...» abgeschnitten. Ein Hover über den Tab blendet den kompletten Namen in einem [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) ein.
 * Ein weiteres Tab-Modul innerhalb eines Registers (Tab-in-Tab) ist nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände 
@@ -25,6 +25,6 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect text: Active)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect text: Inactive)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect text: Hover)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)
+* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)

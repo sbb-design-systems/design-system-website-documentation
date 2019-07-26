@@ -20,8 +20,8 @@ Das Modul hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/mainnavigation/images/mainnavigation_default.png 'class: image')
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318674/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318675/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318676/inspect text: Active)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318677/inspect text: Expanded)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318678/inspect text: Expanded Hover)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318674/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318675/inspect)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318676/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318677/inspect)
+* [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318678/inspect)

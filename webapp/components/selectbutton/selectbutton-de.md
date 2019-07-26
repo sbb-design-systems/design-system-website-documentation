@@ -16,12 +16,12 @@ Das Element hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/selectbutton/images/we19_toggle_default.png 'class: image')
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect text: First)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849837/inspect text: Second)
+* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect)
+* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849837/inspect)
    
 ### 4.2 Multiple
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/selectbutton/images/we19_toggle_icon.png 'class: image')
 
 #### 4.2.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect text: First)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332849839/inspect text: Second)
+* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect)
+* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849839/inspect)

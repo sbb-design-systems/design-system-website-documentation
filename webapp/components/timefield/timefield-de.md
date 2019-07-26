@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318601/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318602/inspect text: Hinted)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318603/inspect text: Focused)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318604/inspect text: Disabled)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318601/inspect)
+* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318602/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318603/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318604/inspect)

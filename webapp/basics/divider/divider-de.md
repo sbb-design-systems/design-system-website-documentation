@@ -12,22 +12,24 @@
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_thin.png 'class: image')
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318783/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318783/inspect)
+
 
 ### 4.2 Small 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_small.png 'class: image')
 
 #### 4.2.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318784/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318784/inspect)
+
 
 ### 4.3 Medium
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_medium.png 'class: image')
 
 #### 4.3.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318785/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318785/inspect)
 
 ### 4.4 Big
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_big.png 'class: image')
 
 #### 4.4.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318786/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318786/inspect)

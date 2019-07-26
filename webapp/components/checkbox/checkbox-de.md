@@ -12,7 +12,7 @@
 * Der Text kann mehrzeilig sein.
 * Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Checkbox-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: webapps/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/webapps/components/tooltip).
 
 ## 4. Ausprägungen und Zustände 
 Die Komponente hat folgende Zustände:
@@ -31,12 +31,12 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect text: Checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318403/inspect text: Indeterminated)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318404/inspect text: Unchecked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318405/inspect text: Focused Checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318406/inspect text: Focused Indeterminated)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318407/inspect text: Focused Unchecked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318408/inspect text: Disabled Checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318409/inspect text: Disabled Indeterminated)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect text: Disabled Unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect)
+* [Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318403/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318404/inspect)
+* [Focused Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318405/inspect)
+* [Focused Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318406/inspect)
+* [Focused Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318407/inspect)
+* [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318408/inspect)
+* [Disabled Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318409/inspect)
+* [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect)

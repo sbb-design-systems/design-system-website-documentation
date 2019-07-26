@@ -5,7 +5,7 @@
 * Ein Header ist bei jeder Anwendung einzufügen.
 
 ## 3. Regeln
-* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, (link: webapps/modules/mainnavigation text: Hauptnavigation) (falls notwendig), Anzeige für Benachrichtigungen (optional), (link: webapps/components/usermenu text: Benutzermenü) und (link: webapps/basics/logo text: Logo).
+* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, [Hauptnavigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (falls notwendig), Anzeige für Benachrichtigungen (optional), [Benutzermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
 
 ## 4. Ausprägungen und Zustände 
 Das Modul hat folgende Zustände:
@@ -15,14 +15,14 @@ Das Modul hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect text: Prod)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318669/inspect text: Int)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318670/inspect text: Test)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318671/inspect text: Dev)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect text: Edu)
+* [Prod](https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect)
+* [Int](https://sbb.invisionapp.com/d/main#/console/17140415/355318669/inspect)
+* [Test](https://sbb.invisionapp.com/d/main#/console/17140415/355318670/inspect)
+* [Dev](https://sbb.invisionapp.com/d/main#/console/17140415/355318671/inspect)
+* [Edu](https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect)
 
 ### 4.2 Minimal
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect)

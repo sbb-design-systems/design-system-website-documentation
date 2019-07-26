@@ -18,16 +18,17 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect text: LoggedOut)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318618/inspect text: Expanded)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318619/inspect text: Hover)
+* [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318618/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318619/inspect)
+
 
 ### 4.2 Rollenauswahl
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect text: LoggedOut)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect text: Expanded)
+* [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)

@@ -7,7 +7,7 @@
 ## 3. Regeln
 * Eine visuelle Unterscheidung zwischen internen und externen Links gibt es nicht.
 * Hover und On-Click haben das gleiche visuelle Interaktionsverhalten.
-* Links können auf (link: webapps/basics/text text: Text) und (link: webapps/basics/icon text: Icons) gesetzt werden.
+* Links können auf [Text](https://digital.sbb.ch/de/webapps/basics/text) und [Icons](https://digital.sbb.ch/de/webapps/basics/icon) gesetzt werden.
 * Textlinks auf Teile von Wörtern sind nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände 
@@ -21,14 +21,14 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318461/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318461/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect)
 
 ## 4.2 Nach Formularelementen
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318464/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318465/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318464/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318465/inspect)

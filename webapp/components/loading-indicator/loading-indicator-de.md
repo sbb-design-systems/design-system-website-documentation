@@ -20,24 +20,26 @@
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect)
 
 ### 4.2 Small
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_small.png 'class: image')
 
 
 #### 4.2.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
 
 ### 4.3 Medium 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_medium.png 'class: image')
 
 
 #### 4.3.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
+
+
 
 ### 4.4 Big
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_big.png 'class: image')
 
 #### 4.4.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect text: Default)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)

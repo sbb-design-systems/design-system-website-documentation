@@ -7,7 +7,7 @@
 ## 3. Regeln
 * Datumsangaben sind immer einzeilig.
 * Die Datumswahl hat immer ein Label.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: webapps/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 * Mit Klick ins Datumsfeld kann das Datum von Hand eingetragen werden.
 * Bei der manuellen Eingabe muss der Punkt immer vom Benutzer eingegeben werden. Danach übernimmt das Element die korrekte Formatierung, d.h. es müssen Eingaben wie 1.1.18 akzeptiert und ins gewünschte Format umgesetzt werden. In diesem Fall würde der 1. Januar 2018 ausgewählt.
 * Bei Klick auf das Kalender-Icon öffnet sich ein Kalender-Layer zur Auswahl des Datums. Mittels Klick ausserhalb des Kalender-Layers wird dieser wieder geschlossen.
@@ -29,20 +29,21 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect text: Disabled)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect text: Error)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
+
 
 ### 4.2 Mit Blätterfunktion
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
 #### 4.2.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect text: Disabled)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect text: Error)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
 
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
@@ -54,11 +55,12 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
 #### 4.4.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect text: Hinted)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect text: Disabled)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect text: Error)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
+* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
+
 
 ### 4.5 Kalender-Layer (Datepicker)
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
@@ -70,9 +72,10 @@ Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 5. Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tage liegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
 
 #### 4.5.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect text: Keine Auswahl)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect text: Datum gewählt)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect text: Datum mir Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect text: Auswahleinschränkungen)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect text: Datumsbereich innerhalb eines Monats)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect text: Datumsbereich über Monatsgrenze)
+* [Keine Auswahl](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
+* [Datum gewählt](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
+* [Datum mir Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
+* [Auswahleinschränkungen](https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect)
+* [Datumsbereich innerhalb eines Monats](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
+* [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
+

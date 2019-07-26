@@ -12,7 +12,7 @@
 * Der Text kann mehrzeilig sein.
 * Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: webapps/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
@@ -28,9 +28,9 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect text: Checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect text: Unchecked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect text: Focused checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318556/inspect text: Focused unchecked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect text: Disabled checked)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect)
+* [Focused checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect)
+* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318556/inspect)
+* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)

@@ -4,7 +4,7 @@
 * Es soll in Gegenwartsform geschrieben werden.
 * Begriffen in verschiedenen Anwendungsfällen muss immer die gleiche Bedeutung zugewiesen werden.
 
-Weitere Details zu den Schreibregeln sind in den (link: https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html text: SBB Sprach- und Schreibregeln) ersichtlich.
+Weitere Details zu den Schreibregeln sind in den [Sprach- und Schreibregeln](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html) ersichtlich.
 
 ## 2. Formatierung
 ### 2.1 Zahlen

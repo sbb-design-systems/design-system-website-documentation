@@ -21,5 +21,5 @@ Das Modul hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect text: Default)
-* Glass: (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318667/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect)
+* Glass: [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318667/inspect)

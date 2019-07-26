@@ -16,11 +16,11 @@ Die Komponente hat folgende Zustände:
 * Diese Ausprägung dient als platzsparende Variante, welche z.B. in einer Tabelle eingesetzt werden kann.
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355348242/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355348242/inspect)
 
 ### 4.2 Extended 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_extended.png 'class: image')
 * Diese Ausprägung soll vor allem in der Detailansicht eines Objekts eingesetzt werden.
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355348243/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355348243/inspect)

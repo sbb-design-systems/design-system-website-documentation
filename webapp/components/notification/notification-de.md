@@ -20,28 +20,27 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect  text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect)
 
 ### 4.2 Hinweis
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_information.png 'class: image')
 
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect)
 
 ### 4.3 Warnung 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_warning.png 'class: image')
 
-
 #### 4.3.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect)
 
 ### 4.4 Fehler 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_error.png 'class: image')
 
 
 #### 4.4.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect)
 
 ### 4.5 Fehler mit Sprungmarke 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_link.png 'class: image')
@@ -52,4 +51,4 @@ Die Komponente hat folgende Zustände:
 * Das Sprungmarkenziel ist immer auf derselben Seite wie die Notification (kein Absprung auf andere Seiten).
 
 #### 4.5.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318547/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318547/inspect)

@@ -24,7 +24,8 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect text: First)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318549/inspect text: Middle)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318550/inspect text: Last)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318552/inspect text: Hover)
+* [First](https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect)
+* [Middle](https://sbb.invisionapp.com/d/main#/console/17140415/355318549/inspect)
+* [Last](https://sbb.invisionapp.com/d/main#/console/17140415/355318550/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318552/inspect)
+

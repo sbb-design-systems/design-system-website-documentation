@@ -3,13 +3,13 @@
 
 ## 2. Wann wird das Element eingesetzt?
 * Bei einer Auswahl aus mehreren Optionen (Einfach- oder Mehrfachauswahl) einer Liste.
-* Wenn eine Auswahl getroffen werden muss, bei der sich die Einträge gegenseitig ausschliessen und kein Defaultwert gesetzt werden soll (anders als beim Element (link: webapps/components/radiobutton text: Radiobutton).
+* Wenn eine Auswahl getroffen werden muss, bei der sich die Einträge gegenseitig ausschliessen und kein Defaultwert gesetzt werden soll (anders als beim Element [Radiobutton](https://digital.sbb.ch/de/webapps/components/radiobutton).
 * Wenn Auswahloptionen gruppiert werden sollen.
 
 ## 3. Regeln
 * Es müssen mindestens zwei Optionen zur Auswahl stehen.
 * Das Element hat immer ein Label.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: webapps/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 * Der Text im Select-Element ist immer einzeilig.
 * Ist ein Eintrag länger als die verfügbare Breite des Elements, wird der Text des Eintrages mit «...» abgekürzt.
 * Bei einem Pflichtfeld ist eine Vorauswahl nicht erlaubt.
@@ -28,34 +28,35 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347616/inspect text: Focused)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347617/inspect text: Disabled)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347618/inspect text: Error)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347619/inspect text: Expanded)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347620/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect text: Active)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355347616/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355347617/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355347618/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347619/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355347620/inspect)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect)
 
 ### 4.2 Mehrfachauswahl 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_multi.png 'class: image')
 
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect text: Collapsed)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347623/inspect text: Expanded)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect text: Expanded Autocomplete)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347623/inspect)
+* [Expanded Autocomplete](https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect)
 
 ### 4.3 Gruppierte Einfachauswahl
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_single.png 'class: image')
 
 
 #### 4.3.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect text: Expanded)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
+
 
 ### 4.4 Gruppierte Mehrfachauswahl
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_multi.png 'class: image')
 
 
 #### 4.4.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect text: Expanded)
-*  (link: https://sbb.invisionapp.com/d/main#/console/17140415/371074670/inspect text: Expanded Tree Checkbox)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect)
+* [Expanded Tree Checkbox](https://sbb.invisionapp.com/d/main#/console/17140415/371074670/inspect)

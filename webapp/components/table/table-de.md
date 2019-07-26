@@ -26,14 +26,16 @@ Die Komponente hat folgende Zustände:
 
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect text: Default / Hover)
+* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
+
 
 ### 4.2 Gruppiert
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
 
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect text: Default / Hover)
+* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
+
 
 ### 4.3 Sortierbar
 Diese Ausprägung hat folgende Zustände:
@@ -44,4 +46,4 @@ Diese Ausprägung hat folgende Zustände:
 
 
 #### 4.3.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect text: Default / Hover)
+* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)

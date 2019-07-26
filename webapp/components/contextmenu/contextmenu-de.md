@@ -24,9 +24,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
 
 #### 4.1.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318418/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect text: Expanded)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318418/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
 
 ### 4.2 Icon
 Diese Ausprägung hat zusätzlich folgende Zustände:
@@ -40,9 +40,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
 #### 4.2.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect text: Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect text: Expanded Hover)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
+* [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
 
 ### 4.3 Sorting
 Diese Ausprägung hat zusätzlich folgende Zustände:
@@ -56,5 +56,5 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Der ganze Menueintrag (Name und Icon) ist klickbar.
 
 #### 4.3.1 Vermassung
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/369105601/inspect text: Expanded Hover)
-* (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect text: Expanded Active)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/369105601/inspect)
+* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)

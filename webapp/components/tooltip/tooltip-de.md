@@ -7,7 +7,7 @@
 ## 3. Regeln
 * Der Tooltip besteht aus einem Icon und dem Overlay. Das Info-Icon ist Standard und kann bei Bedarf durch ein anderes Icon ersetzt werden.
 * Das Overlay öffnet sich bei Klick auf das Icon.
-* Im Overlay dürfen nur Freitext und (link: webapps/components/link text: Links) eingesetzt werden. Der Text darf auch als Liste dargestellt werden.
+* Im Overlay dürfen nur Freitext und [Links](https://digital.sbb.ch/de/webapps/components/link) eingesetzt werden. Der Text darf auch als Liste dargestellt werden.
 * Der Tooltip-Text darf maximal 300 Zeichen umfassen.
 * Das Overlay enthält ein 'X'-Icon zum schliessen des Overlays.
 * Das Overlay kann auch wieder ausgeblendet werden, indem irgendwo neben das Overlay geklickt wird.
@@ -24,14 +24,17 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### 4.1.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect text: Hidden)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect text: Visible)
+* [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
+* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect)
+
 
 ### 4.2 Overlay unterhalb des Icons
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### 4.2.1 Vermassung
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect text: Hidden)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect text: Visible)
+* [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
+* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect)
+
+
