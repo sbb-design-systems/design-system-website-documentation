@@ -28,10 +28,10 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect) 
-*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect) 
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect) 
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect) 
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
@@ -40,10 +40,10 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect) 
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896022/inspect) 
-*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896023/inspect) 
-*   [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect) 
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896022/inspect) 
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896023/inspect) 
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
@@ -52,9 +52,9 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect) 
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896026/inspect) 
-*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect) 
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896026/inspect) 
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
@@ -63,9 +63,9 @@ Die Komponente hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect) 
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896029/inspect) 
-*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect) 
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896029/inspect) 
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)

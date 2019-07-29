@@ -14,7 +14,7 @@
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_default.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
@@ -23,7 +23,7 @@
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_nested.png 'class: image') 
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect) 
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect) 
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
