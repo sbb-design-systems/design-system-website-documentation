@@ -20,7 +20,7 @@ Das Element hat folgende Zustände:
 *   Error
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/15-textarea/images/ME15_Default.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/textarea/images/ME15_Default.png 'class: image')
 
 
 #### 4.1.1 Vermassung

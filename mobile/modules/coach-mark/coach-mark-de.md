@@ -9,7 +9,7 @@
 
 ##4. Ausprägungen
 ##4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/15-coach-mark/images/MM15.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/coach-mark/images/MM15.png 'class: image')
 
 ####4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322946078/inspect)

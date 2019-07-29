@@ -29,9 +29,9 @@ Das Element hat folgende Ausprägungen:
 *   horizontal ausgerichtet
 
 ### 4.1 Vertikale Anordnung
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/13-checkbox/images/ME13_Vertikal_default.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_default.png 'class: image')
 
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/13-checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
 
 #### 4.1.1 Vermassung
@@ -41,7 +41,7 @@ Das Element hat folgende Ausprägungen:
 *   [Disabled (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166982/inspect)
 
 ### 4.2 Horizontale Anordnung
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/13-checkbox/images/ME13_Horizontal.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Horizontal.png 'class: image')
 
 
 #### 4.2.1 Vermassung

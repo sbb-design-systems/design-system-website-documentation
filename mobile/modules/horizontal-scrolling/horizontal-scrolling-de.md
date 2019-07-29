@@ -17,7 +17,7 @@ Das Modul hat folgende Zustände:
 *   Last
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/8-horizontal-scrolling/images/MM08.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
 ####4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)

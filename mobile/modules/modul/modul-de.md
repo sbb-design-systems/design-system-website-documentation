@@ -16,8 +16,8 @@
 
 ##4. Ausprägungen
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/18-modul/images/MM18_Single.png 'class: image')
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/18-modul/images/MM18_Pagination.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_Single.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_Pagination.png 'class: image')
 * Die Pagination wird am unteren Ende des Moduls platziert.
 * Wenn nur eine Card angezeigt wird, wird die Pagination ausgeblendet
 
@@ -31,12 +31,12 @@ Das Modul hat folgende Zustände
 [Pagination open](https://sbb.invisionapp.com/d/main#/console/14051805/322943595/inspect)
 
 ###4.2 Ohne Kontext Menü
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/18-modul/images/MM18_ohne_Header.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_ohne_Header.png 'class: image')
 
 ####4.1.1 Vermassung
 [Ohne Kontext Menü](https://sbb.invisionapp.com/d/main#/console/14051805/322943593/inspect)
 ###4.3 Platzsparender Titel
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/18-modul/images/MM18_Platzsparender_Titel.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_Platzsparender_Titel.png 'class: image')
 
 * Kann eingesetzt werden wenn kein Kontext-Menü nötig ist und der Inhalt selbsterklärend ist (und somit der Titel etwas weniger stark gewichtet werden kann).
 ####4.1.1 Vermassung

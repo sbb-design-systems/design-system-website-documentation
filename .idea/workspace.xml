@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="11762986-f79f-4ad3-b827-0e1f6ebd9bd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/website/backlog/contact-bloc/contact-bloc-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/backlog/contact/contact-bloc-de.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website/backlog/portrait/portrait-de.md" beforeDir="false" />
@@ -46,23 +47,186 @@
       <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_picto@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_picto@3x.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+=======
+    <list default="true" id="df1005c6-c9eb-42f6-8ce2-e46f31d5eb7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/webapp/basics/brand/brand-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/basics/brand/brand-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/basics/divider/divider-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/basics/divider/divider-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/basics/icon/icon-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/basics/icon/icon-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/basics/text/text-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/basics/text/text-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/basics/typography/typography-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/basics/typography/typography-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/accordion/accordion-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/accordion/accordion-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/autocompletion/autocompletion-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/autocompletion/autocompletion-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/breadcrumb/breadcrumb-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/breadcrumb/breadcrumb-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/button/button-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/button/button-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/checkbox/checkbox-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/checkbox/checkbox-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/chip/chip-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/chip/chip-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/contextmenu/contextmenu-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/contextmenu/contextmenu-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/datepicker/datepicker-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/datepicker/datepicker-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/fieldset/fieldset-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/fieldset/fieldset-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/fileselector/fileselector-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/fileselector/fileselector-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/link/link-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/link/link-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/loading-indicator/loading-indicator-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/loading-indicator/loading-indicator-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/notification/notification-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/notification/notification-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/pagination/pagination-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/pagination/pagination-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/processflow/processflow-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/processflow/processflow-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/quantity-indicator/quantity-indicator-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/quantity-indicator/quantity-indicator-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/radiobutton/radiobutton-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/radiobutton/radiobutton-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/select/select-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/select/select-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/selectbutton/selectbutton-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/selectbutton/selectbutton-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/status/status-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/status/status-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/tab/tab-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/tab/tab-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/table/table-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/table/table-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/textarea/textarea-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/textarea/textarea-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/textexpand/textexpand-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/textexpand/textexpand-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/textfield/textfield-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/textfield/textfield-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/timefield/timefield-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/timefield/timefield-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/tooltip/tooltip-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/tooltip/tooltip-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/components/usermenu/usermenu-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/components/usermenu/usermenu-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/intro/feedback/feedback-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/intro/feedback/feedback-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/intro/whats-new/whats-new-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/intro/whats-new/whats-new-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/modules/dialog/dialog-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/modules/dialog/dialog-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/modules/header/header-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/modules/header/header-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/modules/mainnavigation/mainnavigation-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/modules/mainnavigation/mainnavigation-de.md" afterDir="false" />
+    </list>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+=======
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/website/components/_dummy">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
                 <caret line="4" selection-start-line="3" selection-end-line="4" />
+=======
+        <entry file="file://$PROJECT_DIR$/webapp/components/textexpand/textexpand-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="375">
+                <caret line="25" column="22" selection-start-line="25" selection-end-line="26" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/components/textfield/textfield-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="615">
+                <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="81" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/components/timefield/timefield-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="23" column="23" selection-start-line="23" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/components/tooltip/tooltip-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="525">
+                <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/components/usermenu/usermenu-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="465">
+                <caret line="31" column="16" selection-start-line="31" selection-end-line="32" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/modules/dialog/dialog-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="83" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/modules/filter/filter-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/modules/header/header-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="405">
+                <caret line="27" column="28" selection-start-line="27" selection-end-line="27" selection-end-column="83" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/modules/mainnavigation/mainnavigation-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="83" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,11 +234,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md">
+        <entry file="file://$PROJECT_DIR$/webapp/modules/search-form/search-form-de.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <first_editor relative-caret-position="570">
+                <caret line="38" column="36" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="36" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
               </first_editor>
               <second_editor />
             </state>
@@ -85,11 +250,25 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
       <find>text: Design)</find>
     </findStrings>
     <replaceStrings>
       <replace>)</replace>
     </replaceStrings>
+=======
+      <find>mdsd/master</find>
+      <find>mdsd/master/</find>
+      <find>1-typography</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sbb-design-system/master/mobile/</replace>
+      <replace>typography</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,6 +276,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/website/3-components/4-button/button-de.md" />
         <option value="$PROJECT_DIR$/website/2-basics/1-typography/typography-de.md" />
         <option value="$PROJECT_DIR$/website/basics/text/text-de.md" />
@@ -129,17 +309,92 @@
     <option name="y" value="35" />
     <option name="width" value="2496" />
     <option name="height" value="1389" />
+=======
+        <option value="$PROJECT_DIR$/mobile/modules/modal/modal-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/modul/modul-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/notification/notification-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/onboarding/onboarding-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/pagination/pagination-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/process-flow/process-flow-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/radio-group/radio-group-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/toast/toast-de.md" />
+        <option value="$PROJECT_DIR$/mobile/modules/tooltip/tooltip-de.md" />
+        <option value="$PROJECT_DIR$/mobile/page-types/form/form-de.md" />
+        <option value="$PROJECT_DIR$/mobile/page-types/settings/settings-de.md" />
+        <option value="$PROJECT_DIR$/mobile/page-types/splash-screen/splash-screen-de.md" />
+        <option value="$PROJECT_DIR$/mobile/page-types/startpage/startpage-de.md" />
+        <option value="$PROJECT_DIR$/mobile/elements/typography/typography-de.md" />
+        <option value="$PROJECT_DIR$/webapp/modules/dialog/documentation-de.md" />
+        <option value="$PROJECT_DIR$/webapp/modules/search-form/search-form-de.md" />
+        <option value="$PROJECT_DIR$/webapp/basics/brand/brand-de.md" />
+        <option value="$PROJECT_DIR$/webapp/basics/divider/divider-de.md" />
+        <option value="$PROJECT_DIR$/webapp/basics/text/text-de.md" />
+        <option value="$PROJECT_DIR$/webapp/basics/typography/typography-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/accordion/accordion-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/autocompletion/autocompletion-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/breadcrumb/breadcrumb-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/button/button-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/checkbox/checkbox-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/chip/chip-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/contextmenu/contextmenu-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/datepicker/datepicker-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/fieldset/fieldset-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/fileselector/fileselector-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/link/link-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/loading-indicator/loading-indicator-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/notification/notification-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/pagination/pagination-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/processflow/processflow-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/quantity-indicator/quantity-indicator-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/radiobutton/radiobutton-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/select/select-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/selectbutton/selectbutton-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/status/status-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/tab/tab-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/table/table-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/textarea/textarea-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/textexpand/textexpand-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/textfield/textfield-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/timefield/timefield-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/tooltip/tooltip-de.md" />
+        <option value="$PROJECT_DIR$/webapp/components/usermenu/usermenu-de.md" />
+        <option value="$PROJECT_DIR$/webapp/modules/dialog/dialog-de.md" />
+        <option value="$PROJECT_DIR$/webapp/modules/header/header-de.md" />
+        <option value="$PROJECT_DIR$/webapp/modules/mainnavigation/mainnavigation-de.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/doku-web.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-38" />
+    <option name="y" value="23" />
+    <option name="width" value="1718" />
+    <option name="height" value="977" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -212,21 +467,222 @@
               <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="loading-indicator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="pagination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="processflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="quantity-indicator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="radiobutton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="select" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="selectbutton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="tab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="textarea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="textexpand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="textfield" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="timefield" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="tooltip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="usermenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="mainnavigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doku-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doku-web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="search-form" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,11 +696,54 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="11762986-f79f-4ad3-b827-0e1f6ebd9bd7" name="Default Changelist" comment="" />
       <created>1563883966028</created>
       <option name="number" value="Default" />
@@ -256,10 +755,20 @@
       <workItem from="1563959158353" duration="3183000" />
       <workItem from="1564147143854" duration="154000" />
       <workItem from="1564386561856" duration="8853000" />
+=======
+      <changelist id="df1005c6-c9eb-42f6-8ce2-e46f31d5eb7e" name="Default Changelist" comment="" />
+      <created>1564050457930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564050457930</updated>
+      <workItem from="1564050459914" duration="1194000" />
+      <workItem from="1564054415071" duration="12030000" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="14957000" />
   </component>
   <component name="ToolWindowManager">
@@ -267,6 +776,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13939634" />
+=======
+    <option name="totallyTimeSpent" value="13224000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-38" y="23" width="1718" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16408114" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,8 +803,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+=======
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -301,6 +823,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/3-components/4-button/button-de.md" />
     <entry file="file://$PROJECT_DIR$/website/1-intro/1-whats-new/whats-new-de.md" />
     <entry file="file://$PROJECT_DIR$/website/1-intro/2-how-does-it-work/how-does-it-work-de.md" />
@@ -309,99 +832,184 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/modules/pagination/pagination-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/modules/process-flow/process-flow-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/autocompletion/autocompletion-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="450">
             <caret line="30" selection-start-line="30" selection-end-line="30" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/modules/radio-group/radio-group-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="97" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/divider/divider-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
             <caret line="21" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/modules/toast/toast-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/icon/icon-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
             <caret line="1" selection-start-line="1" selection-end-line="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/modules/tooltip/tooltip-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/images/images-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-689">
             <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/page-types/form/form-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/typography/typography-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1185">
             <caret line="126" selection-start-line="126" selection-end-line="126" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/page-types/settings/settings-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="100" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/text/text-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="7" column="171" selection-start-line="7" selection-start-column="171" selection-end-line="7" selection-end-column="171" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/page-types/splash-screen/splash-screen-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="100" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/accordion/accordion-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="465">
             <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/page-types/startpage/startpage-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="100" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/breadcrumb/breadcrumb-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/elements/typography/typography-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-562">
+            <caret line="129" column="39" selection-start-line="129" selection-start-column="39" selection-end-line="129" selection-end-column="39" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/fieldset/fieldset-de.md">
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/intro/how-does-it-work/how-does-it-work-de.md">
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -409,16 +1017,25 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/captcha/captcha-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
             <caret line="17" selection-start-line="17" selection-end-line="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/mobile/elements/brand/brand-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/basics/brand/dummy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -431,266 +1048,609 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="300">
             <caret line="20" column="83" lean-forward="true" selection-start-line="4" selection-end-line="20" selection-end-column="83" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/modules/dialog/documentation-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="74" selection-start-line="19" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/basics/brand/brand-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="81" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/button/button-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="555">
             <caret line="37" selection-start-line="36" selection-end-line="37" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/basics/divider/divider-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/checkbox/checkbox-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="825">
             <caret line="55" selection-start-line="55" selection-end-line="55" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/basics/icon/icon-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/basics/text/text-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="168" selection-start-line="6" selection-start-column="168" selection-end-line="6" selection-end-column="168" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/checkboxpanel/checkboxpanel-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="705">
             <caret line="47" selection-start-line="47" selection-end-line="47" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/basics/typography/typography-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/datepicker/datepicker-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1395">
             <caret line="93" selection-start-line="93" selection-end-line="93" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/accordion/accordion-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="28" selection-start-line="28" selection-end-line="29" selection-end-column="86" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/fileselector/fileselector-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
             <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/autocompletion/autocompletion-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="85" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/usermenu/usermenu-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/breadcrumb/breadcrumb-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="85" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/tooltip/tooltip-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/button/button-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="700">
+            <caret line="64" column="72" selection-start-line="64" selection-end-line="65" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/toggle/toggle-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/checkbox/checkbox-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="234" selection-start-line="14" selection-start-column="174" selection-end-line="14" selection-end-column="234" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/timefield/timefield-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/chip/chip-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="660">
+            <caret line="44" column="2" lean-forward="true" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="82" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/textfield/textfield-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/contextmenu/contextmenu-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="730">
+            <caret line="58" selection-start-line="58" selection-end-line="58" selection-end-column="81" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/textexpand/extexpand-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/datepicker/datepicker-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="640">
+            <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-end-line="75" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/textarea/textarea-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/fieldset/fieldset-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="83" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/tag/tag-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/fileselector/fileselector-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="84" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/table/table-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/link/link-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" selection-start-line="31" selection-end-line="33" selection-end-column="84" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/tab/tab-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/loading-indicator/loading-indicator-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/select/select-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/notification/notification-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="745">
+            <caret line="53" column="43" selection-start-line="53" selection-end-line="54" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/searchfield/searchfield-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/pagination/pagination-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="16" selection-start-line="29" selection-end-line="30" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/radiobuttonpanel/radiobuttonpanel-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/processflow/processflow-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="81" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/radiobutton/radiobutton-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/quantity-indicator/quantity-indicator-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="83" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/processflow/processflow-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/radiobutton/radiobutton-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/pagination/pagination-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/select/select-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="730">
+            <caret line="60" selection-start-line="60" selection-end-line="60" selection-end-column="84" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/mediagallery/mediagallery-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/selectbutton/selectbutton-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" selection-start-line="25" selection-end-line="26" selection-end-column="82" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/mediaslider/mediaslider-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/status/status-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-end-line="26" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/nbc/nbc-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/tab/tab-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-end-line="28" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/notification/notification-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/table/table-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="48" column="58" lean-forward="true" selection-start-line="48" selection-end-line="49" />
+          </first_editor>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/ghettobox/ghettobox-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="495">
             <caret line="33" selection-start-line="33" selection-end-line="33" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/textarea/textarea-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="29" selection-start-line="26" selection-end-line="27" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/lightbox/lightbox-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="405">
             <caret line="27" selection-start-line="27" selection-end-line="27" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/textexpand/textexpand-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="22" selection-start-line="25" selection-end-line="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/components/textfield/textfield-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="81" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/link/link-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1140">
             <caret line="76" selection-start-line="76" selection-end-line="76" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/timefield/timefield-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="23" selection-start-line="23" selection-end-line="24" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/_dummy">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" selection-start-line="3" selection-end-line="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/tooltip/tooltip-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
             <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+    <entry file="file://$PROJECT_DIR$/webapp/components/usermenu/usermenu-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="16" selection-start-line="31" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/modules/dialog/dialog-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/modules/filter/filter-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/modules/header/header-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="28" selection-start-line="27" selection-end-line="27" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/modules/mainnavigation/mainnavigation-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/modules/search-form/search-form-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="570">
+            <caret line="38" column="36" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="36" />
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           </first_editor>
           <second_editor />
         </state>
@@ -699,6 +1659,7 @@
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -757,6 +1718,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+=======
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+>>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
           <splitter-proportions>
             <option name="proportions">
               <list>

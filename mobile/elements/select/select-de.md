@@ -23,7 +23,7 @@ Das Element hat folgende Zustände:
 *   Expanded
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/16-select/images/ME16_Default.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/select/images/ME16_Default.png 'class: image')
 
 
 #### 4.1.1 Vermassung

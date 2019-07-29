@@ -13,7 +13,7 @@
 
 ##4. Ausprägungen
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/5-toast/images/MM05.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/toast/images/MM05.png 'class: image')
 
 ####4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)

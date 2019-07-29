@@ -15,13 +15,13 @@ Das Modul hat folgende Zustände:
 *   Ohne Info
 
 ###4.1 mit Info 
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/19-form-group/images/MM19_mit_Info.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_mit_Info.png 'class: image')
 
 ####4.1.1 Vermassung
 [Mit Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
 
 ###4.2 ohne Info
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/19-form-group/images/MM19_ohne_Info.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_ohne_Info.png 'class: image')
 
 ####4.2.1 Vermassung
 [Ohne Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)

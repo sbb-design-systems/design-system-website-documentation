@@ -20,7 +20,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/modules/3-modal/images/MM03.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modal/images/MM03.png 'class: image')
 
 #### 4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)

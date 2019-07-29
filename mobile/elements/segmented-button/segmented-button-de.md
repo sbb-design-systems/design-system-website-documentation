@@ -15,7 +15,7 @@ Das Element hat folgende Zustände:
 *   Unchecked
 
 ### 4.1 Segmented Button
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/11-segmented-button/images/ME11_Text.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Text.png 'class: image')
 
 *   Der Text ist immer einzeilig.
 
@@ -23,7 +23,7 @@ Das Element hat folgende Zustände:
 *   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
 
 ### 4.2 Segmented Icon Button
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/11-segmented-button/images/ME11_Icon.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Icon.png 'class: image')
 
 
 #### 4.2.1 Vermassung

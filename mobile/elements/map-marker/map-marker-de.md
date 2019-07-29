@@ -16,7 +16,7 @@ Das Element hat folgende Zustände:
 *   Schwarz
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/mdsd/master/elements/23-map-marker/images/ME23_Standard.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
 
 
 #### 4.2.1 Vermassung
