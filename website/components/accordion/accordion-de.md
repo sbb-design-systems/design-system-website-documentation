@@ -22,11 +22,11 @@ Das Modul hat die folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-(srcset: accordion_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/accordion/images/accordion_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332819509/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/332819510/inspect text: Expanded)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/332819509/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/332819510/inspect)
 
 #### Code Spezifikation
-*   (link: https://sbb-angular.app.sbb.ch/latest/content/accordion text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/accordion)

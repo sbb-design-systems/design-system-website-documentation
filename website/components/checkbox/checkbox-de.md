@@ -14,7 +14,7 @@
 * Der Text kann mehrzeilig sein.
 * Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Checkbox-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: websites/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
 
 ## 4. Ausprägungen und Zustände 
 Das Element hat folgende Zustände:
@@ -26,33 +26,33 @@ Das Element hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-(srcset: checkbox_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724165/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724166/inspect text: Unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724167/inspect text: Focused checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724168/inspect text: Focused unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724169/inspect text: Disabled checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724170/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724165/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724166/inspect)
+* [Focused checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724167/inspect)
+* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724168/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724169/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724170/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
 ### 4.2 Vertikale Checkbox-Gruppe 
-(srcset: checkbox_vertical extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
 ### 4.3 Horizontale Checkbox-Gruppe
-(srcset: checkbox_horizontal extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)

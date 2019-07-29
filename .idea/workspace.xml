@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11762986-f79f-4ad3-b827-0e1f6ebd9bd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/website/backlog/contact-bloc/contact-bloc-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/backlog/contact/contact-bloc-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/backlog/portrait/portrait-de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/basics/brand/brand-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/basics/brand/brand-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/basics/divider/divider-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/basics/divider/divider-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/basics/icon/icon-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/basics/icon/icon-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/basics/images/images-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/basics/images/images-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/basics/typography/typography-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/basics/typography/typography-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/accordion/accordion-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/accordion/accordion-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/autocompletion/autocompletion-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/autocompletion/autocompletion-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/breadcrumb/breadcrumb-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/breadcrumb/breadcrumb-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/button/button-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/button/button-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/captcha/captcha-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/captcha/captcha-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/checkbox/checkbox-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/checkbox/checkbox-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/checkboxpanel/checkboxpanel-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/checkboxpanel/checkboxpanel-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/datepicker/datepicker-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/datepicker/datepicker-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/fileselector/fileselector-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/fileselector/fileselector-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/ghettobox/ghettobox-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/ghettobox/ghettobox-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/lightbox/lightbox-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/lightbox/lightbox-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/link/link-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/link/link-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_big.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_big.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_big@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_big@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_big@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_big@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_medium.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_medium.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_medium@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_medium@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_medium@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_medium@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_small@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_small@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_small@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_small@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_tiny.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_tiny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_tiny@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_tiny@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/images/loadingindicator_tiny@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/images/loadingindicator_tiny@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/loading-indicator/loading-indicator-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/adiobutton-panel-de.md" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/radiobuttonpanel-de.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_default.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_default@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_default@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_default@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_default@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_infotext.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_infotext@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_infotext@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_infotext@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_infotext@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_picto.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_picto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_picto@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_picto@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/components/radiobutton-panel/images/radiobuttonpanel_picto@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/components/radiobuttonpanel/images/radiobuttonpanel_picto@3x.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/components/_dummy">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" selection-start-line="3" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>text: Design)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/website/3-components/4-button/button-de.md" />
+        <option value="$PROJECT_DIR$/website/2-basics/1-typography/typography-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/text/text-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/images/images-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/icon/icon-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/divider/divider-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/typography/typography-de.md" />
+        <option value="$PROJECT_DIR$/website/components/captcha/captcha-de.md" />
+        <option value="$PROJECT_DIR$/website/components/autocompletion/autocompletion-de.md" />
+        <option value="$PROJECT_DIR$/website/components/accordion/accordion-de.md" />
+        <option value="$PROJECT_DIR$/website/components/breadcrumb/breadcrumb-de.md" />
+        <option value="$PROJECT_DIR$/website/components/button/button-de.md" />
+        <option value="$PROJECT_DIR$/website/basics/brand/dummy" />
+        <option value="$PROJECT_DIR$/website/basics/brand/brand-de.md" />
+        <option value="$PROJECT_DIR$/website/components/checkbox/checkbox-de.md" />
+        <option value="$PROJECT_DIR$/website/components/checkboxpanel/checkboxpanel-de.md" />
+        <option value="$PROJECT_DIR$/website/components/datepicker/datepicker-de.md" />
+        <option value="$PROJECT_DIR$/website/components/_dummy" />
+        <option value="$PROJECT_DIR$/website/components/fileselector/fileselector-de.md" />
+        <option value="$PROJECT_DIR$/website/components/ghettobox/ghettobox-de.md" />
+        <option value="$PROJECT_DIR$/website/components/lightbox/lightbox-de.md" />
+        <option value="$PROJECT_DIR$/website/components/link/link-de.md" />
+        <option value="$PROJECT_DIR$/website/components/loading-indicator/loading-indicator-de.md" />
+        <option value="$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="35" />
+    <option name="y" value="35" />
+    <option name="width" value="2496" />
+    <option name="height" value="1389" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="backlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="lightbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="link" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="loadingindicator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="loadingindicator" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbb-design-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbb-design-system" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11762986-f79f-4ad3-b827-0e1f6ebd9bd7" name="Default Changelist" comment="" />
+      <created>1563883966028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563883966028</updated>
+      <workItem from="1563883969333" duration="1403000" />
+      <workItem from="1563887772490" duration="236000" />
+      <workItem from="1563888551735" duration="1128000" />
+      <workItem from="1563959158353" duration="3183000" />
+      <workItem from="1564147143854" duration="154000" />
+      <workItem from="1564386561856" duration="8853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14957000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13939634" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/website/3-components/4-button/button-de.md" />
+    <entry file="file://$PROJECT_DIR$/website/1-intro/1-whats-new/whats-new-de.md" />
+    <entry file="file://$PROJECT_DIR$/website/1-intro/2-how-does-it-work/how-does-it-work-de.md" />
+    <entry file="file://$PROJECT_DIR$/website/2-basics/1-typography/typography-de.md" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/autocompletion/autocompletion-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/divider/divider-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/icon/icon-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/images/images-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-689">
+            <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/typography/typography-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1185">
+            <caret line="126" selection-start-line="126" selection-end-line="126" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/text/text-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="7" column="171" selection-start-line="7" selection-start-column="171" selection-end-line="7" selection-end-column="171" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/accordion/accordion-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/breadcrumb/breadcrumb-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/fieldset/fieldset-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/captcha/captcha-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/brand/dummy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/basics/brand/brand-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="83" lean-forward="true" selection-start-line="4" selection-end-line="20" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/button/button-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="555">
+            <caret line="37" selection-start-line="36" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/checkbox/checkbox-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="825">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/checkboxpanel/checkboxpanel-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="705">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/datepicker/datepicker-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1395">
+            <caret line="93" selection-start-line="93" selection-end-line="93" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/fileselector/fileselector-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/usermenu/usermenu-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/tooltip/tooltip-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/toggle/toggle-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/timefield/timefield-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/textfield/textfield-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/textexpand/extexpand-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/textarea/textarea-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/tag/tag-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/table/table-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/tab/tab-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/select/select-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/searchfield/searchfield-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/radiobuttonpanel/radiobuttonpanel-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/radiobutton/radiobutton-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/processflow/processflow-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/pagination/pagination-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/mediagallery/mediagallery-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/mediaslider/mediaslider-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/nbc/nbc-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/notification/notification-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/ghettobox/ghettobox-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/lightbox/lightbox-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/link/link-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1140">
+            <caret line="76" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/_dummy">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" selection-start-line="3" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/components/loadingindicator/loadingindicator-de.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

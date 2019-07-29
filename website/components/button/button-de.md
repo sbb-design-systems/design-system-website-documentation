@@ -10,7 +10,7 @@
 * Darf nicht innerhalb von Fliesstext eingesetzt werden.
 * Darf nicht im (link: websites/modules/header text: Header) als Navigation oder Funktion eingesetzt werden.
 * Die Mindestbreite beträgt 60px, die Maximalbreite 400px.
-* Die Breite wächst mit der Textlänge. Beim Einsatz im (link: websites/components/nbc text: Next Best Click (NBC)) oder in mobilen Ansichten ist die Breite 100%.
+* Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
 * Ist der Text beim Erreichen der Maximallänge immer noch zu lang, wird dieser mit «\...» abgekürzt.
 * Der Text ist immer einzeilig.
 * In Ausnahmefällen darf das Pfeil-Icon durch ein anderes, passendes Icon ersetzt werden.
@@ -25,47 +25,47 @@ Das Element hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/3-components/4-button/images/button_primary.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image') 
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect text: On-Click)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect text: Disabled)
+*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect) 
+*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect) 
+*   [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.2 Secondary Button
-(srcset: button_secondary extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896022/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896023/inspect text: On-Click)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect text: Disabled)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect) 
+*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896022/inspect) 
+*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896023/inspect) 
+*   [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.3 Ghost Button
-(srcset: button_ghost extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896026/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect text: On-Click)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect) 
+*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896026/inspect) 
+*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.4 Frameless Button
-(srcset: button_frameless extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896029/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect text: On-Click)
+*   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect) 
+*   [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896029/inspect) 
+*   [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)

@@ -2,7 +2,7 @@
 * Dient zur Darstellung von Detailinformationen einer Content-Seite.
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Wenn zu einem Teil einer Seite on-demand detailliertere oder zusätzliche Informationen angezeigt werden soll (beispielsweise erweiterte Hilfestellungen, bei denen der Tooltip nicht ausreicht).
+* Wenn zu einem Teil einer Seite on-demand detailliertere oder zusätzliche Informationen angezeigt werden soll (beispielsweise erweiterte Hilfestellungen, bei denen der [Tooltip](https://digital.sbb.ch/de/components/tooltip) nicht ausreicht).
 * Zur Darstellung des Editiermodus bei Formularen.
 * Zur vergrösserten Ansicht von Bildern.
 
@@ -15,16 +15,16 @@
 
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
-(srcset: lightbox_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344969031/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344969031/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/lightbox text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
 
 ### 4.2 Mit Formularkomponenten
-(srcset: lightbox_form extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_form.png 'class: image') 
 * Eine Lightbox mit Formularelementen erhält mindestens einen «Abbrechen» und einen «Übernehmen» Button.
 * Der «Abbrechen» Button schliesst die Lightbox wieder.
 * Wird die Lightbox geschlossen («Abbrechen» oder X-Button) während bereits Eingaben im Formular geändert wurden, erscheint ein Warnhinweis das ungesicherte Daten im Formular sind.
@@ -32,7 +32,7 @@
 * Der Footer ist immer sticky und wird über die ganze Breite der Lightbox dargestellt (gleich wie Header).
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344969032/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344969032/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/lightbox text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)

@@ -14,11 +14,11 @@ Das Element hat folgende Zustände:
 * Unchecked
 
 ### 4.1 Standard
-(srcset: captcha_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/captcha/images/captcha_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327768739/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect text: Unchecked)
+*   [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327768739/inspect) 
+*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect) 
 
 #### Code Spezifikation
-*   (link: https://sbb-angular.app.sbb.ch/latest/content/captcha text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/captcha)

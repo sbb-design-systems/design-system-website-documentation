@@ -9,25 +9,25 @@
 
 ## 4. Ausprägungen
 ### 4.1 Thin
-(srcset: divider_thin extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/divider/images/divider_thin.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327003615/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327003615/inspect)
 
 ### 4.2 Small 
-(srcset: divider_small extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/divider/images/divider_small.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327003616/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327003616/inspect)
 
 ### 4.3 Medium
-(srcset: divider_medium extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/divider/images/divider_medium.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327003617/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327003617/inspect)
 
 ### 4.4 Big
-(srcset: divider_big extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/divider/images/divider_big.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327003618/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327003618/inspect)

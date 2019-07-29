@@ -2,12 +2,12 @@
 * Links stellen Verbindungen zwischen Informationen, bzw. Seiten her.
 
 ## 2. Wann soll das Element eingesetzt werden?
-* Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine (link: websites/components/lightbox text: Lightbox) gesprungen werden muss.
+* Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/components/lightbox) gesprungen werden muss.
 
 ## 3. Regeln
 * Eine visuelle Unterscheidung zwischen internen und externen Links gibt es nicht.
 * Hover und On-Click haben das gleiche visuelle Interaktionsverhalten.
-* Links können auf (link: websites/basics/text text: Texte), (link: websites/basics/icon text: Icon) und (link: websites/basics/images text: Bilder) gesetzt werden.
+* Links können auf [Texte](https://digital.sbb.ch/de/basics/text), [Icons](https://digital.sbb.ch/de/basics/icon) und [Bilder](https://digital.sbb.ch/de/basics/images) gesetzt werden.
 * Textlinks auf Teile von Wörtern sind nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände 
@@ -17,68 +17,68 @@ Das Element hat folgende Zustände:
 * On-Click
 
 ## 4.1 Standard
-(srcset: link_copy extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_copy.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073493/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073494/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073495/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073493/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073494/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073495/inspect)
 
 #### Code Spezifikation
-Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Bereich (link: webapps/grundlagen/typografie text: Typografie) definiert.
-* (link:https://sbb-angular.app.sbb.ch/latest/typography text: SBB Angular Component Library)
+Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Bereich [Typografie](https://digital.sbb.ch/de/basics/typography) definiert.
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ## 4.2 Lead Link 
-(srcset: link_lead extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_lead.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073496/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073497/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073498/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073496/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073497/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073498/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/links text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.3 Nach Textabschnitten (Paragraph)
-(srcset: link_paragraph extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_paragraph.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073499/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073500/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073501/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073499/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073500/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073501/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/links text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.4 Nach Formularelementen
-(srcset: link_form extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_form.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073502/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073503/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073504/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073502/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073503/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073504/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/links text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.5 In Menüs
-(srcset: link_menu extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_menu.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073505/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073506/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073507/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073505/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073506/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073507/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/links text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.6 Socialmedia
-(srcset: link_icon extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_icon.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073508/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073509/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327073510/inspect text: On-Click)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073508/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073509/inspect)
+* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073510/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/links text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)

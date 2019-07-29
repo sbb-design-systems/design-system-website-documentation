@@ -1,5 +1,5 @@
 ## 1. Verwendung
-Icons dienen zur visuellen Unterstützung von Themen und Aktionen. Für die Verwendung in SBB-Anwendungen sind die Icons im SBB-Stil einzusetzen. Details dazu und ein Set an bereits verfügbaren Icons sind (link: icons-und-piktogramme/sbb-icons text: hier) zu finden.
+Icons dienen zur visuellen Unterstützung von Themen und Aktionen. Für die Verwendung in SBB-Anwendungen sind die Icons im SBB-Stil einzusetzen. Details dazu und ein Set an bereits verfügbaren Icons sind [hier](https://digital.sbb.ch/de/icons-und-piktogramme/sbb-icons) zu finden.
 
 ## 2. Regeln
 *   Innerhalb von Fliesstexten soll wenn immer möglich auf die Verwendung von Icons verzichtet werden.

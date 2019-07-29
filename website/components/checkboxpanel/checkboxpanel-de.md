@@ -20,37 +20,37 @@ Das Modul hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-(srcset: checkboxpanel_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024578/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024579/inspect text: Unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761207/inspect text: Disabled checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761208/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024578/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024579/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761207/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761208/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
 
 ### 4.2 Mit Infotext
-(srcset: checkboxpanel_infotext extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024580/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024581/inspect text: Unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761209/inspect text: Disabled checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761210/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024580/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024581/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761209/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761210/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
 
 ### 4.3 Mit Piktogramm / Logo
-(srcset: checkboxpanel_picto extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024582/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/333024583/inspect text: Unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761211/inspect text: Disabled checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/360761212/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024582/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024583/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761211/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761212/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
