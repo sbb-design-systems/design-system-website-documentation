@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/sbb-design-system.iml" filepath="$PROJECT_DIR$/sbb-design-system.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/doku-web.iml" filepath="$PROJECT_DIR$/.idea/doku-web.iml" />
->>>>>>> 1a60c2b5329330ebdaf7b0828580bd52d26cf4bf
+      <module fileurl="file://$PROJECT_DIR$/.idea/sbb-design-system.iml" filepath="$PROJECT_DIR$/.idea/sbb-design-system.iml" />
     </modules>
   </component>
 </project>

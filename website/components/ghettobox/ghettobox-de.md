@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Anzeige von seitenübergreifenden Meldungen.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei Hinweisen und Störungen welche eine ganze Applikation betreffen.
 
 ## 3. Regeln

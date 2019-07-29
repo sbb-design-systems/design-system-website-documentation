@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Dient zur Eingabe eines Datums.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Immer wenn vom Benutzer ein Datumswert verlangt wird.
 
 ## 3. Regeln
@@ -17,7 +17,7 @@
 * Die Navigationspfeile im Kalender-Layer (Monat / Jahr) werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
 ## 4. Ausprägungen und Zustände 
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Focused
 * Disabled

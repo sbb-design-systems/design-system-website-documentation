@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zu Darstellung von sieben und mehr Bildern / Videos in einer Auflistung.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei einer Auflistung von mehreren Bildern/Videos.
 
 ## 3. Regeln 
@@ -21,26 +21,26 @@
 * Bei Touch-Devices kann durch Swipen das nächste/vorhergehende Element angezeigt werden.
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Detail
 
 ### 4.1 Standard
-(srcset: mediagallery_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_default.png 'class: image') 
 
 ####Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074098/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074099/inspect text: Details)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074098/inspect)
+* [Details](https://sbb.invisionapp.com/d/main#/console/15744722/345074099/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
-(srcset: mediagallery_text extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_text.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074100/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345074101/inspect text: Details)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074100/inspect)
+* [Details](https://sbb.invisionapp.com/d/main#/console/15744722/345074101/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.

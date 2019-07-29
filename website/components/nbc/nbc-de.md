@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Stellt unterschiedliche Informationen und Funktionen zur Verfügung.
 
-## 2. Wann soll das Modul eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Zur Ergänzung von Inhaltsseiten.
 
 ## 3. Regeln
@@ -15,53 +15,53 @@
 Der Next Best Click Container hat keine Viewport übergreifenden Zustände, da sie sich unterschiedlich verhalten. Des Weiteren haben die einzelnen Ausprägungen zusätzlich unterschiedliche Varianten.
 
 ### 4.1 Aktion
-(srcset: nbc_action extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_action.png 'class: image') 
 
 ####Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616913/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616914/inspect text: Double)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616915/inspect text: Collapsed)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616913/inspect)
+* [Double](https://sbb.invisionapp.com/d/main#/console/15744722/345616914/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616915/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Kontakt
-(srcset: nbc_contact extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_contact.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616916/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616917/inspect text: Collapsed)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616916/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616917/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.3 Link
-(srcset: nbc_link extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_link.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616918/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616919/inspect text: Collapsed)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616918/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616919/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.4 Download
-(srcset: nbc_download extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_download.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616920/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616921/inspect text: App)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616922/inspect text: Collapsed)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616920/inspect)
+* [App](https://sbb.invisionapp.com/d/main#/console/15744722/345616921/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616922/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.5 Chat
-(srcset: nbc_chat extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_chat.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616923/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345616924/inspect text: Collapsed)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616923/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616924/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
@@ -76,14 +76,14 @@ In Bearbeitung.
 * Die NBC-Box bleibt solange sticky, bis der User am Ende der Content-Area angelangt ist. Scrollt der User weiter nach unten werden die Boxen mit dem Content nach oben weggescrolled.
 * Scrollt der User danach wieder nach oben, erscheint auch die NBC-Box wieder und bleibt wieder sticky.
 
-(srcset: nbc_behaviour_desktop_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_default.png 'class: image') 
 
 #### Sonderfall NBC-Box innerhalb eines Accordion
-* Bei der Anwendung einer NBC-Box innerhalb eines (link: websites/components/accordion text: Accordion) wird diese nie minimiert.
+* Bei der Anwendung einer NBC-Box innerhalb eines [Accordion](https://digital.sbb.ch/de/components/accordion) wird diese nie minimiert.
 * Es darf nur eine NBC-Box in einem Accordion eingesetzt werden.
 * Beim Scrollen bleibt die NBC-Box sticky am oberen Rand bis zum Ende der Content-Area des Accordions, dannach wird die Box mit dem Content weitergescrollt.
 
-(srcset: nbc_behaviour_desktop_accordion extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_accordion.png 'class: image') 
 
 ### 5.2 Tablet
 * Alle Next-Best-Click Optionen sind jederzeit über das sticky Element rechts unten verfügbar.
@@ -93,7 +93,7 @@ In Bearbeitung.
 * Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
 * Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder.
 
-(srcset: nbc_behaviour_tablet extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_tablet.png 'class: image') 
 
 ### 5.3 Mobile
 * Alle Next-Best-Click Optionen sind jederzeit über das Sticky-Element rechts unten aufrufbar.
@@ -104,4 +104,4 @@ In Bearbeitung.
 * Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
 * Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder
 
-(srcset: nbc_behaviour_mobile extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_mobile.png 'class: image') 

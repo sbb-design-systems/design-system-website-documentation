@@ -1,7 +1,7 @@
-## 1. Was macht das Element? 
+## 1. Was macht die Komponente?
 * Unterstützt den Benutzer bei der Eingabe mit Vorschlägen.
 
-## 2. Wann soll das Element eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn ein Eingabefeld viele vordefinierte Werte aufweisen kann.
 * Als Hilfe zur Vorschau bei Suchresultaten/-feldern.
 
@@ -15,7 +15,7 @@
 * Bei der Auswahl eines Elementes schliesst sich die Autocompletion-Auswahl.
 
 ## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Hover
 

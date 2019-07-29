@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Dient zur Eingabe einer Uhrzeit.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Immer wenn vom Benutzer eine Uhrzeit verlangt wird.
 
 ## 3. Regeln 
@@ -10,20 +10,20 @@
 * Bei Touch-Geräten erscheint die Zahlen-Eingabetastatur des entsprechenden Systems.
 
 ## 4. Ausprägungen und Zustände 
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Hinted
 * Focused
 * Disabled
 
 ### 4.1 Standard
-(srcset: timefield_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/timefield/images/timefield_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327611017/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/335006454/inspect text: Hinted)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327611018/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327611019/inspect text: Disabled)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327611017/inspect)
+* [Hinted](https://sbb.invisionapp.com/d/main#/console/15744722/335006454/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327611018/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327611019/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/develop/content/time-input text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/time-input)

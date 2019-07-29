@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Dient zur Eingabe von Ja/Nein-Werten.
 
-## 2. Wann soll das Element eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Auswählen einer Option.
 * Beim Auswählen mehrerer zueinander unabhängigen Optionen.
 
@@ -17,7 +17,7 @@
 * Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
 
 ## 4. Ausprägungen und Zustände 
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Checked
 * Unchecked
 * Focused checked

@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Stellt eine Abfrage um sicherzustellen, dass eine Webseite mit einen realen Benutzer interagiert.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei Formularen welche ohne Login zugänglich sind.
 
 ## 3. Regeln
@@ -9,7 +9,7 @@
 * Beim Formularen, bei welchen der Benutzer eingeloggt ist, darf kein Captcha verwendet werden.
 
 ## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Checked
 * Unchecked
 

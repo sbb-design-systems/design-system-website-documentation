@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Darstellung von Detailinformationen einer Content-Seite.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn zu einem Teil einer Seite on-demand detailliertere oder zusätzliche Informationen angezeigt werden soll (beispielsweise erweiterte Hilfestellungen, bei denen der [Tooltip](https://digital.sbb.ch/de/components/tooltip) nicht ausreicht).
 * Zur Darstellung des Editiermodus bei Formularen.
 * Zur vergrösserten Ansicht von Bildern.

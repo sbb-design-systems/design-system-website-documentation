@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Anzeige der Navigationshierarchie der aktuellen Seite.
 
-## 2. Wann soll das Modul eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Auf jeder Seite, bei denen der Benutzer schnell auf eine Schwester-oder Eltern-Seite navigieren können soll.
 
 ## 3. Regeln
@@ -12,7 +12,7 @@
 * Falls die horizontale Breite des Viewports auf Mobile nicht ausreicht um alle Ebenen anzuzeigen, wird der Breadcrumb-Content scollbar.
 
 ## 4. Ausprägungen und Zustände 
-Dieses Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Hover
 

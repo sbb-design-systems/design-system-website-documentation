@@ -1,7 +1,7 @@
-## 1. Was macht dieses Element?
+## 1. Was macht die Komponente?
 -   Strukturierte Darstellung von Daten.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 -   Einsatz bei der Darstellung von Daten, nicht zur Strukturierung von
     Content.
 -   Tabellen sollen so aufgebaut werden, dass diese beim Hinzufügen von
@@ -21,28 +21,28 @@
 
 ## 4. Ausprägungen 
 ### 4.1 Einfach
-(srcset: table_simple extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_simple.png 'class: image') 
 
 #### Design Spezifikation
-*  (link: https://sbb.invisionapp.com/d/main#/console/15744722/345267417/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267417/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/table text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
 
 ### 4.2 Gruppiert
-(srcset: table_grouped extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_grouped.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345267418/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267418/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/table text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
 
 ### 4.3 Titel - Wert
-(srcset: table_key_value extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_key_value.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345267419/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267419/inspect)
 
 #### ode Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/table text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)

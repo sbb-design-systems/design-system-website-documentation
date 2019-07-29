@@ -1,13 +1,13 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Dient zur Eingabe von Texten und Zahlen.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn vom Benutzer eine Eingabe benötigt. wird.
 
 ## 3. Regeln 
 * Ein Eingabefeld hat immer ein Label.
 * Optionale Eingaben werden mit dem Text «(optional)» hinter dem Label-Text versehen. Bei kurzen Feldern darf der Text «(optional)» mit «(opt.)» abgekürzt werden.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: websites/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
 * Der Eingabetext ist immer einzeilig.
 * Wird der Text während der Eingabe länger als die Breite des Eingabefeldes wird der geschriebene Text nach links verdrängt, damit das aktuell Geschriebene immer gesehen wird.
 * Nach dem Verlassen des Eingabefeldes mit einem langen Text wird dieser am Ende abgeschnitten und mit «\...» gekennzeichnet.
@@ -19,7 +19,7 @@
 * Kann der Benutzer ein Formularfeld nie bearbeiten, so darf kein Eingabefeld verwendet werden (Darstellung als Text).
 
 ## 4. Ausprägungen und Zustände 
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Hinted
 * Focused
@@ -27,27 +27,27 @@ Das Element hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-(srcset: textfield_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textfield/images/textfield_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021294/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021295/inspect text: Hinted)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021296/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021297/inspect text: Disabled)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021298/inspect text: Error)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327021294/inspect)
+* [Hinted](https://sbb.invisionapp.com/d/main#/console/15744722/327021295/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327021296/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327021297/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021298/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/develop/content/field text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
 
 ### 4.2 Passworteingabe
-(srcset: textfield_password extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textfield/images/textfield_password.png 'class: image') 
 * Das Eingabefeld in der Ausprägung "Passwort" stellt keinen Zustand "Hinted" zur Verfügung.
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021299/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021300/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021301/inspect text: Disabled)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327021302/inspect text: Error)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327021299/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327021300/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327021301/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021302/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/develop/content/field text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)

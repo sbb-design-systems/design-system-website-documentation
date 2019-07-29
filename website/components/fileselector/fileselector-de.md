@@ -1,7 +1,7 @@
-## 1. Was macht das Modul? 
+## 1. Was macht die Komponente?
 * Dient zum Hochladen von Dateien.
 
-## 2. Wann soll das Modul eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
 
 ## 3. Regeln 
@@ -13,7 +13,7 @@
 * Der Datei-Upload hat über dem [Button](https://digital.sbb.ch/de/components/button) immer einen Hinweis, welche Dateitypen und -grössen hochgeladen werden können.
 
 ## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Disabled
 

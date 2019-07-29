@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Strukturierung von Content in unterschiedliche Unter-Gruppen.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn innerhalb des Content klare Untergruppen erstellt werden können.
 * Wenn die Untergruppen für den Benutzer zusätzliche Informationen zum Hauptinhalt bietet.
 * Hauptnutzinhalt des Contents sollte nicht in ein Akkordeon verpackt werden.
@@ -17,7 +17,7 @@
 * Ein Akkordeon-Modul innerhalb eines Akkordeon-Eintrags ist nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat die folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Collapsed
 * Expanded
 

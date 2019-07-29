@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Bietet dem Benutzer eine Auswahl aus mehreren Optionen an.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei Listen mit zwei oder mehr Auswahlmöglichkeiten, bei denen der Benutzer mehrere oder keine auswählen kann.
 * Bei Auswahlmöglichkeiten, welche mehrere Informationen beinhalten.
 
@@ -13,7 +13,7 @@
 * Keine Auswahl ist erlaubt.
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Checked
 * Unchecked
 * Disabled checked

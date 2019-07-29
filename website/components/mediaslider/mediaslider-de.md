@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Darstellung von 2 bis 6 Bildern/Videos in einer Auflistung.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei einer Auflistung von mehreren Bildern/Videos.
 
 ## 3. Regeln 
@@ -17,23 +17,23 @@
 * Das letzte und erste Element können verbunden werden (Karussell-Funktion).
 
 ## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-(srcset: mediaslider_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
-(srcset: mediaslider_text extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_text.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect)
 
 #### Code Spezifikation
 In Bearbeitung.

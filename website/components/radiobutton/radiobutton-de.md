@@ -1,7 +1,7 @@
-## 1. Was macht das Element? 
+## 1. Was macht die Komponente?
 * Dient zur Auswahl genau einer Option aus mehreren.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
 
 ## 3. Regeln
@@ -13,10 +13,10 @@
 * Der Text kann mehrzeilig sein.
 * Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein (link: websites/components/tooltip text: Tooltip).
+* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
 
 ## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Checked
 * Unchecked
 * Focused checked
@@ -25,33 +25,33 @@ Das Element hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-(srcset: radiobutton_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724157/inspect text: Checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724158/inspect text: Unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724159/inspect text: Focused checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724160/inspect text: Focused unchecked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724161/inspect text: Disabled checked)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724162/inspect text: Disabled unchecked)
+* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724157/inspect)
+* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724158/inspect)
+* [Focused checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724159/inspect)
+* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724160/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724161/inspect)
+* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724162/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/radio-button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
 ### 4.2 Vertikale Radiobutton-Gruppe
-(srcset: radiobutton_vertical extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_vertical.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724163/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724163/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/radio-button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
 ### 4.3 Horizontale Radiobutton-Gruppe
-(srcset: radiobutton_horizontal extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327724164/inspect text: Default)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724164/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/latest/content/radio-button text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)

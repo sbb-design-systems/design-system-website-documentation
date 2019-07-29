@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zum An-/Abmelden und bietet dem angemeldeten Benutzer ein Menü mit übergreifenden Funktionalitäten an.
 
-## 2. Wann soll das Modul eingesetzt werden? 
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Immer wenn sich der Benutzer bei einer Anwendung anmelden können soll.
 
 ## 3. Regeln
@@ -10,29 +10,38 @@
 * Der letzte Menüpunkt in der Liste ist immer «Logout».
 
 ## 4. Ausprägungen und Zustände 
-Dieses Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Logged out
 * Collapsed
 * Expanded
 
 ### 4.1 Standard
-(srcset: usermenu_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/usermenu/images/usermenu_default.png 'class: image') 
 
 #### Code Spezifikation
-In Bearbeitung.
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/usermenu)
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628068/inspect text: Logged Out)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628069/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628070/inspect text: Expanded)
+* [Logged Out](https://sbb.invisionapp.com/d/main#/console/15744722/344628068/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/344628069/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/344628070/inspect)
 
 ### 4.2 Mit Zusatzinfos
-(srcset: usermenu_addinfo extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/usermenu/images/usermenu_addinfo.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628071/inspect text: Logged Out)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628072/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344628073/inspect text: Expanded)
+* [Logged Out](https://sbb.invisionapp.com/d/main#/console/15744722/344628071/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/344628072/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/344628073/inspect)
 
 #### Code Spezifikation
-In Bearbeitung.
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/usermenu)
+
+
+
+
+
+
+
+
+

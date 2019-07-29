@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Klappt einen bestehenden Text weiter auf, um noch mehr Informationen anzuzeigen.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei langen Zusatzinformationen.
 
 ## 3. Regeln 
@@ -14,16 +14,16 @@
 * Titel und andere Strukturmittel sind im ausgeblendeten Zustand nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Collapsed
 * Expanded
 
 ### 4.1 Standard
-(srcset: textexpand_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textexpand/images/textexpand_default.png 'class: image') 
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015708/inspect text: Collapsed)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/327015709/inspect text: Expanded)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/327015708/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327015709/inspect)
 
 #### Code Spezifikation
-* (link: https://sbb-angular.app.sbb.ch/develop/content/textexpand text: SBB Angular Component Library)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/textexpand)

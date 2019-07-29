@@ -1,7 +1,7 @@
-## 1. Was macht das Modul?
+## 1. Was macht die Komponente?
 * Dient zur Eingabe von einfachen Suchabfragen.
 
-## 2. Wann soll das Modul eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
 
 ## 3. Regeln
@@ -18,23 +18,23 @@
 * Wird ein Auto-Suggest Begriff aus der Liste angeklickt, wird direkt zu dieser Seite navigiert.
 
 ## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * No Result
 * Suggested
  
 ### 4.1 Standard
-(srcset: searchfield_default extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_default.png 'class: image') 
 * Die Anzahl der angezeigten Auto-Suggest Begriffe ist für jeden Anwendungsfall zu definieren.
 * Empfehlung maximal 10 Einträge.
 
 #### Design Spezifikation
-*  (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622859/inspect text: Default)
-* (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622860/inspect text: No Result)
-* (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622861/inspect text: Suggested)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344622859/inspect)
+* [No Result](https://sbb.invisionapp.com/d/main#/console/15744722/344622860/inspect)
+* [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622861/inspect)
 
 #### Code Spezifikation
-In Bearbeitung.
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/search)
 
 ### 4.2 Im Header
 Diese Ausprägung hat folgende Zustände:
@@ -44,19 +44,19 @@ Diese Ausprägung hat folgende Zustände:
 * No Result
 * Suggested
 
-(srcset: searchfield_header extension: png class: image)
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_header.png 'class: image') 
 * Durch Klick auf «Suchen» öffnet sich die Eingabemaske.
 * Nach dem Auslösen der Suche, wird die Eingabemaske wieder ausgeblendet und nur der Link «Suchen» angezeigt.
-* Dieses Modul darf nur im (link: websites/modules/header text: Header) eingesetzt werden.
+* Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/modules/header) eingesetzt werden.
 * Beim Auslösen der Suche werden die Resultate auf einer eigenen Seite dargestellt.
 * Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.
 
 #### Design Spezifikation
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622862/inspect text: Default)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622863/inspect text: Hover)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622864/inspect text: Focused)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622865/inspect text: No Result)
-*   (link: https://sbb.invisionapp.com/d/main#/console/15744722/344622866/inspect text: Suggested)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344622862/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/344622863/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/344622864/inspect)
+* [No Result](https://sbb.invisionapp.com/d/main#/console/15744722/344622865/inspect)
+* [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622866/inspect)
 
 #### Code Spezifikation
-In Bearbeitung.
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/search)

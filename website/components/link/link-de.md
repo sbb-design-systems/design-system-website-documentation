@@ -1,7 +1,7 @@
-## 1. Was macht dieses Element?
+## 1. Was macht die Komponente?
 * Links stellen Verbindungen zwischen Informationen, bzw. Seiten her.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/components/lightbox) gesprungen werden muss.
 
 ## 3. Regeln
@@ -11,7 +11,7 @@
 * Textlinks auf Teile von Wörtern sind nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände 
-Das Element hat folgende Zustände:
+Die Komponente hat folgende Zustände:
 * Default
 * Hover
 * On-Click

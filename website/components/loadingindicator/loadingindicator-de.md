@@ -1,7 +1,7 @@
-## 1. Was macht das Element?
+## 1. Was macht die Komponente?
 * Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 
-##  2. Wann soll das Element eingesetzt werden?
+## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Absenden von Formularen.
 * Beim Laden oder Aktualisieren einer gesamten Seite.
 * Beim Laden oder Aktualisieren eines einzelnen Bereichs einer Seite.
