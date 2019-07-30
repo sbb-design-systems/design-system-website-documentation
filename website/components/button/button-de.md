@@ -25,7 +25,8 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image')
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Primary.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
