@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tooltip/images/tooltip_above.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### Design Spezifikation
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/15744722/328424439/inspect)
@@ -30,7 +30,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tooltip)
 
 ### 4.2 Overlay unterhalb des Icons
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tooltip/images/tooltip_underneath.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### Design Spezifikation
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/15744722/328424441/inspect)

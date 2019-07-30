@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024578/inspect)
@@ -32,7 +32,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
 
 ### 4.2 Mit Infotext
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024580/inspect)
@@ -44,7 +44,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
 
 ### 4.3 Mit Piktogramm / Logo
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024582/inspect)

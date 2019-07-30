@@ -26,7 +26,7 @@ Die Komponente hat folgende Zustände:
 * Detail
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_default.png 'class: image')
 
 ####Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074098/inspect)
@@ -36,7 +36,7 @@ Die Komponente hat folgende Zustände:
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_text.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_text.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074100/inspect)

@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327200956/inspect)
@@ -38,7 +38,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
 
 ### 4.2 Mehrfachauswahl 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_multi.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_multi.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/327200961/inspect)
@@ -48,7 +48,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
 
 ### 4.3 Gruppierte Einfachauswahl
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_single.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_single.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/327200963/inspect)
@@ -58,7 +58,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
 
 ### 4.4 Gruppierte Mehrfachauswahl
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_multi.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_multi.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/327200965/inspect)

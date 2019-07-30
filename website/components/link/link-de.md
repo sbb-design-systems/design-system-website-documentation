@@ -17,7 +17,7 @@ Die Komponente hat folgende Zustände:
 * On-Click
 
 ## 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_copy.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_copy.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073493/inspect)
@@ -29,7 +29,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ## 4.2 Lead Link 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_lead.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_lead.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073496/inspect)
@@ -40,7 +40,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.3 Nach Textabschnitten (Paragraph)
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_paragraph.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_paragraph.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073499/inspect)
@@ -51,7 +51,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.4 Nach Formularelementen
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_form.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_form.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073502/inspect)
@@ -62,7 +62,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.5 In Menüs
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_menu.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_menu.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073505/inspect)
@@ -73,7 +73,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
 
 ## 4.6 Socialmedia
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_icon.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/link/images/link_icon.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073508/inspect)

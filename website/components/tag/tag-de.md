@@ -18,13 +18,13 @@ Die Komponente hat folgende Zustände:
 * Inactive
 
 ### 4.1 Filtertag
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag.png 'class: image')
 * Im Filter sind die Tags im aktiven und inaktiven Zustand vorhanden.
 * Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
 * Innerhalb des Filter wird immer zusätzlich ein Tag «Alle» eingefügt. Wird dieses Filtertag angeklickt, wechselt es in den Zustand aktiv und alle anderen Tags im Filter werden in den Zustand inaktiv gesetzt.
 
 Beispiel:
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag_example.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag_example.png 'class: image')
 
 #### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768741/inspect)
@@ -34,12 +34,12 @@ Beispiel:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tag)
 
 ### 4.2 Linktag
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag.png 'class: image')
 * Linktags sind nur im aktiven Zustand vorhanden.
 * Mit einem Klick auf das Tag gelangt der Benutzer auf die entsprechende Kategorienseite.
 
 Beispiel:
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag_example.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag_example.png 'class: image')
 
 #### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)

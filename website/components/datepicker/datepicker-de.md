@@ -23,7 +23,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_default.png 'class: image')
 * Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 * Ein Klick auf das Kalender-Icon öffnet den Kalender-Layer.
 * Wenn der Fokus im Kalender-Layer liegt, kann dieser wie folgt mittels Tastatur bedient  werden:
@@ -39,7 +39,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
 
 ### 4.2 Mit Blätterfunktion
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_pageable.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_pageable.png 'class: image')
 * Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 * Ein Klick auf das Kalender-Icon öffnet den Kalender-Layer.
@@ -63,7 +63,7 @@ Die Komponente hat folgende Zustände:
 * Die gewählten Daten wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 
 ### 4.4 Geburtsdatum
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_birthdate.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_birthdate.png 'class: image')
 * Das Geburtsdatum wird im Format TT.MM.JJJJ dargestellt (Beispiel 02.09.1986).
 
 #### Design Spezifikation
@@ -75,7 +75,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
 
 ### 4.5 Kalender-Layer
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_picker.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_picker.png 'class: image')
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt
 defniert:
 1.  Monat zurück

@@ -15,7 +15,7 @@ Die Komponente hat folgende Zustände:
 * Last
 * Hover
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/pagination/images/pagination_numbers.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/pagination/images/pagination_numbers.png 'class: image')
 * Maximal 5 Seitenzahlen werden angezeigt.
 * Tastaturbedienung
 		* Die aktive Seite kann nicht angesprungen werden.
@@ -36,7 +36,7 @@ Diese Ausprägung hat folgende Zustände:
 * Default
 * Hover
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/pagination/images/pagination_pages.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/pagination/images/pagination_pages.png 'class: image')
 * Kann «vor» und «zurück» Link enthalten, oder optional nur «vor» oder «zurück» (wenn die erste oder letzte Seite aktiv ist).
 * Beschriftet sind die Pagination-Links mit dem Titel der anzuspringenden Seite.
 * Der Link-Text hat eine Maximalbreite entsprechend dem Layout. Längere Texte werden mittels «...» abgeschnitten.

@@ -14,7 +14,7 @@
 
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/ghettobox/images/ghettobox_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/ghettobox/images/ghettobox_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136671/inspect)
@@ -27,7 +27,7 @@ Diese Ausprägung hat folgende Zustände:
 * Default
 * Hover
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/ghettobox/images/ghettobox_link.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/ghettobox/images/ghettobox_link.png 'class: image')
 * Sofern der Text einen weiterführenden [Link](https://digital.sbb.ch/de/components/link) beinhaltet, unterscheidet die Ghettobox die Zustände Normal und Hover.
 * Am Ende des Textes folgt immer ein Pfeil-Icon.
 * Die ganze Fläche der Ghettobox ist klickbar und öffnet den hinterlegten Link (ausser über dem X-Icon).

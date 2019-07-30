@@ -26,7 +26,7 @@ Die Komponente hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724165/inspect)
@@ -40,7 +40,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
 ### 4.2 Vertikale Checkbox-Gruppe 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect)
@@ -49,7 +49,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
 ### 4.3 Horizontale Checkbox-Gruppe
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect)

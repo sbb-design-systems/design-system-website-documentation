@@ -21,7 +21,7 @@ Beim Viewport «Mobile» gibt es folgende Zustände:
 * Overflow
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_default.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default / Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136674/inspect)
@@ -34,7 +34,7 @@ Beim Viewport «Mobile» gibt es folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_sibling.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_sibling.png 'class: image')
 * Klick auf Bezeichner oder Pfeil öffnet das Dropdown.
 * Im Dropdown sind alle Schwesterseiten aufgelistet.
 * Ein Klick ausserhalb des Dropdowns schliesst dieses wieder.

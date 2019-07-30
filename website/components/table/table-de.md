@@ -19,7 +19,7 @@
 
 ## 4. Ausprägungen 
 ### 4.1 Einfach
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_simple.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_simple.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267417/inspect)
@@ -28,7 +28,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
 
 ### 4.2 Gruppiert
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_grouped.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_grouped.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267418/inspect)
@@ -37,7 +37,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
 
 ### 4.3 Titel - Wert
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_key_value.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_key_value.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267419/inspect)

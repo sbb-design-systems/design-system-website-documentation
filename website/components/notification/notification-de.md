@@ -11,7 +11,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Bestätigung
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_confirmation.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_confirmation.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849832/inspect)
@@ -20,7 +20,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
 
 ### 4.2 Hinweis
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_information.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_information.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849833/inspect)
@@ -29,7 +29,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
 
 ### 4.3 Fehler 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_error.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_error.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849834/inspect)
@@ -38,7 +38,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
 
 ### 4.4 Fehler mit Sprungmarke 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_link.png 'class: image') 
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_link.png 'class: image')
 * Die einzelnen Sprungmarken werden durch ein «/» getrennt.
 * Beim Klick auf eine Sprungmarke wird direkt zum Ursprung des entsprechenden Fehlers gescrollt.
 * Das Sprungmarkenziel ist immer auf derselben Seite wie die Notification (kein Absprung auf andere Seiten).
