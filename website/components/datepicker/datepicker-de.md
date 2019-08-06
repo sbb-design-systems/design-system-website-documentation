@@ -21,6 +21,7 @@ Die Komponente hat folgende Zustände:
 * Default
 * Focused
 * Disabled
+* Error
 
 ### 4.1 Standard
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_default.png 'class: image')
@@ -34,6 +35,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605628/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605629/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605630/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703710/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
@@ -70,6 +72,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605634/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605635/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605636/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703711/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
