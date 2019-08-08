@@ -30,6 +30,18 @@ Pw: ux4ever<br><br>
 Die einzelnen Elemente, Module und Seitentypen enthalten jeweils Direkt-Links auf die entsprechenden Inhalte auf inVision. 
 </div>
 </div>
+<button class="accordion">Feedback</button>
+<div class="panel">
+<div class="panel-conent">
+	
+**Hilf uns, das Design System Mobile weiter zu entwickeln und zu verbessern.**
+
+Da wir noch im Aufbau des Design Sytems sind, brauchen wir euch mit euren Fragestellungen aus den Projekten.
+Wir sind für jedes Feedback sehr dankbar.
+Schreib einfach ein Mail an: [designsystems@sbb.ch](mailto:designsystems@sbb.ch?subject=Feedback%20Design%20System%20Mobile)
+
+</div>
+</div>
 <button class="accordion">Changelog</button>
 <div class="panel">
 <div class="panel-conent">
