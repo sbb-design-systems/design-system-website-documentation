@@ -15,14 +15,16 @@
 ## 4. Ausprägungen und Zustände 
 Die Komponente hat folgende Zustände:
 * Default
+* Uploaded
 * Disabled
 
 ### 4.1 Standard
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fileselector/images/fileselector_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849830/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/332849831/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/378105832/inspect)
+* [Ulpoaded](https://sbb.invisionapp.com/d/main#/console/15744722/378105833/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/file-selector)
