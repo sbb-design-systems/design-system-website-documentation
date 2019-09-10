@@ -14,7 +14,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
+![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
 
 
 #### 4.1.1 Vermassung

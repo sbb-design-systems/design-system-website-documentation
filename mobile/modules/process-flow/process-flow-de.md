@@ -16,7 +16,7 @@
 
 ##4. Ausprägungen
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/process-flow/images/MM09.png 'class: image')
+![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/process-flow/images/MM09.png 'class: image')
 
 ####4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943558/inspect)
