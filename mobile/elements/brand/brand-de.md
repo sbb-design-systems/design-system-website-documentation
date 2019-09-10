@@ -13,7 +13,7 @@
 ## 4. Ausprägungen
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
+![test1](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image test2')
 
 
 #### 4.1.1 Vermassung
