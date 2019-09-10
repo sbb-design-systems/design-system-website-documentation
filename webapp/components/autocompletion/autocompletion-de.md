@@ -22,11 +22,11 @@ Die Komponente hat folgende Zustände:
 ### 4.1 Standard
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_default.png 'class: image')
 
+* Die Anzeige der Anzahl Resultate ist optional.
 
 #### 4.1.1 Vermassung
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318377/inspect)
-
 
 ### 4.2 Mit statischen Einträgen
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_static.png 'class: image')
