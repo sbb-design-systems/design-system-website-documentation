@@ -22,16 +22,30 @@ Die Komponente hat folgende Zustände:
 ### 4.1 Standard
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_default.png 'class: image')
 
-* Die Anzeige der Anzahl Resultate ist optional.
+#### Design Spezifikation
+*   [Default](https://sbb.invisionapp.com/d/#/console/17140415/383359152/inspect)
+*   [Hover](https://sbb.invisionapp.com/d/#/console/17140415/383359153/inspect)
 
-#### 4.1.1 Vermassung
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
+
+### 4.2 Mit Trefferanzeige
+Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn eine Autocompletion-Liste immer mehr als die maximal angezeigten 10 Treffer beinhaltet.
+![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_overflow.png 'class: image')
+
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318377/inspect)
 
-### 4.2 Mit statischen Einträgen
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
+
+### 4.3 Mit statischen Einträgen
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_static.png 'class: image')
 
+#### Design Spezifikation
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318379/inspect)
 
-#### 4.2.1 Vermassung
-*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect)
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318379/inspect)
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
