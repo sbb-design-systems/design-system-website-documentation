@@ -20,7 +20,7 @@ Das Modul hat folgende Zustände:
 * Unchecked disabled
 
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_ohne_Preis.png 'class: image')
+![Dartellung einer Radio-Group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_ohne_Preis.png 'class: image')
 
 ####4.1.1 Vermassung
 [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950113/inspect)
@@ -29,7 +29,7 @@ Das Modul hat folgende Zustände:
 [Unchecked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950116/inspect)
 
 ###4.2 mit Preisangabe
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_mit_Preis.png 'class: image')
+![Dartellung einer Radio-Group, mit Preisangabe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_mit_Preis.png 'class: image')
 
 ####4.2.1 Vermassung
 [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950117/inspect)

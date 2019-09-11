@@ -12,7 +12,7 @@
 
 ##4. Ausprägungen
 ###4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/pagination/images/MM07.png 'class: image')
+![Dartellung einer Paginierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/pagination/images/MM07.png 'class: image')
 
 ####4.1.1 Vermassung
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943556/inspect)

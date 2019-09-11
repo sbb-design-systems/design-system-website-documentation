@@ -17,7 +17,7 @@ Das Element hat folgende Zustände:
 *   Pressed
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
+![Darstellung des Menu Eintrags, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
 
 
 #### 4.1.1 Vermassung
@@ -25,7 +25,7 @@ Das Element hat folgende Zustände:
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
 ### 4.2 Mit Passwortschutz
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
+![Darstellung des Menu Eintrags, mit Passwortschutz](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
 
 
 Zusätzliche Zustände
@@ -39,7 +39,7 @@ Zusätzliche Zustände
 *   [Entsperrt Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167004/inspect)
 
 ### 4.3 Kategorie
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
+![Darstellung des Menu Eintrags, Kategorie](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
 
 #### 4.3.1 Vermassung

@@ -7,7 +7,7 @@
 
 ##3. Ausprägungen
 ### 3.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/startpage/images/MS02.png 'class: image')
+![Dartellung einer Startseite](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/startpage/images/MS02.png 'class: image')
 
 ####3.1.1 Vermassungen
 [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023908/inspect)

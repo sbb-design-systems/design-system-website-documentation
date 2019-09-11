@@ -15,7 +15,7 @@ Das Element hat folgende Zustände:
 *   Off
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/switch/images/ME09_Standard.png 'class: image')
+![Darstellung des Switches](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/switch/images/ME09_Standard.png 'class: image')
 
 
 #### 4.1.1. Vermassung

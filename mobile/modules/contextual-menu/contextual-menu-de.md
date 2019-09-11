@@ -14,7 +14,7 @@ Das Modul hat folgende Zustände:
 *   Open
 
 ###4.1 Im Modul
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
+![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
 
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
 
@@ -24,7 +24,7 @@ Das Modul hat folgende Zustände:
 [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
 
 ###4.2 Auf Seiten
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
+![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
 
 *   Das Kontextmenü verwendet die ganze Breite des Screens.
 *   Das Menü drückt Seiteninhalt weg.

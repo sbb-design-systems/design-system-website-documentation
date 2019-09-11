@@ -16,7 +16,7 @@ Das Element hat folgende Zustände:
 *   Aktiv
 
 ### 4.1 Einfach
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Einfach.png 'class: image')
+![Darstellung Datepicker, einfach](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Einfach.png 'class: image')
 
 
 #### 4.1.1 Vermassung
@@ -30,7 +30,7 @@ Das Element hat folgende Zustände:
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166999/inspect)
 
 ### 4.3 Inline
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Inline.png 'class: image')
+![Darstellung Datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Inline.png 'class: image')
 
 
 #### 4.3.1 Vermassung

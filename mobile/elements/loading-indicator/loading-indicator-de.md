@@ -14,16 +14,16 @@
 ## 4. Ausprägungen
 
 ### 4.1 Normal
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
-*   Anwendung für das Laden von ganzen Seiten
+![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
+* Anwendung für das Laden von ganzen Seiten
 
 #### 4.1.1 Vermassung
-*   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Small.png 'class: image')
+![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Small.png 'class: image')
 
-*   Anwendung innerhalb Listen (Lazy-Loading)
+* Anwendung innerhalb Listen (Lazy-Loading)
 
 #### 4.2.1 Vermassung
-*   [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
+* [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
