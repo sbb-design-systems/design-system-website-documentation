@@ -16,7 +16,7 @@
 
 ## 4. Ausprägungen
 ### 4.1 Tiny
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_tiny.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Grösse winzig](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_tiny.png 'class: image')
 
 
 #### Design Spezifikation
@@ -26,7 +26,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
 
 ### 4.2 Small
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_small.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Grösse klein](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_small.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
@@ -35,7 +35,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
 
 ### 4.3 Medium 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Grösse mittel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
@@ -44,7 +44,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
 
 ### 4.4 Big
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_big.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Grösse gross](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_big.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)

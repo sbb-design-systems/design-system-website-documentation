@@ -11,7 +11,7 @@
  
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_default.png 'class: image')
+![Darstellung der Komponente Fieldset in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect) 
@@ -20,7 +20,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 4.2 Verschachtelt
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_nested.png 'class: image')
+![Darstellung der Komponente Fieldset mit verschachteltem Inhalt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fieldset/images/fieldset_nested.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect) 

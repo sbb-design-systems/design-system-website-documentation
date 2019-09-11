@@ -17,7 +17,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/timefield/images/timefield_default.png 'class: image')
+![Darstellung der Komponente Eingabefeld für Uhrzeiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/timefield/images/timefield_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327611017/inspect)

@@ -15,7 +15,7 @@ Die Komponente hat folgende Zustände:
 * Second (zweite Option gewählt)
 
 ### 4.1 Standard 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_default.png 'class: image')
+![Darstellung der Komponente Toggle-Button mit der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_default.png 'class: image')
 
 #### Design Spezifikation
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect)
@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
    
 ### 4.2 Mit Icon
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_icon.png 'class: image')
+![Darstellung der Komponente Toggle-Button mit Icons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_icon.png 'class: image')
 
 #### Design Spezifikation
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect)
@@ -35,7 +35,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
 
 ### 4.3 Mit Infotext 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_infotext.png 'class: image')
+![Darstellung der Komponente Toggle-Button mit zusätzlichen Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_infotext.png 'class: image')
 
 #### Design Spezifikation
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849840/inspect)
@@ -45,7 +45,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
 
 ### 4.4 Mit zusätzlichem Eingabekontext
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_content.png 'class: image')
+![Darstellung der Komponente Toggle-Button mit zusätzlichem Eingabekontext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_content.png 'class: image')
 
 #### Design Spezifikation
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849842/inspect)

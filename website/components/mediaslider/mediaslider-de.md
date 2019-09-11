@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_default.png 'class: image')
+![Darstellung der Komponente Medienslider in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect)
@@ -30,7 +30,7 @@ Die Komponente hat folgende Zustände:
 In Bearbeitung.
 
 ### 4.2 Mit zusätzlichem Text
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_text.png 'class: image')
+![Darstellung der Komponente Medienslider mit zusätzlichem Text unter dem Bild](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_text.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect)

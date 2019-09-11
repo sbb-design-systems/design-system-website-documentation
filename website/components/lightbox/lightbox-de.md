@@ -15,7 +15,7 @@
 
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_default.png 'class: image')
+![Darstellung der Komponente Lightbox in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344969031/inspect)
@@ -24,7 +24,7 @@
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
 
 ### 4.2 Mit Formularkomponenten
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_form.png 'class: image')
+![Darstellung der Komponente Lightbox mit Formular als Inhalt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_form.png 'class: image')
 * Eine Lightbox mit Formularelementen erhält mindestens einen «Abbrechen» und einen «Übernehmen» Button.
 * Der «Abbrechen» Button schliesst die Lightbox wieder.
 * Wird die Lightbox geschlossen («Abbrechen» oder X-Button) während bereits Eingaben im Formular geändert wurden, erscheint ein Warnhinweis das ungesicherte Daten im Formular sind.
