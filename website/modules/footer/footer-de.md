@@ -18,7 +18,7 @@
 
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_default.png 'class: image')
+![Darstellung des Moduls Footer in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_default.png 'class: image')
 * Der Bereich Kontakt enthält ein Dropdown mit div. Kontaktoptionen. Gibt es nur eine Kontaktinformation (keine Auswahl), so wird diese direkt gezeigt.
 * Je nach Länge des Kontaktinhalts verändert sich die Höhe des Footers.
 * Die zweite Spalte enthält die Bahnverkehrsinformationen.
@@ -32,7 +32,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985471/inspect)
 
 ### 4.2 Microsite mit einem Kontakt
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_single_contact.png 'class: image')
+![Darstellung des Moduls Footer für Microsites mit einem Kontakt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_single_contact.png 'class: image')
 * Der Bereich Kontakt hat genau eine Kontaktinformation.
 * Die zweite Spalte enthält Microsite-spezifische Informationen.
 
@@ -40,14 +40,14 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985472/inspect)
 
 ### 4.3 Microsite mit mehreren Kontakten
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_multi_contact.png 'class: image')
+![Darstellung des Moduls Footer für Microsites mit mehreren Kontakten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_multi_contact.png 'class: image')
 * Die zweite Spalte enthält Microsite-spezifische Informationen.
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985473/inspect)
 
 ### 4.4 Microsite mit eigenem Logo
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_logo.png 'class: image')
+![Darstellung des Moduls Footer für Microsites mit eigenem Logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_logo.png 'class: image')
 * Darf nur eingesetzt werden, wenn gleichzeitig auf der Seite der «Header mit eigenem Logo» eingesetzt wird.
 * Der Bereich Kontakt hat genau eine Kontaktadresse.
 * Die zweite Spalte enthält Microsite-spezifische Informationen.

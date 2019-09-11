@@ -24,7 +24,7 @@ Die Komponente hat folgende Zustände:
 * Suggested
  
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_default.png 'class: image')
+![Darstellung der Komponente Suchfeld in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_default.png 'class: image')
 * Die Anzahl der angezeigten Auto-Suggest Begriffe ist für jeden Anwendungsfall zu definieren.
 * Empfehlung maximal 10 Einträge.
 
@@ -44,7 +44,7 @@ Diese Ausprägung hat folgende Zustände:
 * No Result
 * Suggested
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_header.png 'class: image')
+![Darstellung der Komponente Suchfeld integriert im Header](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/searchfield/images/searchfield_header.png 'class: image')
 * Durch Klick auf «Suchen» öffnet sich die Eingabemaske.
 * Nach dem Auslösen der Suche, wird die Eingabemaske wieder ausgeblendet und nur der Link «Suchen» angezeigt.
 * Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/modules/header) eingesetzt werden.

@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Darstellung der Komponente Radiobutton in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724157/inspect)
@@ -39,7 +39,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
 ### 4.2 Vertikale Radiobutton-Gruppe
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_vertical.png 'class: image')
+![Darstellung der Komponente Radiobutton als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_vertical.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724163/inspect)
@@ -48,7 +48,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
 ### 4.3 Horizontale Radiobutton-Gruppe
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
+![Darstellung der Komponente Radiobutton als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724164/inspect)

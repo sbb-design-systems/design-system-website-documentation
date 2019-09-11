@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image')
+![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.2 Secondary Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
+![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect) 
@@ -49,7 +49,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.3 Ghost Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
+![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect) 
@@ -60,7 +60,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
 ### 4.4 Frameless Button
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
+![Darstellung der Komponente Frameless Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect) 

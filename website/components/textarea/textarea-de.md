@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textarea/images/textarea_default.png 'class: image')
+![Darstellung der Komponente Textarea in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textarea/images/textarea_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327171858/inspect)

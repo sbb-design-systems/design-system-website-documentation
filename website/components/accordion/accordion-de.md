@@ -22,7 +22,7 @@ Die Komponente hat folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/accordion/images/accordion_default.png 'class: image')
+![Darstellung der Komponente Akkordeon in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/accordion/images/accordion_default.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/332819509/inspect)
