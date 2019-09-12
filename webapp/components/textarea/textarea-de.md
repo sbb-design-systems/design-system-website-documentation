@@ -19,10 +19,9 @@ Die Komponente hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textarea/images/textarea_default.png 'class: image')
+![Darstellung der Komponente Textarea](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textarea/images/textarea_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318587/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318588/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318586/inspect)
@@ -30,4 +29,3 @@ Die Komponente hat folgende Zustände:
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/textarea)
-

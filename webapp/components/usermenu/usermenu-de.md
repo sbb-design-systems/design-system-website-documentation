@@ -14,10 +14,9 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_default.png 'class: image')
+![Darstellung der Komponente Benutzermenü in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318618/inspect)
@@ -25,10 +24,9 @@ Die Komponente hat folgende Zustände:
 
 
 ### 4.2 Rollenauswahl
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
+![Darstellung der Komponente Benutzermenü mit Rollenauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)

@@ -15,7 +15,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![Darstellung des Prozessflow](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
+![Darstellung der Komponente Prozessflow](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)

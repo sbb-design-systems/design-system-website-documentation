@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![Darstellung der Datumsauswahl, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
+![Darstellung der Komponente Datumsauswahl in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
@@ -38,7 +38,7 @@ Die Komponente hat folgende Zustände:
 
 
 ### 4.2 Mit Blätterfunktion
-![Darstellung der Datumsauswahl, mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Darstellung der Komponente Datumsauswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
 #### Design Spezifikation
@@ -57,7 +57,7 @@ Die Komponente hat folgende Zustände:
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 
 ### 4.4 Geburtsdatum
-![Darstellung der Geburtsdatumsauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Darstellung der Komponente Datumsauswahl zur Eingabe eines Geburtstages](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
@@ -70,7 +70,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
 ### 4.5 Kalender-Layer (Datepicker)
-![Darstellung der Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
+![Darstellung der Komponente Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 1. Monat zurück
 2. Monat vor

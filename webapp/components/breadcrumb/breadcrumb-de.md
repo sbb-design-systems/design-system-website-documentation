@@ -15,7 +15,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![Darstellung des Breadcrumb](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/breadcrumb/images/breadcrumb_default.png 'class: image')
+![Darstellung der Komponente Breadcrumb](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect)

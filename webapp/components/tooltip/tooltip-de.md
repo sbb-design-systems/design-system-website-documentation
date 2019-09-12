@@ -21,20 +21,18 @@ Die Komponente hat folgende Zustände:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
+![Darstellung der Komponente Tooltip mit obenliegender Textbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect)
 
 
 ### 4.2 Overlay unterhalb des Icons
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
+![Darstellung der Komponente Tooltip mit untenliegender Textbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect)
-
-

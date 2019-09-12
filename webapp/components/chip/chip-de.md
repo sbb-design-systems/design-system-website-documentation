@@ -21,7 +21,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Hover
 * On-Click/Dragged
 
-![Darstellung des Input-Chip](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_input.png 'class: image')
+![Darstellung der Komponente Chip als Eingabewert](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_input.png 'class: image')
 
 * Je nach Anwendungsfall können die Chips über "autocomplete"-Auswahlen oder mit Freitext generiert werden.
 
@@ -35,7 +35,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Inactive
 
-![Darstellung des Filter-Chip](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_filter.png 'class: image')
+![Darstellung der Komponente Chip fürs Filtern](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_filter.png 'class: image')
 
 * Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
 

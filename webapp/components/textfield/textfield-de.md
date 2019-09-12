@@ -22,20 +22,23 @@ Das Element hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_default.png 'class: image')
+![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_default.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318592/inspect)
 * [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318593/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318594/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318595/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/field)
+
 ### 4.2 Passworteingabe
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_password.png 'class: image')
+![Darstellung der Komponente Textfeld zur Passworteingabe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_password.png 'class: image')
 * Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Hinted» zur Verfügung.
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318597/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318598/inspect)

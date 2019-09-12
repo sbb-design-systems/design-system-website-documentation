@@ -21,10 +21,9 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
+![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)

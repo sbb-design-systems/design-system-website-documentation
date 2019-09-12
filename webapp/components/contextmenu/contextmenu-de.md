@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded (optional)
 
-![Darstellung des Kontextmenü, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels rechter Maustaste](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
@@ -35,7 +35,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![Darstellung des Kontextmenü, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_icon.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_icon.png 'class: image')
 
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
@@ -49,7 +49,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![Darstellung des Kontextmenü zur Sortierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_sorting.png 'class: image')
 * Zur Anzeige der Sortierung wird das Pfeil-Icon verwendet.
 * Per Default wird absteigend (ascending) sortiert.
 * Beim Hover auf aktiv sortiertes Attribut wird das Pfeil-Icon gedreht.

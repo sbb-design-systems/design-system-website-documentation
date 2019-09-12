@@ -12,7 +12,7 @@ Das Modul hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
+![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
 
 #### 4.1.1 Vermassung
 * [Prod](https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect)
@@ -22,7 +22,7 @@ Das Modul hat folgende Zustände:
 * [Edu](https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect)
 
 ### 4.2 Minimal
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
+![Darstellung des Moduls Header in der minimalen Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
 
 #### 4.2.1 Vermassung
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect)

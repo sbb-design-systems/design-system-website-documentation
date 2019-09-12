@@ -22,7 +22,7 @@ Die Komponente hat die folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-![Darstellung des Accordion, zugeklappt und aufgeklappt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
+![Darstellung der Komponente Accordion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
 
 
 #### Design Spezifikation

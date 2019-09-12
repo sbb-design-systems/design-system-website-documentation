@@ -13,13 +13,13 @@ Die Komponente hat folgende Zustände:
 * Not Filtered
 
 ### 4.1 Quick-Filter
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 
 ### 4.2 Live-Filter (links oder oben)
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 
 ### 4.3 Detail / Extended Filter
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 
 ### 4.4 Table Filter
-#### 4.4.1 Vermassung
+#### Design Spezifikation

@@ -23,7 +23,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Primary Button
-![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary.png 'class: image')
+![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318382/inspect)
@@ -35,7 +35,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
 
 ### 4.2 Alternative Primary Button
-![Darstellung des alternativen Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary_alternative.png 'class: image')
+![Darstellung der Komponente Alternativer Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_primary_alternative.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355328674/inspect)
@@ -47,7 +47,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
 
 ### 4.3 Secondary Button
-![Darstellung des Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_secondary.png 'class: image')
+![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_secondary.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318390/inspect)
@@ -59,7 +59,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
 
 ### 4.4 Ghost Button
-![Darstellung des Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_ghost.png 'class: image')
+![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_ghost.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318394/inspect)
@@ -71,7 +71,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
 
 ### 4.5 Icon Button
-![Darstellung des Icon Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_icon.png 'class: image')
+![Darstellung der Komponente Icon Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/button/images/button_icon.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318398/inspect)

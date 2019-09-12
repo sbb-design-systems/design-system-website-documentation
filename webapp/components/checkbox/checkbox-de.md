@@ -27,7 +27,7 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Darstellung des Checkbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
+![Darstellung der Komponente Checkbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect)

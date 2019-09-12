@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Seitennummerierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
+![Darstellung der Komponente Seitennummerierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
 
 #### Design Spezifikation
 * [First](https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect)

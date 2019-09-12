@@ -17,7 +17,7 @@ Die Komponente hat folgende Zustände:
 * On-Click
 
 ## 4.1 Standard
-![Darstellung des Link, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
+![Darstellung der Komponente Link in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect)
@@ -26,7 +26,7 @@ Die Komponente hat folgende Zustände:
 
 
 ## 4.2 Nach Formularelementen
-![Darstellung des Link in Formularen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
+![Darstellung der Komponente Link in Formularen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)

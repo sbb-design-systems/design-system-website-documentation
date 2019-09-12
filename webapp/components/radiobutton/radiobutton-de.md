@@ -24,7 +24,7 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Darstellung der Komponente Radiobutton](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
 
 
 #### Design Spezifikation
