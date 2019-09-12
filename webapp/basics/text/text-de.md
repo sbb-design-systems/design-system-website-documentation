@@ -27,45 +27,43 @@ Weitere Details zu den Schreibregeln sind in den [Sprach- und Schreibregeln](htt
 ####Abkürzungen Wochentage
 
 <table>
-		<tr>
-		<th>Deutsch</th>
-		<td style="padding-left:20px">Mo / Di / Mi / Do / Fr / Sa / So</td>
-		</tr>
-		<tr>
-		<th>Französisch</th>
-		<td style="padding-left:20px">lu / ma / me / je / ve / sa / di</td>
-		</tr>
-		<tr>
-		<th>Italienisch</th>
-		<td style="padding-left:20px">lun. / mar. / mer. / gio. / ven. / sab. / dom.</td>
-		</tr>
-		<tr>
-		<th>Englisch</th>
-		<td style="padding-left:20px">Mon / Tue / Wed / Thu / Fri / Sat / Sun</td>
-		</tr>
-	</table>
+    <tr>
+        <th>Deutsch</th>
+        <td style="padding-left:20px">Mo / Di / Mi / Do / Fr / Sa / So</td>
+    </tr>
+    <tr>
+        <th>Französisch</th>
+        <td style="padding-left:20px">lu / ma / me / je / ve / sa / di</td>
+    </tr>
+    <tr>
+        <th>Italienisch</th>
+        <td style="padding-left:20px">lun. / mar. / mer. / gio. / ven. / sab. / dom.</td>
+    </tr>
+    <tr>
+        <th>Englisch</th>
+        <td style="padding-left:20px">Mon / Tue / Wed / Thu / Fri / Sat / Sun</td>
+    </tr>
+</table>
 
 ####Abkürzungen Monate
 <table>
-		<tr>
-		<th>Deutsch</th>
-		<td style="padding-left:20px">Jan. / Febr. / März / Apr. / Mai / Juni / Juli / Aug. / Sept. / Okt. / Nov. / Dez.</td>
-		</tr>
-		<tr>
-		<th>Französisch</th>
-		<td style="padding-left:20px">jan. / fév. / mars / avr. / mai / juin / juil. / août / sept. / oct. / nov. / déc.</td>
-		</tr>
-		<tr>
-		<th>Italienisch</th>
-		<td style="padding-left:20px">gen. / feb. / mar. / apr. / mag. / giu. / lug. / ago. / set. / ott. / nov. / dic.</td>
-		</tr>
-		<tr>
-		<th>Englisch</th>
-		<td style="padding-left:20px">Jan. / Feb. / Mar. / Apr. / May / June / July / Aug. / Sept. / Oct. / Nov. / Dec.</td>
-		</tr>
-		<tr>
-		</tr>
-	</table>
+    <tr>
+        <th>Deutsch</th>
+        <td style="padding-left:20px">Jan. / Febr. / März / Apr. / Mai / Juni / Juli / Aug. / Sept. / Okt. / Nov. / Dez.</td>
+    </tr>
+    <tr>
+        <th>Französisch</th>
+        <td style="padding-left:20px">jan. / fév. / mars / avr. / mai / juin / juil. / août / sept. / oct. / nov. / déc.</td>
+    </tr>
+    <tr>
+        <th>Italienisch</th>
+        <td style="padding-left:20px">gen. / feb. / mar. / apr. / mag. / giu. / lug. / ago. / set. / ott. / nov. / dic.</td>
+    </tr>
+    <tr>
+        <th>Englisch</th>
+        <td style="padding-left:20px">Jan. / Feb. / Mar. / Apr. / May / June / July / Aug. / Sept. / Oct. / Nov. / Dec.</td>
+    </tr>
+</table>
 
 ### 2.6 Dateigrössen
 * Dateien  < 1 MB: in KB angeben («800 KB»)

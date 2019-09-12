@@ -27,3 +27,7 @@ Die Komponente hat folgende Zustände:
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318588/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318586/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318589/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/textarea)
+

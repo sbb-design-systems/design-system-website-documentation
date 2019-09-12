@@ -22,9 +22,9 @@ Die Komponente hat die folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
+![Darstellung des Accordion, zugeklappt und aufgeklappt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect)
 *   [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect)

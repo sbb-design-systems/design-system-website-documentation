@@ -25,25 +25,30 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
+![Darstellung der Datumsauswahl, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+
 
 ### 4.2 Mit Blätterfunktion
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Darstellung der Datumsauswahl, mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
@@ -52,18 +57,20 @@ Die Komponente hat folgende Zustände:
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 
 ### 4.4 Geburtsdatum
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Darstellung der Geburtsdatumsauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
-#### 4.4.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
 * [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
 ### 4.5 Kalender-Layer (Datepicker)
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
+![Darstellung der Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 1. Monat zurück
 2. Monat vor
@@ -71,7 +78,7 @@ Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 4. Jahr vor
 5. Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tage liegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
 
-#### 4.5.1 Vermassung
+#### Design Spezifikation
 * [Keine Auswahl](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
 * [Datum gewählt](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
 * [Datum mir Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
@@ -79,3 +86,5 @@ Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 * [Datumsbereich innerhalb eines Monats](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
 * [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)

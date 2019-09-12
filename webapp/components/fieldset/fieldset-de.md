@@ -14,15 +14,14 @@ Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
+![Darstellung des Fieldset, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect)
 
 
 ### 4.2 Verschachteltes Fieldset
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
+![Darstellung des verschachtelten Fieldset](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect)
-

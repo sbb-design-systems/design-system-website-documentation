@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_default.png 'class: image')
+![Darstellung des Autocomplete, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_default.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/#/console/17140415/383359152/inspect)
@@ -31,7 +31,7 @@ Die Komponente hat folgende Zustände:
 
 ### 4.2 Mit Trefferanzeige
 Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn eine Autocompletion-Liste immer mehr als die maximal angezeigten 10 Treffer beinhaltet.
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_overflow.png 'class: image')
+![Darstellung des Autocomplete, mit Trefferanzeige](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_overflow.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect)
@@ -41,7 +41,7 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
 
 ### 4.3 Mit statischen Einträgen
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_static.png 'class: image')
+![Darstellung des Autocomplete, mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/autocompletion/images/autocompletion_static.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect)

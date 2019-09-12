@@ -17,18 +17,18 @@ Die Komponente hat folgende Zustände:
 * On-Click
 
 ## 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
+![Darstellung des Link, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318461/inspect)
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect)
 
-## 4.2 Nach Formularelementen
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
 
-#### 4.2.1 Vermassung
+## 4.2 Nach Formularelementen
+![Darstellung des Link in Formularen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
+
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318464/inspect)
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318465/inspect)
