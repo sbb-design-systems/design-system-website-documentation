@@ -18,9 +18,9 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fileselector/images/fileselector_default.png 'class: image')
+![Darstellung der Komponente Dateiauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fileselector/images/fileselector_default.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318445/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318446/inspect)

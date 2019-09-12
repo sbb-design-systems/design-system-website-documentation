@@ -24,10 +24,9 @@ Die Komponente hat folgende Zustände:
 - Expanded
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_default.png 'class: image')
+![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355347616/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355347617/inspect)
@@ -36,27 +35,38 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355347620/inspect)
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+
+
 ### 4.2 Mehrfachauswahl 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_multi.png 'class: image')
+![Darstellung de rKomponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_multi.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347623/inspect)
 * [Expanded Autocomplete](https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+
+
 ### 4.3 Gruppierte Einfachauswahl
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_single.png 'class: image')
+![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_single.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
 
 
 ### 4.4 Gruppierte Mehrfachauswahl
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_multi.png 'class: image')
+![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_multi.png 'class: image')
 
-
-#### 4.4.1 Vermassung
+#### Design Spezifikation
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect)
 * [Expanded Tree Checkbox](https://sbb.invisionapp.com/d/main#/console/17140415/371074670/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)

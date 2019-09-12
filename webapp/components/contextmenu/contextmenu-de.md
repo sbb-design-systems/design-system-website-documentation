@@ -21,9 +21,9 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded (optional)
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels rechter Maustaste](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_default.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318418/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
@@ -35,11 +35,11 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_icon.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_icon.png 'class: image')
 
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
 * [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
@@ -49,12 +49,12 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/contextmenu/images/contextmenu_sorting.png 'class: image')
 * Zur Anzeige der Sortierung wird das Pfeil-Icon verwendet.
 * Per Default wird absteigend (ascending) sortiert.
 * Beim Hover auf aktiv sortiertes Attribut wird das Pfeil-Icon gedreht.
 * Der ganze Menueintrag (Name und Icon) ist klickbar.
 
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/369105601/inspect)
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)

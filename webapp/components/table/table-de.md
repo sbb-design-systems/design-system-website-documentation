@@ -22,18 +22,16 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_default.png 'class: image')
+![Darstellung der Komponente Tabelle in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
 
 
 ### 4.2 Gruppiert
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
+![Darstellung der Komponente Tabelle mit gruppierten Inhalten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
 
 
@@ -42,8 +40,7 @@ Diese Ausprägung hat folgende Zustände:
 * Sorted
 * Unsorted
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
+![Darstellung der Komponente Tabelle mit Sortierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)

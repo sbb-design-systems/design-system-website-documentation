@@ -27,10 +27,9 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
+![Darstellung der Komponente Checkbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect)
 * [Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318403/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318404/inspect)
@@ -40,3 +39,6 @@ Die Komponente hat folgende Zustände:
 * [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318408/inspect)
 * [Disabled Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318409/inspect)
 * [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/checkbox)

@@ -12,8 +12,7 @@ Die Komponente hat folgende Zustände:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/quantity-indicator/images/quantity_indicator_default.png 'class: image')
+![Darstellung der Komponente Mengenindikators](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/quantity-indicator/images/quantity_indicator_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/365541438/inspect)

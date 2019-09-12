@@ -16,30 +16,28 @@
 
 ## 4. Ausprägungen
 ### 4.1 Tiny
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_tiny.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Ausprägung winzig](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_tiny.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect)
 
+
 ### 4.2 Small
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_small.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Ausprägung klein](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_small.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
 
+
 ### 4.3 Medium 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_medium.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Ausprägung mittelgross](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_medium.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
 
 
-
 ### 4.4 Big
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_big.png 'class: image')
+![Darstellung der Komponente Ladeindikator in der Ausprägung gross](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/loading-indicator/images/we12_loadingindicator_big.png 'class: image')
 
-#### 4.4.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)

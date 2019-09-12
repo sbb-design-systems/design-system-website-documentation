@@ -24,13 +24,16 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Darstellung der Komponente Radiobutton](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect)
 * [Focused checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect)
 * [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318556/inspect)
 * [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/radio-button)

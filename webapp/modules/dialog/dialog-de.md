@@ -17,9 +17,8 @@ Das Modul hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/dialog/images/dialog_default.png 'class: image')
+![Darstellung des Moduls Dialog](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/dialog/images/dialog_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect)
 * Glass: [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318667/inspect)

@@ -34,6 +34,6 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 
 * Durch Klick auf «Suchen» öffnet sich die Eingabemaske.
 * Nach dem Auslösen der Suche, wird die Eingabemaske wieder ausgeblendet und nur der Link «Suchen» angezeigt.
-* Dieses Modul darf nur im [Header](WK01---Header_30824686.html) eingesetzt werden.
+* Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/webapps/modules/header) eingesetzt werden.
 * Beim Auslösen der Suche werden die Resultate auf einer eigenen Seite dargestellt.
 * Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.

@@ -16,11 +16,13 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/timefield/images/timefield_default.png 'class: image')
+![Darstellung der Komponente Zeiteingabe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/timefield/images/timefield_default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318601/inspect)
 * [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318602/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318603/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318604/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/time-input)
