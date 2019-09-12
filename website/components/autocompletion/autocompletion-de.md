@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Hover
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_default.png 'class: image')
+![Darstellung der Komponente Autocompletion in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327147336/inspect)
@@ -31,7 +31,7 @@ Die Komponente hat folgende Zustände:
 
 ### 4.2 Mit Trefferanzeige
 Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn eine Autocompletion-Liste immer mehr als die maximal angezeigten 10 Treffer beinhaltet.
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_overflow.png 'class: image')
+![Darstellung der Komponente Autocompletion mit der Anzeige von weiteren Treffern](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_overflow.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/383235117/inspect)
@@ -41,7 +41,7 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/autocomplete)
 
 ### 4.3 Mit statischen Einträgen
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_static.png 'class: image')
+![Darstellung der Komponente Autocompletion mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/autocompletion/images/autocompletion_static.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327147338/inspect)

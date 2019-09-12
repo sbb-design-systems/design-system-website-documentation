@@ -15,14 +15,14 @@ Das Modul hat folgende Zustände:
 * Collapsed
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_default.png 'class: image')
+![Darstellung des Moduls Header in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985465/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/326985466/inspect)
 
 ### 4.2 Microsite Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_microsite.png 'class: image')
+![Darstellung des Moduls Header für Microsites](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_microsite.png 'class: image')
 * In den Quicklinks wird immer zuerst sbb.ch Home angegeben.
 * Die Hauptnavigation ist frei wählbar.
 * Nebst dem Login wird nur noch die Suche angezeigt.
@@ -32,7 +32,7 @@ Das Modul hat folgende Zustände:
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/326985468/inspect)
 
 ### 4.3 Microsite mit eigenem Logo
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_microsite_logo.png 'class: image')
+![Darstellung des Moduls Header für Microsites mit eigenem Logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/header/images/header_microsite_logo.png 'class: image')
 * Wenn dieser Header eingesetzt wird, muss zwingend dannach der «Footer Microsite mit eigenem Logo» verwendet werden.
 * In den Quicklinks wird immer zuerst [sbb.ch](https://sbb.ch) Home angegeben.
 * Die Hauptnavigation ist frei wählbar.

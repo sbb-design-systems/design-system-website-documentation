@@ -14,7 +14,7 @@ Die Komponente hat folgende Zustände:
 * Unchecked
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/captcha/images/captcha_default.png 'class: image')
+![Darstellung der Komponente Captcha](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/captcha/images/captcha_default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327768739/inspect) 

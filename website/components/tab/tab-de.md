@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 * Focused
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tab/images/tab_default.png 'class: image')
+![Darstellung der Komponente Tab in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tab/images/tab_default.png 'class: image')
 
 #### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/332819501/inspect)
@@ -33,7 +33,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tabs)
 
 ### 4.2 Mit Mengenindikatoren 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tab/images/tab_indicator.png 'class: image')
+![Darstellung der Komponente Tab mit zusätzlichen Mengenindikatoren](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tab/images/tab_indicator.png 'class: image')
 * Der Mengenindikator liefert einen Hinweis, wie viele Einträge eine Liste im Content des Registers aufweist.
 * Der Mengenindikator beinhaltet nur Zahlen, maximal 3-stellig.
 

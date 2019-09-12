@@ -19,11 +19,11 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fileselector/images/fileselector_default.png 'class: image')
+![Darstellung der Komponente zur Hochladen von Dateien](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fileselector/images/fileselector_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/378105832/inspect)
-* [Ulpoaded](https://sbb.invisionapp.com/d/main#/console/15744722/378105833/inspect)
+* [Uploaded](https://sbb.invisionapp.com/d/main#/console/15744722/378105833/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
 
 #### Code Spezifikation
