@@ -30,4 +30,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327171861/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/textarea)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/textarea)

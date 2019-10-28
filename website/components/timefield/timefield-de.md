@@ -15,6 +15,7 @@ Die Komponente hat folgende Zustände:
 * Hinted
 * Focused
 * Disabled
+* Error
 
 ### 4.1 Standard
 ![Darstellung der Komponente Eingabefeld für Uhrzeiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/timefield/images/timefield_default.png 'class: image')
@@ -24,6 +25,7 @@ Die Komponente hat folgende Zustände:
 * [Hinted](https://sbb.invisionapp.com/d/main#/console/15744722/335006454/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327611018/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327611019/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/388876245/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/time-input)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/time-input)

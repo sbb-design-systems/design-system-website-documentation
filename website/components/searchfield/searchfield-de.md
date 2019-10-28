@@ -34,7 +34,7 @@ Die Komponente hat folgende Zustände:
 * [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622861/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/search)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/search)
 
 ### 4.2 Im Header
 Diese Ausprägung hat folgende Zustände:
@@ -59,4 +59,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622866/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/search)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/search)

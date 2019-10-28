@@ -30,7 +30,7 @@ Die Komponente hat folgende Zustände:
 * [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/332819504/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tabs)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tabs)
 
 ### 4.2 Mit Mengenindikatoren 
 ![Darstellung der Komponente Tab mit zusätzlichen Mengenindikatoren](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tab/images/tab_indicator.png 'class: image')
@@ -44,4 +44,4 @@ Die Komponente hat folgende Zustände:
 * [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/332819508/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tabs)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tabs)

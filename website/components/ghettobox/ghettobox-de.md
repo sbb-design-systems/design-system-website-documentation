@@ -20,7 +20,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136671/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)
 
 ### 4.2 Link
 Diese Ausprägung hat folgende Zustände:
@@ -37,4 +37,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136673/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)

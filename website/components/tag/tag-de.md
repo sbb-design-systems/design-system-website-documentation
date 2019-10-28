@@ -31,7 +31,7 @@ Beispiel:
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/327768742/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tag)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
 
 ### 4.2 Linktag
 ![Darstellung der Komponente Tag zur Verwendung als Link](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag.png 'class: image')
@@ -45,4 +45,4 @@ Beispiel:
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tag)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)

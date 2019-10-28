@@ -32,7 +32,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849839/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)
 
 ### 4.3 Mit Infotext 
 ![Darstellung der Komponente Toggle-Button mit zusätzlichen Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_infotext.png 'class: image')
@@ -42,7 +42,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849841/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)
 
 ### 4.4 Mit zusätzlichem Eingabekontext
 ![Darstellung der Komponente Toggle-Button mit zusätzlichem Eingabekontext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_content.png 'class: image')
@@ -52,7 +52,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849843/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)
 
 
 

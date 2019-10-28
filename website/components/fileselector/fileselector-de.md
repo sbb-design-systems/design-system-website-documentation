@@ -27,4 +27,4 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/file-selector)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/file-selector)
