@@ -17,4 +17,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/processflow)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/processflow)

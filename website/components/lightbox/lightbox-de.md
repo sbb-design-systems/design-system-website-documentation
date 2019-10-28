@@ -21,7 +21,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344969031/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/lightbox)
 
 ### 4.2 Mit Formularkomponenten
 ![Darstellung der Komponente Lightbox mit Formular als Inhalt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/lightbox/images/lightbox_form.png 'class: image')
@@ -35,4 +35,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344969032/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/lightbox)

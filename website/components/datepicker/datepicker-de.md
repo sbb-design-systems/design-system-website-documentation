@@ -38,7 +38,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703710/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
 
 ### 4.2 Mit Blätterfunktion
 ![Darstellung der Komponente Datumswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_pageable.png 'class: image')
@@ -48,6 +48,7 @@ Die Komponente hat folgende Zustände:
 * Wenn der Fokus im Kalender-Layer liegt, kann dieser wie folgt mittels Tastatur bedient  werden:
         * Pfeiltasten: Wechseln des markierten Tages.
         * Leertaste / Enter: Auswahl des markierten Tages.
+* In dieser Ausprägung ist immer ein gültige Datum vorausgewählt.
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605631/inspect)
@@ -55,7 +56,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605633/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
 
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
@@ -75,7 +76,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703711/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
 
 ### 4.5 Kalender-Layer
 ![Darstellung der Komponente Datumswahl mit geöffnetem Datepicker](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/datepicker/images/datepicker_picker.png 'class: image')
@@ -96,4 +97,4 @@ defniert:
 * [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/15744722/327605642/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)

@@ -17,7 +17,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849832/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
 
 ### 4.2 Hinweis
 ![Darstellung der Komponente Notification zur Darstellung von Hinweismeldungen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_information.png 'class: image')
@@ -26,7 +26,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849833/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
 
 ### 4.3 Fehler 
 ![Darstellung der Komponente Notification zur Darstellung von Fehlermeldungen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_error.png 'class: image')
@@ -35,7 +35,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849834/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
 
 ### 4.4 Fehler mit Sprungmarke 
 ![Darstellung der Komponente Notification zur Darstellung von Fehlermeldungen mit zusätzlichen Sprungmarken](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/notification/images/notification_link.png 'class: image')
@@ -47,4 +47,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849835/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)

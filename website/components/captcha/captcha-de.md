@@ -21,4 +21,4 @@ Die Komponente hat folgende Zustände:
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/captcha)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/captcha)

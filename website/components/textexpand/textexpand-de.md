@@ -26,4 +26,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327015709/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/textexpand)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/textexpand)

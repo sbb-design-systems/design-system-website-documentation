@@ -29,7 +29,7 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136682/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/pagination)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/pagination)
 
 ### 4.2 Seitennamen
 Diese Ausprägung hat folgende Zustände:
@@ -46,4 +46,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136684/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/pagination)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/pagination)

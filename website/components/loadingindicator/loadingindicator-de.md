@@ -23,7 +23,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
 
 ### 4.2 Small
 ![Darstellung der Komponente Ladeindikator in der Grösse klein](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_small.png 'class: image')
@@ -32,7 +32,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
 
 ### 4.3 Medium 
 ![Darstellung der Komponente Ladeindikator in der Grösse mittel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
@@ -41,7 +41,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
 
 ### 4.4 Big
 ![Darstellung der Komponente Ladeindikator in der Grösse gross](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/loadingindicator/images/loadingindicator_big.png 'class: image')
@@ -50,4 +50,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)

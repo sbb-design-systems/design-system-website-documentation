@@ -34,7 +34,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.2 Secondary Button
 ![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
@@ -46,7 +46,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.3 Ghost Button
 ![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
@@ -57,7 +57,7 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.4 Frameless Button
 ![Darstellung der Komponente Frameless Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
@@ -68,4 +68,4 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
