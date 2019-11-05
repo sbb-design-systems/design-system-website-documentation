@@ -23,4 +23,4 @@ Das Modul hat folgende Zustände:
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)
 
 ## 5. Barrierefreiheit
-* Horizontales Scrollen muss auch per Screen Reader und Schaltersteuerung möglich sein.
+*   Horizontales Scrollen muss auch per Screen Reader und Schaltersteuerung möglich sein.

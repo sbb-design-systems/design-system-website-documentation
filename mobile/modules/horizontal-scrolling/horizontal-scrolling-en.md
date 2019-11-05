@@ -1,26 +1,26 @@
 ## 1. What does the module do? 
 *   It permits scrolling through a horizontal list of elements.
 
-##2. When should the module be used? 
-*   Wenn in einer horizontalen Liste mehrere Elemente darstellbar sind.
-*   Wenn der Benutzer schnell durch eine Liste scrollen soll.
-*   Zur Anordnung voneinander unabhängiger Elemente.
+## 2. When should the module be used? 
+*   When several elements can be displayed in a horizontal list. 
+*   When the user should be able to scroll through a list quickly. 
+*   For the layout of elements that are independent of one another.
 
-## 3. Regeln
-*   Das vorangehende und nächste Element der Liste ausserhalb des sichtbaren Bereichs muss angeschnitten dargestellt werden.
-*   Das Scrollen funktioniert nicht Pixel für Pixel, sondern es gibt «Fangpunkte», sodass rechts und links jeweils (wenn vorhanden) die nächste Kachel angedeutet wird.
+## 3. Rules 
+*   The preceding and next element of the list outside of the visible area must be shown as cut off. 
+*   Scrolling does not work pixel for pixel, but instead there are ‘catch points’ so that the next tile is indicated on the right and left (if available).
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses 
+The module has the following statuses: 
 *   First
 *   Middle
 *   Last
 
 ### 4.1 Standard
-![Darstellung von horizontalem Scrollen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
+![Image of horizontal scrolling](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)
 
-## 5. Barrierefreiheit
-* Horizontales Scrollen muss auch per Screen Reader und Schaltersteuerung möglich sein.
+## 5. Accessibility
+*   Horizontal scrolling must also be possible via screen reader and button control.
