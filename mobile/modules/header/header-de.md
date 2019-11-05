@@ -18,8 +18,8 @@
 
 *   Darf ausschliesslich auf der Startseite eingesetzt werden.
 #### 4.1.1 Vermassung
-[iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943537/inspect)
-[Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
+*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943537/inspect)
+*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
 
 ### 4.2 Mit Pfeil nach links
 ![Darstellung des Headers mit Pfeil nach links](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/header/images/MM01_Back.png 'class: image')
@@ -27,8 +27,8 @@
 *   Wird verwendet wenn innerhalb von Hierarchiestufen navigiert wird.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
 #### 4.2.1 Vermassung
-[iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943539/inspect)
-[Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
+*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943539/inspect)
+*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
 
 ### 4.3 Mit Schliessen-Icon
 ![Darstellung des Headers mit Schliessen-Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/header/images/MM01_Close.png 'class: image')
@@ -37,5 +37,5 @@
 *   Das einblenden der aufgerufenen Funktion/Seite wird von unten nach oben animiert.
 *   Wenn von einer Seite mit Schliessen-Icon weiternavigiert wird, muss auf der nächsten Funktion/Seite der Header mit Pfeil nach links verwendet werden.
 #### 4.3.1 Vermassung
-[iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943541/inspect)
-[Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943542/inspect)
+*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943541/inspect)
+*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943542/inspect)

@@ -1,32 +1,32 @@
-##1. Was macht das Modul?
-*   Unterstützt den Benutzer bei der Eingabe mit Vorschlägen.
+## 1. What does the module do? 
+* It helps the user with entry by providing suggestions.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Wenn ein [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld) viele vordefinierte Werte aufweisen kann. Diese nicht alle in einem [Select](https://digital.sbb.ch/de/mobile/elemente/select) aufgelistet werden können.
+## 2. When should the module be used? 
+*   When an [entry field](https://digital.sbb.ch/en/mobile/elements/textfield) can have lots of pre-defined values. They cannot all be listed in a [Select](https://digital.sbb.ch/en/mobile/elements/select) aufgelistet werden können.
 
-##3. Regeln
-*   Die Autocompletion ist eine ergänzende Funktion zum [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld) und unterliegt dessen Regeln.
-*   Die Anzahl an Vorschlägen kann projektspezifisch definiert werden.
-*   Bei mehreren Listen werden Resultate visuell getrennt.
-*   Bei der Auswahl eines Elementes schliesst sich die Autocompletion-Auswahl.
+## 3. Rules
+*   Auto-completion is a supplementary function of the [entry field](https://digital.sbb.ch/en/mobile/elements/textfield) and is subject to its rules.
+*   The number of suggestions can be defined on a project-specific basis.
+*   Results are visually separated if there are several lists.
+*   The autocompletion selection closes when an element is selected.
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
-*   Normal (entspricht einem [Eingabefeld](https://digital.sbb.ch/de/mobile/elemente/eingabefeld))
-*   On-Click
+## 4. Variants and statuses 
+The module has the following statuses:
+*   Normal  (one [entry field](https://digital.sbb.ch/en/mobile/elements/textfield))
+*   Pressed
 
-###4.1 Single-List
-![Darstellung der Autocompletion, Single-List](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/autocompletion/images/MM16_Single_List.png 'class: image')
+### 4.1 Single list 
+![Image oft the autocompletion, single List](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/autocompletion/images/MM16_Single_List.png 'class: image')
 
-####4.1.1 Vermassung
-[Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943577/inspect)
-[Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943578/inspect)
+#### 4.1.1 Size
+*   [History](https://sbb.invisionapp.com/d/main#/console/14051805/322943577/inspect)
+*   [Results](https://sbb.invisionapp.com/d/main#/console/14051805/322943578/inspect)
 
-###4.2 Multiple-List
+### 4.2 Multiple List
 ![Darstellung der Autocompletion, Multiple-List](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/autocompletion/images/MM16_Multiple_List.png 'class: image')
 
-####4.2.1 Vermassung
-[Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943579/inspect)
-[Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943580/inspect)
+#### 4.2.1 Size
+*   [History](https://sbb.invisionapp.com/d/main#/console/14051805/322943579/inspect)
+*   [Results](https://sbb.invisionapp.com/d/main#/console/14051805/322943580/inspect)
 
 

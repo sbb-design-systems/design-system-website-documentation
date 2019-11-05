@@ -1,19 +1,19 @@
-##1. Was macht das Modul?
-*   Anzeige von Statusmeldungen des Systems.
+## 1. What does the module do? 
+*   It displays the status messages of the system.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Zur unmittelbaren Anzeige von Meldungen, bei welchen keine Interaktion vom Benutzer gefordert wird.
+## 2. When should the module be used? 
+*   To directly display messages where no interaction is required from the user.
 
-##3. Regeln
-*   Der Toast enthält nur Text, keine Aktionen, Links etc.
-*   Der Text darf maximal zweizeilig sein.
-*   Der Toast wird zentriert am unteren Bildschirmrand angezeigt.
-*   Der Toast verschwindet automatisch wieder.
-*   Die Anzeigedauer richtet sich nach der Länge des Textes.
+## 3. Rules 
+*   The toast only contains the text, no actions, links etc. 
+*   The text can be a maximum of two lines. 
+*   The toast is shown centred on the bottom screen edge. 
+*   The toast then disappears automatically again. 
+*   The display duration depends on the length of the text.
 
-##4. Ausprägungen
-###4.1 Standard
-![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/toast/images/MM05.png 'class: image')
+## 4. Variants 
+### 4.1 Standard
+![Image of the toast message](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/toast/images/MM05.png 'class: image')
 
-####4.1.1 Vermassung
-[Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)
+#### 4.1.1 Size
+*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)

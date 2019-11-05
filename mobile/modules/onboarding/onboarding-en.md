@@ -1,24 +1,24 @@
-##1. Was macht das Modul?
-*   Einführung in die wichtigsten Funktionalitäten einer App.
+## 1. What does the module do? 
+*   Introduction to the main functions of an app.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Zur Erklärung einer App bei der ersten Nutzung.
+## 2. When should the module be used? 
+*   To explain an app when it is being used for the first time.
 
-##3. Regeln
-*   Das Onboarding ist im Fullscreen Layout umgesetzt.
-*   Die einzelnen Schritte des Onboardings sind mit einer [Pagination](https://digital.sbb.ch/de/mobile/module/pagination)umgesetzt.
-*   Der Onboarding-Screen ist zweigeteilt. Oben: Screenshot, unten: Beschreibung der Funktion.
-*   Es muss jederzeit möglich sein, das Onboarding zu überspringen / abzubrechen.
-*   Die Navigation ist über Swipe links/rechts oder den «Weiter» Button möglich.
+## 3. Rules 
+*   The onboarding is implemented in the full-screen layout. 
+*   The individual steps of the onboarding are implemented with [pagination](https://digital.sbb.ch/en/mobile/modules/pagination). 
+*   The onboarding screen is divided into two parts. Top: screenshot, bottom: description of the function. 
+*   It must always be possible to skip/abort the onboarding. 
+*   Navigation is possible via swipe left/right or the ‘Continue’ button.
 
-##4. Ausprägungen
+## 4. Variants 
 ### 4.1 Standard
-![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/onboarding/images/MM14.png 'class: image')
+![Image of the onboarding](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/onboarding/images/MM14.png 'class: image')
 
-####4.1.1 Vermasssung
-[iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943575/inspect)
-[Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943576/inspect)
+#### 4.1.1 Size 
+*   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943575/inspect)
+*   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943576/inspect)
 
-## 5. Barrierefreiheit
-* Informationen, welche nur aus den Screenshots entnommen werden können, müssen auch als Alternativtext hinterlegt sein.
+## 5. Accessibility
+*   Information that can only be taken from the screenshots must also be entered as alternative text.
 

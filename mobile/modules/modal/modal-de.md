@@ -23,7 +23,7 @@
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modal/images/MM03.png 'class: image')
 
 #### 4.1.1 Vermassung
-[Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
+*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
 
 ## 5. Barrierefreiheit
-* Inhalte ausserhalb des geöffneten Dialogs sollen per Screen Reader nicht mehr erreichbar sein.
+*   Inhalte ausserhalb des geöffneten Dialogs sollen per Screen Reader nicht mehr erreichbar sein.

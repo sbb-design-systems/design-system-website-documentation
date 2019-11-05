@@ -1,21 +1,22 @@
-## 1. Was macht das Element?
-*   Eine Kachel dient als Klick-Target und ruft eine Funktion/Seite auf.
+## 1. What does the element do?
+*   A tile is used as a click target and calls up a function/page.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Beim Aufruf einer Funktion/Seite von der aus.
+## 2. When should the element be used?
+*   •	When selecting a function/page from the homepage.
 
 ## 3. Regeln
-*   Kacheln werden nur innerhalb von Modulen auf der Startseite eingesetzt.
-*   Für Interaktionen auf der gleichen Seite wie z.B. ein- und ausblenden von Funktionen sind sie nicht geeignet.
-*   Eine Kachel enthält immer ein Icon sowie einen Titel.
-*   Eine Kachel muss klickbar sein. Status wie disabled, inactive sind nicht erlaubt.
-*   Das Icon sollte so weit wie möglich selbsterklärend sein.
-*   Der Titel beschreibt die Funktion/Seite und muss anschliessend im verwendet werden.
+*   Tiles are only used within modules on the homepage.
+*   They are not suitable for interactions on the same page, such as displaying and hiding functions.
+*   A tile always contains an icon and a title.
+*   A tile must be clickable. Statuses, such as disabled, inactive, are not permitted.
+*   The icon should be self-explanatory as far as possible.
+*   The title describes the function/page and must then be used in the title.
 
-## 4. Ausprägungen
+
+## 4. Variants
 ### 4.1 Standard
-![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
+![Image of the tiles in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)

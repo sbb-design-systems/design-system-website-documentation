@@ -1,50 +1,51 @@
-## 1. Was macht das Element?
-*   Über einen Menü-Eintrag kann der Benutzer eine Kategorie (Hierarchiestufe), Funktion oder Seite innerhalb des Menüs wählen/aufrufen.
+## 1. What does the element do?
+*   The user can select/call up a category (hierarchical level), function or page within the menu via a menu entry.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Innerhalb des .
-*   Bei hierarchischer Navigation.
+## 2. When should the element be used?
+*   Within the menu.
+*   For hierarchical navigation.
 
-## 3. Regeln
-*   Die Kategorie/Funktion/Seite wird per Klick aufgerufen.
-*   Ein Menü-Eintrag hat jeweils nur ein Klick-Target.
-*   Ein Menü-Eintrag muss einzeilig sein.
-*   Ein Menü-Eintrag kann zusätzlich eine Info oder einen Status des folgenden Inhalts aufweisen (z.B. "inaktiv" oder ähnliches)
+## 3. Rules
+*   The category/function/page is selected via click.
+*   A menu entry only has one click target.
+*   A menu entry must be single-line.
+*   A menu entry can also have an info or status of the following content (e.g. ‘inactive’ or similar)
 
-## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+
+## 4. Variants and statuses
+The element has the following statuses: 
 *   Normal
 *   Pressed
 
 ### 4.1 Standard
-![Darstellung des Menu Eintrags, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
+![Image of the menu entry, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167006/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
-### 4.2 Mit Passwortschutz
-![Darstellung des Menu Eintrags, mit Passwortschutz](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
+### 4.2 With password-protection
+![Image of the menu entry, with password-protection](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Passwortschutz.png 'class: image')
 
 
-Zusätzliche Zustände
-*   Entsperrt (Default und Pressed)
-*   Gesperrt  (Default und Pressed)
+Additional statuses 
+*   unlocked (default and pressed) 
+*   locked (default and pressed)
 
-#### 4.2.1 Vermassung
-*   [Gesperrt](https://sbb.invisionapp.com/d/main#/console/14051805/313167002/inspect)
+#### 4.2.1 Size
+*   [Locked](https://sbb.invisionapp.com/d/main#/console/14051805/313167002/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167005/inspect)
-*   [Entsperrt](https://sbb.invisionapp.com/d/main#/console/14051805/313167003/inspect)
-*   [Entsperrt Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167004/inspect)
+*   [Unlocked](https://sbb.invisionapp.com/d/main#/console/14051805/313167003/inspect)
+*   [Unlocked Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167004/inspect)
 
-### 4.3 Kategorie
-![Darstellung des Menu Eintrags, Kategorie](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
+### 4.3 Category
+![Image of the menu entry, category](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
 
-#### 4.3.1 Vermassung
+#### 4.3.1 Size
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167000/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167001/inspect)
 
-## 5. Barrierefreiheit
-* Wenn der Status des Eintrages nur über ein Icon Dargestellt wird, muss er zusätzlich als Alternativtext hinterlegt werden.
+## 5. Accessibility
+*   If the status of the entry is only shown via an icon, it must also be entered as alternative text.

@@ -1,25 +1,25 @@
-##1. Was macht das Modul?
-*   Zeigt Kartenmaterial an.
+## 1. What does the module do? 
+* It displays map material.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Geografische Darstellung irgendwelcher Objekte (z.B. Shops, Züge, Haltestellen, POIs, ...).
+## 2. When should the module be used? 
+* Geographical display of any features (e.g. shops, trains, stops, POIs).
 
-##3. Regeln
-*   Wenn der Benutzer die App dazu berechtigt hat, den aktuellen Standort zu verwenden, wird dieser in der Karte angezeigt.
-*   Die Karte soll je nach Element bzw. nach Einsatzkontext defaultmässig immer einen sinnvollen Ausschnitt darstellen; in den meisten Fällen ist der aktuelle Standort auf der Karte initial zu fokussieren.
-*   Mittels einem Suchfeld kann nach einem Ort oder einer Adresse gesucht werden.
-*   Ein Klick auf die Karte im Small Zustand (innerhalb eines Moduls) öffnet die Karte im Fullscreen.
-    *   Im Fullscreen können Interaktionen über die Karte ermöglicht werden.
-    *   Die Karten bieten die Möglichkeit zum Verkleinern und Vergrössern des Kartenausschnittes (Zoom).
+## 3. Rules 
+* If the user has authorised the app to use the current location, this will be shown on the map. 
+* Depending on the element or usage context, the map should always display a useful section by default. In most cases, the current location on the map should be focused on initially. 
+* A place or an address can be searched for using a search field. 
+* Clicking on the map in small mode (within a module) opens the map in full screen. 
+    * Interactions via the map can be enabled in full screen. 
+    * The maps enable the map section to be made bigger and smaller (zoom).
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Ausprägungen:
+## 4. Variants and statuses 
+The module has the following variants: 
 *   Inline
 *   Fullscreen
 
-###4.1 Standard
-![Darstellung von Karten, Inline und Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/map/images/MM13_Karte.png 'class: image')
+### 4.1 Standard
+![Image of maps, inline and fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/map/images/MM13_Karte.png 'class: image')
 
-####4.1.1 Vermassung
-[Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)
-[Fullscreen](https://sbb.invisionapp.com/d/main#/console/14051805/322943573/inspect)
+#### 4.1.1 Size
+*   [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)
+*   [Fullscreen](https://sbb.invisionapp.com/d/main#/console/14051805/322943573/inspect)

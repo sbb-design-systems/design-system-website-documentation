@@ -23,7 +23,7 @@ Das Element hat folgende Zustände:
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166998/inspect)
 
 ### 4.2 Kombiniert
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Mehrfach.png 'class: image')
+![Darstellung Datepicker, kombiniert](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Mehrfach.png 'class: image')
 
 
 #### 4.2.1 Vermassung

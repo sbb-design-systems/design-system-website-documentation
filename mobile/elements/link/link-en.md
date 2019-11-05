@@ -1,27 +1,28 @@
-## 1. Was macht das Element?
-*   Links stellen Verbindungen zwischen Seiten her.
+## 1. What does the element do?
+*   Links provide connections between pages.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf einen modalen Dialog gesprungen werden muss.
+## 2. When should the element be used?
+*   When creating a connection from one page to another (internal or external) page or to a modal dialogue.
 
-## 3. Regeln
-*   Eine visuelle Unterscheidung zwischen internen und externen Links gibt es nicht.
-*   Links können auf Text, Icons und Bilder gesetzt werden.
-*   Links auf gruppierte Elemente z.B. Bild mit Text ist nicht erlaubt. Ausnahme bilden Icons mit Label, welche verlinkt werden dürfen.
-*   Textlinks auf Teile von Wörtern sind nicht erlaubt.
+## 3. Rules
+*   There is no visual distinction between internal and external links.
+*   Links can be used in text, icons and images.
+*   Links to grouped elements, such as image with text, are not permitted. The exception is icons with labels which can be linked.
+*   Text links in parts of words are not permitted.
 
-## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+
+## 4. Variants and statuses
+The element has the following statuses: 
 *   Normal
-*   On-Click
+*   Pressed
 
 ### 4.1 Text-Link
-![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/link/images/ME07_default.png 'class: image')
+![Image of the text link, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/link/images/ME07_default.png 'class: image')
 
-![Darstellung des Text-Links, Pressed](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/link/images/ME07_pressed.png 'class: image')
+![Image of the text link, pressed](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/link/images/ME07_pressed.png 'class: image')
 
-*   Wird mit dem Textlink ein Download einer Datei ausgelöst, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
+*   If the text link triggers a file download, the file type and size should be indicated in the link text (e.g.: ‘Conditions of Use (PDF, 123 KB)’)
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166953/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313229755/inspect)

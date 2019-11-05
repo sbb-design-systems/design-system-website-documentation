@@ -1,23 +1,24 @@
-## 1. Was macht das Element?
-*   Kennzeichnet den Absender einer Seite.
+## 1. What does the element do?
+*   It identifies the sender of a page.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Bei allen SBB-Apps.
+## 2. When should the element be used?
+*   For all SBB apps.
 
-## 3. Regeln
-*   Das Signet tritt genau einmal pro Seite auf und befindet sich immer im Header.
-*   Die Positionierung ist immer rechts oben.
-*   Abwandlungen des Signets sind nicht erlaubt.
-*   Das Signet ist immer verlinkt mit der Startseite der App.
+## 3. Rules
+*   The signet appears exactly once per page and is always located in the header.
+*   It is always positioned top-right.
+*   Variations of the signet are not permitted.
+*   The signet is always linked to the app homepage.
 
-## 4. Ausprägungen
+
+## 4. Variants
 
 ### 4.1 Standard
-![Darstellung des Standard Signets](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
+![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166952/inspect)
 
-## 5. Barrierefreiheit
-* Das Signet muss mit einem Alternativtext hinterlegt werden (z.B. "Zurück zu Startseite").
+## 5. Accessibility
+*   The signet must be entered with an alternative text (e.g. ‘Back to homepage’).

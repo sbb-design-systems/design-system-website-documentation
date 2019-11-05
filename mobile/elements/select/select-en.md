@@ -1,21 +1,22 @@
-## 1. Was macht das Element?
-*   Dient zur Auswahl einer Optionen aus einer vorgegebenen Liste.
+## 1. What does the element do?
+*   It is used for the selection of an option from a pre-defined list.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Bei einer Auswahl aus mehreren Optionen einer Liste.
+## 2. When should the element be used?
+*   When selecting from several options in a list.
 
-## 3. Regeln
-*   Es müssen mindestens zwei Optionen zur Auswahl stehen.
-*   Das Element hat immer ein Label.
-*   Optionale Auswahlen werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-*   Für detaillierte Erklärungen kann im Eingabefeld ein Infoicon dargestellt werden. Beim Klick auf dieses Infoicon öffnet sich ein [Tooltip](https://digital.sbb.ch/de/mobile/module/tooltip).
-*   Der Text im Select-Element ist immer einzeilig.
-*   Ist ein Eintrag länger als die verfügbare Breite des Elements, wird der Text des Eintrages mit «...» abgekürzt.
-*   Bei einem Pflichtfeld ist eine Vorauswahl nicht erlaubt.
-*   Wenn noch keine Auswahl getroffen wurde, wird das Label angezeigt.
+## 3. Rules
+*   There must be a choice between at least two options.
+*   The element always has a label.
+*   Optional selections always include the text ‘(optional)’ behind the label. The text ‘(optional)’ can be abbreviated to ‘(opt.)’ for short fields.
+*   An infoicon can be displayed in the entry field for detailed explanations. A tooltip opens when this infoicon is clicked on.
+*   The text in the select element is always single-line.
+*   If an entry is longer than the available width of the element, the entry’s text is abbreviated with ‘…’.
+*   A pre-selection is not permitted with a mandatory field.
+*   The label is displayed if no selection has been made yet.
 
-## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
+
+## 4. Variants and statuses
+The element has the following statuses:
 *   Empty
 *   Value
 *   Disabled
@@ -23,10 +24,10 @@ Das Element hat folgende Zustände:
 *   Expanded
 
 ### 4.1 Standard
-![Darstellung des Select Feldes](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/select/images/ME16_Default.png 'class: image')
+![Image of the select field](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/select/images/ME16_Default.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 *   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166994/inspect)
 *   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166997/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166993/inspect)

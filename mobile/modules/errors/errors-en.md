@@ -1,31 +1,31 @@
-##1. Was macht das Modul?
-*   Anzeige von Fehlermeldungen.
+## 1. What does the module do?
+*   It displays error messages.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Beim Auftreten von technischen oder fachlichen Fehlern.
+## 2. When should the module be used? 
+*   When technical errors occur.
 
-##3. Regeln
-*   Für Fehleingaben werden Feldvalidierungen (z.B. beim [Eingabefeld](https://digital.sbb.ch/mobile/elemente/eingabefeld)) verwendet, nicht die Fehlermeldung.
+## 3. Rules 
+*   Error validations are used for error entries (e.g. in the [entry field](https://digital.sbb.ch/mobile/elemente/eingabefeld)), not error messages.
 
-##4. Ausprägungen
-###4.1 Fehlerdialog
-![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Dialog.png 'class: image')
+## 4. Features
+### 4.1 Error dialogue 
+![Image of the error dialogue](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Dialog.png 'class: image')
 
-####4.1.1 Vermassung
-[Single](https://sbb.invisionapp.com/d/main#/console/14051805/322943549/inspect)
-[Double](https://sbb.invisionapp.com/d/main#/console/14051805/322943550/inspect)
-[Triple](https://sbb.invisionapp.com/d/main#/console/14051805/322943551/inspect)
+#### 4.1.1 Size
+*   [Single](https://sbb.invisionapp.com/d/main#/console/14051805/322943549/inspect)
+*   [Double](https://sbb.invisionapp.com/d/main#/console/14051805/322943550/inspect)
+*   [Triple](https://sbb.invisionapp.com/d/main#/console/14051805/322943551/inspect)
 
-###4.2 Fehlermeldung inline
-![Darstellung von Fehlermeldungen, Inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Liste.png 'class: image')
-![Darstellung von Fehlermeldungen, Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Fullscreen.png 'class: image')
+### 4.2 Error message inline
+*   ![Image of the error message inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Liste.png 'class: image')
+*   ![Image of the error message fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Inline_Fullscreen.png 'class: image')
 
-Zustände:
-*   Vollflächig
-*   Listeneintrag
+Statuses:
+*   Full area 
+*   List entry
 
-####4.2.1 Vermassung
-[Vollflächig mit Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943552/inspect)
-[Vollflächig ohne Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943553/inspect)
-[Listeneintrag mit Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943554/inspect)
-[Listeneintrag ohne Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943555/inspect)
+#### 4.2.1 Size
+*   [Full area with reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943552/inspect)
+*   [Full area without reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943553/inspect)
+*   [List entry with reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943554/inspect)
+*   [List entry without reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943555/inspect)

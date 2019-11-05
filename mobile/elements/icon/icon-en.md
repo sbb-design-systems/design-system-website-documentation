@@ -1,26 +1,26 @@
-## 1. Was macht das Element?
-*   Definiert alle zulässigen Icons bzw. den Icon-Stil im SBB-Kontext.
+## 1. What does the element do?
+*   It defines all permitted icons and the icon style in the SBB context.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Für die Gestaltung von allen Anwendungen im SBB-Kontext.
-*   Icons werden auf Buttons, bei Links, in Tag-Clouds und in Navigationen eingesetzt.
-*   Icons dienen zur visuellen Repräsentation von Themen und der visuellen Unterstützung von Aktionen.
+## 2. When should the element be used?
+*   For the design of all applications in the SBB context.
+*   Icons are used on buttons, for links, in tag-clouds and in navigation.
+*   Icons are used for the visual representation of topics and the visual support of actions.
 
-## 3. Regeln
-*   Innerhalb von Texten soll wenn immer möglich auf die Verwendung von Icons verzichtet werden.
-*   Icons ohne Text müssen selbsterklärend oder schnell lernbar sein. Je mehr Icons in einer Anwendung eingesetzt werden, desto schwieriger wird es die Bedeutung deren zu merken.
-*   Icons sollen anwendungsübergreifend immer die gleiche Bedeutung haben (Konsistenz)
+## 3. Rules
+*   The use of icons within texts should be avoided as far as possible.
+*   Icons without text must be self-explanatory or easy to learn. The more icons used in an application, the more difficult it becomes to understand their meaning.
+*   Icons should always have the same meaning (consistency) across all applications.
 
-## 4. Ausprägungen
-### 4.1 Allgemeine Icons (KOM)
-[Zu den Icons](https://digital.sbb.ch/de/icons-und-piktogramme/icons)
+## 4. Variants
+### 4.1 General icons (KOM)
+[To the icons](https://digital.sbb.ch/de/icons-und-piktogramme/icons)
 
-### 4.2 Fahrplan- / ÖV-Icons
-[Zu den Icons](https://digital.sbb.ch/de/icons-und-piktogramme/fahrplan-icons)
+### 4.2 Timetable/public transport icons
+[To the icons](https://digital.sbb.ch/de/icons-und-piktogramme/fahrplan-icons)
 
-### 4.3 Piktogramme
-[Zu den Piktogrammen](https://digital.sbb.ch/de/icons-und-piktogramme/piktogramme)
+### 4.3 Pictogram
+[To the pictograms](https://digital.sbb.ch/de/icons-und-piktogramme/piktogramme)
 
-## 5. Barrierefreiheit
-* Icons ohne Text müssen mit einem Alternativtext hinterlegt werden.
-* Es muss nicht das Icon selbst, sondern seine Funktion in Textform beschrieben werden (z.B. "Menu schliessen").
+## 5. Accessibility
+*   Icons without text must include an alternative text.
+*   The icon itself does not have to be described but instead its function in text form (e.g. ‘close menu’).

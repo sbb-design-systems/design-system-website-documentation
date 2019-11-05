@@ -1,13 +1,13 @@
-##1. Wann soll der Seitentyp eingesetzt werden?
-*   Zeigt die Übersicht der Hauptfunktionen einer App.
-*   Wenn eine App mehrere Einstiegspunkte bieten soll.
+## 1. When should the page type be used? 
+*   It shows the overview of an app’s main functions. 
+*   If an app should provide several entry points.
 
-##2. Regeln
-*   Die einzelnen Einstiegspunkte werden in Modulen dargestellt.
+## 2. Rules 
+*   The individual entry points are shown in modules.
 
-##3. Ausprägungen
+## 3. Variants 
 ### 3.1 Standard
-![Dartellung einer Startseite](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/startpage/images/MS02.png 'class: image')
+![Image of a start page](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/startpage/images/MS02.png 'class: image')
 
-####3.1.1 Vermassungen
-[Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023908/inspect)
+#### 3.1.1 Size
+*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023908/inspect)

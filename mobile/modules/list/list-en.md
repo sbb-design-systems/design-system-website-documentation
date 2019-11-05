@@ -1,33 +1,33 @@
-##1. Was macht das Modul?
-*   Dient zur strukturierten Anzeige von Elementen.
+## 1. What does the module do? 
+*   It is used for the structured display of elements.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Bei der Auflistung von mehreren, gleichartigen Elementen.
+## 2. When should the module be used? 
+*   For listing several elements of the same kind.
 
-##3. Regeln
-*   Die Liste enthält Elemente gemäss der Beschreibung unter [Listen-Eintrag](https://digital.sbb.ch/de/mobile/elemente/listen-eintrag). 
+## 3. Rules
+*   The list contains elements as per the description under [list item](https://digital.sbb.ch/en/mobile/elements/listen-item). 
 
-##4. Ausprägungen
-Das Modul hat folgende Ausprägungen
-* Mit Titel
-* mit Titel,  Icon
-* mit Titel,  Icon,  Funktion
-* mit Titel,  Icon,  Funktion,  Checkbox
+## 4. Variants 
+The module has the following variants 
+* with title 
+* with title, icon 
+* with title, icon, function 
+* with title, icon, function, checkbox
 
-###4.1 Standard
-![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_mit_Titel.png 'class: image')
+### 4.1 Standard
+![Image of List items with title](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_mit_Titel.png 'class: image')
 
-####4.1.1 Vermassung
-[Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943585/inspect)
-[Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943586/inspect)
-[Mit Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943587/inspect)
-[Mit Titel,  Icon,  Funktion,  Checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943588/inspect)
+#### 4.1.1 Size 
+*   [with title](https://sbb.invisionapp.com/d/main#/console/14051805/322943585/inspect)
+*   [with title, icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943586/inspect)
+*   [with title, icon, function](https://sbb.invisionapp.com/d/main#/console/14051805/322943587/inspect)
+*   [with title, icon, function, checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943588/inspect)
 
-###4.2 ohne Listentitel
-![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_ohne_Titel.png 'class: image')
+### 4.2 Without list title
+![Image of List items without title](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_ohne_Titel.png 'class: image')
 
-####4.2.1 Vermassung
-[Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943581/inspect)
-[Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943582/inspect)
-[Mit Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943583/inspect)
-[Mit Titel,  Icon,  Funktion,  Checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943584/inspect)
+#### 4.2.1 Size 
+*   [with title](https://sbb.invisionapp.com/d/main#/console/14051805/322943581/inspect)
+*   [with title, icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943582/inspect)
+*   [with title, icon, function](https://sbb.invisionapp.com/d/main#/console/14051805/322943583/inspect)
+*   [with title, icon, function, checkbox](https://sbb.invisionapp.com/d/main#/console/14051805/322943584/inspect)

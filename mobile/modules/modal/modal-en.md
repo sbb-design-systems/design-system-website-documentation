@@ -1,29 +1,29 @@
-## 1. Was macht das Modul?
-*   Dunkelt den aktuellen View ab und legt einen modalen Dialog darüber.
+## 1. What does the module do?
+*   It dims the current view and puts a modal dialogue over it.
 
-## 2. Wann soll das Modul eingesetzt werden?
-*   Wenn die Aufmerksamkeit des Benutzer benötigt wird.
-*   Wenn vom Benutzer eine Information/Input verlangt wird.
-*   Wenn verwandter Inhalt dargestellt werden soll.
-*   Wenn zusätzlicher Inhalt dargestellt werden soll.
-*   Das Modul ist nicht geeignet für Fehlermeldung, Warnungen oder Ähnliches.
+## 2. When should the module be used?
+*   When the user’s attention is required.
+*   When information/input is required from the user.
+*   When related content is to be displayed.
+*   When additional content is to be displayed.
+*   The module is not suitable for error messages, warnings or similar notifications.
 
-## 3. Regeln
-*   Der Benutzer muss immer die Möglichkeit haben den modalen Dialog zu schliessen.
-*   Jeder modale Dialog besteht aus einem Header (Schliessen-Icon und Titel) und Inhalt.
-*   Der Inhalt muss mindestens ein Interaktionselement enthalten (z.B. «Speichern» oder «OK»).
-*   Der modale Dialog darf nicht für Fehlermeldungen verwendet werden.
-*   Die Breite und Höhe des Dialogs wird durch die Grösse des Inhalts bestimmt.
-*   Ein Mindestabstand zum Bildschirmrand ist zu gewährleisten.
-*   Bei Klick auf den abgedunkelten Bereich wird der modale Dialog geschlossen.
-*   Ist der Inhalt zu gross, kann ein vollflächiger modaler Dialog gewählt werden: siehe Seitentypen.
+## 3. Rules
+*   The user must always have the option of closing the modal dialogue.
+*   Any modal dialogue consists of a header (close icon and title) and content.
+*   The content must contain at least an interaction element (e.g. ‘save’ or ‘OK’).
+*   The modal dialogue cannot be used for error messages.
+*   The width and height of the dialogue is determined by the size of the content.
+*   A minimum space from the screen edge must be kept.
+*   The modal dialogue is closed if the dimmed section is clicked on.
+*   If the content is too big, a full-screen modal dialogue can be selected: see page types.
 
-## 4. Ausprägungen
+## 4. Variants
 ### 4.1 Standard
-![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modal/images/MM03.png 'class: image')
+![Image of a modal dialogue](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modal/images/MM03.png 'class: image')
 
-#### 4.1.1 Vermassung
-[Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
+#### 4.1.1 Size
+*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
 
-## 5. Barrierefreiheit
-* Inhalte ausserhalb des geöffneten Dialogs sollen per Screen Reader nicht mehr erreichbar sein.
+## 5. Accessibility
+*   Content outside of the open dialogue should no longer be reachable via the screen reader.

@@ -1,29 +1,29 @@
-## 1. Was macht das Element?
-*   Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
+## 1. What does the element do?
+*   It shows that a longer-lasting action is being carried out.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Beim Absenden von Formularen.
-*   Beim Laden oder Aktualisieren einer gesamten Seite.
-*   Beim Laden oder Aktualisieren eines einzelnen Bereichs einer Seite.
+## 2. When should the element be used?
+*   When sending forms.
+*   When loading or updating an entire page.
+*   When loading or updating an individual part of a page.
 
-## 3. Regeln
-*   Benötigt das System länger als 100ms um eine Antwort anzuzeigen, muss ein Loading Indicator angezeigt werden.
-*   Es darf pro Seite nur ein Loading Indicator angezeigt werden.
-*   Wenn mehrere Bereiche Daten nachladen, darf nur ein Loading Indicator über die ganze Seite dargestellt werden.
+## 3. Rules
+*   If it takes the system longer than 100ms to display an answer, a loading indicator must be displayed.
+*   Only one loading indicator can be displayed per page.
+*   If several areas are downloading data, only one loading indicator can be displayed on the entire page.
 
-## 4. Ausprägungen
 
+## 4. Variants
 ### 4.1 Normal
-![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
-* Anwendung für das Laden von ganzen Seiten
+![Image of the loading indicator, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
+* Use for loading entire pages
 
-#### 4.1.1 Vermassung
+#### 4.1.1 Size
 * [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
-![Darstellung des Loading Indicatiors, Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Small.png 'class: image')
+![Image of the loading indicator, small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Small.png 'class: image')
 
-* Anwendung innerhalb Listen (Lazy-Loading)
+*   Use within lists (lazy loading)
 
-#### 4.2.1 Vermassung
+#### 4.2.1 Size
 * [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)

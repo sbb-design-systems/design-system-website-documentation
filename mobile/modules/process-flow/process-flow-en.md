@@ -1,22 +1,22 @@
-##1. Was macht das Modul?
-*   Teilt ein Prozess/Formular in mehrere Teilschritte und zeigt dem Benutzer an, in welchem Schritt er sich befindet.
+## 1. What does the module do? 
+*   It divides a process/form into several sub-steps and shows the user which step they are on.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Bei langen Formularen, welche sich thematisch gruppieren lassen.
-*   Für mehrstufige Prozesse mit einem Entscheidungsbaum.
+## 2. When should the module be used? 
+*   For long forms which can be grouped thematically. 
+*   For multi-stage processes with a decision-making tree.
 
-##3. Regeln
-*   Die Schritte werden nummeriert.
-*   Der aktive Schritt wird ausgeschrieben (Nummer und Titel).
-*   Der Titel muss einzeilig sein.
-*   Eignet sich für ca. 2-5 Schritte.
-*   Der Processflow ist immer zuoberst, direkt nach dem Header positioniert.
-*   Der Benutzer kann im Processflow auf einen bereits durchlaufenen Prozesschritt zurücknavigieren.
-*   Vorwärtsnavigation im Processflow ist nur durch den Call-to-Action der entsprechenden Seite erlaubt. Ein Überspringen (vorwärts) von Schritten ist nicht erlaubt.
+## 3. Rules 
+*   The steps are numbered. 
+*   The active step is written out (number and title). 
+*   The title must be single-line. 
+*   Is suitable for around two to five steps. 
+*   The process flow is always at the top, positioned directly after the header. 
+*   The user can navigate back to a previous process step in the process flow. 
+*   Forward navigation in the process flow is only permitted through the call-to-action of the page concerned. Skipping (forward) of steps is not permitted.
 
-##4. Ausprägungen
-###4.1 Standard
-![Dartellung eines Process Flows](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/process-flow/images/MM09.png 'class: image')
+## 4. Variants 
+### 4.1 Standard
+![Image of the process flow](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/process-flow/images/MM09.png 'class: image')
 
-####4.1.1 Vermassung
-[Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943558/inspect)
+#### 4.1.1 Size
+*   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943558/inspect)

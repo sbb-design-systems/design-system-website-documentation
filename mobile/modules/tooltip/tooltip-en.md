@@ -1,21 +1,23 @@
-##1. Was macht das Modul?
-*   Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
+## 1. What does the module do?  
+*   It allows the user to show explanations if required.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Texten.
+## 2. When should the module be used? 
+*   For context-specific explanations on interaction elements or texts.
 
-##3. Regeln
-*   Durch das i-Icon bei einem Element wird angezeigt, dass zusätzliche Informationen abrufbar sind.
-*   Bei Klick auf das i-Icon wird ein [modaler Dialog](https://digital.sbb.ch/de/mobile/module/modaler-dialog) eingeblendet, welcher die zusätzlichen Informationen enthält.
+## 3. Rules  
+*   The i-icon is used with an element to show that additional information is available. 
+*   Clicking on the i-icon displays a modal dialogue which contains the additional information.
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+*   Clicking on the i-icon displays a [modal dialogue](https://digital.sbb.ch/en/mobile/modules/modal) which contains the additional information.
+
+## 4. Variants and statuses 
+The module has the following statuses: 
 *   Closed
 *   Open
 
-###4.1 Standard
-![Dartellung eines Tooltips](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/tooltip/images/MM12_Close.png 'class: image')
+### 4.1 Standard
+![Image of the tooltip](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/tooltip/images/MM12_Close.png 'class: image')
 
-####4.1.1 Vermassung
-[Hilfe](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)
-[Info](https://sbb.invisionapp.com/d/main#/console/14051805/322943571/inspect)
+#### 4.1.1 Size
+*   [Help](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)
+*   [Info](https://sbb.invisionapp.com/d/main#/console/14051805/322943571/inspect)

@@ -1,20 +1,20 @@
-##1. Wann soll der Seitentyp eingesetzt werden?
-*   Für ein- oder mehrseitige Formulare, um Informationen des Benutzers abzuholen.
+## 1. When should the page type be used? 
+*   For forms of one or more pages to obtain user information.
 
-##2. Regeln
-*   Eine Formularseite hat immer einen Call-to-Action Button.
-*   Bei mehrseitigen Formularen dient der Call-to-Action für das Weiterspringen auf die nächste Seite.
-*   Die letzte Seite sendet das Formular ab.
+## 2. Rules 
+*   A form page always has a call-to-action button. 
+*   On multi-page forms, the call-to-action is used to skip to the next page. 
+*   The last page sends the form.
 
-##3. Ausprägungen
-### 3.1 Einseitiges Formular
-![Dartellung eines Formulars, einseitig](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/form/images/MS03_einseitig.png 'class: image')
+## 3. Variants 
+### 3.1 One-page form 
+![Image of a one-page form](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/form/images/MS03_einseitig.png 'class: image')
 
-####3.1.1 Vermassung
-[Einseitiges Formular](https://sbb.invisionapp.com/d/main#/console/14051805/323023909/inspect)
+#### 3.1.1 Size
+*   [One-page form](https://sbb.invisionapp.com/d/main#/console/14051805/323023909/inspect)
 
-### 3.2 Mehrseitige Formulare
-![Dartellung eines Formulars, mehrseitig](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/form/images/MS03_mehrseitig.png 'class: image')
+### 3.2 Multi-page forms
+![Image of a multi-page form](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/form/images/MS03_mehrseitig.png 'class: image')
 
-####3.2.1 Vermassung
-[Mehrseitiges Formular](https://sbb.invisionapp.com/d/main#/console/14051805/323023910/inspect)
+#### 3.2.1 Size
+*   [Multi-page forms](https://sbb.invisionapp.com/d/main#/console/14051805/323023910/inspect)

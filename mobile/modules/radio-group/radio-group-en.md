@@ -1,39 +1,39 @@
-##1. Was macht das Modul?
-* Bietet dem Benutzer eine Auswahl aus mehreren Optionen an.
+## 1. What does the module do? 
+* It provides the user with a selection of several options.
 
-##2. Wann soll das Modul eingesetzt werden?
-* Bei Listen mit zwei oder mehr Auswahlmöglichkeiten, die sich gegenseitig ausschliessen.
-* Bei Auswahlmöglichkeiten, welche mehrere Informationen beinhalten.
+## 2. When should the module be used? 
+* For lists of two or more options which mutually exclude one another. 
+* For options which contain several pieces of information.
 
-##3. Regeln
-* Der Titeltext der Optionen ist immer einzeilig.
-* Die ganze Fläche einer Option ist klickbar und ändert den Zustand.
-* Die Optionen können je nach Anwendungsfall mit Zusatzinformationen und Aktionen ergänzt werden. Diese werden für die selektierte Option im aufgeklappten Zustand angezeigt.
-* Die verschiedenen Optionen sind immer untereinander aufgelistet.
-* Das erste Element defaultmässig immer ausgewählt.
+## 3. Rules 
+* The title text of the options is always single-line. 
+* The entire area of an option can be clicked on and changes the status. 
+* The options can be supplemented with additional information and actions depending on the application scenario. These are shown in the expanded status for the option selected. 
+* The various options are always listed beneath one another. 
+* The first element is always selected by default.
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses 
+The module has the following statuses: 
 * Checked
 * Unchecked
 * Checked disabled
 * Unchecked disabled
 
-###4.1 Standard
-![Dartellung einer Radio-Group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_ohne_Preis.png 'class: image')
+### 4.1 Standard
+![Image of the radio group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_ohne_Preis.png 'class: image')
 
-####4.1.1 Vermassung
-[Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950113/inspect)
-[Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950114/inspect)
-[Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950115/inspect)
-[Unchecked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950116/inspect)
+#### 4.1.1 Size
+*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950113/inspect)
+*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950114/inspect)
+*   [Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950115/inspect)
+*   [Unchecked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950116/inspect)
 
-###4.2 mit Preisangabe
-![Dartellung einer Radio-Group, mit Preisangabe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_mit_Preis.png 'class: image')
+### 4.2 With price information 
+![Image of the radio group, with price information](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_mit_Preis.png 'class: image')
 
-####4.2.1 Vermassung
-[Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950117/inspect)
-[Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950118/inspect)
-[Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950119/inspect)
-[Unchecked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950120/inspect)
+#### 4.2.1 Size 
+*   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950117/inspect)
+*   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950118/inspect)
+*   [Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950119/inspect)
+*   [Unchecked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950120/inspect)
 

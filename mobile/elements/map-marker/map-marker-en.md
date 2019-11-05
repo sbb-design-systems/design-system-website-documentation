@@ -1,24 +1,24 @@
-## 1. Was macht das Element?
-*   Zeigt einen POI auf einer Karte an.
+## 1. What does the element do?
+*   It shows a POI on a map.
 
-## 2. Wann soll das Element eingesetzt werden?
-*   Wenn POIs auf einer Karte angezeigt werden sollen
+## 2. When should the element be used?
+*   When POIs are to be shown on a map
 
-## 3. Regeln
-*   Map-Marker dürfen nur auf Karten verwendet werden.
-*   Nahverkehrsmittel sind immer in Blau gehalten.
-*   Fernverkehrsmittel sind immer in Schwarz gehalten.
-*   Andere Typen sollen mit anderen Farben dargestellt werden.
+## 3. Rules
+*   Map markers can only be used on maps.
+*   Means of local transport are always shown in blue.
+*   Long-distance means of transport are always shown in black.
+*   Other types of transport should be shown in different colours.
 
-## 4. Ausprägungen und Zustände
-Das Element hat folgende Zustände:
-*   Blau
-*   Schwarz
+## 4. Variants and statuses
+The element has the following statuses: 
+*   Blue 
+*   Black
 
 ### 4.1 Standard
-![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
+![Image of the map marker, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
 
 
-#### 4.2.1 Vermassung
-*   [Blau](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)
-*   [Schwarz](https://sbb.invisionapp.com/d/main#/console/14051805/313167036/inspect)
+#### 4.2.1 Size
+*   [Blue](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)
+*   [Black](https://sbb.invisionapp.com/d/main#/console/14051805/313167036/inspect)

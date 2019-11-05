@@ -1,34 +1,35 @@
-##1. Was macht das Modul?
-*   Zeigt kontextspezifische Funktionen an.
+## 1. What does the module do?
+*   It displays context-specific functions.
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Bei weiterführenden Funktionen von Modulen oder Seiten.
+## 2. When should the module be used? 
+*   For supplementary functions of modules or pages.
 
-##3. Regeln
-*   Das Kontextmenü muss mindestens zwei Funtionen aufweisen.
-*   Die Menüeinträge beinhalten immer ein Icon und einen Text.
+## 3. Rules 
+*   The context menu must have at least two functions. 
+*   The menu entries always have an icon and a text.
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses 
+The module has the following statuses:
 *   Closed
 *   Open
 
-###4.1 Im Modul
-![Darstellung des Kontext Menus, im Modul](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
+### 4.1 In the module
+![Image oft the context menu, in module](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen.png 'class: image')
 
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
+![Image oft the context menu, in module,two part](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
 
-*   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
-####4.1.1 Vermassung
-[Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
-[Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
+*   The width of the context menu depends on the length of the entries. 
+#### 4.1.1 Size 
+*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
+*   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
 
-###4.2 Auf Seiten
-![Darstellung des Kontext Menus, auf Seiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
+### 4.2 On pages 
+![Image oft the context menu, on pages](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_auf_Seiten.png 'class: image')
 
-*   Das Kontextmenü verwendet die ganze Breite des Screens.
-*   Das Menü drückt Seiteninhalt weg.
-####4.2.1 Vermassung
-[Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
-[Open (einteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
-[Open (zweiteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)
+*   The context menu uses the full width of the screen.
+*   The menu pushes away side content. 
+
+#### 4.2.1 Size 
+*   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
+*   [Open (one part)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
+*   [Open (two part)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)

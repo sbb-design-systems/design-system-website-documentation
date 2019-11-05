@@ -1,28 +1,28 @@
-##1. Was macht das Modul?
-*   Gruppiert zusammengehörige Formular-Elemente
+## 1. What does the module do?
+*   It groups form elements that belong together
 
-##2. Wann soll das Modul eingesetzt werden?
-*   Bei Formular-Elementen wie [Radiobuttons](https://digital.sbb.ch/de/mobile/elemente/radiobutton) und [Checkboxen](https://digital.sbb.ch/de/mobile/elemente/checkbox).
+## 2. When should the module be used? 
+*   For form elements such as [radio buttons](https://digital.sbb.ch/en/mobile/elements/radiobutton) and  [checkboxes](https://digital.sbb.ch/en/mobile/elements/checkbox).
 
-##3. Regeln
-*   Es sind keine leeren Form-Groups erlaubt (min. ein Element).
-*   Oberhalb einer Form-Group kann ein [Listen-Header](https://digital.sbb.ch/de/mobile/elemente/listen-header) eingesetzt werden. 
-*   Der Abstand zum Element ([Radiobutton](https://digital.sbb.ch/de/mobile/elemente/radiobutton), [Checkbox](https://digital.sbb.ch/de/mobile/elemente/checkbox)) ist oben und unten jeweils 6dp. 
+## 3. Rules 
+*   No empty form groups are permitted (minimum of one element). 
+*   A [list header](https://digital.sbb.ch/en/mobile/elements/list-header) can be used above a form group. . 
+*   The space from the element ([radio button](https://digital.sbb.ch/en/mobile/elements/radiobutton), [Checkbox](https://digital.sbb.ch/de/mobile/elemente/checkbox)) is 6dp above and below. 
 
-##4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
-*   Mit Info
-*   Ohne Info
+## 4. Variants and statuses 
+The module has the following statuses: 
+*   With info 
+*   Without info
 
-###4.1 mit Info 
-![Darstellung von Form Groups, mit Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_mit_Info.png 'class: image')
+### 4.1 with info 
+![Image of the form group, with info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_mit_Info.png 'class: image')
 
-####4.1.1 Vermassung
-[Mit Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
+#### 4.1.1 Size
+*   [with info](https://sbb.invisionapp.com/d/main#/console/14051805/322950111/inspect)
 
-###4.2 ohne Info
-![Darstellung von Form Groups, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_ohne_Info.png 'class: image')
+### 4.2 without info
+![Image of the form group, without info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/form-group/images/MM19_ohne_Info.png 'class: image')
 
-####4.2.1 Vermassung
-[Ohne Info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)
+#### 4.2.1 Size
+*   [without info](https://sbb.invisionapp.com/d/main#/console/14051805/322950112/inspect)
 
