@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Strukturierung von Content in unterschiedliche Unter-Gruppen.
+Dient zur Strukturierung von Content in unterschiedliche Unter-Gruppen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn innerhalb des Content klare Untergruppen erstellt werden können.

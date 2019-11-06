@@ -1,11 +1,11 @@
 ## 1. Was macht das Element?
-* Legt die vertikalen Abstände zwischen Elementen, Modulen oder Komponenten fest.
+Legt die vertikalen Abstände zwischen Elementen, Modulen oder Komponenten fest.
 
 ## 2. Wann soll das Element eingesetzt werden? 
-* Bei jeder Anordnung von Elementen, Modulen und Komponenten.
+Bei jeder Anordnung von Elementen, Modulen und Komponenten.
 
 ## 3. Regeln 
-* Keine
+Keine
 
 ## 4. Ausprägungen
 ### 4.1 Thin

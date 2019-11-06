@@ -1,13 +1,13 @@
 ## 1. Was macht die Komponente?
-* Dient zum An-/Abmelden und bietet dem angemeldeten Benutzer ein Menü mit übergreifenden Funktionalitäten an.
+Dient zum An-/Abmelden und bietet dem angemeldeten Benutzer ein Menü mit übergreifenden Funktionalitäten an.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Immer wenn sich der Benutzer bei einer Anwendung anmelden können soll.
+Immer wenn sich der Benutzer bei einer Anwendung anmelden können soll.
 
 ## 3. Regeln
 * Das Benutzermenü ist immer im Header platziert und darf nur dort eingesetzt werden.
 * Das aufgeklappte Benutzermenü kann durch Klick ausserhalb des Dropdowns geschlossen werden.
-* Der letzte Menüpunkt in der Liste ist immer «Logout».
+* Der letzte Menüpunkt in der Liste ist immer «Abmelden».
 
 ## 4. Ausprägungen und Zustände 
 Die Komponente hat folgende Zustände:

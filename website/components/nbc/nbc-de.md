@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Stellt unterschiedliche Informationen und Funktionen zur Verfügung.
+Stellt unterschiedliche Informationen und Funktionen zur Verfügung.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Zur Ergänzung von Inhaltsseiten.
+Zur Ergänzung von Inhaltsseiten.
 
 ## 3. Regeln
 * Das Modul wird immer in der Marginalspalte (rechts) eingesetzt.
@@ -87,7 +87,7 @@ In Bearbeitung.
 
 ### 5.2 Tablet
 * Alle Next-Best-Click Optionen sind jederzeit über das sticky Element rechts unten verfügbar.
-* Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im offenen Zustand nebeneinander (zweispaltige Darstellung)
+* Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im offenen Zustand nebeneinander (zweispaltige Darstellung).
 * Das Icon im Sticky-Element wechselt dann zum Schliessen-Button (Toggle-Button).
 * In der Tablet-Variante werden die NBC-Boxen am Ende der Content-Area redundant (offen) dargestellt.
 * Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
@@ -102,6 +102,6 @@ In Bearbeitung.
 * Das Icon in dem Sticky Element wechselt zum Schliessen-Icon (Toggle-Button).
 * In der mobilen Variante werden die NBC-Boxen am Ende der Content-Area redundant (offen) dargestellt.
 * Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
-* Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder
+* Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder.
 
 ![Darstellung des Verhaltens eines Next Best Click Containers auf Mobiles](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_mobile.png 'class: image')

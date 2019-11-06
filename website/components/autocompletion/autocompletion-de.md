@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Unterstützt den Benutzer bei der Eingabe mit Vorschlägen.
+Unterstützt den Benutzer bei der Eingabe mit Vorschlägen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn ein Eingabefeld viele vordefinierte Werte aufweisen kann.

@@ -2,7 +2,7 @@
 *   Eine Kachel dient als Klick-Target und ruft eine Funktion/Seite auf.
 
 ## 2. Wann soll das Element eingesetzt werden?
-*   Beim Aufruf einer Funktion/Seite von der aus.
+*   Beim Aufruf einer Funktion/Seite von der Startseite aus.
 
 ## 3. Regeln
 *   Kacheln werden nur innerhalb von Modulen auf der Startseite eingesetzt.
@@ -10,7 +10,7 @@
 *   Eine Kachel enthält immer ein Icon sowie einen Titel.
 *   Eine Kachel muss klickbar sein. Status wie disabled, inactive sind nicht erlaubt.
 *   Das Icon sollte so weit wie möglich selbsterklärend sein.
-*   Der Titel beschreibt die Funktion/Seite und muss anschliessend im verwendet werden.
+*   Der Titel beschreibt die Funktion/Seite und muss anschliessend im Titel verwendet werden.
 
 ## 4. Ausprägungen
 ### 4.1 Standard

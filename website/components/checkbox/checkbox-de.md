@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von Ja/Nein-Werten.
+Dient zur Eingabe von Ja/Nein-Werten.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Auswählen einer Option.

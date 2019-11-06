@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Strukturierung der Anzeige von Daten und Formularen.
+Dient zur Strukturierung der Anzeige von Daten und Formularen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn innerhalb des gleichen Kontexts zwischen verschiedenen Aspekten gewechselt werden soll.

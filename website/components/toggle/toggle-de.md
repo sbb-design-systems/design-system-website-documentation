@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Bietet dem Benutzer ein Auswahl aus genau zwei Optionen an.
+Bietet dem Benutzer ein Auswahl aus genau zwei Optionen an.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei Entweder-Oder Auswahl von wichtigen Werten welche prominent angezeigt werden sollen.
+Bei Entweder-Oder Auswahl von wichtigen Werten welche prominent angezeigt werden sollen.
 
 ## 3. Regeln
 * Standardmässig ist immer die erste Option vorausgewählt.

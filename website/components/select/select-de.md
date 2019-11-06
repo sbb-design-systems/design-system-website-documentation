@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Auswahl einer oder mehrerer Optionen aus einer vorgegebenen Liste.
+Dient zur Auswahl einer oder mehrerer Optionen aus einer vorgegebenen Liste.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei einer Auswahl aus mehreren Optionen (Einfach- oder Mehrfachauswahl) einer Liste.

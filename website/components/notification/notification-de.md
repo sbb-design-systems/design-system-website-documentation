@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Anzeige von Meldungen welche eine ganze Seite betreffen.
+Dient zur Anzeige von Meldungen welche eine ganze Seite betreffen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein Feedback erhalten soll.
+Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein Feedback erhalten soll.
 
 ## 3. Regeln
 * Notifications erscheinen immer erst nach dem Auslösen einer Aktion durch den Benutzer.

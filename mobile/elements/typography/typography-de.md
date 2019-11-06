@@ -7,8 +7,6 @@
 ## 3. Regeln
 *   Keine
 
-[create an anchor](#anchors-in-markdown)
-
 ## 4. Ausprägungen
 *   [4.1 Header](#header)
 *   [4.2 Headline](#headline)

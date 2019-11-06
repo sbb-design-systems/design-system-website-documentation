@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zu Darstellung von sieben und mehr Bildern / Videos in einer Auflistung.
+Dient zu Darstellung von sieben und mehr Bildern / Videos in einer Auflistung.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei einer Auflistung von mehreren Bildern/Videos.
+Bei einer Auflistung von mehreren Bildern/Videos.
 
 ## 3. Regeln 
 * Es dürfen 7 und mehr Bilder/Videos verwendet werden.

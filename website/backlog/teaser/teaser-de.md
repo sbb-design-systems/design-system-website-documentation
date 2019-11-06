@@ -1,11 +1,11 @@
 ## 1. Was macht das Modul?
-* Es werden Themen und Inhalte beworben.
+Es werden Themen und Inhalte beworben.
 
 ## 2. Wann soll das Modul eingesetzt werden? 
-* Zur Navigation von einer Themen Übersichtsseite zu den Detailseiten.
+Zur Navigation von einer Themen Übersichtsseite zu den Detailseiten.
 
 ## 3. Regeln 
-* Teaser bestehen immer aus einem [Bild](WE10---Bild_30823793.html) (keine Videos), einer Headline, allenfalls einer Copy und einem [Link](WE11---Link_30823966.html).
+* Teaser bestehen immer aus einem [Bild](https://digital.sbb.ch/de/basics/images) (keine Videos), einer Headline, allenfalls einer Copy und einem [Link](https://digital.sbb.ch/de/components/link).
 * Teaser können interne oder externe Seiten verlinken.
 * Bei Hover vergrössert sich das Bild auf 110% (maskiert) und der Link wechselt auf die Hover-Version.
 
@@ -27,8 +27,7 @@ Das Modul hat folgende Zustände:
 * Die komplette Fläche (Bild und Text-Fläche) ist klickbar.
 * Es können 3 bis 6 Teaser platziert werden. Bei einer ungeraden Anzahl von Teasern (3 und 5) wird die Breite der Teaser angepasst.
 * Der 5. und der 6. Teaser werden auf einer zweiten Zeile zentriert dargestellt.
-* Tastaturbedienung
-    * Die einzelnen Teaser können mittels Tab angesprungen werden.
+* Tastaturbedienung: Die einzelnen Teaser können mittels Tab angesprungen werden.
 
 ### 4.2 Contentwide Teaser
 Diese Ausprägung hat zusätzlich folgende Zustände:
@@ -47,7 +46,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Bei Hover wird die automatische Animation wird unterbrochen.
 * Auf mobilen Geräten kann mittels Swipe-Interaktion zwischen den Bildern gewechselt werden.
 * Wird manuell auf ein anderes Bild gewechselt, so wird die automatische Animation unterbrochen.
-* Tastaturbedienung
+* Tastaturbedienung:
     * Die einzelnen Elemente der Navigationsleiste unterhalb der Bilder (Play- / Pause-Knopf, Bullets für die einzelnen Bilder) können mittels Tab angesprungen werden.
     * Die Elemente können mittels Leertaste oder Enter angewählt werden.
     * Nach dem letzten Bullet wird mittels Tab das Bild im Karrussel angesprungen. Auf den Inhalt dieses Teasers kann dann mittels Enter gesprungen werden.

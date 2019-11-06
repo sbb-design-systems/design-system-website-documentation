@@ -2,7 +2,7 @@
 *   Über einen Menü-Eintrag kann der Benutzer eine Kategorie (Hierarchiestufe), Funktion oder Seite innerhalb des Menüs wählen/aufrufen.
 
 ## 2. Wann soll das Element eingesetzt werden?
-*   Innerhalb des .
+*   Innerhalb des Menüs.
 *   Bei hierarchischer Navigation.
 
 ## 3. Regeln
