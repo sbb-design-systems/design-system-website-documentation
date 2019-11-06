@@ -14,8 +14,10 @@
 
 ## 4. Ausprägungen und Zustände 
 Die Komponente hat folgende Zustände:
-* Active
+* Active (Default)
 * Inactive
+* Hover active
+* Hover inactive
 
 ### 4.1 Filtertag
 ![Darstellung der Komponente Tag zur Verwendung als Filter](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag.png 'class: image')
@@ -29,6 +31,8 @@ Beispiel:
 #### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768741/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/327768742/inspect)
+* [Hover active](https://sbb.invisionapp.com/d/main#/console/15744722/390754605/inspect)
+* [Hover inactive](https://sbb.invisionapp.com/d/main#/console/15744722/390754606/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
@@ -42,7 +46,8 @@ Beispiel:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag_example.png 'class: image')
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/390754607/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
