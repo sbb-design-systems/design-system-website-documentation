@@ -13,7 +13,7 @@
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
 *   Normal
-*   On-Click
+*   Pressed
 
 ### 4.1 Text-Link
 ![Darstellung des Text-Links, Normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/link/images/ME07_default.png 'class: image')

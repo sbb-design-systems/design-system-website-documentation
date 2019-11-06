@@ -12,7 +12,6 @@
 *   Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 *   Der Text kann mehrzeilig sein.
 *   Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
-*   Radio-Buttons befinden sich immer in einer
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:

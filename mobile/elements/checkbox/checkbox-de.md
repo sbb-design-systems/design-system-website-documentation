@@ -10,7 +10,6 @@
 *   Horizontal Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 *   Der Text kann mehrzeilig sein.
 *   Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
-*   Checkboxen befinden sich immer in einer 
 
 ## 4. Ausprägungen und Zustände
 Das Element hat folgende Zustände:
