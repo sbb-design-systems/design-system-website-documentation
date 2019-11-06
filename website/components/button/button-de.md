@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Löst eine Aktion auf einer Seite aus.
+Löst eine Aktion auf einer Seite aus.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Starten oder Beenden eines Prozesses.
@@ -8,7 +8,7 @@
 
 ## 3. Regeln
 * Darf nicht innerhalb von Fliesstext eingesetzt werden.
-* Darf nicht im (link: websites/modules/header text: Header) als Navigation oder Funktion eingesetzt werden.
+* Darf nicht im [Header](https://digital.sbb.ch/de/modules/header) als Navigation oder Funktion eingesetzt werden.
 * Die Mindestbreite beträgt 60px, die Maximalbreite 400px.
 * Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
 * Ist der Text beim Erreichen der Maximallänge immer noch zu lang, wird dieser mit «\...» abgekürzt.

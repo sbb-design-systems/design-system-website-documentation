@@ -1,27 +1,26 @@
 ## 1. Was macht das Modul?
-* Sammeln der Kontaktinformationen eines Benutzers.
+Sammeln der Kontaktinformationen eines Benutzers.
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Registrierung
-* Kauf
-* Sonstige Kontaktaufnahme seitens Benutzer
+* Registrierung.
+* Kauf.
+* Sonstige Kontaktaufnahme seitens Benutzer.
 * Ist der Benutzer bereits eingeloggt, so sollten diese Informationen aus dem Account gezogen werden.
 
 ## 3. Regeln 
-* Für Kontakt-/Adressangaben steht ein standardisierter Block zur Verfügung. Dieser enthält folgende Felder:
-
-    1.  Anrede ([Radio-Button](WE21---Radiobutton_30824096.html) Herr/Frau)
-    2.  Vorname ([Eingabefeld](WE15---Eingabefeld_30823990.html))
-    3.  Nachname ([Eingabefeld](WE15---Eingabefeld_30823990.html))
-    4.  Firma ([Eingabefeld](WE15---Eingabefeld_30823990.html), optional)
-    5.  Strasse ([Eingabefeld](WE15---Eingabefeld_30823990.html))
-    6.  Nr. ([Eingabefeld](WE15---Eingabefeld_30823990.html), kurz)
-    7.  Adresszusatz ([Eingabefeld](WE15---Eingabefeld_30823990.html), optional)
-    8.  PLZ ([Eingabefeld](WE15---Eingabefeld_30823990.html), kurz, nur Zahlen erlaubt, max. Länge 5)
-    9.  Ort ([Eingabefeld](WE15---Eingabefeld_30823990.html))
-    10. Land ([Select](WE18---Select_30824011.html), Schweiz vorausgewählt, danach Deutschland, Frankreich, Italien, Österreich, danach alle Länder alphabetisch)
-    11. E-Mail ([Eingabefeld](WE15---Eingabefeld_30823990.html), E-Mail-Validierung)
-    12. Telefon ([Eingabefeld](WE15---Eingabefeld_30823990.html), Tel-Nr.-Validierung)
+Für Kontakt-/Adressangaben steht ein standardisierter Block zur Verfügung. Dieser enthält folgende Felder:
+1.  Anrede ([Radiobutton](https://digital.sbb.ch/de/components/radiobutton) Herr/Frau)
+2.  Vorname ([Eingabefeld](https://digital.sbb.ch/de/components/textfield))
+3.  Nachname ([Eingabefeld](https://digital.sbb.ch/de/components/textfield))
+4.  Firma ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), optional)
+5.  Strasse ([Eingabefeld](https://digital.sbb.ch/de/components/textfield))
+6.  Nr. ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), kurz)
+7.  Adresszusatz ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), optional)
+8.  PLZ ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), kurz, nur Zahlen erlaubt, max. Länge 5)
+9.  Ort ([Eingabefeld](Whttps://digital.sbb.ch/de/components/textfield))
+10. Land ([Select](https://digital.sbb.ch/de/components/select), Schweiz vorausgewählt, danach Deutschland, Frankreich, Italien, Österreich, danach alle Länder alphabetisch)
+11. E-Mail ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), E-Mail-Validierung)
+12. Telefon ([Eingabefeld](https://digital.sbb.ch/de/components/textfield), Tel-Nr.-Validierung)
 
 ## 4. Ausprägungen und Zustände
 Das Modul hat folgende Zustände:
@@ -35,7 +34,7 @@ Das Modul hat folgende Zustände:
 ### 4.5 Kontakt, Firma, Adresse und Telefon
 ### 4.6 Kontakt, Firma, Adresse, E-Mail und Telefon 
 ### 4.7 Rechnungs- und Lieferadresse identisch
-* [Radio-Buttons](WE21---Radiobutton_30824096.html) mit Auswahl identischer Lieferadresse
+* [Radiobuttons](https://digital.sbb.ch/de/components/radiobutton) mit Auswahl identischer Lieferadresse
 
 ### 4.8 Rechnungs- und Lieferadresse abweichend 
-* [Radio-Buttons](WE21---Radiobutton_30824096.html) mit Auswahl abweichender Lieferadresse
+* [Radiobuttons](https://digital.sbb.ch/de/components/radiobutton) mit Auswahl abweichender Lieferadresse

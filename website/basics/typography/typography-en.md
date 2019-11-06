@@ -1,126 +1,126 @@
-## 1. Schrift
-Als Schriftart wird die Hausschrift «SBB Web» als Web-Font verwendet und in den Schnitten Thin, Light, Roman und Bold eingesetzt.
+## 1. Font
+The company font ‘SBB Web’ is used as a web font and in the styles Thin, Light, Roman and Bold.
 
-## 2. Stile
-Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Komponenten. Werden andere eingesetzt ist auf eine klare Hierarchie zu achten ebenso wie auf ausreichenden Kontrast und entsprechenden Zeilen- / Absatzabstand. Für die Schriftfarben gelten die [SBB-Farben](https://digital.sbb.ch/de/farben).
+## 2. Style
+The font styles defined here form the basis of web applications and their components. If others are used, a clear hierarchy must be ensured as well as sufficient contrast and appropriate line/paragraph spacing. The [SBB colours](https://digital.sbb.ch/en/farben) apply to font colours.
 
-### 2.1 Überschrift H1
-![Darstellung des Schriftstils Überschrift H1](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h1.png 'class: image')
-* Pro Seite nur einmal.
-* Beinhaltet nie einen Link.
-* Text der Überschrift soll dem Titel in der Navigation entsprechen.
+### 2.1 Heading H1
+![Image of the heading H1 text font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h1.png 'class: image')
+* Only once per page.
+* Never contains a link.
+* The text of the heading should be the same as the title in the navigation.
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796872/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.2 Überschrift H2
-![Darstellung des Schriftstils Überschrift H2](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h2.png 'class: image')
-* Ausrichtung ist grundsätzlich linksbündig.
-* Wird der H2-Titel für zusätzliche Informationen direkt unter einem H1-Titel verwendet, darf dieser auch zentriert ausgerichtet werden.
-* Darf nicht ohne vorangehenden H1-Titel eingesetzt werden.
+### 2.2 Heading H2
+![Image of the heading H2 text font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h2.png 'class: image')
+* It is generally left-justified.
+* If the H2 title is used for additional information directly beneath a H1 title, this may also be centred.
+* Cannot be used without a preceding H1 title.
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796873/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.3 Überschrift H3
-![Darstellung des Schriftstils Überschrift H3](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h3.png 'class: image')
-* Ausrichtung ist linksbündig.
-* Darf nicht ohne vorangehenden H2-Titel eingesetzt werden.
+### 2.3 Heading H3
+![Image of the heading H3 text font style3](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h3.png 'class: image')
+* Alignment is left-justified.
+* It cannot be used without a preceding H2 title.
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796874/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.4 Überschrift H4
-![Darstellung des Schriftstils Überschrift H4](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h4.png 'class: image')
-* Ausrichtung ist linksbündig.
-* Darf nicht ohne vorangehenden H3-Titel eingesetzt werden.
+### 2.4 Heading H4
+![Image of the heading H4 text font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_h4.png 'class: image')
+* Alignment is left-justified.
+* It cannot be used without a preceding H3 title.
 
-#### Spezifikation
+#### Specification
 * [Design](lhttps://sbb.invisionapp.com/d/main#/console/15744722/331796875/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.5 Lead
-![Darstellung des Schriftstils Lead-Text](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_lead.png 'class: image')
+![Image of the lead text font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_lead.png 'class: image')
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796876/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 
-### 2.6 Fliesstext (Copy)
-![Darstellung des Schriftstils Fliesstext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_copy.png 'class: image')
+### 2.6 Body copy
+![Image of the body copy font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_copy.png 'class: image')
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796877/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.7 Link
-![Darstellung des Schriftstils Link](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_link.png 'class: image')
-* Gilt als Standardlink innerhalb von Texten.
-* Zusätzliche Ausführungen von Links sind unter [Link](https://digital.sbb.ch/de/website/components/link) zu finden.
+![Image of the link font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_link.png 'class: image')
+* Is used as a standard link within texts.
+* Further information about links can be found at [link](https://digital.sbb.ch/en/website/components/link).
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796878/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.8 Subtext
-![Darstellung des Schriftstils Subtext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_subtext.png 'class: image')
+![Image of the subtext font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_subtext.png 'class: image')
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796879/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.9 Tabellenheader
-![Darstellung des Schriftstils Tabellenheader](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_table_header.png 'class: image')
-* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/website/components/table) zu finden.
+### 2.9 Table header
+![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_table_header.png 'class: image')
+* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/website/components/table).
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796882/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.10 Tabellendaten
-![Darstellung des Schriftstils Tabellendaten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_table_data.png 'class: image')
-* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/website/components/table) zu finden.
+### 2.10 Table data
+![Image of the table data font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_table_data.png 'class: image')
+* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/website/components/table).
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.11 Liste geordnet
-![Darstellung des Schriftstils Liste geordnet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_ordered.png 'class: image')
-* Liste hat maximal drei Hierarchie-Stufen.
-* Einfache Links sind erlaubt.
-* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen
-* Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
+### 2.11 List structure
+![Image of the list structure font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_ordered.png 'class: image')
+* The list has a maximum of three hierarchy levels.
+* Simple links are permitted.
+* Bold, superscript and subscript numbers are permitted.
+* Short descriptions should be defined for a list entry (no four-line texts) whenever possible.
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796880/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.12 Liste ungeordnet
-![Darstellung des Schriftstils Liste ungeordnet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_unordered.png 'class: image')
-* Liste hat maximal drei Hierarchie-Stufen.
-* Einfache Links sind erlaubt.
-* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen
-* Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
+### 2.12 Unstructured list
+![Image of the unstructured list font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_unordered.png 'class: image')
+* The list has a maximum of three hierarchy levels.
+* Simple links are permitted.
+* Bold, superscript and subscript numbers are permitted.
+* Short descriptions should be defined for a list entry (no four-line texts) whenever possible.
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796881/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.13 Fieldset einfach
-![Darstellung des Schriftstils Fieldset einfach](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_fieldset_default.png 'class: image')
+### 2.13 Fieldset simple
+![Image of the fieldset simple font style](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_fieldset_default.png 'class: image')
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
-### 2.14 Fieldset verschachtelt
-![Darstellung des Schriftstils Fieldset verschachtelt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_fieldset_nested.png 'class: image')
+### 2.14 Fieldset complex
+![Image of the fieldset font style complex](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_fieldset_nested.png 'class: image')
 
-#### Spezifikation
+#### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)

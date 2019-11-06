@@ -1,23 +1,23 @@
-## 1. Was macht die Komponente?
-* Dient zur Eingabe von Ja/Nein-Werten.
+## 1. What does the component do?
+* It is used for the entry of yes/no values.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Beim Auswählen einer Option.
-* Beim Auswählen mehrerer zueinander unabhängigen Optionen.
+## 2. When should the component be used?
+* When selecting an option.
+* When selecting several options that are independent of one another.
 
-## 3. Regeln 
-* Eine Checkbox ist nur innerhalb von Formularen erlaubt.
-* Eine Vorauswahl ist Pflicht (aktiv oder inaktiv, kein Tristate).
-* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
-* Horizontal Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
-* Bei mobilen Ansichten ist eine horizontale Anordnung nicht erlaubt.
-* Der Text kann mehrzeilig sein.
-* Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
-* Oberhalb einer Checkbox-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
-
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+## 3. Rules
+* A checkbox is only permitted within forms.
+* A pre-selection is mandatory (active or inactive, no tristate).
+* Several checkboxes can be arranged vertically or horizontally. The vertical layout is preferred as it allows the user to understand the options more quickly.
+* Horizontal layout only for two to three options and short names.
+* A horizontal layout is not permitted for mobile views.
+* The text can be multi-line.
+* In addition to the actual checkbox, the entire text can also be used as a click target.
+* A title can be inserted above a checkbox group.
+* A question mark in the circle can also be shown – in addition to the title – for detailed explanations. A [tooltip](https://digital.sbb.ch/en/components/tooltip) opens when this question mark is clicked on.
+ 
+## 4. Variants and statuses
+The component has the following statuses: 
 * Checked
 * Unchecked
 * Focused checked
@@ -26,9 +26,9 @@ Die Komponente hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Checkbox in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_default.png 'class: image')
+![Image of the checkbox component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724165/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724166/inspect)
 * [Focused checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724167/inspect)
@@ -36,23 +36,23 @@ Die Komponente hat folgende Zustände:
 * [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724169/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724170/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
-### 4.2 Vertikale Checkbox-Gruppe 
-![Darstellung der Komponente Checkbox als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image')
+### 4.2 Vertical checkbox group 
+![Image of the checkbox as a vertical group component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
 
-### 4.3 Horizontale Checkbox-Gruppe
-![Darstellung der Komponente Checkbox als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image')
+### 4.3 Horizontal checkbox group
+![Image of the checkbox as a horizontal group component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)

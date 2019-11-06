@@ -1,48 +1,53 @@
-## 1. Was macht die Komponente?
-* Kategorisiert eine grosse Anzahl an Informationen.
+## 1. What does the component do?
+It categorises a large amount of information.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Beim Filtern von Ergebnissen mit vielen Kategorien.
-* In einer Tagcloud als Linktag um Absprungspunkte auf eine neue Kategorienseite zu verwenden.
+## 2. When should the component be used?
+* For filtering results with lots of categories.
+* In a tag cloud as a link tag to use jump points to a new category page.
 
-## 3. Regeln
-* Ein Tag hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
-* Die Ausrichtung der Tags ist bei Content-Seiten immer links, bei Übersichtsseiten immer zentriert.
-* Die Reihenfolge der Tags werden redaktionell bestimmt.
-* Der Begriff im Tag ist immer einzeilig (keine Zeilenumbrüche) und das Tag selber wächst in der Breite mit dem Text mit.
-* Wird ein Tag aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
+## 3. Rules
+* A tag always has an indicator which shows how many results are behind it.
+* The tag is always positioned on the left in content pages and is always centred in overview pages.
+* The order of the tags is determined editorially.
+* The term in the tag is always single-line (no line breaks) and the tag itself increases in width with the text.
+* If a tag becomes too long for the viewport due to the text, the text is shortened with ‘…’.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
-* Active
+## 4. Variants and statuses
+The component has the following statuses:
+* Active (Default)
 * Inactive
+* Hover active
+* Hover inactive
 
-### 4.1 Filtertag
-![Darstellung der Komponente Tag zur Verwendung als Filter](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag.png 'class: image')
-* Im Filter sind die Tags im aktiven und inaktiven Zustand vorhanden.
-* Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
-* Innerhalb des Filter wird immer zusätzlich ein Tag «Alle» eingefügt. Wird dieses Filtertag angeklickt, wechselt es in den Zustand aktiv und alle anderen Tags im Filter werden in den Zustand inaktiv gesetzt.
+### 4.1 Filter tag
+![Image of the filter tag component used as filter](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag.png 'class: image')
+* The status of the tags in the filter is active or inactive.
+* When a tag is clicked, the status concerned toggles to the other status and influences the filter result.
+* A tag ‘all’ is always inserted within the filter. If this filter tag is clicked, it changes to the active status and all other tags in the filter are set to the inactive status.
 
-Beispiel:
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag_example.png 'class: image')
+Example:
+![Image of an example for filter tag component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_filtertag_example.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768741/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/327768742/inspect)
+* [Hover active](https://sbb.invisionapp.com/d/main#/console/15744722/390754605/inspect)
+* [Hover inactive](https://sbb.invisionapp.com/d/main#/console/15744722/390754606/inspect)
 
-#### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tag)
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
 
-### 4.2 Linktag
-![Darstellung der Komponente Tag zur Verwendung als Link](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag.png 'class: image')
-* Linktags sind nur im aktiven Zustand vorhanden.
-* Mit einem Klick auf das Tag gelangt der Benutzer auf die entsprechende Kategorienseite.
+### 4.2 Link tag
+![Image of the filter tag component used as link](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag.png 'class: image')
+* Link tags only have the active status.
+* Clicking on the tag takes the user to the relevant category page.
 
-Beispiel:
-![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag_example.png 'class: image')
+Example:
+![Image of an example for link tag component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tag/images/tag_linktag_example.png 'class: image')
 
-#### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
+#### Design specification
+* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/390754607/inspect)
 
-#### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tag)
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)

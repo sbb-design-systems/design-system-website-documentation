@@ -1,30 +1,30 @@
-## 1. Was macht die Komponente?
-* Dient zum Hochladen von Dateien.
+## 1. What does the component do?
+It is used for uploading files.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
+## 2. When should the component be used?
+When an application requires one or more files from a user.
 
-## 3. Regeln 
-* Mit Klick auf den [Button](https://digital.sbb.ch/de/components/button) «Datei hochladen» öffnet sich der Datei-Browser des Systems.
-* Die hochgeladenen Dateien werden in einer Liste angezeigt.
-* Die Liste ist sortiert nach der chronologischen Reihenfolge des Hochladens.
-* Mittels «Löschen» Button (Papierkorb) kann eine einzelne Datei wieder aus der Liste entfernt werden.
-* Der Listeneintrag beinhaltet das Icon des Dateityps, den Dateinamen sowie in Klammern den Dateityp und die Dateigrösse.
-* Der Datei-Upload hat über dem [Button](https://digital.sbb.ch/de/components/button) immer einen Hinweis, welche Dateitypen und -grössen hochgeladen werden können.
+## 3. Rules 
+* Clicking on the ‘upload file’ [button](https://digital.sbb.ch/en/components/button) opens the system’s file browser.
+* The uploaded files are displayed in a list.
+* The list is sorted according to the chronological order of the upload.
+* An individual file can be removed from the list using the trash icon.
+* The list entry contains the icon of the file type, the file name and the file type and file size in brackets.
+* The file upload always indicates above the [button](https://digital.sbb.ch/en/components/button) which file types and sizes can be uploaded.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Uploaded
 * Disabled
 
 ### 4.1 Standard
-![Darstellung der Komponente zur Hochladen von Dateien](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fileselector/images/fileselector_default.png 'class: image')
+![Image of the component for uploading files](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/fileselector/images/fileselector_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/378105832/inspect)
 * [Uploaded](https://sbb.invisionapp.com/d/main#/console/15744722/378105833/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/file-selector)

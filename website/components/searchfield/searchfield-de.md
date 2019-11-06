@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von einfachen Suchabfragen.
+Dient zur Eingabe von einfachen Suchabfragen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
+Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
 
 ## 3. Regeln
 * Das Suchfeld hat immer einen Platzhaltertext, mit einem Hinweis, welche Suchbegriffe akzeptiert werden.

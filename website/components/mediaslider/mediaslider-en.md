@@ -1,39 +1,39 @@
-## 1. Was macht die Komponente?
-* Dient zur Darstellung von 2 bis 6 Bildern/Videos in einer Auflistung.
+## 1. What does the component do?
+It is used to display two to six images/videos in a list.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei einer Auflistung von mehreren Bildern/Videos.
+## 2. When should the component be used?
+In a list of several images/videos.
 
-## 3. Regeln 
-* Es dürfen 2 bis 6 Bilder im Slider verwendet werden.
-* Bei mehr als 6 Bildern ist das Modul «Galerie» einzusetzen.
-* Die Bilder/Videos im Slider rotieren nie selbständig.
-* Im Default-Zustand ist immer das erste Bild gewählt.
-* Bei Hover über einen Video- oder GIF-Eintrag ist der mittlere Teil zusätzlich zum Starten des Videos vorgesehen.
-* Bei Hover vergrössert sich das Element innerhalb des Containers auf 110% (maskiert).
-* Bei Touch-Devices kann durch Swipen das nächste/vorhergehende Element angezeigt werden.
-* Die Anzahl der Slider-Elemente sind über die Dots unterhalb des Containers ersichtlich.
-* Durch Klick auf einen dieser Dots wird direkt das dahinterliegende Slider-Element angezeigt.
-* Das letzte und erste Element können verbunden werden (Karussell-Funktion).
+## 3. Rules
+* Two to six images may be used in the slider.
+* The ‘gallery’ module is used for more than six images.
+* The images/videos in the slider never rotate independently.
+* The first image is always selected in the default status.
+* When hovering over a video or GIF entry, the middle part is also shown as well as the start of the video.
+* When hovering the element within the container is increased to 110% (masked).
+* The next/previous element can be displayed by swiping on touch devices.
+* The number of slider elements is indicated by the dots below the container.
+* The underlying slider element is displayed directly if one of these dots is clicked on.
+* The last and first element can be combined (carousel function).
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses: 
 * Default
 
 ### 4.1 Standard
-![Darstellung der Komponente Medienslider in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_default.png 'class: image')
+![Image of the media slider component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
 ### 4.2 Mit zusätzlichem Text
-![Darstellung der Komponente Medienslider mit zusätzlichem Text unter dem Bild](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_text.png 'class: image')
+![Image of the media slider component with additional text under the image](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediaslider/images/mediaslider_text.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.

@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Auswahl genau einer Option aus mehreren.
+Dient zur Auswahl genau einer Option aus mehreren.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
+Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
 
 ## 3. Regeln
 * Ein Radiobutton ist nur innerhalb eines Formulars erlaubt.

@@ -1,22 +1,22 @@
-## 1. Was macht die Komponente?
-* Dient zur Auswahl genau einer Option aus mehreren.
+## 1. What does the component do?
+* It is used to select precisely one of several options.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
+## 2. When should the component be used?
+* Where there are two or more options which mutually exclude one another.
 
-## 3. Regeln
-* Ein Radiobutton ist nur innerhalb eines Formulars erlaubt.
-* Es müssen mindestens zwei Optionen zur Auswahl stehen.
-* Eine Vorauswahl ist Pflicht.
-* Radiobuttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
-* Bei mobilen Ansichten ist eine horizontale Anordnung nicht erlaubt.
-* Der Text kann mehrzeilig sein.
-* Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
-* Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
+## 3. Rules
+* A radio button is only permitted within a form.
+* There must be at least two options available.
+* A pre-selection is mandatory.
+* Radio buttons can be arranged vertically or horizontally. The vertical layout is preferred as it allows the user to understand the options more quickly.
+* A horizontal layout is not permitted for mobile views.
+* The text can be multi-line.
+* In addition to the actual radio button, the entire text can also be used as a click target.
+* A title can be used above a radio button group.
+* A question mark in the circle – in addition to the title – can also be shown for detailed explanations on a radio button group. A [tooltip](https://digital.sbb.ch/en/components/tooltip) opens if the question mark is clicked on.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Checked
 * Unchecked
 * Focused checked
@@ -25,9 +25,9 @@ Die Komponente hat folgende Zustände:
 * Disabled unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Radiobutton in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Image of the radio button component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724157/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724158/inspect)
 * [Focused checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724159/inspect)
@@ -35,23 +35,23 @@ Die Komponente hat folgende Zustände:
 * [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724161/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724162/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
-### 4.2 Vertikale Radiobutton-Gruppe
-![Darstellung der Komponente Radiobutton als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_vertical.png 'class: image')
+### 4.2 Vertical radio button group
+![Image of the radio button component as a vertical group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_vertical.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724163/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
 
-### 4.3 Horizontale Radiobutton-Gruppe
-![Darstellung der Komponente Radiobutton als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
+### 4.3 Horizontal radio button group
+![Image of the radio button component as a horizontal group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724164/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)

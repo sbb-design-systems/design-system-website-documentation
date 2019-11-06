@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von grösseren Textmengen in Formularen.
+Dient zur Eingabe von grösseren Textmengen in Formularen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn vom Benutzer längere Texteingaben verlangt werden.
+Wenn vom Benutzer längere Texteingaben verlangt werden.
 
 ## 3. Regeln 
 * Die Textarea hat immer ein Label.

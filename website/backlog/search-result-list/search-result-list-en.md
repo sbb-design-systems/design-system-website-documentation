@@ -1,25 +1,26 @@
-## 1. Was macht das Modul?
-* Dient zu Darstellung von Suchresultaten.
+## 1. What does the module do?
+It is used to display search results.
 
-## 2. Wann soll das Modul eingesetzt werden? 
-* Als Anzeige von Resultaten von Suchabfragen.
+## 2. When should the module be used? 
+To show the results of search requests.
 
-## 3. Regeln 
-* Die Anzahl Suchergebnisse wird zu Beginn der Liste angezeigt.
-* Wenn keine Suchergebnisse verfügbar sind, wird mit einer [Notification](WM09---Notification_30827564.html) der Text «Keine Ergebnisse zum Suchbegriff «Chuchichästli»» angezeigt.
-* Empfehlung: Nach 10 Ergebnissen eine [Pagination](WM12---Pagination_30827626.html) einsetzen.
+## 3. Rules 
+* The number of search results is shown at the start of the list.
+* If no search results are available, the text “no results for the search term ‘Chuchichästli’” is shown with a [notification](https://digital.sbb.ch/en/components/notification).
+* Recommendation: Use [pagination](https://digital.sbb.ch/en/components/pagination) after ten results.
 
-## 4. Ausprägungen
+## 4. Variants
 ### 4.1 Standard
-* Ergebnis besteht mindestens aus einer Headerzeile, welche klickbar ist und zur entsprechenden Seite führt.
-* Bei Bedarf kann ein zusätzlicher Informationstext hinzugefügt werden. Dieser ist ebenfalls Teil des Links der Headerzeile.
-* Der Informationstext kann mehrzeilig sein.
-* Als letzte Zeile steht immer der Breadcrumb Pfad.
-* Die einzelnen Begriffe des Pfades werden mit «/» getrennt.
+* The result consists of at least one header line which is clickable and leads to the page concerned.
+* Additional information text can be added if required. This is also part of the link of the header line.
+* The information text can be multi-line.
+* The breadcrumb path is always the last line.
+* The individual terms of the path are separated with ‘/’.
 
-### 4.2 Als Bilder
-* Die [Bilder](WE10---Bild_30823793.html) sind verlinkt und führen zur entsprechenden Seite.
 
-### 4.3 Tabellarisch
-* Die Liste hat immer genau 2 Spalten.
-* Die Suchresultate sind zeilenweise (ganze Zeile) als  [Links](WE11---Link_30823966.html) ausgeprägt.
+### 4.2 As images
+* The [images](https://digital.sbb.ch/en/basics/images) are linked and lead to the relevant page.
+
+### 4.3 Table format
+* The list always has precisely two columns.
+* The search results appear on lines (full line) as [links](https://digital.sbb.ch/en/components/link).

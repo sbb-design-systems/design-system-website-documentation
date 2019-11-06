@@ -1,61 +1,60 @@
-## 1. Was macht das Modul?
-* Es werden Themen und Inhalte beworben.
+## 1. What does the module do?
+It is used to promote topics and content.
 
-## 2. Wann soll das Modul eingesetzt werden? 
-* Zur Navigation von einer Themen Übersichtsseite zu den Detailseiten.
+## 2. When should the module be used? 
+For navigating from a thematic overview page to the detailed pages.
 
-## 3. Regeln 
-* Teaser bestehen immer aus einem [Bild](WE10---Bild_30823793.html) (keine Videos), einer Headline, allenfalls einer Copy und einem [Link](WE11---Link_30823966.html).
-* Teaser können interne oder externe Seiten verlinken.
-* Bei Hover vergrössert sich das Bild auf 110% (maskiert) und der Link wechselt auf die Hover-Version.
+## 3. Rules 
+* Teaser always consists of an [image](https://digital.sbb.ch/en/basics/images) (no videos), a headline, copy where applicable and a [link](https://digital.sbb.ch/en/components/link).
+* Teasers can link internal or external pages.
+* When hovering, the image increases to 110% (masked) and the link changes to the hover version.
 
-## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses
+The module has the following statuses:
 * Normal
 * Hover
 
-### 4.1 Kacheln
-* Alle Kacheln haben zusammen eine Überschrift.
-* Der Linktext heisst immer «Mehr Info» (in der deutschen Sprachvariante).
-* Die Headline ist maximal 2-zeilig.
-* Der Abstand Headline / Copy ist fix.
-* Der Hintergrund orientiert sich an der Höhe des längsten Teasers (innerhalb der Gruppe).
-* Die Position des «Mehr Info» Links ist fix definiert vom unteren Rand der Hintergrundfläche. Der Abstand zwischen der Copy und dem Link ist damit flexibel.
-* Die Copy ist maximal 4-zeilig.
-* Im Mobile-Layout wird die Copy ausgeblendet.
-* Sollte der Text der Copy zu lang sein, so wird der Satz mit «...» beendet. Wörter werden nicht abgeschnitten.
-* Die komplette Fläche (Bild und Text-Fläche) ist klickbar.
-* Es können 3 bis 6 Teaser platziert werden. Bei einer ungeraden Anzahl von Teasern (3 und 5) wird die Breite der Teaser angepasst.
-* Der 5. und der 6. Teaser werden auf einer zweiten Zeile zentriert dargestellt.
-* Tastaturbedienung
-    * Die einzelnen Teaser können mittels Tab angesprungen werden.
+### 4.1 Tiles
+* All tiles together have a heading.
+* The link text is always called ‘more info’.
+* The headline is a maximum of two lines.
+* The headline/copy spacing is fixed.
+* The background is based on the height of the longest teaser (within the group).
+* The definition of the ‘more info’ link position is fixed from the bottom edge of the background area. This means the spacing between the copy and the link is flexible.
+* The copy is a maximum of four lines.
+* The copy is hidden in the mobile layout.
+* If the copy text is too long, the sentence is ended with ‘…’. Words are not cut.
+* The entire area (image and text) is clickable.
+* Three to six teasers can be inserted. The width of the teaser is modified if the number of teasers is uneven (3 and 5).
+* The 5th and 6th teaser always appear centred on a second line.
+* Keyboard operation: The individual teasers can be jumped to via tabs.
 
-### 4.2 Contentwide Teaser
-Diese Ausprägung hat zusätzlich folgende Zustände:
+### 4.2 Content-wide teaser
+This variant has the following statuses:
 * Automode active
 * Automode inactive
 
-* Es dürfen 1-3 Bilder im Teaser eingesetzt werden.
-* Die Bilder werden defaultmässig automatisch gewechselt (alle 5 Sekunden).
-* Die automatische Animation verschiebt die Bilder von rechts nach links. Dies auch beim Wechsel vom letzten auf das erste Bild. Bei manuellem Wechsel auf ein vorheriges Bild wird dann von links nach rechts verschoben.
-* Der Teaser enthält das rote SBB Panel (mit Titel und einem Link, z.B. ???)
-    * Optional dürfen auch Icons im Panel angezeigt werden. In der mobilen Ansicht, werden diese nicht gezeigt.
-    * Optional darf zum Panel noch ein Aktionselement eingesetzt werden. Dies darf nur Text enthalten.
-* Der Teaser nutzt die ganze Breite des Inhaltsbereichs.
-*  Es gibt nur einen contentweiten Teaser pro Seite.
-* Typischerweise wird dieser Teaser am Anfang der Seite eingesetzt.
-* Bei Hover wird die automatische Animation wird unterbrochen.
-* Auf mobilen Geräten kann mittels Swipe-Interaktion zwischen den Bildern gewechselt werden.
-* Wird manuell auf ein anderes Bild gewechselt, so wird die automatische Animation unterbrochen.
-* Tastaturbedienung
-    * Die einzelnen Elemente der Navigationsleiste unterhalb der Bilder (Play- / Pause-Knopf, Bullets für die einzelnen Bilder) können mittels Tab angesprungen werden.
-    * Die Elemente können mittels Leertaste oder Enter angewählt werden.
-    * Nach dem letzten Bullet wird mittels Tab das Bild im Karrussel angesprungen. Auf den Inhalt dieses Teasers kann dann mittels Enter gesprungen werden.
+* One to three images can be used in the teaser.
+* The images are automatically alternated by default (every five seconds).
+* The automatic animation moves the images from right to left. This also applies when changing from the last to the first image. With a manual change to a previous image, it then moves from left to right.
+* The teaser contains the red SBB panel (with title and a link, e.g. ???)
+    * Icons can also be shown in the panel as an option. They are not shown in the mobile view.
+    * An action element can also be used with the panel as an option. This can only contain text.
+* The teaser uses the full width of the content area.
+* There is only one content-wide teaser per page.
+* This teaser is usually used at the start of the page.
+* The automatic animation is interrupted when hovering.
+* Swipe interaction can be used to move between images on mobile devices.
+* The automatic animation is interrupted when moving to a different image manually.
+* Keyboard operation:
+    * The individual elements of the navigation bar beneath the images (play/pause button, bullets for the individual images) can be skipped using tabs.
+    * The elements can be selected using Space or Enter.
+    * After the last bullet, the image in the carousel is jumped to using the tab. The content of this teaser can be skipped using Enter.
 
 #### 4.2.1 Homepage 
-* Bilder sind oben und unten schräg abgeschnitten (Trapezform).
-* Titel maximal 3-zeilig.
+* Images are cut obliquely at the top and bottom (trapezium).
+* The title is a maximum of three lines.
 
-#### 4.2.2 Detailpage
-* Bilder sind rechteckig dargestellt.
-* Titel ist maximal 2-zeilig.
+#### 4.2.2 Detailed page
+* Images are rectangular.
+* The title is a maximum of two lines.

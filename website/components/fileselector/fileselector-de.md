@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zum Hochladen von Dateien.
+Dient zum Hochladen von Dateien.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
+Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
 
 ## 3. Regeln 
 * Mit Klick auf den [Button](https://digital.sbb.ch/de/components/button) «Datei hochladen» öffnet sich der Datei-Browser des Systems.

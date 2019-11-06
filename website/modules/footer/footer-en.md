@@ -1,57 +1,57 @@
-## 1. Was macht das Modul?
-* Bietet dem Benutzer allgemeine Informationen zur Webseite / Anwendung.
+## 1. What does the module do?
+It provides the user with general information about the webpage/application.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Ein Footer ist bei jeder Webseite / jeder Anwendung einzufügen.
+## 2. When should the module be used?
+A footer should be inserted on every webpage/application.
 
-## 3. Regeln
-* Der 4-spaltige Rich Footer hat folgende Bereiche:
-    * Kontakt
-    * Bahnverkehrsinformationen (auf [sbb.ch](https://sbb.ch) oder Microsite-/Anwendungs-spezifische Informationen
-    * Newsletter & Social Media
-    * Über die SBB
-* Weitere Elemente im Footer sind:
-    * Uhr-Modul
-    * Sprachwahl
-    * Links zu Impressum, Rechtliche Hinweise, Datenschutz
-* Mittels Klick auf die Uhr wird sie ganzflächig in einer [Lightbox](https://digital.sbb.ch/de/components/lightbox) angezeigt.
+## 3. Rules
+* The four-column rich footer has the following sections:
+    * Contact.
+    * Rail traffic information (at [sbb.ch](https://sbb.ch) or microsite/application-specific information).
+    * Newsletter and social media.
+    * About SBB.
+* Further elements in the footer are:
+    * Clock module.
+    * Choice of language.
+    * Links to publication details, legal information, data protection.
+* They are shown full-screen in a [lightbox](https://digital.sbb.ch/en/components/lightbox) if the clock is clicked on.
 
-## 4. Ausprägungen und Zustände
+## 4. Variants and statuses
 ### 4.1 Standard
-![Darstellung des Moduls Footer in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_default.png 'class: image')
-* Der Bereich Kontakt enthält ein Dropdown mit div. Kontaktoptionen. Gibt es nur eine Kontaktinformation (keine Auswahl), so wird diese direkt gezeigt.
-* Je nach Länge des Kontaktinhalts verändert sich die Höhe des Footers.
-* Die zweite Spalte enthält die Bahnverkehrsinformationen.
-* In der dritten Spalte stehen Informationen zu Newsletter & Social Media:
-    * Informationstext zum Newsletter mit [Link](https://digital.sbb.ch/de/components/link) zur Anmeldung.
-    * Externe Social Media Plattformen (Links zu den SBB-Auftritten auf div. Social Media Plattformen)
-    * Optional interne Social Media Plattformen (z.B. Links zum SBB Blog (Bezeichnung «SBB Stories»)  und der SBB Community).
-* Die letzte Spalte beinhaltet Links zu ausgewählten SBB-Inhalten. Diese sind je nach Kontext zu definieren.
+![Image of the footer module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_default.png 'class: image')
+* The contact area contains a dropdown with various contact options. There is only one piece of contact information (no choice), so this is shown directly.
+* The height of the footer changes depending on the length of the contact content.
+* The second column contains the rail traffic information.
+* The third column contains newsletter and social media information:
+    * Information text with newsletter with [link](https://digital.sbb.ch/en/components/link) to registration.
+    * External social media platforms (links to the SBB sites on various social media platforms)
+    * Optional internal social media platforms (e.g. links to SBB blog (‘SBB Stories’ designation) and the SBB Community).
+* The last column contains links to certain SBB content. This is defined according to context.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985471/inspect)
 
-### 4.2 Microsite mit einem Kontakt
-![Darstellung des Moduls Footer für Microsites mit einem Kontakt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_single_contact.png 'class: image')
-* Der Bereich Kontakt hat genau eine Kontaktinformation.
-* Die zweite Spalte enthält Microsite-spezifische Informationen.
+### 4.2 Microsite with contact information
+![Image of the footer module for microsite with contact information](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_single_contact.png 'class: image')
+* The contact area contains exactly one piece of contact information.
+* The second column contains microsite-specific information.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985472/inspect)
 
-### 4.3 Microsite mit mehreren Kontakten
-![Darstellung des Moduls Footer für Microsites mit mehreren Kontakten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_multi_contact.png 'class: image')
-* Die zweite Spalte enthält Microsite-spezifische Informationen.
+### 4.3 Microsite with several pieces of contact information
+![Image of the footer module for microsite with several peices ofcontact information](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_multi_contact.png 'class: image')
+* The second column contains microsite-specific information.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985473/inspect)
 
-### 4.4 Microsite mit eigenem Logo
-![Darstellung des Moduls Footer für Microsites mit eigenem Logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_logo.png 'class: image')
-* Darf nur eingesetzt werden, wenn gleichzeitig auf der Seite der «Header mit eigenem Logo» eingesetzt wird.
-* Der Bereich Kontakt hat genau eine Kontaktadresse.
-* Die zweite Spalte enthält Microsite-spezifische Informationen.
-* Das SBB-Logo ist mit (link: http://sbb.ch text: sbb.ch) verlinkt.
+### 4.4 Microsite with its own logo
+![Image of the footer module for microsite with its own logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/modules/footer/images/footer_microsite_logo.png 'class: image')
+* It can only be used if the ‘Header with its own logo’ is used on the page at the same time.
+* The contact area contains exactly one contact address.
+* The second column contains microsite-specific information.
+* The SBB logo is linked with [sbb.ch](https://sbb.ch).
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985474/inspect)

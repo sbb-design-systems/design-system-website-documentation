@@ -1,25 +1,26 @@
-## 1. Was macht das Modul?
-* Auflistung von verschiedenen Links.
+## 1. What does the module do?
+*Auflistung von verschiedenen Links.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Zur Auflistung von Links.
+## 2. When should the module be used?
+Zur Auflistung von Links.
 
-## 3. Regeln
-* Siehe [Link](WE11---Link_30823966.html)
+## 3. Rules
+See [link](https://digital.sbb.ch/en/components/link)
 
-## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses 
+The module has the following statuses: 
 * Normal
 * Hover
 * On-Click
 
 ### 4.1 Standard 
-* Die Links werden als normale [Textlinks](https://confluence-ext.sbb.ch/pages/editpage.action?pageId=30823966#WE11-Link-4.1EinfacheTextlinks) dargestellt.
+* The links are shown as normal [text links](https://digital.sbb.ch/en/components/link).
 
-### 4.2 Tabellarisch 
-* Trennungslinie oberhalb und unterhalb eines Links.
-* Links haben das Pfeil-Icon auf der rechten Seite.
+### 4.2 Table format 
+* Dividing line above and below a link.
+* Links have the arrow icon on the right-hand side.
 
-### 4.3 Downloadliste 
-* Linkliste als Tabelle, wobei die Links auf der rechten Seite das Download-Icon enthalten und auf der linken Seite das Icon für das Dateiformat.
-* Im Link-Text werden noch Dateityp und Dateigrösse angezeigt. → siehe [Downloadlink](https://confluence-ext.sbb.ch/pages/editpage.action?pageId=30823966#WE11-Link-4.6LinkaufDokumente(Download))
+
+### 4.3 Download list 
+* Link list as a table where the links on the right-hand side contain the download icon and on the left-hand side where they contain the icon for the file format.
+* The file type and file size are shown in the link text.grösse angezeigt (siehe [download link](https://digital.sbb.ch/en/components/link))

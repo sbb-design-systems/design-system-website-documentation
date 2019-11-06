@@ -1,83 +1,83 @@
-## 1. Schreibregeln
-* Text muss von allen verstanden werden, egal welcher kultureller Herkunft, Sprache oder Bildungsniveau. Es sollen einfache, verständliche Texte (keine Spezialbegriffe) eingesetzt werden. (Barrierefreiheit)
-* Texte sollen kurz und knapp gehalten werden.
-* Texte sollen in aktiver und direkter Schreibweise formuliert werden.
-* Es soll in Gegenwartsform geschrieben werden.
-* Begriffen in verschiedenen Anwendungsfällen muss immer die gleiche Bedeutung zugewiesen werden.
+## 1. Style rules
+* Text must be understood by everyone regardless of their cultural background, language or level of education. Simple, clear text (no technical terms) should be used. (accessibility)
+* Texts should be kept as simple and concise as possible.
+* Texts should be written in an active and direct way.
+* The present tense should be used.
+* Terms in different scenarios should always be attributed the same meaning.
 
-Weitere Details zu den Schreibregeln sind in den [SBB Sprach- und Schreibregeln](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html) ersichtlich.
+Further details on the style guide can be found in the [SBB rules on language and style](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html).
 
-## 2. Formatierung
-### 2.1 Zahlen
-* Eins, zwei, drei, ... (bis zwölf) ausgeschrieben; 13, 14, ... als Ziffern, bspw. «zum zweiten Mal», «15. Lebensjahr»
+## 2. Formatting
+### 2.1 Numbers
+* One, two, three, … (up to twelve) are written out in full; 13, 14 etc. as numbers, for example, ‘the second time’, ‘15 years of age’.
 
-### 2.2 Prozentangaben
-* Ziffer gefolgt von '%' («30% Ermässigung»)
+### 2.2 Percentages
+* Numbers followed by ‘%’ (30% discount).
 
-### 2.3 Altersangaben 
-* Ziffern, nicht ausgeschrieben («15 Jahre alt»)
+### 2.3 Age information 
+* Numbers, not written out (15 years of age).
 
-### 2.4 Preise
-* Währung vor Preisangabe («Ab CHF 13.50», «CHF 95.00»)
+### 2.4 Prices
+* Currency before price (‘from CHF 13.50’, ‘CHF 95.00’).
 
-### 2.5 Datum
-* In Fliesstext wird das Datum immer ausgeschrieben, Tag ohne führende Null («Freitag, 2. Dezember 2019»).
-* Die Kurzform wird bei Auflistungen, Tabellen und Eingabefeldern verwendet. In diesem Anwendungsfall wird beim Tag und Monat eine führende Null eingesetzt. Das Jahr ist immer vierstellig darzustellen («Freitag, 02.09 2019»).
-* In verknapptem Text dürfen die Wochentage und Monate abgekürzt werden.
+### 2.5 Date
+* The date is always written out in body copy, day without preceding zero (‘Friday, 2 December 2019’).
+* The abbreviated form is used in lists, tables and entry fields. In this case, a preceding zero is used for the day and month. The year is always four-digit (Friday, 02.09 2019).
+* The days of the week and months may be abbreviated in shortened text.
 
-#### Abkürzungen Wochentage
+#### Abbreviations for days of the week
 
 <table>
 		<tr>
-		<th>Deutsch</th>
+		<th>German</th>
 		<td style="padding-left:20px">Mo / Di / Mi / Do / Fr / Sa / So</td>
 		</tr>
 		<tr>
-		<th>Französisch</th>
+		<th>French</th>
 		<td style="padding-left:20px">lu / ma / me / je / ve / sa / di</td>
 		</tr>
 		<tr>
-		<th>Italienisch</th>
+		<th>Italian</th>
 		<td style="padding-left:20px">lun. / mar. / mer. / gio. / ven. / sab. / dom.</td>
 		</tr>
 		<tr>
-		<th>Englisch</th>
+		<th>English</th>
 		<td style="padding-left:20px">Mon / Tue / Wed / Thu / Fri / Sat / Sun</td>
 		</tr>
 	</table>
 
-#### Abkürzungen Monate
+#### Abbreviations for months
 <table>
 		<tr>
-		<th>Deutsch</th>
+		<th>German</th>
 		<td style="padding-left:20px">Jan. / Febr. / März / Apr. / Mai / Juni / Juli / Aug. / Sept. / Okt. / Nov. / Dez.</td>
 		</tr>
 		<tr>
-		<th>Französisch</th>
+		<th>French</th>
 		<td style="padding-left:20px">jan. / fév. / mars / avr. / mai / juin / juil. / août / sept. / oct. / nov. / déc.</td>
 		</tr>
 		<tr>
-		<th>Italienisch</th>
+		<th>Italian</th>
 		<td style="padding-left:20px">gen. / feb. / mar. / apr. / mag. / giu. / lug. / ago. / set. / ott. / nov. / dic.</td>
 		</tr>
 		<tr>
-		<th>Englisch</th>
+		<th>English</th>
 		<td style="padding-left:20px">Jan. / Feb. / Mar. / Apr. / May / June / July / Aug. / Sept. / Oct. / Nov. / Dec.</td>
 		</tr>
 		<tr>
 		</tr>
 	</table>
 
-### 2.6 Dateigrössen
-* Dateien  < 1 MB: in KB angeben («800 KB»)
-* Dateien  > 1 MB: in MB mit einer Kommastelle angeben («1.2 MB»)
+### 2.6 File sizes
+* Dateien  < 1 MB: in KB angeben («800 KB»).
+* Dateien  > 1 MB: in MB mit einer Kommastelle angeben («1.2 MB»).
 
-### 2.7 Telefonnummern
-* Telefonnummer Standard: +41 xx xxx xx xx
-* Telefonnummer mit Erreichbarkeit: +41 xx xxx xx xx zzgl. Erreichbarkeit in Klammern (z.B. täglich 24h)
-* Kostenlose Servicenummern: 0xxx xxx xx xx (kostenlos aus der Schweiz)
-* Kostenpflichtige Servicenummern: 0xxx xxx xx xx (Kosten in Klammern auf neuer Zeile) (z.B. [CHF 1.19/Min.)
-* Faxnummern: Faxnummern wird immer mit einem Bezeichner (Fax: in deutscher Sprachvariante) dargestellt. Telefonnummern in Kombination mit Faxnummern werden mit einem Bezeichner (Tel.: in deutscher Sprachvariante).
-    * Tel.: +41 xx xxx xx xx 
-    * Fax: +41 xx xxx xx xx 
-* Sonderfall Bahnverkehrsinformation: Tel.: 166
+### 2.7 Telephone numbers
+* Telephone number standard: +41 xx xxx xx xx.
+* Telephone number with availability: +41 xx xxx xx xx plus availability in brackets (e.g. 24/7).
+* Free service numbers: 0xxx xxx xx xx (free of charge from Switzerland).
+* Paid-for service numbers: 0xxx xxx xx xx (costs in brackets on new line) (e.g. [CHF 1.19/min.).
+* Fax numbers: Fax numbers are always shown with a designator (fax: German variant). Telephone numbers in combination with fax numbers are shown with a designator (tel.: in German variant).
+    * Tel.: +41 xx xxx xx xx.
+    * Fax: +41 xx xxx xx xx.
+* Special case: rail traffic information: Tel.: 166.

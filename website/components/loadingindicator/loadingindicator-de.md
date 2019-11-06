@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
+Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Absenden von Formularen.

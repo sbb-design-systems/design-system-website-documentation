@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Kategorisiert eine grosse Anzahl an Informationen.
+Kategorisiert eine grosse Anzahl an Informationen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Filtern von Ergebnissen mit vielen Kategorien.

@@ -1,57 +1,57 @@
-## 1. Was macht die Komponente?
-* Bietet dem Benutzer ein Auswahl aus genau zwei Optionen an.
+## 1. What does the component do?
+It provides the user with a selection of precisely two options.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei Entweder-Oder Auswahl von wichtigen Werten welche prominent angezeigt werden sollen.
+## 2. When should the component be used?
+For either/or selection of key values which should be displayed prominently.
 
-## 3. Regeln
-* Standardmässig ist immer die erste Option vorausgewählt.
-* Der Text der Optionen kann mehrzeilig sein.
-* Dem Text der Option darf ein Icon zur besseren Verständlichkeit vorangestellt werden.
+## 3. Rules
+* The first option is always pre-selected as standard.
+* The text of the options can be multi-line.
+* The text of the option can be preceded by an icon to make it easier to understand.
 
-## 4. Ausprägungen
-Die Komponente hat folgende Zustände:
-* First (erstes Option gewählt)
-* Second (zweite Option gewählt)
+## 4. Variants
+The component has the following statuses:
+* First (first option selected)
+* Second (second option selected)
 
 ### 4.1 Standard 
-![Darstellung der Komponente Toggle-Button mit der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_default.png 'class: image')
+![Image of the toggle button component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect)
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849837/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
    
-### 4.2 Mit Icon
-![Darstellung der Komponente Toggle-Button mit Icons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_icon.png 'class: image')
+### 4.2 With icon
+![Image of the toggle button component with icons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_icon.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect)
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849839/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
 
-### 4.3 Mit Infotext 
-![Darstellung der Komponente Toggle-Button mit zusätzlichen Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_infotext.png 'class: image')
+### 4.3 With info text 
+![Image of the toggle button component with additional information text](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_infotext.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849840/inspect)
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849841/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
 
-### 4.4 Mit zusätzlichem Eingabekontext
-![Darstellung der Komponente Toggle-Button mit zusätzlichem Eingabekontext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_content.png 'class: image')
+### 4.4 With additional entry context
+![Image of the toggle button component with additional entry context](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/toggle/images/toggle_content.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849842/inspect)
 * [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849843/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
 
 

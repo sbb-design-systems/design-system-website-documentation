@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von Texten und Zahlen.
+Dient zur Eingabe von Texten und Zahlen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn vom Benutzer eine Eingabe benötigt. wird.
+Wenn vom Benutzer eine Eingabe benötigt. wird.
 
 ## 3. Regeln 
 * Ein Eingabefeld hat immer ein Label.

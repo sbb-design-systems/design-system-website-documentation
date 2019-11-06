@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe eines Datums.
+Dient zur Eingabe eines Datums.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Immer wenn vom Benutzer ein Datumswert verlangt wird.
+Immer wenn vom Benutzer ein Datumswert verlangt wird.
 
 ## 3. Regeln
 * Datumsangaben sind immer einzeilig.

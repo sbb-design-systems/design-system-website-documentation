@@ -1,11 +1,11 @@
-## 1. Was macht dieses Element?
+## 1. What does the element do?
 * Bilder unterstützen das Verständnis von Texten und lockern textlastige Seiten auf.
 
-## 2. Wann soll das Element eingesetzt werden?
+## 2. When should the element be used?
 * Zur Unterstützung der textuellen Kommunikation können Bilder eingesetzt werden (visuelle Kommunikation).
 * Grosse (content-wide) Bilder sollen sparsam eingesetzt werden.
 
-## 3. Regeln 
+## 3. Rules 
 * Die Aufbereitung von Bildern und Illustrationen ist durch die Vorgaben von KOM geregelt (siehe Links).
 * Illustrationen und Infografiken als SVG einsetzen, bei Fotografien auf genügend grosse Auflösung für alle Screengrössen achten.
 * Ausser dem roten SBB Panel dürfen Bilder keine Overlays enthalten.

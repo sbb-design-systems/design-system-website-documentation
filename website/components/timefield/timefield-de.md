@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe einer Uhrzeit.
+Dient zur Eingabe einer Uhrzeit.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Immer wenn vom Benutzer eine Uhrzeit verlangt wird.
+Immer wenn vom Benutzer eine Uhrzeit verlangt wird.
 
 ## 3. Regeln 
 * Standardmässig ist die aktuelle Uhrzeit vorausgefüllt, ausser es macht im Kontext des Einsatzes keinen Sinn.

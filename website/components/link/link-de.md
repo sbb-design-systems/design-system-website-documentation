@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Links stellen Verbindungen zwischen Informationen, bzw. Seiten her.
+Links stellen Verbindungen zwischen Informationen, bzw. Seiten her.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/components/lightbox) gesprungen werden muss.
+Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/components/lightbox) gesprungen werden muss.
 
 ## 3. Regeln
 * Eine visuelle Unterscheidung zwischen internen und externen Links gibt es nicht.

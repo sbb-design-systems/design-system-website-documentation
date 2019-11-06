@@ -1,55 +1,59 @@
-## 1. Was macht die Komponente?
-* Bietet dem Benutzer eine Auswahl aus mehreren Optionen an.
+## 1. What does the component do?
+It provides the user with a selection of several options.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei Listen mit zwei oder mehr Auswahlmöglichkeiten, die sich gegenseitig ausschliessen.
-* Bei Auswahlmöglichkeiten, welche mehrere Informationen beinhalten.
+## 2. When should the component be used?
+* In lists with two or more options that mutually exclude one another.
+* For options which contain several pieces of information.
 
-## 3. Regeln
-* Der Titeltext der Optionen ist immer einzeilig.
-* Die ganze Fläche der Optionenwahl ist klickbar und ändert den Zustand.
-* Die verschiedenen Optionen sind immer untereinander aufgelistet.
-* Ob ein Default-Wert gesetzt ist oder nicht, ist für jeden Anwendungsfall zu entscheiden.
+## 3. Rules
+* The title text of the options is always single-line.
+* The entire area of the option selection is clickable and changes the status.
+* The various options are always listed beneath one another. 
+* Whether or not a default value is set has to be decided in each case.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Checked
 * Unchecked
 * Disabled checked
 * Disabled unchecked
+* Error
 
 ### 4.1 Standard
-![Darstellung der Komponente Radiobuttonpanel in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_default.png 'class: image')
+![Image of the radio button panel component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024572/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024573/inspect)
 * [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763123/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763124/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733305/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button-panel)
 
-### 4.2 Mit Infotext
-![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png 'class: image')
+### 4.2 With info text
+![Image of the radio button panel component with additional info text](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024574/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024575/inspect)
 * [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763125/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763126/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733306/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button-panel)
 
-### 4.3 Mit Piktogramm / Logo
-![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Piktogramm oder Logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_picto.png 'class: image')
+### 4.3 With pictogram/logo
+![Image of the radio button panel component with additional pictogram or logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobuttonpanel/images/radiobuttonpanel_picto.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024576/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024577/inspect)
 * [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763127/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763128/inspect)
+* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733307/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button-panel)

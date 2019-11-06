@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
+Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Text.
+Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Text.
 
 ## 3. Regeln
 * Der Tooltip besteht aus dem Icon und dem Overlay. → In Ausnahmefällen darf auch ein anderes Icon für den Tooltip verwendet werden (z.B. ein Info-Icon).

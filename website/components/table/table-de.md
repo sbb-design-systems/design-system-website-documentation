@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Strukturierte Darstellung von Daten.
+Strukturierte Darstellung von Daten.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Einsatz bei der Darstellung von Daten, nicht zur Strukturierung von Content.

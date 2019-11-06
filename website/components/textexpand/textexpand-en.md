@@ -1,29 +1,29 @@
-## 1. Was macht die Komponente?
-* Klappt einen bestehenden Text weiter auf, um noch mehr Informationen anzuzeigen.
+## 1. What does the component do?
+It expands an existing text to show more information.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei langen Zusatzinformationen.
+## 2. When should the component be used?
+For long additional information.
 
-## 3. Regeln 
-* Der Textexpand darf nur für Texte eingesetzt werden.
-* Im aufgeklappten Zustand dürfen nebst dem Ausblenden keine weiteren Interaktionselemente eingesetzt werden.
-* Die Trennung der Texte muss so erfolgen, dass der Kontext der gesamten Information bereits im zugeklappten Zustand klar ist.
-* Darf nur bei mehrzeiligen Texten eingesetzt werden.
-* Mehrfachverschachtelungen sind nicht erlaubt.
-* Der Textexpand darf nicht zur Strukturierung von Elementen verwendet werden.
-* Titel und andere Strukturmittel sind im ausgeblendeten Zustand nicht erlaubt.
+## 3. Rules
+* The text expand can only be used for texts.
+* Apart from hiding, no further interaction elements can be used when expanded.
+* The separation of the texts must ensure that the context of all the information is clear when expanded.
+* It can only be used for multi-line texts.
+* Complex structures are not permitted.
+* The text expand cannot be used for structuring elements.
+* The title and other structural elements are not permitted when collapsed.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Collapsed
 * Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Textexpander](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textexpand/images/textexpand_default.png 'class: image')
+![Image of the text expander component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textexpand/images/textexpand_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/327015708/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327015709/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/textexpand)
