@@ -19,7 +19,7 @@ The module has the following statuses:
 ### 4.1 Standard
 ![Image of horizontal scrolling](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)
 
 ## 5. Accessibility

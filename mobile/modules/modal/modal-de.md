@@ -22,7 +22,7 @@
 ### 4.1 Standard
 ![Darstellung eines modalen Dialogs](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modal/images/MM03.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943545/inspect)
 
 ## 5. Barrierefreiheit

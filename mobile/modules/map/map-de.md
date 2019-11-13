@@ -20,6 +20,6 @@ Das Modul hat folgende Ausprägungen:
 ### 4.1 Standard
 ![Darstellung von Karten, Inline und Fullscreen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/map/images/MM13_Karte.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Inline](https://sbb.invisionapp.com/d/main#/console/14051805/322943572/inspect)
 *   [Fullscreen](https://sbb.invisionapp.com/d/main#/console/14051805/322943573/inspect)

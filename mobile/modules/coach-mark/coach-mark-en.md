@@ -8,9 +8,9 @@
 *   expert functions (e.g. Swipe) have to be shown.
 
 ## 4. Features 
-## 4.1 Standard
+### 4.1 Standard
 ![Image of the coach mark, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/coach-mark/images/MM15.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322946078/inspect)
 

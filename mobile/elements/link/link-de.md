@@ -22,6 +22,6 @@ Das Element hat folgende Zustände:
 
 *   Wird mit dem Textlink ein Download einer Datei ausgelöst, ist im Linktext zusätzlich der Dateityp und -grösse anzugeben (Bsp: «Nutzungsbestimmungen (PDF, 123 KB)»)
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166953/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313229755/inspect)

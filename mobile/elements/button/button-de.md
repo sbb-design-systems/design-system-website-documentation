@@ -23,7 +23,7 @@ Das Element hat folgende Zustände:
 ![Darstellung des Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Primary.png 'class: image')
 *   Ganze Breite des Screens oder des modalen Dialogs (abzüglich Abstand).
 
-#### 4.1.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175219/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175220/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313175221/inspect)
@@ -33,7 +33,7 @@ Das Element hat folgende Zustände:
 
 *   Ganze Breite des Screens oder des modalen Dialogs (abzüglich Abstand).
 
-#### 4.2.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175222/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175223/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313175224/inspect)
@@ -42,16 +42,14 @@ Das Element hat folgende Zustände:
 #### 4.3.1. Frei
 ![Darstellung des Icon Buttons frei](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Icon_Free.png 'class: image')
 
-
-##### 4.3.1.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175225/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175226/inspect)
 
 #### 4.3.2. In Formularen
 ![Darstellung des Icon Buttons in Formularen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Icon_Form.png 'class: image')
 
-
-##### 4.3.2.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175227/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175228/inspect)
 
@@ -59,16 +57,14 @@ Das Element hat folgende Zustände:
 #### 4.4.1. Large
 ![Darstellung des Frameless Primary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Primary_Large.png 'class: image')
 
-
-##### 4.4.1.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175229/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175230/inspect)
 
 #### 4.4.2.  Small
 ![Darstellung des Frameless Primary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Primary_Small.png 'class: image')
 
-
-##### 4.4.2.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175231/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175232/inspect)
 
@@ -81,15 +77,13 @@ Das Element hat folgende Zustände:
 #### 4.5.1. Large
 ![Darstellung des Frameless Secondary Buttons Large](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Secondary_Large.png 'class: image')
 
-
-##### 4.5.1.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175233/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175234/inspect)
 
 #### 4.5.2. Small
 ![Darstellung des Frameless Secondary Buttons Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/button/images/ME10_Frameless_Secondary_Small.png 'class: image')
 
-
-##### 4.5.2.1. Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313175235/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313175236/inspect)

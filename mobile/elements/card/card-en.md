@@ -17,6 +17,5 @@
 ### 4.1 Standard
 ![Image of the tiles in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)

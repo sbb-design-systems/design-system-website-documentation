@@ -16,8 +16,7 @@
 ### 4.1 Standard
 ![Image of the standard signet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166952/inspect)
 
 ## 5. Accessibility

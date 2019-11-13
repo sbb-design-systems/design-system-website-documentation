@@ -24,7 +24,8 @@
 The module has the following statuses 
 * Closed
 * Open
-#### 4.1.1 Size 
+
+#### Design Specification
 *   [Single closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
 *   [Single open](https://sbb.invisionapp.com/d/main#/console/14051805/322943595/inspect)
 *   [Pagination closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
@@ -33,12 +34,14 @@ The module has the following statuses
 ### 4.2 Without context menu 
 ![Image of the module, without context menu, with pagination](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_ohne_Header.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Without context menu](https://sbb.invisionapp.com/d/main#/console/14051805/322943593/inspect)
+
 ### 4.3 Space-saving title 
 ![Image of the module, without context menu](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_Platzsparender_Titel.png 'class: image')
 
 * Can be used if no context menu is required and the content is self-explanatory (which means the title can be weighted slightly less heavily). 
-#### 4.1.1 Size
+
+#### Design Specification
 *   [Grey](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
 *   [White](https://sbb.invisionapp.com/d/main#/console/14051805/322943595/inspect)

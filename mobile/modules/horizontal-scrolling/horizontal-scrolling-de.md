@@ -19,7 +19,7 @@ Das Modul hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung von horizontalem Scrollen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/horizontal-scrolling/images/MM08.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943557/inspect)
 
 ## 5. Barrierefreiheit

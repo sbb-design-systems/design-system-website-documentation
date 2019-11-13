@@ -15,5 +15,5 @@
 ### 4.1 Standard
 ![Dartellung einer Toast-Meldung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/toast/images/MM05.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322943548/inspect)

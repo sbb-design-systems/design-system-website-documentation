@@ -32,7 +32,7 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Radiobuttons, vertikale Anordnung, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/radiobutton/images/ME12_Vertikal_ohne_Info.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166967/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166968/inspect)
 *   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166969/inspect)
@@ -42,6 +42,6 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Radiobuttons, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/radiobutton/images/ME12_Horizontal.png 'class: image')
 
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166961/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166962/inspect)

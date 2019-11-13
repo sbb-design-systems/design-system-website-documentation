@@ -17,7 +17,8 @@
 ![Darstellung des Headers mit Menü-Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/header/images/MM01_Startseite.png 'class: image')
 
 *   Darf ausschliesslich auf der Startseite eingesetzt werden.
-#### 4.1.1 Vermassung
+
+#### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943537/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
 
@@ -26,7 +27,8 @@
 
 *   Wird verwendet wenn innerhalb von Hierarchiestufen navigiert wird.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von links nach rechts animiert.
-#### 4.2.1 Vermassung
+
+#### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943539/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
 
@@ -36,6 +38,7 @@
 *   Wird verwendet wenn nicht in die Tiefe navigiert wird. z.B. im Menü.
 *   Das einblenden der aufgerufenen Funktion/Seite wird von unten nach oben animiert.
 *   Wenn von einer Seite mit Schliessen-Icon weiternavigiert wird, muss auf der nächsten Funktion/Seite der Header mit Pfeil nach links verwendet werden.
-#### 4.3.1 Vermassung
+
+#### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943541/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943542/inspect)

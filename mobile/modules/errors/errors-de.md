@@ -11,7 +11,7 @@
 ### 4.1 Fehlerdialog
 ![Darstellung von Fehlermeldungen als Dialog](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Dialog.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Single](https://sbb.invisionapp.com/d/main#/console/14051805/322943549/inspect)
 *   [Double](https://sbb.invisionapp.com/d/main#/console/14051805/322943550/inspect)
 *   [Triple](https://sbb.invisionapp.com/d/main#/console/14051805/322943551/inspect)
@@ -24,7 +24,7 @@ Zustände:
 *   Vollflächig
 *   Listeneintrag
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Vollflächig mit Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943552/inspect)
 *   [Vollflächig ohne Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943553/inspect)
 *   [Listeneintrag mit Reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943554/inspect)

@@ -18,7 +18,6 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung des Map Markers, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Blau](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)
 *   [Schwarz](https://sbb.invisionapp.com/d/main#/console/14051805/313167036/inspect)

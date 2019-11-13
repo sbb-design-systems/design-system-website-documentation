@@ -26,8 +26,7 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the select field](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/select/images/ME16_Default.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166994/inspect)
 *   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166997/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166993/inspect)

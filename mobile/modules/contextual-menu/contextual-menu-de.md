@@ -19,7 +19,8 @@ Das Modul hat folgende Zustände:
 ![](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/contextual-menu/images/MM11_in_Modulen_Zweiteilig.png 'class: image')
 
 *   Die Breite des Kontextmenüs ist abhängig von der Länge der Einträge.
-#### 4.1.1 Vermassung
+
+#### Design Spezifikation
 *   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943565/inspect)
 *   [Open](https://sbb.invisionapp.com/d/main#/console/14051805/322943566/inspect)
 
@@ -28,7 +29,8 @@ Das Modul hat folgende Zustände:
 
 *   Das Kontextmenü verwendet die ganze Breite des Screens.
 *   Das Menü drückt Seiteninhalt weg.
-#### 4.2.1 Vermassung
+
+#### Design Spezifikation
 *   [Closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943567/inspect)
 *   [Open (einteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943568/inspect)
 *   [Open (zweiteilig)](https://sbb.invisionapp.com/d/main#/console/14051805/322943569/inspect)

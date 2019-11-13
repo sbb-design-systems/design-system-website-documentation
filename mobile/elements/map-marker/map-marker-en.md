@@ -18,7 +18,6 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the map marker, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/map-marker/images/ME23_Standard.png 'class: image')
 
-
-#### 4.2.1 Size
+#### Design Specification
 *   [Blue](https://sbb.invisionapp.com/d/main#/console/14051805/313167035/inspect)
 *   [Black](https://sbb.invisionapp.com/d/main#/console/14051805/313167036/inspect)

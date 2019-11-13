@@ -19,8 +19,7 @@ The element has the following statuses:
 ### 4.1 Standard (display only)
 ![Image of the list entry, standard (display only)](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Standard.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167015/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167016/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167014/inspect)
@@ -29,8 +28,7 @@ The element has the following statuses:
 ### 4.2 With icon
 ![Image of the list entry, with icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Icon.png 'class: image')
 
-
-#### 4.2.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167021/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167024/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167023/inspect)
@@ -39,8 +37,7 @@ The element has the following statuses:
 ### 4.3 With function
 ![Image of list entry, with function](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Funktion.png 'class: image')
 
-
-#### 4.3.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167017/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167020/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167019/inspect)
@@ -49,8 +46,7 @@ The element has the following statuses:
 ### 4.4 With selection
 ![Image of the list entry, with selection](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Selektion.png 'class: image')
 
-
-#### 4.4.1 Size
+#### Design Specification
 *   [Default (with function)](https://sbb.invisionapp.com/d/main#/console/14051805/313167025/inspect)
 *   [Pressed (with function)](https://sbb.invisionapp.com/d/main#/console/14051805/313167028/inspect)
 *   [On-Swipe-to-right (with function)](https://sbb.invisionapp.com/d/main#/console/14051805/313167027/inspect)

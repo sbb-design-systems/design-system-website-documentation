@@ -19,8 +19,7 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard (nur Anzeige)
 ![Darstellung des Listen Eintrags, Standard (nur Anzeige)](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Standard.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167015/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167016/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167014/inspect)
@@ -29,8 +28,7 @@ Das Element hat folgende Zustände:
 ### 4.2 Mit Icon
 ![Darstellung des Listen Eintrags, mit Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Icon.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167021/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167024/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167023/inspect)
@@ -39,8 +37,7 @@ Das Element hat folgende Zustände:
 ### 4.3 Mit Funktion
 ![Darstellung des Listen Eintrags, mit Funktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Funktion.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167017/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167020/inspect)
 *   [On-Swipe-to-right](https://sbb.invisionapp.com/d/main#/console/14051805/313167019/inspect)
@@ -49,8 +46,7 @@ Das Element hat folgende Zustände:
 ### 4.4 Mit Selektion
 ![Darstellung des Listen Eintrags, mit Selektion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-item/images/ME21_Selektion.png 'class: image')
 
-
-#### 4.4.1 Vermassung
+#### Design Spezifikation
 *   [Default (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167025/inspect)
 *   [Pressed (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167028/inspect)
 *   [On-Swipe-to-right (mit Funktion)](https://sbb.invisionapp.com/d/main#/console/14051805/313167027/inspect)

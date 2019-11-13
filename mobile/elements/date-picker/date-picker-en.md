@@ -19,21 +19,18 @@ The element has the following statuses:
 ### 4.1 Simple
 ![Image of datepicker, simple](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Einfach.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166998/inspect)
 
 ### 4.2 Combined
 ![Image of datepicker, combined](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Mehrfach.png 'class: image')
 
-
-#### 4.2.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166999/inspect)
 
 ### 4.3 Inline
 ![Image of datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Inline.png 'class: image')
 
-
-#### 4.3.1 Size
+#### Design Specification
 *   [Inaktiv](https://sbb.invisionapp.com/d/main#/console/14051805/313170341/inspect)
 *   [Aktiv](https://sbb.invisionapp.com/d/main#/console/14051805/313170340/inspect)

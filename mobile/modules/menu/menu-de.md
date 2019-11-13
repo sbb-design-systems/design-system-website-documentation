@@ -23,7 +23,8 @@ Das Modul hat folgende Zustände:
 
 *   Menü besteht aus dem [Profil](https://digital.sbb.ch/de/mobile/elemente/profil) und [Menüeinträgen](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
 *   Nach dem letzten Menüeintrag werden je nach Login-Zustand die Funktionen «Logout» rsp. «Login» und registrieren.
-#### 4.1.1 Vermassung
+
+#### Design Spezifikation
 *   [1. Level eingeloggt](https://sbb.invisionapp.com/d/main#/console/14051805/322943559/inspect)  
 *   [1. Level nicht eingeloggt](https://sbb.invisionapp.com/d/main#/console/14051805/322943559/inspect)  
 *   [2. Level geschützt](https://sbb.invisionapp.com/d/main#/console/14051805/322943561/inspect)  
@@ -33,6 +34,7 @@ Das Modul hat folgende Zustände:
 ![Darstellung des Menüs ohne Login](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/menu/images/MM10_ohne_login.png 'class: image')
 
 *   Menü besteht aus [Menüeinträgen](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
-#### 4.2.1 Vermassung
+
+#### Design Spezifikation
 *   [1. Level](https://sbb.invisionapp.com/d/main#/console/14051805/322943563/inspect)  
 *   [2. Level](https://sbb.invisionapp.com/d/main#/console/14051805/322943564/inspect)

@@ -19,12 +19,11 @@ Das Element hat folgende Zustände:
 
 *   Der Text ist immer einzeilig.
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
 
 ### 4.2 Segmented Icon Button
 ![Darstellung des Segmented Icon Buttons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Icon.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166959/inspect)

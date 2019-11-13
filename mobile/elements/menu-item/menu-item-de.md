@@ -19,8 +19,7 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung des Menu Eintrags, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167006/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
@@ -32,7 +31,7 @@ Zusätzliche Zustände
 *   Entsperrt (Default und Pressed)
 *   Gesperrt  (Default und Pressed)
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Gesperrt](https://sbb.invisionapp.com/d/main#/console/14051805/313167002/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167005/inspect)
 *   [Entsperrt](https://sbb.invisionapp.com/d/main#/console/14051805/313167003/inspect)
@@ -41,8 +40,7 @@ Zusätzliche Zustände
 ### 4.3 Kategorie
 ![Darstellung des Menu Eintrags, Kategorie](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167000/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167001/inspect)
 

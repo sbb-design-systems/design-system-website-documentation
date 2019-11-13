@@ -21,7 +21,6 @@ Das Element hat folgende Zustände:
 *   [Disabled Tristate](https://sbb.invisionapp.com/d/main#/console/14051805/313166975/inspect)
 
 Das Element hat folgende Ausprägungen:
-
 *   mit Info (nur bei vertikaler Ausrichtung)
 *   ohne Info
 *   vertikal ausgerichtet
@@ -33,7 +32,7 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Checkboxen, vertikale Anordnung, mit Infos](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
 *   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
@@ -43,6 +42,6 @@ Das Element hat folgende Ausprägungen:
 ![Darstellung der Checkboxen, horizontale Anordnung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Horizontal.png 'class: image')
 
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166971/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166972/inspect)

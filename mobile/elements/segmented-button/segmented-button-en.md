@@ -19,12 +19,11 @@ The element has the following statuses:
 
 *   The text is always single-line.
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Icon](https://sbb.invisionapp.com/d/main#/console/14051805/313166960/inspect)
 
 ### 4.2 Segmented icon button
 ![Image of the segmented icon button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/segmented-button/images/ME11_Icon.png 'class: image')
 
-
-#### 4.2.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166959/inspect)

@@ -15,7 +15,7 @@
 ### 4.1 Standard
 ![Dartellung eines Onboardings](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/onboarding/images/MM14.png 'class: image')
 
-#### 4.1.1 Vermasssung
+#### Design Spezifikation
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943575/inspect)  
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943576/inspect)
 

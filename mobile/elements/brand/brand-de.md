@@ -16,7 +16,7 @@
 ![Darstellung des Standard Signets](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/brand/images/ME04_Signet.png 'class: image')
 
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166952/inspect)
 
 ## 5. Barrierefreiheit

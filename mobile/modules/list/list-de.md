@@ -17,7 +17,7 @@ Das Modul hat folgende Ausprägungen
 ### 4.1 Standard
 ![Darstellung von Listeneinträgen, mit Titel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_mit_Titel.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943585/inspect)
 *   [Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943586/inspect)
 *   [Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943587/inspect)
@@ -26,7 +26,7 @@ Das Modul hat folgende Ausprägungen
 ### 4.2 ohne Listentitel
 ![Darstellung von Listeneinträgen, ohne Titel](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/list/images/MM17_Liste_ohne_Titel.png 'class: image')
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Mit Titel](https://sbb.invisionapp.com/d/main#/console/14051805/322943581/inspect)
 *   [Mit Titel,  Icon](https://sbb.invisionapp.com/d/main#/console/14051805/322943582/inspect)
 *   [Mit Mit Titel,  Icon,  Funktion](https://sbb.invisionapp.com/d/main#/console/14051805/322943583/inspect)

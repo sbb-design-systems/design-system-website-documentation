@@ -18,21 +18,18 @@ Das Element hat folgende Zustände:
 ### 4.1 Einfach
 ![Darstellung Datepicker, einfach](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Einfach.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166998/inspect)
 
 ### 4.2 Kombiniert
 ![Darstellung Datepicker, kombiniert](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Mehrfach.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166999/inspect)
 
 ### 4.3 Inline
 ![Darstellung Datepicker, inline](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/date-picker/images/ME17_Inline.png 'class: image')
 
-
-#### 4.3.1 Vermassung
+#### Design Spezifikation
 *   [Inaktiv](https://sbb.invisionapp.com/d/main#/console/14051805/313170341/inspect)
 *   [Aktiv](https://sbb.invisionapp.com/d/main#/console/14051805/313170340/inspect)

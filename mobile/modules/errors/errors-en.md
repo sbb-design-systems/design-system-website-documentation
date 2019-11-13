@@ -11,7 +11,7 @@
 ### 4.1 Error dialogue 
 ![Image of the error dialogue](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/errors/images/MM06_Dialog.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Single](https://sbb.invisionapp.com/d/main#/console/14051805/322943549/inspect)
 *   [Double](https://sbb.invisionapp.com/d/main#/console/14051805/322943550/inspect)
 *   [Triple](https://sbb.invisionapp.com/d/main#/console/14051805/322943551/inspect)
@@ -24,7 +24,7 @@ Statuses:
 *   Full area 
 *   List entry
 
-#### 4.2.1 Size
+#### Design Specification
 *   [Full area with reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943552/inspect)
 *   [Full area without reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943553/inspect)
 *   [List entry with reload](https://sbb.invisionapp.com/d/main#/console/14051805/322943554/inspect)
