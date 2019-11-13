@@ -1,8 +1,10 @@
 ## 1. Was macht das Modul?
 * Dient zur Eingabe von einfachen Suchabfragen.
 
+
 ## 2. Wann soll das Modul eingesetzt werden?
 * Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
+
 
 ## 3. Regeln
 * Das Suchfeld hat immer einen Platzhaltertext, mit einem Hinweis, welche Suchbegriffe akzeptiert werden.
@@ -16,6 +18,7 @@
 * Wird der Text während der Eingabe länger als die Breite des Suchfeldes wird der geschriebene Text nach links verdrängt, damit das aktuell Geschriebene immer gesehen wird.
 * Nach dem Verlassen des Suchfeldes mit einem langen Text wird dieser am Ende abgeschnitten und mit «\...» gekennzeichnet.
 * Wird ein Auto-Suggest Begriff aus der Liste angeklickt, wird direkt zu dieser Seite navigiert.
+
 
 ## 4. Ausprägungen und Zustände 
 Das Modul hat folgende Zustände:

@@ -6,6 +6,7 @@
 
 Weitere Details zu den Schreibregeln sind in den [Sprach- und Schreibregeln](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/kommunikation/sprache.html) ersichtlich.
 
+
 ## 2. Formatierung
 ### 2.1 Zahlen
 * Eins, zwei, drei, ... (bis zwölf) ausgeschrieben; 13, 14, ... als Ziffern, bspw. «zum zweiten Mal», «15. Lebensjahr»
@@ -25,7 +26,6 @@ Weitere Details zu den Schreibregeln sind in den [Sprach- und Schreibregeln](htt
 * In verknapptem Text dürfen die Wochentage und Monate abgekürzt werden.
 
 ####Abkürzungen Wochentage
-
 <table>
     <tr>
         <th>Deutsch</th>
