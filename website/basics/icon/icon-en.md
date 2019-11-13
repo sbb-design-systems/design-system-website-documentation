@@ -1,11 +1,11 @@
-## 1. Verwendung
-Icons dienen zur visuellen Unterstützung von Themen und Aktionen. Für die Verwendung in SBB-Anwendungen sind die Icons im SBB-Stil einzusetzen. Details dazu und ein Set an bereits verfügbaren Icons sind [hier](https://digital.sbb.ch/de/icons-und-piktogramme/sbb-icons) zu finden.
+## 1. Use
+Icons provide visual support for themes and actions. The icons in the SBB style must be used in SBB applications. Details on this and a set of already available icons can be found [here](https://digital.sbb.ch/en/icons-und-piktogramme/sbb-icons).
 
-## 2. Regeln
-* Innerhalb von Fliesstexten soll wenn immer möglich auf die Verwendung von Icons verzichtet werden.
-* Icons ohne Text müssen selbsterklärend oder schnell lernbar sein. Je mehr Icons in einer Anwendung eingesetzt werden, desto schwieriger wird es die Bedeutung deren zu merken.
-* Icons sollen anwendungsübergreifend immer die gleiche Bedeutung haben (Konsistenz)
+## 2. Rules
+* The use of icons within body copy should be avoided as far as possible.
+* Icons without text must be self-explanatory or easy to learn. The more icons used in an application, the more difficult it becomes to understand their meaning.
+* Icons should always have the same meaning (consistency) across all applications.
 
-## 3. Barrierefreiheit
-* Icons ohne Text müssen mit einem Alternativtext hinterlegt werden.
-* Es muss nicht das Icon selbst, sondern seine Funktion in Textform beschrieben werden (z.B. "Menu schliessen").
+## 3. Accessibility
+* Icons without text must include an alternative text.
+* The icon itself does not have to be described but instead its function in text form (e.g. ‘close menu’).

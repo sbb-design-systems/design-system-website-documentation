@@ -9,16 +9,16 @@ Weitere Details zu den Schreibregeln sind in den [SBB Sprach- und Schreibregeln]
 
 ## 2. Formatierung
 ### 2.1 Zahlen
-* Eins, zwei, drei, ... (bis zwölf) ausgeschrieben; 13, 14, ... als Ziffern, bspw. «zum zweiten Mal», «15. Lebensjahr»
+* Eins, zwei, drei, ... (bis zwölf) ausgeschrieben; 13, 14, ... als Ziffern, bspw. «zum zweiten Mal», «15. Lebensjahr».
 
 ### 2.2 Prozentangaben
-* Ziffer gefolgt von '%' («30% Ermässigung»)
+* Ziffer gefolgt von '%' («30% Ermässigung»).
 
 ### 2.3 Altersangaben 
-* Ziffern, nicht ausgeschrieben («15 Jahre alt»)
+* Ziffern, nicht ausgeschrieben («15 Jahre alt»).
 
 ### 2.4 Preise
-* Währung vor Preisangabe («Ab CHF 13.50», «CHF 95.00»)
+* Währung vor Preisangabe («Ab CHF 13.50», «CHF 95.00»).
 
 ### 2.5 Datum
 * In Fliesstext wird das Datum immer ausgeschrieben, Tag ohne führende Null («Freitag, 2. Dezember 2019»).
@@ -69,15 +69,15 @@ Weitere Details zu den Schreibregeln sind in den [SBB Sprach- und Schreibregeln]
 	</table>
 
 ### 2.6 Dateigrössen
-* Dateien  < 1 MB: in KB angeben («800 KB»)
-* Dateien  > 1 MB: in MB mit einer Kommastelle angeben («1.2 MB»)
+* Dateien  < 1 MB: in KB angeben («800 KB»).
+* Dateien  > 1 MB: in MB mit einer Kommastelle angeben («1.2 MB»).
 
 ### 2.7 Telefonnummern
-* Telefonnummer Standard: +41 xx xxx xx xx
-* Telefonnummer mit Erreichbarkeit: +41 xx xxx xx xx zzgl. Erreichbarkeit in Klammern (z.B. täglich 24h)
-* Kostenlose Servicenummern: 0xxx xxx xx xx (kostenlos aus der Schweiz)
-* Kostenpflichtige Servicenummern: 0xxx xxx xx xx (Kosten in Klammern auf neuer Zeile) (z.B. [CHF 1.19/Min.)
+* Telefonnummer Standard: +41 xx xxx xx xx.
+* Telefonnummer mit Erreichbarkeit: +41 xx xxx xx xx zzgl. Erreichbarkeit in Klammern (z.B. täglich 24h).
+* Kostenlose Servicenummern: 0xxx xxx xx xx (kostenlos aus der Schweiz).
+* Kostenpflichtige Servicenummern: 0xxx xxx xx xx (Kosten in Klammern auf neuer Zeile) (z.B. [CHF 1.19/Min.).
 * Faxnummern: Faxnummern wird immer mit einem Bezeichner (Fax: in deutscher Sprachvariante) dargestellt. Telefonnummern in Kombination mit Faxnummern werden mit einem Bezeichner (Tel.: in deutscher Sprachvariante).
-    * Tel.: +41 xx xxx xx xx 
-    * Fax: +41 xx xxx xx xx 
-* Sonderfall Bahnverkehrsinformation: Tel.: 166
+    * Tel.: +41 xx xxx xx xx.
+    * Fax: +41 xx xxx xx xx.
+* Sonderfall Bahnverkehrsinformation: Tel.: 166.

@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Darstellung von 2 bis 6 Bildern/Videos in einer Auflistung.
+Dient zur Darstellung von 2 bis 6 Bildern/Videos in einer Auflistung.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei einer Auflistung von mehreren Bildern/Videos.
+Bei einer Auflistung von mehreren Bildern/Videos.
 
 ## 3. Regeln 
 * Es dürfen 2 bis 6 Bilder im Slider verwendet werden.

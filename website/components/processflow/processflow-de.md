@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Anzeige in welchem Schritt eines Prozesses sich ein Benutzer befindet.
+Dient zur Anzeige in welchem Schritt eines Prozesses sich ein Benutzer befindet.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei sämtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchläuft um diesen abschliessen zu können.
+Bei sämtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchläuft um diesen abschliessen zu können.
 
 ## 3. Regeln
 * Der Processflow ist immer zuoberst, direkt nach dem [Breadcrumb](https://digital.sbb.ch/de/components/breadcrumb) positioniert.
@@ -17,4 +17,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/processflow)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/processflow)

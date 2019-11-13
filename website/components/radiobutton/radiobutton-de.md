@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Auswahl genau einer Option aus mehreren.
+Dient zur Auswahl genau einer Option aus mehreren.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
+Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
 
 ## 3. Regeln
 * Ein Radiobutton ist nur innerhalb eines Formulars erlaubt.
@@ -45,7 +45,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724163/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button)
 
 ### 4.3 Horizontale Radiobutton-Gruppe
 ![Darstellung der Komponente Radiobutton als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
@@ -54,4 +54,4 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724164/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button)

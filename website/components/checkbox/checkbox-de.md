@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von Ja/Nein-Werten.
+Dient zur Eingabe von Ja/Nein-Werten.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Auswählen einer Option.
@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724170/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
 
 ### 4.2 Vertikale Checkbox-Gruppe 
 ![Darstellung der Komponente Checkbox als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_vertical.png 'class: image')
@@ -46,7 +46,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
 
 ### 4.3 Horizontale Checkbox-Gruppe
 ![Darstellung der Komponente Checkbox als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/checkbox/images/checkbox_horizontal.png 'class: image')
@@ -55,4 +55,4 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)

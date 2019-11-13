@@ -1,46 +1,46 @@
-## 1. Was macht die Komponente?
-* Dient zu Darstellung von sieben und mehr Bildern / Videos in einer Auflistung.
+## 1. What does the component do?
+It is used to display seven or more images/videos in a list.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei einer Auflistung von mehreren Bildern/Videos.
+## 2. When should the component be used?
+In a list of several images/videos.
 
-## 3. Regeln 
-* Es dürfen 7 und mehr Bilder/Videos verwendet werden.
-* Das angezeigte Bild/Video kann mit einem Text ergänzt werden. Dieser ist immer unterhalb des Bildes/Videos.
-* Oberhalb der Galerie wird eine Statuszeile eingeblendet, welche «gezeigtes Bild/Gesamtanzahl Bildern» anzeigt.
-* Die Galerie zeigt eine Vorschau der nicht gewählten Bilder/Videos als Thumbs an.
-* Durch Klick auf ein Thumb wird der entsprechende Eintrag gewählt.
-* In der mobilen Ansicht werden 3 Bilder der Galerie gleichzeitig untereinander angezeigt. Mit dem Button «Mehr anzeigen» werden jeweils 3 weitere Bilder nachgeladen und angezeigt.
-* Der Bild-/Video-Container hat immer das Grundformat 16:9.
-* Inhalte welche von diesem Format abweichen werden zentriert (horizontal und vertikal) dargestellt.
-* Im Default-Zustand ist immer das erste Bild gewählt und wird gross dargestellt.
-* Die Bilder/Videos rotieren nie automatisch.
-* Bei Hover über einen Video- oder GIF-Eintrag ist der mittlere Teil zusätzlich zum Starten des Videos vorgesehen.
-* Bei Bildern öffnet der Klick auf den mittleren Teil das gewählte Bild grossflächig in einer Lightbox.
-* Bei Hover vergrössert sich das Element innerhalb des Containers auf 110% (maskiert).
-* Bei Touch-Devices kann durch Swipen das nächste/vorhergehende Element angezeigt werden.
+## 3. Rules
+* Seven or more images/videos may be used.
+* A text can be added to the image/video displayed. This is always below the image/video.
+* A status line is displayed above the gallery pointing to the ‘image shown/total number of images’.
+* The gallery shows a preview of the images/videos not selected as thumbs.
+* The entry is selected by clicking on a thumb.
+* In the mobile view, three images from the gallery are shown beneath one another at the same time. The ‘show more’ button downloads and displays three more images.
+* The image/video container always has the basic format 16:9.
+* Content that differs from this format appears centred (horizontal and vertical).
+* In the default status, the first image is always selected and shown in large format.
+* The images/videos never rotate automatically.
+* Hovering over a video or GIF entry shows the middle part as well as the start of the video.
+* Clicking on the middle part of images shows the image selected in large format in a lightbox.
+* When hovering, the element within the container increases to 110% (masked).
+* The next/previous element can be displayed by swiping on touch devices.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses: 
 * Default
 * Detail
 
 ### 4.1 Standard
-![Darstellung der Komponente Mediengallerie in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_default.png 'class: image')
+![Image of the media gallery component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_default.png 'class: image')
 
-####Design Spezifikation
+####Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074098/inspect)
 * [Details](https://sbb.invisionapp.com/d/main#/console/15744722/345074099/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
-### 4.2 Mit zusätzlichem Text
-![Darstellung der Komponente Mediengallerie mit zusätzlichem Text unter dem Bild](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_text.png 'class: image')
+### 4.2 With additional text
+![Image of the media gallery component with additional text under the image](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/mediagallery/images/mediagallery_text.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345074100/inspect)
 * [Details](https://sbb.invisionapp.com/d/main#/console/15744722/345074101/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.

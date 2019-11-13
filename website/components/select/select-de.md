@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Auswahl einer oder mehrerer Optionen aus einer vorgegebenen Liste.
+Dient zur Auswahl einer oder mehrerer Optionen aus einer vorgegebenen Liste.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei einer Auswahl aus mehreren Optionen (Einfach- oder Mehrfachauswahl) einer Liste.
@@ -35,7 +35,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327200960/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/select)
 
 ### 4.2 Mehrfachauswahl 
 ![Darstellung der Komponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_multi.png 'class: image')
@@ -45,7 +45,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327200962/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/select)
 
 ### 4.3 Gruppierte Einfachauswahl
 ![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_single.png 'class: image')
@@ -55,7 +55,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327200964/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/select)
 
 ### 4.4 Gruppierte Mehrfachauswahl
 ![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/select/images/select_grouped_multi.png 'class: image')
@@ -65,4 +65,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327200966/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/select)

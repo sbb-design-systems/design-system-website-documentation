@@ -1,5 +1,5 @@
 ## 1. Was macht das Modul?
-* Ermöglicht es dem Benutzer mit der Tastatur schnell zu ausgewählten Zielen auf der Seite zu navigieren.
+Ermöglicht es dem Benutzer mit der Tastatur schnell zu ausgewählten Zielen auf der Seite zu navigieren.
 
 ## 2. Wann soll das Modul eingesetzt werden? 
 * Auf jeder Seite mit einer grossen Navigationshierarchie.

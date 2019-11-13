@@ -1,8 +1,8 @@
 ## 1. Was macht das Modul?
-* Stellt Kontaktinformationen zur Hilfestellung bei Fragen zur Verfügung.
+Stellt Kontaktinformationen zur Hilfestellung bei Fragen zur Verfügung.
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Bei allen Detailseiten welche eine genau definierte Kontaktstelle besitzen.
+Bei allen Detailseiten welche eine genau definierte Kontaktstelle besitzen.
 
 ## 3. Regeln
 * Der Kontaktblock darf nur in der Marginalspalte (Desktop) eingesetzt werden.

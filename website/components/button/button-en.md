@@ -1,71 +1,71 @@
-## 1. Was macht die Komponente?
-* Löst eine Aktion auf einer Seite aus.
+## 1. What does the component do?
+It triggers an action on a page.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Beim Starten oder Beenden eines Prozesses.
-* Beim Absenden eines Formulars.
-* Beim Aufrufen einer Funktion auf einer Seite.
+## 2. When should the component be used? 
+* When starting or ending a process.
+* When sending forms.
+* When selecting a function on a page.
 
-## 3. Regeln
-* Darf nicht innerhalb von Fliesstext eingesetzt werden.
-* Darf nicht im (link: websites/modules/header text: Header) als Navigation oder Funktion eingesetzt werden.
-* Die Mindestbreite beträgt 60px, die Maximalbreite 400px.
-* Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
-* Ist der Text beim Erreichen der Maximallänge immer noch zu lang, wird dieser mit «\...» abgekürzt.
-* Der Text ist immer einzeilig.
-* In Ausnahmefällen darf das Pfeil-Icon durch ein anderes, passendes Icon ersetzt werden.
-* Pro Seite darf nur ein Primary Button eingesetzt werden.
-* Secondary, Ghost und Frameless Buttons dürfen nur eingesetzt werden, wenn bereits ein Primary Button vorhanden ist.
+## 3. Rules
+* It cannot be used within body copy.
+* Cannot be used in the [header](https://digital.sbb.ch/de/modules/header) as navigation or a function.
+* The minimum width is 60px, the maximum width is 400px.
+* The width increases with the text length. When used in the [next best click (NBC)](https://digital.sbb.ch/en/components/nbc) or in mobile views, the width is 100%.
+* If the text is still too long when the maximum length is reached, it is shortened with “...”.
+* The text is always single-line.
+* In exceptional cases, the arrow icon can be replaced with a different, suitable icon.
+* Only one primary button can be used per page.
+* Secondary, ghost and frameless buttons can only be used if a primary button already exists.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Hover
 * On-click
 * Disabled
 
-### 4.1 Primary Button
-![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image')
+### 4.1 Primary button
+![Image of the primary button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_primary.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326883321/inspect) 
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326883322/inspect) 
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326883323/inspect) 
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
-### 4.2 Secondary Button
-![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
+### 4.2 Secondary button
+![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896021/inspect) 
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896022/inspect) 
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896023/inspect) 
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
-### 4.3 Ghost Button
-![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
+### 4.3 Ghost button
+![Image of the ghost button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896025/inspect) 
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896026/inspect) 
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
 
-### 4.4 Frameless Button
-![Darstellung der Komponente Frameless Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
+### 4.4 Frameless button
+![Image of the frameless button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326896028/inspect) 
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/326896029/inspect) 
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)

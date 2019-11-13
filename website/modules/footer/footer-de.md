@@ -1,19 +1,19 @@
 ## 1. Was macht das Modul?
-* Bietet dem Benutzer allgemeine Informationen zur Webseite / Anwendung.
+Bietet dem Benutzer allgemeine Informationen zur Webseite / Anwendung.
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Ein Footer ist bei jeder Webseite / jeder Anwendung einzufügen.
+Ein Footer ist bei jeder Webseite / jeder Anwendung einzufügen.
 
 ## 3. Regeln
 * Der 4-spaltige Rich Footer hat folgende Bereiche:
-    * Kontakt
-    * Bahnverkehrsinformationen (auf [sbb.ch](https://sbb.ch) oder Microsite-/Anwendungs-spezifische Informationen
-    * Newsletter & Social Media
-    * Über die SBB
+    * Kontakt.
+    * Bahnverkehrsinformationen (auf [sbb.ch](https://sbb.ch) oder Microsite-/Anwendungs-spezifische Informationen.
+    * Newsletter & Social Media.
+    * Über die SBB.
 * Weitere Elemente im Footer sind:
-    * Uhr-Modul
-    * Sprachwahl
-    * Links zu Impressum, Rechtliche Hinweise, Datenschutz
+    * Uhr-Modul.
+    * Sprachwahl.
+    * Links zu Impressum, Rechtliche Hinweise, Datenschutz.
 * Mittels Klick auf die Uhr wird sie ganzflächig in einer [Lightbox](https://digital.sbb.ch/de/components/lightbox) angezeigt.
 
 ## 4. Ausprägungen und Zustände
@@ -51,7 +51,7 @@
 * Darf nur eingesetzt werden, wenn gleichzeitig auf der Seite der «Header mit eigenem Logo» eingesetzt wird.
 * Der Bereich Kontakt hat genau eine Kontaktadresse.
 * Die zweite Spalte enthält Microsite-spezifische Informationen.
-* Das SBB-Logo ist mit (link: http://sbb.ch text: sbb.ch) verlinkt.
+* Das SBB-Logo ist mit [sbb.ch](https://sbb.ch) verlinkt.
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985474/inspect)

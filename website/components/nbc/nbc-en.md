@@ -1,107 +1,107 @@
-## 1. Was macht die Komponente?
-* Stellt unterschiedliche Informationen und Funktionen zur Verfügung.
+## 1. What does the component do?
+It makes various information and functions available.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Zur Ergänzung von Inhaltsseiten.
+## 2. When should the component be used?
+To complement content pages.
 
-## 3. Regeln
-* Das Modul wird immer in der Marginalspalte (rechts) eingesetzt.
-* Es können mehrere Module in der Marginalspalte untereinander platziert werden.
-* Beim Scrollen werden alle Boxen in der Marginalspalte sticky. Die einzelnen Boxen werden sukzessive minimiert, sobald sie am oberen Rand des Viewports angelangt sind.
-* Einzelne Boxen im gescrollten Zustand können vom Benutzer aufgeklappt werden.
-* Es darf im gescrollten Zustand immer nur eine Box aufgeklappt sein.
+## 3. Rules
+* The module is always used in the margin column (on the right).
+* Several modules can be positioned beneath one another in the margin column.
+* When scrolling all boxes in the margin column are sticky. The individual boxes are successively minimised as soon as they reach the top edge of the viewport.
+* Individual boxes in the scrolled status can be expanded by the user.
+* Only one box can ever be expanded in the scrolled status.
 
-## 4. Ausprägungen und Zustände 
-Der Next Best Click Container hat keine Viewport übergreifenden Zustände, da sie sich unterschiedlich verhalten. Des Weiteren haben die einzelnen Ausprägungen zusätzlich unterschiedliche Varianten.
+## 4. Variants and statuses
+The Next Best Click container does not have any cross-viewport statuses as they behave differently. The individual variants also have different forms.
 
-### 4.1 Aktion
-![Darstellung der Komponente Next Best Click Container zur Auslösung von Aktionen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_action.png 'class: image')
+### 4.1 Action
+![Image of the Next Best Click container image to trigger actions](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_action.png 'class: image')
 
-####Design Spezifikation
+####Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616913/inspect)
 * [Double](https://sbb.invisionapp.com/d/main#/console/15744722/345616914/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616915/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
-### 4.2 Kontakt
-![Darstellung der Komponente Next Best Click Container als Information zu den Kontaktmöglichkeiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_contact.png 'class: image')
+### 4.2 Contact
+![Image of the Next Best Click container component as information on the contact options](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_contact.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616916/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616917/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
 ### 4.3 Link
-![Darstellung der Komponente Next Best Click Container als Linkliste zu anderen Themen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_link.png 'class: image')
+![Image of the Next Best Click container component as a link list to other topics](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_link.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616918/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616919/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
 ### 4.4 Download
-![Darstellung der Komponente Next Best Click Container mit mehreren Download Dateien](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_download.png 'class: image')
+![Image of the Next Best Click container component with several download files](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_download.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616920/inspect)
 * [App](https://sbb.invisionapp.com/d/main#/console/15744722/345616921/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616922/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
 ### 4.5 Chat
-![Darstellung der Komponente Next Best Click Container zum Starten des Live-Chat](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_chat.png 'class: image')
+![Image of the Next Best Click container component to start the live chat](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_chat.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616923/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616924/inspect)
 
-#### Code Spezifikation
-In Bearbeitung.
+#### Code specification
+In progress.
 
-## 5. Verhalten
-### 5.1 Desktop (und grössere Auflösungen)
-* Alle Next-Best-Click Optionen sind auf Inhalts-Seiten in der Margin-Spalte (rechten Spalte) angeordnet.
-* Beim Scrollen werden alle Boxen in der rechten Spalte sticky. Die einzelnen Boxen werden sukzessive minimiert, sobald sie an den oberen Rand des Viewports (unterhalb des Sticky Headers) angelangt sind (respektive bei schon minimierten Boxen jeweils darunter).
-* Im minimierten Zustand bleiben alle Boxen jederzeit für den User zugängig/erreichbar.
-* Der User kann dann jeweils eine Box öffnen (und auch wieder schliessen).
-* Im gescrollten Zustand kann jeweils nur eine Box zugleich geöffnet sein.
-* Die NBC-Box bleibt solange sticky, bis der User am Ende der Content-Area angelangt ist. Scrollt der User weiter nach unten werden die Boxen mit dem Content nach oben weggescrolled.
-* Scrollt der User danach wieder nach oben, erscheint auch die NBC-Box wieder und bleibt wieder sticky.
+## 5. Behaviour
+### 5.1 Desktop (and higher resolutions)
+* All Next-Best-Click options are arranged on the content pages in the margin column (right column).
+* When scrolling all boxes in the right column are sticky. The individual boxes are successively minimised as soon as they reach the upper edge of the viewport (below the sticky header) and below with already minimised boxes.
+* In the minimised status, all boxes are always accessible for the user.
+* The user can then open a box (and also close it again).
+* Only one box can be opened at the same time in the scrolled status.
+* The NBC box remains sticky until the user reaches the end of the content area. If the user continues to scroll down, the boxes with the content scroll away upwards.
+* If the user then scrolls upwards again, the NBC box also reappears and is sticky again.
 
-![Darstellung des Verhaltens eines Next Best Click Containers auf Desktop und grösseren Auflösungen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_default.png 'class: image')
+![Image of the behaviour of a Next Best Click container on desktops and with higher resolutions](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_default.png 'class: image')
 
-#### Sonderfall NBC-Box innerhalb eines Accordion
-* Bei der Anwendung einer NBC-Box innerhalb eines [Accordion](https://digital.sbb.ch/de/components/accordion) wird diese nie minimiert.
-* Es darf nur eine NBC-Box in einem Accordion eingesetzt werden.
-* Beim Scrollen bleibt die NBC-Box sticky am oberen Rand bis zum Ende der Content-Area des Accordions, dannach wird die Box mit dem Content weitergescrollt.
+#### Special case: NBC box within an accordion
+* A NBC box is never minimised when used within an [accordion](https://digital.sbb.ch/en/components/accordion).
+* Only one NBC box can be inserted into an accordion.
+* When scrolling, the NBC box remains sticky on the top edge to the end of the content area of the accordion, after which the box continues to be scrolled with the content.
 
-![Darstellung des Verhaltens eines Next Best Click innerhalb eines Akkordeons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_accordion.png 'class: image')
+![Image of the behaviour of a Next Best Click within an accordion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_desktop_accordion.png 'class: image')
 
 ### 5.2 Tablet
-* Alle Next-Best-Click Optionen sind jederzeit über das sticky Element rechts unten verfügbar.
-* Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im offenen Zustand nebeneinander (zweispaltige Darstellung)
-* Das Icon im Sticky-Element wechselt dann zum Schliessen-Button (Toggle-Button).
-* In der Tablet-Variante werden die NBC-Boxen am Ende der Content-Area redundant (offen) dargestellt.
-* Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
-* Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder.
+* All Next-Best-Click options are always available via the sticky element on the bottom right.
+* When clicked, a layer with all NBC modules alongside one another opens in the open status (two-column display)
+* The icon in the sticky element then changes into the close button (toggle button).
+* In the tablet variant, the NBC boxes at the end of the content area are displayed as redundant (open).
+* If the user scrolls into the relevant area (and beyond) the element for opening the NBC layer is hidden.
+* If the user scrolls up again, the sticky element also reappears.
 
-![Darstellung des Verhaltens eines Next Best Click Containers auf Tablets](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_tablet.png 'class: image')
+![Image of the behaviour of a Next Best Click container on tablets](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_tablet.png 'class: image')
 
 ### 5.3 Mobile
-* Alle Next-Best-Click Optionen sind jederzeit über das Sticky-Element rechts unten aufrufbar.
-* Auf Klick öffnet sich ein Layer mit allen NBC-Modulen im geschlossenen Zustand. 
-* Es kann jeweils nur ein Modul einzeln geöffnet werden.
-* Das Icon in dem Sticky Element wechselt zum Schliessen-Icon (Toggle-Button).
-* In der mobilen Variante werden die NBC-Boxen am Ende der Content-Area redundant (offen) dargestellt.
-* Scrollt der User in den entsprechenden Bereich (und darüberhinaus) wird das Element zum Öffnen des NBC-Layers ausgeblendet.
-* Scrollt der User wieder nach oben erscheint auch das Sticky-Element wieder
+* All Next-Best-Click options are always accessible via the sticky element in the bottom right.
+* When clicked, a layer with all NBC modules opens in closed status.
+* Only one module can be opened at a time.
+* The icon in the sticky element turns into the close icon (toggle button).
+* In the mobile variant, the NBC boxes at the end of the content area are displayed as redundant (open).
+* If the user scrolls into the relevant area (and beyond) the element for opening the NBC layer is hidden.
+* If the user scrolls up again, the sticky element also reappears.
 
-![Darstellung des Verhaltens eines Next Best Click Containers auf Mobiles](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_mobile.png 'class: image')
+![Image of the behaviour of a Next Best Click container on mobiles](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/nbc/images/nbc_behaviour_mobile.png 'class: image')

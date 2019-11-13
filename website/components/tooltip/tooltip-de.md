@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
+Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Text.
+Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Text.
 
 ## 3. Regeln
 * Der Tooltip besteht aus dem Icon und dem Overlay. → In Ausnahmefällen darf auch ein anderes Icon für den Tooltip verwendet werden (z.B. ein Info-Icon).
@@ -27,7 +27,7 @@ Die Komponente hat folgende Zustände:
 * [Visible](https://sbb.invisionapp.com/d/main#/console/15744722/328424440/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tooltip)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tooltip)
 
 ### 4.2 Overlay unterhalb des Icons
 ![Darstellung der Komponente Tooltip mit untenliegender Textbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/tooltip/images/tooltip_underneath.png 'class: image')
@@ -37,4 +37,4 @@ Die Komponente hat folgende Zustände:
 * [Visible](https://sbb.invisionapp.com/d/main#/console/15744722/328424442/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tooltip)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tooltip)

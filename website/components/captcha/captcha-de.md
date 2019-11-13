@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Stellt eine Abfrage um sicherzustellen, dass eine Webseite mit einen realen Benutzer interagiert.
+Stellt eine Abfrage um sicherzustellen, dass eine Webseite mit einen realen Benutzer interagiert.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei Formularen welche ohne Login zugänglich sind.
+Bei Formularen welche ohne Login zugänglich sind.
 
 ## 3. Regeln
 * Das Captcha steht immer am Ende eines Formulars, vor dem «Senden» Button.
@@ -21,4 +21,4 @@ Die Komponente hat folgende Zustände:
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/captcha)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/captcha)

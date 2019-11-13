@@ -7,25 +7,41 @@
 
 
 ## 3. Regeln
-* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, [Hauptnavigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (falls notwendig), Anzeige für Benachrichtigungen (optional), [Benutzermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
+* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, Hauptnavigation (falls notwendig), Suche (optional), Anzeige für Benachrichtigungen (optional), [Benutzermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
+* Bei Tablet wird die Hauptnavigation in die Burgernavigation verschoben. Bei Mobile zusätzlich noch die Suche, Benachrischtigungen und das Benutzermenü.
+* Der Applikationsname wird bei Mobile mit "..." abgeschnitten, wenn es nicht genügend Platz hat.
 
 
 ## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
+### 4.1 Standard
+Diese Ausprägung hat folgende Zustände:
 * Default
 
-### 4.1 Standard
-![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
+![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Default.png 'class: image')
 
 #### Design Spezifikation
-* [Prod](https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect)
-* [Int](https://sbb.invisionapp.com/d/main#/console/17140415/355318669/inspect)
-* [Test](https://sbb.invisionapp.com/d/main#/console/17140415/355318670/inspect)
-* [Dev](https://sbb.invisionapp.com/d/main#/console/17140415/355318671/inspect)
-* [Edu](https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
 
-### 4.2 Minimal
-![Darstellung des Moduls Header in der minimalen Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
+### 4.2 Submenu
+Diese Ausprägung hat folgende Zustände:
+* Collapsed
+* Expanded
+* Hover
+
+![Darstellung des Moduls Header in der Ausprägung mit Unternavigation](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Submenu.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect)
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266878/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266879/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
+
+### 4.3 Suite
+Diese Ausprägung hat folgende Zustände:
+* Collapsed
+* Expanded
+
+![Darstellung des Moduls Header mit der Navigation einer Suite zum Wechsel zwischen Anwendungen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Suite.png 'class: image')
+
+#### Design Spezifikation
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)

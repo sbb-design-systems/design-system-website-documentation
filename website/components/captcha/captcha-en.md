@@ -1,24 +1,24 @@
-## 1. Was macht die Komponente?
-* Stellt eine Abfrage um sicherzustellen, dass eine Webseite mit einen realen Benutzer interagiert.
+## 1. What does the component do?
+It sends a request to ensure that a website is interacting with the real user.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei Formularen welche ohne Login zugänglich sind.
+## 2. When should the component be used? 
+For forms which are accessible without login.
 
-## 3. Regeln
-* Das Captcha steht immer am Ende eines Formulars, vor dem «Senden» Button.
-* Beim Formularen, bei welchen der Benutzer eingeloggt ist, darf kein Captcha verwendet werden.
+## 3. Rules
+* The captcha always appears at the end of a form in front of the ‘Send’ button.
+* No captcha can be used in forms where the user is logged in.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Checked
 * Unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Captcha](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/captcha/images/captcha_default.png 'class: image')
+![Image of the captcha component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/captcha/images/captcha_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327768739/inspect) 
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect) 
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/captcha)

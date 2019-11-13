@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zum Hochladen von Dateien.
+Dient zum Hochladen von Dateien.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
+Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
 
 ## 3. Regeln 
 * Mit Klick auf den [Button](https://digital.sbb.ch/de/components/button) «Datei hochladen» öffnet sich der Datei-Browser des Systems.
@@ -27,4 +27,4 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/file-selector)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/file-selector)

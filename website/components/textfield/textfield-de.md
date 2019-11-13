@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Dient zur Eingabe von Texten und Zahlen.
+Dient zur Eingabe von Texten und Zahlen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Wenn vom Benutzer eine Eingabe benötigt. wird.
+Wenn vom Benutzer eine Eingabe benötigt. wird.
 
 ## 3. Regeln 
 * Ein Eingabefeld hat immer ein Label.
@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021298/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/field)
 
 ### 4.2 Passworteingabe
 ![Darstellung der Komponente Eingabefeld für Passwort](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/textfield/images/textfield_password.png 'class: image')
@@ -50,4 +50,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021302/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/field)

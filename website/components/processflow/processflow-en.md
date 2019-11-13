@@ -1,20 +1,20 @@
-## 1. Was macht die Komponente?
-* Dient zur Anzeige in welchem Schritt eines Prozesses sich ein Benutzer befindet.
+## 1. What does the component do?
+* It is used to show the user which stage of a process they are on.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei sämtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchläuft um diesen abschliessen zu können.
+## 2. When should the component be used?
+* In all processes where a user has to go through several steps/pages to complete them.
 
-## 3. Regeln
-* Der Processflow ist immer zuoberst, direkt nach dem [Breadcrumb](https://digital.sbb.ch/de/components/breadcrumb) positioniert.
-* Der Benutzer kann im Processflow auf einen bereits durchlaufenen Prozesschritt zurücknavigieren.
-* Vorwärtsnavigation im Prozess ist nur durch den Call-to-Action der entsprechenden Seite erlaubt. Ein Überspringen (vorwärts) von Schritten ist nicht erlaubt.
+## 3. Rules
+* The process flow is always positioned at the top immediately after the [breadcrumb](https://digital.sbb.ch/en/components/breadcrumb).
+* The user can navigate back to a process step already passed through.
+* Forward navigation in the process is only permitted by the call-to-action of the page concerned. Skipping steps (forward) is not permitted.
 
-## 4. Ausprägungen
+## 4. Variants
 ### 4.1 Standard
-![Darstellung der Komponente für Prozessschritte](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/processflow/images/processflow_default.png 'class: image')
+![Image of the component for process steps](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/processflow/images/processflow_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/processflow)

@@ -1,49 +1,49 @@
-## 1. Was macht die Komponente?
-* Dient zur Anzeige der Navigationshierarchie der aktuellen Seite.
+## 1. What does the component do?
+It is used to display the navigation hierarchy of the current page.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Auf jeder Seite, bei denen der Benutzer schnell auf eine Schwester-oder Eltern-Seite navigieren können soll.
+## 2. When should the component be used? 
+On every page where the user should be able to navigate quickly to a sister or parent page.
 
-## 3. Regeln
-* Der Breadcrumb ist immer direkt unter dem [Header](https://digital.sbb.ch/de/modules/header) zu positionieren. Ausnahme wenn eine [Ghettobox](https://digital.sbb.ch/de/components/ghettobox) angezeigt wird, dann folgt der Breadcrumb unmittelbar nach der letzten Ghettobox.
-* Der Breadcrumb kann bei langen Einträgen mehrzeilig werden.
-* Bei Desktop und Tablet werden immer alle Ebenen angezeigt.
-* Auf Mobile wird lediglich die letzte Ebenen ausgeschrieben. Vorangehende Ebenen werden durch eine einzige mit «...» dargestellt. Bei Klick auf «...» werden alle Zwischenebenen eingeblendet.
-* Falls die horizontale Breite des Viewports auf Mobile nicht ausreicht um alle Ebenen anzuzeigen, wird der Breadcrumb-Content scollbar.
+## 3. Rules
+* The breadcrumb is always positioned directly beneath the [header](https://digital.sbb.ch/en/modules/header). The exception is when a [ghettobox](https://digital.sbb.ch/en/components/ghettobox) is shown, then the breadcrumb follows immediately after the last ghettobox.
+* The breadcrumb can be multi-line for long entries.
+* All levels are always shown on the desktop and tablet.
+* Only the last levels are written out on the mobile. Preceding levels are shown on a single one with ‘…’. All intermediate levels are show if ‘…’ is clicked on.
+* If the horizontal width of the viewport on the mobile is not sufficient to show all levels, the breadcrumb content is scrollable.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses 
+The component has the following statuses:
 * Default
 * Hover
 
-Beim Viewport «Mobile» gibt es folgende Zustände:
+The following statuses exist for the ‘mobile’ viewport:
 * Full
 * Overflow
 
 ### 4.1 Standard
-![Darstellung der Komponente Breadcrumb in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_default.png 'class: image')
+![Image of the breadcrumb component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
-#### Design Spezifikation
-* [Default / Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136674/inspect)
-* [Hover / Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136675/inspect)
+#### Design specification
+* [Default/Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136674/inspect)
+* [Hover/Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136675/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/breadcrumb)
 
-### 4.2 Mit Schwesterseiten
-Diese Ausprägung hat zusätzlich folgende Zustände:
+### 4.2 With sister pages
+This variant also has the following statuses:
 * Expanded
 
-![Darstellung der Komponente Breadcrumb mit der Angabe der Schwesterseiten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_sibling.png 'class: image')
-* Klick auf Bezeichner oder Pfeil öffnet das Dropdown.
-* Im Dropdown sind alle Schwesterseiten aufgelistet.
-* Ein Klick ausserhalb des Dropdowns schliesst dieses wieder.
-* Die aktive Seite wird im Dropdown hervorgehoben.
+![Image of the breadcrumb component with sister pages](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/breadcrumb/images/breadcrumb_sibling.png 'class: image')
+* Clicking on the designator or arrow opens the dropdown.
+* All sister pages are listed in the dropdown.
+* This closes again when clicking outside of the dropdown.
+* The active page is highlighted in the dropdown.
 
-#### Design Spezifikation
+#### Design specification
 * [Default / Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136676/inspect)
 * [Hover / Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136677/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/328136678/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/breadcrumb)

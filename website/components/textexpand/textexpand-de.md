@@ -1,8 +1,8 @@
 ## 1. Was macht die Komponente?
-* Klappt einen bestehenden Text weiter auf, um noch mehr Informationen anzuzeigen.
+Klappt einen bestehenden Text weiter auf, um noch mehr Informationen anzuzeigen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-* Bei langen Zusatzinformationen.
+Bei langen Zusatzinformationen.
 
 ## 3. Regeln 
 * Der Textexpand darf nur für Texte eingesetzt werden.
@@ -26,4 +26,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/327015709/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/textexpand)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/textexpand)

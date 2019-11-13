@@ -1,33 +1,33 @@
-## 1. Was macht das Modul?
-* Eingaben des Benutzers sammeln, validieren und absenden.
+## 1. What does the module do?
+It is used to collect, validate and send user entries.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Wenn man Daten des Benutzers braucht, dann ist es ein Formular.
+## 2. When should the module be used?
+When user data is needed, then it is a form.
 
-## 3. Regeln 
-* Formularlayout
-    * Hat das Formular eine eigene Seite hat es immer einen [Titel](WE07---Titel_30823681.html) und optional einen [Leadtext](WE06---Text_30823614.html).
-    * Einzelne Formularelemente können zu Abschnitten zusammengefügt werden. Diese Abschnitte sind mit einer horizontalen Linie voneinander getrennt.
-    * Ein Abschnitt hat immer einen [Titel](WE07---Titel_30823681.html).
-* Absenden des Formulars
-    * Nach dem Versand erscheint eine Bestätigung der Übermittlung.
-* Feldvalidierung
-    * Die Feldvalidierung passiert beim Verlassen eines einzelnen Feldes.
-    * Fehlerhafte Felder werden direkt rot markiert (roter Rahmen und Fehlerhinweis).
-* Formvalidierung
-    * Wird durchgeführt, wenn das Formular über den «Submit» Button versendet wird.
-    * Fehler in der Formvalidierung werden mit einer [Notification](WM09---Notification_30827564.html) angezeigt (bei Fehlern aus der Feldvalidierung wird die [Notification](WM09---Notification_30827564.html) mit Sprungmarke eingesetzt).
-* Inaktive Felder
-    * Formularfelder sind als disabled darzustellen, wenn sie noch abhängig von einer anderen Auswahl sind. Können Felder nie enabled werden (z.B. aufgrund der Berechtigung eines Benutzers), so soll das Feld als Label angezeigt werden.
-    * Der «Submit» Button ist immer aktiv.
-* Optionale Eingaben im Formular werden bei der Feldbezeichnung mit «(optional)» ergänzt.
+## 3. Rules
+* Form layout
+    * If the form has its own page it always has a title and a [lead text](https://digital.sbb.ch/en/basics/typography) as an option.
+    * Individual form element can be combined into sections. These sections are divided by a horizontal line.
+    * A section always has a title.
+* Sending the form
+    * Confirmation of dispatch appears after sending.
+* Field validation
+    * Field validation occurs when leaving an individual field.
+    * Fields containing errors are immediately marked red (red frame and error message).
+* Form validation
+    * Is carried out if the form is sent via the ‘Submit’ button.
+    * Errors in the form validation are shown with a [notification](https://digital.sbb.ch/en/components/notification) (in the case of field validation errors, the [notification](https://digital.sbb.ch/en/components/notification) is entered with jump markers).
+* Inactive fields
+    * Form fields are shown as disabled if they are still dependent on another selection. If fields can never be enabled (e.g. due to user authorisation), the field should be displayed as a label.
+    * The ‘Submit’ button is always active.
+* Optional entries in the form contain ‘(optional)’ in the field name.
 
-## 4. Ausprägungen und Zustände
-Das Modul hat folgende Zustände:
+## 4. Variants and statuses
+The module has the following statuses:
 * Valid
 * Invalid
 
-### 4.1 Floating Layout (ein Feld nach dem anderen mit Umbruch)
-* Die Formularfelder werden aneinander gereiht, mit allfälligem Zeilenumbruch.
+### 4.1 Floating layout (one field after the next with break)
+* The form fields are arranged one after another with any line breaks.
 
-### 4.2 Zweispaltiges Layout
+### 4.2 Two-column layout

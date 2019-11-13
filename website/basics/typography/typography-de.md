@@ -93,7 +93,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 ![Darstellung des Schriftstils Liste geordnet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_ordered.png 'class: image')
 * Liste hat maximal drei Hierarchie-Stufen.
 * Einfache Links sind erlaubt.
-* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen
+* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen.
 * Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
 
 #### Spezifikation
@@ -104,7 +104,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 ![Darstellung des Schriftstils Liste ungeordnet](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/basics/typography/images/typo_list_unordered.png 'class: image')
 * Liste hat maximal drei Hierarchie-Stufen.
 * Einfache Links sind erlaubt.
-* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen
+* Auszeichnungen (Bold), hoch- und tiefgestellte Zahlen sind zugelassen.
 * Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
 
 #### Spezifikation

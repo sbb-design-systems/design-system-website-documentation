@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Dient zur Strukturierung von Content in unterschiedliche Unter-Gruppen.
+Dient zur Strukturierung von Content in unterschiedliche Unter-Gruppen.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Wenn innerhalb des Content klare Untergruppen erstellt werden können.
@@ -29,4 +29,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/332819510/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/accordion)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/accordion)

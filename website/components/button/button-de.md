@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Löst eine Aktion auf einer Seite aus.
+Löst eine Aktion auf einer Seite aus.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Beim Starten oder Beenden eines Prozesses.
@@ -8,7 +8,7 @@
 
 ## 3. Regeln
 * Darf nicht innerhalb von Fliesstext eingesetzt werden.
-* Darf nicht im (link: websites/modules/header text: Header) als Navigation oder Funktion eingesetzt werden.
+* Darf nicht im [Header](https://digital.sbb.ch/de/modules/header) als Navigation oder Funktion eingesetzt werden.
 * Die Mindestbreite beträgt 60px, die Maximalbreite 400px.
 * Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
 * Ist der Text beim Erreichen der Maximallänge immer noch zu lang, wird dieser mit «\...» abgekürzt.
@@ -34,7 +34,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326883324/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.2 Secondary Button
 ![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_secondary.png 'class: image')
@@ -46,7 +46,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/326896024/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.3 Ghost Button
 ![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_ghost.png 'class: image')
@@ -57,7 +57,7 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896027/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)
 
 ### 4.4 Frameless Button
 ![Darstellung der Komponente Frameless Button](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/button/images/button_frameless.png 'class: image')
@@ -68,4 +68,4 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/326896030/inspect) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/button)

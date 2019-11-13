@@ -1,13 +1,13 @@
 ## 1. Was macht das Modul?
-* Dient zu Darstellung von Suchresultaten.
+Dient zu Darstellung von Suchresultaten.
 
 ## 2. Wann soll das Modul eingesetzt werden? 
-* Als Anzeige von Resultaten von Suchabfragen.
+Als Anzeige von Resultaten von Suchabfragen.
 
 ## 3. Regeln 
 * Die Anzahl Suchergebnisse wird zu Beginn der Liste angezeigt.
-* Wenn keine Suchergebnisse verfügbar sind, wird mit einer [Notification](WM09---Notification_30827564.html) der Text «Keine Ergebnisse zum Suchbegriff «Chuchichästli»» angezeigt.
-* Empfehlung: Nach 10 Ergebnissen eine [Pagination](WM12---Pagination_30827626.html) einsetzen.
+* Wenn keine Suchergebnisse verfügbar sind, wird mit einer [Notification](https://digital.sbb.ch/de/components/notification) der Text «Keine Ergebnisse zum Suchbegriff «Chuchichästli»» angezeigt.
+* Empfehlung: Nach 10 Ergebnissen eine [Pagination](https://digital.sbb.ch/de/components/pagination) einsetzen.
 
 ## 4. Ausprägungen
 ### 4.1 Standard
@@ -18,8 +18,8 @@
 * Die einzelnen Begriffe des Pfades werden mit «/» getrennt.
 
 ### 4.2 Als Bilder
-* Die [Bilder](WE10---Bild_30823793.html) sind verlinkt und führen zur entsprechenden Seite.
+* Die [Bilder](https://digital.sbb.ch/de/basics/images) sind verlinkt und führen zur entsprechenden Seite.
 
 ### 4.3 Tabellarisch
 * Die Liste hat immer genau 2 Spalten.
-* Die Suchresultate sind zeilenweise (ganze Zeile) als  [Links](WE11---Link_30823966.html) ausgeprägt.
+* Die Suchresultate sind zeilenweise (ganze Zeile) als [Links](https://digital.sbb.ch/de/components/link) ausgeprägt.

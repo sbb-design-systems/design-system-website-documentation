@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Strukturierte Darstellung von Daten.
+Strukturierte Darstellung von Daten.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Einsatz bei der Darstellung von Daten, nicht zur Strukturierung von Content.
@@ -25,7 +25,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267417/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/table)
 
 ### 4.2 Gruppiert
 ![Darstellung der Komponente Tabelle mit Untergruppen in den Zeilen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_grouped.png 'class: image')
@@ -34,7 +34,7 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267418/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/table)
 
 ### 4.3 Titel - Wert
 ![Darstellung der Komponente Tabelle als Titel-Wert Auflistung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/website/components/table/images/table_key_value.png 'class: image')
@@ -43,4 +43,4 @@
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267419/inspect)
 
 #### ode Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/table)
