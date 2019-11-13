@@ -18,14 +18,14 @@ Das Modul hat folgende Zustände:
 ### 4.1 Single-List
 ![Darstellung der Autocompletion, Single-List](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/autocompletion/images/MM16_Single_List.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943577/inspect)
 *   [Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943578/inspect)
 
 ### 4.2 Multiple-List
 ![Darstellung der Autocompletion, Multiple-List](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/autocompletion/images/MM16_Multiple_List.png 'class: image')
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Verlauf](https://sbb.invisionapp.com/d/main#/console/14051805/322943579/inspect)
 *   [Resultate](https://sbb.invisionapp.com/d/main#/console/14051805/322943580/inspect)
 

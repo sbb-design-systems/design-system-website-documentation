@@ -8,5 +8,5 @@
 ### 3.1 Standard
 ![Darstellung des Splash Screens](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/page-types/splash-screen/images/MS01.png 'class: image')
 
-#### 3.1.1 Vermassungen
+#### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/323023907/inspect)

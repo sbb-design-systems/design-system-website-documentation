@@ -24,8 +24,7 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the entry field](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/textfield/images/ME14_Default.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166986/inspect)
 *   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166988/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166985/inspect)

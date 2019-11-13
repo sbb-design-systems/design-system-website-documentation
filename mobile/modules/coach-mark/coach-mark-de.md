@@ -8,9 +8,9 @@
 *   Expertenfunktionen (z.B. Swipe) sollten gezeigt werden.
 
 ## 4. Ausprägungen
-## 4.1 Standard
+### 4.1 Standard
 ![Darstellung des Coach Marsk, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/coach-mark/images/MM15.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Standard](https://sbb.invisionapp.com/d/main#/console/14051805/322946078/inspect)
 

@@ -23,6 +23,6 @@ The element has the following statuses:
 
 *   If the text link triggers a file download, the file type and size should be indicated in the link text (e.g.: ‘Conditions of Use (PDF, 123 KB)’)
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166953/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313229755/inspect)

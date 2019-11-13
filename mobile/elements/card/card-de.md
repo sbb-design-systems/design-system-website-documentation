@@ -16,6 +16,5 @@
 ### 4.1 Standard
 ![Darstellung der Kacheln, Standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/card/images/ME20_Standard.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167012/inspect)

@@ -22,7 +22,7 @@ The module has the following statuses:
 ### 4.1 Standard
 ![Image of the radio group](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_ohne_Preis.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950113/inspect)
 *   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950114/inspect)
 *   [Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950115/inspect)
@@ -31,7 +31,7 @@ The module has the following statuses:
 ### 4.2 With price information 
 ![Image of the radio group, with price information](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/radio-group/images/MM20_mit_Preis.png 'class: image')
 
-#### 4.2.1 Size 
+#### Design Specification
 *   [Checked](https://sbb.invisionapp.com/d/main#/console/14051805/322950117/inspect)
 *   [Unchecked](https://sbb.invisionapp.com/d/main#/console/14051805/322950118/inspect)
 *   [Checked disabled](https://sbb.invisionapp.com/d/main#/console/14051805/322950119/inspect)

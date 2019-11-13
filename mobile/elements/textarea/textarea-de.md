@@ -22,8 +22,7 @@ Das Element hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung des Textarea Feldes](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/textarea/images/ME15_Default.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Empty](https://sbb.invisionapp.com/d/main#/console/14051805/313166990/inspect)
 *   [Value](https://sbb.invisionapp.com/d/main#/console/14051805/313166992/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166989/inspect)

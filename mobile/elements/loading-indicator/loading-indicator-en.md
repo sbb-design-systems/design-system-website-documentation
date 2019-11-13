@@ -17,7 +17,7 @@
 ![Image of the loading indicator, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
 * Use for loading entire pages
 
-#### 4.1.1 Size
+#### Design Specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
@@ -25,5 +25,5 @@
 
 *   Use within lists (lazy loading)
 
-#### 4.2.1 Size
+#### Design Specification
 * [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)

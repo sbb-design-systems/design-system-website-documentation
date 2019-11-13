@@ -23,7 +23,8 @@ The module has the following statuses:
 
 *   The menu consists of the [profile](https://digital.sbb.ch/en/mobile/elements/profile) and [menu entries](https://digital.sbb.ch/en/mobile/elements/menu-item).
 *   The functions ‘Logout’ or ‘Login’ appear after the last menu item depending on the login status. 
-#### 4.1.1 Size 
+
+#### Design Specification
 *   [1. Level logged in](https://sbb.invisionapp.com/d/main#/console/14051805/322943559/inspect)  
 *   [1. Level logged out](https://sbb.invisionapp.com/d/main#/console/14051805/322943559/inspect)  
 *   [2. Level protected](https://sbb.invisionapp.com/d/main#/console/14051805/322943561/inspect)  
@@ -33,6 +34,7 @@ The module has the following statuses:
 ![Image of the menu without login](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/menu/images/MM10_ohne_login.png 'class: image')
 
 *   Menu consists of [menu items](https://digital.sbb.ch/de/mobile/elemente/menu-eintrag).
-#### 4.2.1 Size
+
+#### Design Specification
 *   [1. Level](https://sbb.invisionapp.com/d/main#/console/14051805/322943563/inspect)  
 *   [2. Level](https://sbb.invisionapp.com/d/main#/console/14051805/322943564/inspect)

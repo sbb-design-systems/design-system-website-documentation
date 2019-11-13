@@ -19,13 +19,11 @@ Das Element hat folgende Ausprägungen:
 ### 4.1 mit Info
 ![Darstellung des Listen Headers, mit Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-header/images/ME22_mit-Info.png 'class: image')
 
-
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167033/inspect)
 
 ### 4.1 ohne Info
 ![Darstellung des Listen Headers, ohne Info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/list-header/images/ME22_ohne-Info.png 'class: image')
 
-
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167034/inspect)

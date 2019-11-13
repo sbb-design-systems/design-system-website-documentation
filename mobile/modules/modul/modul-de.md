@@ -24,7 +24,8 @@
 Das Modul hat folgende Zustände
 * Closed
 * Open
-#### 4.1.1 Vermassung
+
+#### Design Spezifikation
 *   [Single closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
 *   [Single open](https://sbb.invisionapp.com/d/main#/console/14051805/322943595/inspect)
 *   [Pagination closed](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
@@ -33,13 +34,15 @@ Das Modul hat folgende Zustände
 ### 4.2 Ohne Kontext Menü
 ![Dartellung eines Moduls, ohne Kontextmenü, mit Paginierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_ohne_Header.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Ohne Kontext Menü](https://sbb.invisionapp.com/d/main#/console/14051805/322943593/inspect)
+
 ### 4.3 Platzsparender Titel
 ![Dartellung eines Moduls, ohne Kontext Menü](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/modul/images/MM18_Platzsparender_Titel.png 'class: image')
 
 * Kann eingesetzt werden wenn kein Kontext-Menü nötig ist und der Inhalt selbsterklärend ist (und somit der Titel etwas weniger stark gewichtet werden kann).
-#### 4.1.1 Vermassung
+
+#### Design Spezifikation
 *   [Grau](https://sbb.invisionapp.com/d/main#/console/14051805/322943594/inspect)
 *   [Weiss](https://sbb.invisionapp.com/d/main#/console/14051805/322943595/inspect)
 

@@ -34,8 +34,7 @@ The element has the following features:
 
 ![Image of the checkboxes, vertical layout, with info](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Vertikal_ohne_Info.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166979/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166980/inspect)
 *   [Default (ohne Info)](https://sbb.invisionapp.com/d/main#/console/14051805/313166981/inspect)
@@ -44,7 +43,6 @@ The element has the following features:
 ### 4.2 Horizontal layout
 ![Image of the checkboxes, horizontal layout](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/checkbox/images/ME13_Horizontal.png 'class: image')
 
-
-#### 4.2.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166971/inspect)
 *   [Disabled](https://sbb.invisionapp.com/d/main#/console/14051805/313166972/inspect)

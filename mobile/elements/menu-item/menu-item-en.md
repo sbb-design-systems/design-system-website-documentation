@@ -20,8 +20,7 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the menu entry, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Standard.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167006/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167007/inspect)
 
@@ -33,7 +32,7 @@ Additional statuses
 *   unlocked (default and pressed) 
 *   locked (default and pressed)
 
-#### 4.2.1 Size
+#### Design Specification
 *   [Locked](https://sbb.invisionapp.com/d/main#/console/14051805/313167002/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167005/inspect)
 *   [Unlocked](https://sbb.invisionapp.com/d/main#/console/14051805/313167003/inspect)
@@ -42,8 +41,7 @@ Additional statuses
 ### 4.3 Category
 ![Image of the menu entry, category](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/menu-item/images/ME18_Kategorie.png 'class: image')
 
-
-#### 4.3.1 Size
+#### Design Specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313167000/inspect)
 *   [Pressed](https://sbb.invisionapp.com/d/main#/console/14051805/313167001/inspect)
 

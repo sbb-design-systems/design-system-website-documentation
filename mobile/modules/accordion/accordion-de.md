@@ -24,7 +24,7 @@ Das Modul hat folgende Zustände:
 ### 4.1 Standard
 ![Darstellung des Accordions](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/accordion/images/MM02.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Collapsed](https://sbb.invisionapp.com/d/main#/console/14051805/322943543/inspect)
 *   [Expanded](https://sbb.invisionapp.com/d/main#/console/14051805/322943544/inspect)
 

@@ -17,7 +17,7 @@
 ![Image of the header with menu icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/header/images/MM01_Startseite.png 'class: image')
 
 *   Can only be used on the homepage. 
-#### 4.1.1 Size
+#### Design Specification
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943537/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943538/inspect)
 
@@ -27,7 +27,7 @@
 *   Is used when navigating within hierarchical levels.
 *   The display of the function/page selected is animated from left to right. 
     
-#### 4.2.1 Size
+#### Design Specification
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943539/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943540/inspect)
 
@@ -38,6 +38,6 @@
 *   The display of the function/page selected is animated from the bottom upwards.
 *   When navigating from a page with a close icon, the header with the arrow to the left must be used on the next function/page. 
 
-#### 4.3.1 Size 
+#### Design Specification
 *   [iOS](https://sbb.invisionapp.com/d/main#/console/14051805/322943541/inspect)
 *   [Android](https://sbb.invisionapp.com/d/main#/console/14051805/322943542/inspect)

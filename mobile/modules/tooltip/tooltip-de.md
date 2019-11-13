@@ -16,6 +16,6 @@ Das Modul hat folgende Zustände:
 ### 4.1 Standard
 ![Dartellung eines Tooltips](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/tooltip/images/MM12_Close.png 'class: image')
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 *   [Hilfe](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)  
 *   [Info](https://sbb.invisionapp.com/d/main#/console/14051805/322943571/inspect)

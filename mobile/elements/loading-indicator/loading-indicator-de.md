@@ -17,7 +17,7 @@
 ![Darstellung des Loading Indicatiors, normal](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/loading-indicator/images/ME08_Normal.png 'class: image')
 * Anwendung für das Laden von ganzen Seiten
 
-#### 4.1.1 Vermassung
+#### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)
 
 ### 4.2 Small
@@ -25,5 +25,5 @@
 
 * Anwendung innerhalb Listen (Lazy-Loading)
 
-#### 4.2.1 Vermassung
+#### Design Spezifikation
 * [Small](https://sbb.invisionapp.com/d/main#/console/14051805/313166954/inspect)

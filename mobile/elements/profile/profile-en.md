@@ -16,8 +16,7 @@ The element has the following statuses:
 ### 4.1 Standard
 ![Image of the profile, standard](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/elements/profile/images/ME19_Standard.png 'class: image')
 
-
-#### 4.1.1 Size
+#### Design Specification
 *   [Logged in](https://sbb.invisionapp.com/d/main#/console/14051805/313167011/inspect)
 *   [Logged out](https://sbb.invisionapp.com/d/main#/console/14051805/313167010/inspect)
 
@@ -26,6 +25,6 @@ The element has the following statuses:
 
 *   Other attributes (e.g. U-number, company, contract number, department etc.) can also be shown in addition to the name of the user.
 
-#### 4.2.1 Size
+#### Design Specification
 *   [Logged in](https://sbb.invisionapp.com/d/main#/console/14051805/313167009/inspect)
 *   [Logged out](https://sbb.invisionapp.com/d/main#/console/14051805/313167008/inspect)

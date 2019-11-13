@@ -5,9 +5,8 @@
 *   For context-specific explanations on interaction elements or texts.
 
 ## 3. Rules  
-*   The i-icon is used with an element to show that additional information is available. 
+*   The i-icon is used with an element to show that additional information is available.
 *   Clicking on the i-icon displays a modal dialogue which contains the additional information.
-
 *   Clicking on the i-icon displays a [modal dialogue](https://digital.sbb.ch/en/mobile/modules/modal) which contains the additional information.
 
 ## 4. Variants and statuses 
@@ -18,6 +17,6 @@ The module has the following statuses:
 ### 4.1 Standard
 ![Image of the tooltip](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/mobile/modules/tooltip/images/MM12_Close.png 'class: image')
 
-#### 4.1.1 Size
+#### Design Specification
 *   [Help](https://sbb.invisionapp.com/d/main#/console/14051805/322943570/inspect)
 *   [Info](https://sbb.invisionapp.com/d/main#/console/14051805/322943571/inspect)
