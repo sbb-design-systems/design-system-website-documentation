@@ -1,26 +1,29 @@
-## 1. Was macht die Komponente?
-* Klappt einen bestehenden Text weiter auf, um noch mehr Informationen anzuzeigen.
+## 1. What does the component do?
+* It further expands an existing text to show more information.
 
-## 2. Wann soll das Element eingesetzt werden?
-* Bei langen Zusatzinformationen.
 
-## 3. Regeln 
-* Der Textexpand darf nur für Texte eingesetzt werden.
-* Im aufgeklappten Zustand dürfen nebst dem [Link](https://digital.sbb.ch/de/webapps/components/link) «Weniger anzeigen» keine weiteren Interaktionselemente eingesetzt werden.
-* Die Trennung der Texte muss so erfolgen, dass der Kontext der gesamten Information bereits im zugeklappten Zustand klar ist.
-* Darf nur bei mehrzeiligen Texten eingesetzt werden.
-* Mehrfachverschachtelungen sind nicht erlaubt.
-* Der Textexpand darf nicht zur Strukturierung von Elementen verwendet werden.
-* Titel und andere Strukturmittel sind im ausgeblendeten Zustand nicht erlaubt.
+## 2. When should the component be used?
+* For long additional information.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules 
+* The text expand can only be used for texts.
+* Apart from the [link](https://digital.sbb.ch/de/webapps/components/link) ‘show less’, no further interaction elements can be used when expanded.
+* The separation of the texts must ensure that the context of all the information is clear when expanded.
+* Can only be used in multi-line texts.
+* Multiple complex structures are not permitted.
+* The text expand cannot be used for structuring elements.
+* The title and other structural elements are not permitted when collapsed.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Collapsed
 * Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Textexpand](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textexpand/images/textexpand_default.png 'class: image')
+![Image of the text expand component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textexpand/images/textexpand_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318591/inspect)

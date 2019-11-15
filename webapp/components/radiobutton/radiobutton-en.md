@@ -1,21 +1,24 @@
-## 1. Was macht das Element? 
-* Dient zur Auswahl genau einer Option aus mehreren.
+## 1. What does the component do? 
+* It is used to select precisely one of several options.
+
 
 ## 2. Wann soll das Element eingesetzt werden?
-* Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig ausschliessen.
+* When there are two or more options and the options mutually exclude one another.
 
-## 3. Regeln
-* Ein Radiobutton ist nur innerhalb eines Formulars erlaubt.
-* Es müssen mindestens zwei Optionen zur Auswahl stehen.
-* Eine Vorauswahl ist Pflicht.
-* Radiobuttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
-* Der Text kann mehrzeilig sein.
-* Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
-* Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 3. Rules
+* A radio button is only permitted within a form.
+* There must be a choice of at least two options.
+* A pre-selection is mandatory.
+* Radio buttons can be arranged vertically or horizontally. The vertical layout is preferred as it allows the user to understand the options more quickly.
+* The text can be multi-line.
+* In addition to the actual radio button, the entire text can also be used as a click target.
+* A title can be used above a radio button group.
+* A question mark in the circle can also be shown – in addition to the title – for detailed explanations on a radio button group. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens if this question mark is clicked on.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Checked
 * Unchecked
 * Focused Checked
@@ -24,10 +27,9 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Radiobutton](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Image of the radio button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
 
-
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect)
 * [Focused checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect)
@@ -35,5 +37,5 @@ Die Komponente hat folgende Zustände:
 * [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/radio-button)

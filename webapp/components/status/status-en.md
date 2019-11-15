@@ -1,27 +1,29 @@
-## 1. Was macht das Element? 
-* Zeigt den Status eines Objekts an.
+## 1. What does the component do? 
+* It shows the status of an object.
 
-## 2. Wann wird das Element eingesetzt?
-* Wenn der Status / Zustand eines Objekt dauernd und prominent angezeigt werden soll. 
 
-## 3. Regeln
-* Die Farben und Icons für die verschiedenen Zustände werden applikationsspezifisch festgelegt.
+## 2. When should the component be used?
+* When the status of an object has to be shown permanently and prominently. 
 
-## 4.  Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* The colours and icons for various statuses are determined on an application-specific basis.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 
 ### 4.1 Bubble
-![Darstellung der Komponente Status mit Icon](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_bubble.png 'class: image')
-* Diese Ausprägung dient als platzsparende Variante, welche z.B. in einer Tabelle eingesetzt werden kann.
+![Example image of the status component in the bubble variant with icon only](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_bubble.png 'class: image')
+* This variant serves as a space-saving variant which can be used, for example, in a table.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355348242/inspect)
 
-
 ### 4.2 Extended 
-![Darstellung der Komponente Status mit Icon und Text](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_extended.png 'class: image')
-* Diese Ausprägung soll vor allem in der Detailansicht eines Objekts eingesetzt werden.
+![Example image of the status component in the extended variant with icon and text](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/status/images/status_extended.png 'class: image')
+* This variant should mainly be used in the detailed view of an object.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355348243/inspect)

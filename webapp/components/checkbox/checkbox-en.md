@@ -1,21 +1,24 @@
-## 1. Was macht das Element?
-* Dient zur Eingabe von Ja/Nein-Werten.
+## 1. What does the component do?
+* It is used for the entry of yes/no values.
 
-## 2. Wann soll das Element eingesetzt werden? 
-* Beim Auswählen einer Option.
-* Beim Auswählen mehrerer zueinander unabhängigen Optionen.
 
-## 3. Regeln 
-* Eine Checkbox ist nur innerhalb von Formularen erlaubt.
-* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
-* Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
-* Der Text kann mehrzeilig sein.
-* Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
-* Oberhalb einer Checkbox-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/webapps/components/tooltip).
+## 2. When should the component be used?
+* When selecting an option.
+* When selecting several options that are independent of one another.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+
+## 3. Rules 
+* A checkbox is only permitted within forms.
+* Several checkboxes can be arranged vertically or horizontally. The vertical layout is preferred as it allows the user to understand the options more quickly.
+* Horizontal layout only for two to three options and short names.
+* The text can be multi-line.
+* In addition to the actual checkbox, the entire text can also be used as a click target.
+* A title can be used above a checkbox group.
+* A question mark in the circle can be show – in addition to the title – for detailed explanations on a checkbox group. A [tooltip](https://digital.sbb.ch/webapps/components/tooltip) opens when this question mark is clicked on.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Checked
 * Indeterminated
 * Unchecked
@@ -27,9 +30,9 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Checkbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
+![Image of the checkbox component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/checkbox/images/checkbox_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect)
 * [Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318403/inspect)
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318404/inspect)
@@ -40,5 +43,5 @@ Die Komponente hat folgende Zustände:
 * [Disabled Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318409/inspect)
 * [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/checkbox)

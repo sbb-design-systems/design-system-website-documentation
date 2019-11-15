@@ -1,22 +1,25 @@
-## 1. Was macht das Modul? 
-* Dient zur Anzeige in welchem Schritt eines Prozesses sich ein Benutzer befindet.
+## 1. What does the component do? 
+* It is used to show what stage of a process a user is on.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Bei sämtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchläuft um diesen abschliessen zu können.
 
-## 3. Regeln
-* Der Processflow ist immer zuoberst, direkt nach dem [Breadcrumb](https://digital.sbb.ch/de/webapps/components/breadcrumb) (falls vorhanden) positioniert.
-* Der Benutzer kann im Processflow auf einen bereits durchlaufenen Prozesschritt zurücknavigieren.
-* Vorwärtsnavigation im Prozess ist nur durch den Call-to-Action der entsprechenden Seite erlaubt. Ein Überspringen (vorwärts) von Schritten ist nicht erlaubt.
+## 2. When should the component be used?
+* In all processes where a user has to go through several steps/pages to complete them.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* The process flow is always at the top, positioned directly after the [breadcrumb](https://digital.sbb.ch/de/webapps/components/breadcrumb).
+* The user can navigate back to a process step already passed through in the process flow.
+* Forward navigation in the process is only permitted through the call-to-action of the page concerned. Skipping (forward) of steps is not permitted.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Komponente Prozessflow](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
+![Image of the process flow component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136686/inspect)

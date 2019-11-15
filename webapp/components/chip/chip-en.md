@@ -1,44 +1,47 @@
-## 1. Was macht das Element?
-* Stellt Werte und Kategorien als kompakte Elemente dar.
+## 1. What does the component do?
+* It shows values and categories as compact elements.
 
-## 2. Wann soll das Element eingesetzt werden?
-* Wenn es in einem Formular möglich sein soll, zu einem Attribut mehrere Werte zu setzen.
-* Wenn nach Kategorien gefiltert werden soll.
 
-## 3. Regeln
-* Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
-* Der Begriff im Chip ist immer einzeilig (keine Zeilenumbrüche) und der Chip selber wächst in der Breite mit dem Text mit.
-* Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
-* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/webapps/components/textfiled) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
+## 2. When should the component be used?
+* When it should be possible to assign several values to an attribute in a form.
+* For filtering by categories.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* A filter chip always has an indicator that shows how many results lie behind it.
+* The term in the chip is always single-line (no line breaks) and the chip itself increases in width with the text.
+* If a chip is too long for the viewport because of the text, the text is shortened with “…”.
+* The input chips are shown in a [text field](https://digital.sbb.ch/webapps/components/textfiled). This can also be multi-line depending on the number of chips.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Active
 
 ### 4.1 Input
-Diese Ausprägung hat zusätzlich folgende Zustände:
+This variant has the following statuses:
 * Disabled
 * Hover
 * On-Click/Dragged
 
-![Darstellung der Komponente Chip als Eingabewert](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_input.png 'class: image')
+![Image of the chip component as an entry value](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_input.png 'class: image')
 
-* Je nach Anwendungsfall können die Chips über "autocomplete"-Auswahlen oder mit Freitext generiert werden.
+* The chips can be generated via ‘autocomplete’ selection or with free text depending on the case.
 
-#### Design Spezifikation
+#### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
 * [On-Click/Dragged](https://sbb.invisionapp.com/d/main#/console/17140415/355318414/inspect)
 
 ### 4.2 Filter
-Diese Ausprägung hat zusätzlich folgende Zustände:
+This variant has the following statuses:
 * Inactive
 
-![Darstellung der Komponente Chip fürs Filtern](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_filter.png 'class: image')
+![Image of the chip component for filtering](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_filter.png 'class: image')
 
-* Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
+* •	By clicking on a tag, the respective status toggles to the others and influences the filter result.
 
-#### Design Spezifikation
+#### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318415/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318416/inspect)

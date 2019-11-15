@@ -1,27 +1,30 @@
-## 1.Was macht das Modul?
-* Dient zur Gruppierung von logisch zusammenhängenden Elementen und/oder Informationen.
+## 1. What does the component do?
+* It is used for the grouping of logically related elements and/or information.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Bei längeren Formularen, welches in logische Gruppen unterteilt werden kann.
 
-## 3. Regeln
-* Eine Sektion hat immer einen Titel.
-* Sektionen dürfen auch als Untergruppierung in anderen Sektionen oder auch Akkordeons eingesetzt werden.
-* Für detaillierte Erklärungen kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
+## 2. When should the component be used?
+* On longer forms which can be divided into logical groups.
+
+
+## 3. Rules
+* A section always has a title.
+* Sections can also be used as sub-grouping in other sections or also in accordions.
+* A question mark in the circle can also be shown – in addition to the title – for detailed explanations. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens if this question mark is clicked on.
+
  
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 
 ### 4.1 Standard
-![Darstellung der Komponente Fieldset in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
+![Image of the fieldset component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect)
 
 
-### 4.2 Verschachteltes Fieldset
-![Darstellung der Komponente Fieldset mit verschachteltem Inhalt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
+### 4.2 Complex fieldset
+![Image of the fieldset component with complex content](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect)
