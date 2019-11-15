@@ -1,28 +1,31 @@
-## 1. Was macht das Modul?
-* Blättert durch eine Liste von Elementen oder Seiten.
+## 1. What does the component do?
+* It scrolls through a list of elements or pages.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Bei langen Listen von Elementen oder Seiten.
 
-## 3. Regeln
-* Anzahl Elemente pro Seite muss kontextspezifisch definiert werden.
-* Maximal 5 Seitenzahlen werden angezeigt.
-* Tastaturbedienung
-		* Die aktive Seite kann nicht angesprungen werden.
-		* Tab-Reihenfolge: Pfeil zurück, erste anspringbare Seite, nächste anspringbare Seite usw., Pfeil vorwärts.
-		*  Die Kurzform «...» für versteckte Seiten kann nicht angesprungen werden.
+## 2. When should the component be used?
+* For long lists of elements or pages.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* The number of elements per page must be defined on a context-specific basis.
+* A maximum of five page numbers are shown.
+* Keyboard operation
+    * the active page cannot be jumped to.
+    * Tab sequence: Arrow back, first page that can be jumped to, next page that can be jumped to etc., arrow forward.
+    * The short form “…” for hidden pages cannot be jumped to.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * First
 * Middle
 * Last
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Komponente Seitennummerierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
+![Image of the page numbering component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect)
 * [Middle](https://sbb.invisionapp.com/d/main#/console/17140415/355318549/inspect)
 * [Last](https://sbb.invisionapp.com/d/main#/console/17140415/355318550/inspect)

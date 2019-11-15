@@ -1,39 +1,39 @@
-## 1. Was macht das Modul?
-* Dient zur Eingabe von einfachen Suchabfragen.
+## 1. What does the module do?
+* It is used for the entry of simple search requests.
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
 
-## 3. Regeln
-* Das Suchfeld hat immer einen Platzhaltertext, mit einem Hinweis, welche Suchbegriffe akzeptiert werden.
-* Sobald der Fokus im Suchfeld ist, können bei Bedarf dem Benutzer bis zu 9 häufigste Stichworte «Oft gesucht» angezeigt werden.
-* Nachdem der zweite Buchstaben eingetippt wurde, erscheinen vier mögliche Ergebnisse (Auto-Suggest-Mechanismus).
-* Die Übereinstimmung der eingegebenen Buchstaben werden in der Treffer-Liste fett ausgezeichnet.
-* Falls es keine Treffer gibt, bleiben die häufigsten Stichworte alleine stehen. Sind keine häufigsten Stichworte definiert und es gibt keine Treffer, ist die Auto-Suggest-Box ausgeblendet.
-* Zu lange Auto-Suggest-Begriffe werden abgeschnitten und mit «...» gekennzeichnet.
-* Werden als Eingabe Webcodes zugelassen, ist der Auto-Suggest-Mechanismus deaktiviert.
-* Durch Klick auf den «Suchen» Button (Lupe) oder durch die Enter-Taste wird die Suche ausgelöst.
-* Wird der Text während der Eingabe länger als die Breite des Suchfeldes wird der geschriebene Text nach links verdrängt, damit das aktuell Geschriebene immer gesehen wird.
-* Nach dem Verlassen des Suchfeldes mit einem langen Text wird dieser am Ende abgeschnitten und mit «\...» gekennzeichnet.
-* Wird ein Auto-Suggest Begriff aus der Liste angeklickt, wird direkt zu dieser Seite navigiert.
+## 2. When should the module be used?
+* When the user has to be provided with the option of entering a search request using one or several (partial) words.
 
-## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
-* Initial
-* Suggested
-* NoResult
+
+## 3. Rules
+* The search field always has a placeholder indicating which search terms are accepted.
+* As soon as the focus is in the search field, the user can be shown up to nine most frequently searched-for keywords if required.
+* After the second letter has been typed in, four possible results (auto-suggest mechanism) appear.
+* Matches with the letters entered appear in bold in the hit list.
+* If there are no hits, the most frequent keywords continue to appear alone. If no most frequent keywords are defined and there are no hits, the auto-suggest box is hidden.
+* Auto-suggest terms that are too long are shortened and labelled with “…”.
+* If the entry of webcodes is permitted, the auto-suggest mechanism is deactivated.
+* The search is started by clicking on the ‘search’ button (magnifying glass) or by using the Enter key.
+* If the text is longer than the width of the search field, the text entered is pushed to the left so that what is currently being written can always be seen.
+* After leaving the search field with a long text, this is cut off at the end and designated with “…”.
+* Clicking on an auto-suggest term from the list navigates directly to this page.
+
+
+## 4. Variants and statuses
+The module has the following statuses: * Initial * Suggested * NoResult
 
 ### 4.1 Standard
-* Die Anzahl der angezeigten Auto-Suggest Begriffe ist für jeden Anwendungsfall zu definieren.
-* Empfehlung maximal 10 Einträge.
+* The number of auto-suggest terms shown is defined for each usage scenario.
+* Maximum of ten entries recommended.
 
-### 4.2 Im Header
-Diese Ausprägung hat zusätzlich folgende Zustände:
+### 4.2 In the header
+This variant has the following statuses:
 * Hover
 * Focused
 
-* Durch Klick auf «Suchen» öffnet sich die Eingabemaske.
-* Nach dem Auslösen der Suche, wird die Eingabemaske wieder ausgeblendet und nur der Link «Suchen» angezeigt.
-* Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/webapps/modules/header) eingesetzt werden.
-* Beim Auslösen der Suche werden die Resultate auf einer eigenen Seite dargestellt.
-* Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.
+* The entry mask opens when ‘Search’ is clicked on.
+* After starting the search, the entry mask is hidden and only the link ‘Search’ is shown.
+* This module can only be used in the [header](https://digital.sbb.ch/de/webapps/modules/header).
+* When the search is started, the results are shown on a separate page.
+* A maximum of four auto-suggest proposals are shown when typing.

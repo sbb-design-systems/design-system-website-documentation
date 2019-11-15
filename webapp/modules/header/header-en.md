@@ -1,28 +1,47 @@
-## 1. Was macht die Komponente? 
-* Bietet dem Benutzer jederzeit zugängliche Informationen und Funktionen an.
+## 1. What does the module do?
+* It provides the user with accessible information and functions at all times.
 
-## 2. Wann soll die Komponente eingesetzt werden? 
-* Ein Header ist bei jeder Anwendung einzufügen.
 
-## 3. Regeln
-* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, [Hauptnavigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (falls notwendig), Anzeige für Benachrichtigungen (optional), [Benutzermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
+## 2. When should the module be used?
+* A header must be inserted in any application.
 
-## 4. Ausprägungen und Zustände 
-Das Modul hat folgende Zustände:
-* Default
 
+## 3. Rules
+* The header consists of an app chooser (optional, for application groups), surrounding banner (outside of prod), application name and version, [main navigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (if necessary), display for messages (optional), [user menu](https://digital.sbb.ch/de/webapps/components/usermenu) and [logo](https://digital.sbb.ch/de/webapps/basics/brand).
+
+
+## 4. Variants and statuses
 ### 4.1 Standard
-![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_default.png 'class: image')
+This variant has following statuses:
+* Collapsed
+* Expanded
+* Hover
 
-#### 4.1.1 Vermassung
-* [Prod](https://sbb.invisionapp.com/d/main#/console/17140415/355318668/inspect)
-* [Int](https://sbb.invisionapp.com/d/main#/console/17140415/355318669/inspect)
-* [Test](https://sbb.invisionapp.com/d/main#/console/17140415/355318670/inspect)
-* [Dev](https://sbb.invisionapp.com/d/main#/console/17140415/355318671/inspect)
-* [Edu](https://sbb.invisionapp.com/d/main#/console/17140415/355318673/inspect)
+![Image of the header module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Default.png 'class: image')
 
-### 4.2 Minimal
-![Darstellung des Moduls Header in der minimalen Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/header_minimal.png 'class: image')
+#### Design specification
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
 
-#### 4.2.1 Vermassung
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318672/inspect)
+### 4.2 Submenu
+This variant has following statuses:
+* Collapsed
+* Expanded
+* Hover
+
+![Image of the header module in the submenu variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Submenu.png 'class: image')
+
+#### Design specification
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266878/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266879/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
+
+### 4.3 Suite
+This variant has following statuses:
+* Collapsed
+* Expanded
+
+![Image of the header module in the suite variant to navigate between applicaitons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Suite.png 'class: image')
+
+#### Design specification
+* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)
+* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)

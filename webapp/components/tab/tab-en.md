@@ -1,29 +1,32 @@
-## 1. Was macht das Modul?
-* Dient zur Strukturierung der Anzeige von Daten und Formularen.
+## 1. What does the component do?
+* It is used to structure the display of data and forms.
 
-## 2. Wann soll das Modul eingesetzt werden? 
-* Wenn innerhalb des gleichen Kontexts zwischen verschiedenen Aspekten gewechselt werden soll.
-* Wenn die Inhalte der verschiedenen Aspekte nicht gleichzeitig vom Benutzer angesehen werden.
 
-## 3. Regeln
-* Es gibt mindestens zwei Register.
-* Per Default ist immer das erste Register ausgewählt.
-* Die Registerbezeichungen sind immer einzeilig.
-* Die Registerbezeichung sollte möglichst kurz und prägnant sein, damit die Themen schnell erfasst werden können.
-* Alle Register sollten gleich breit sein, auch wenn eine Bezeichnung nicht so lang ist.
-* Falls die Register für den Viewport zu lang sind, wird die Breite verkürzt und die Bezeichungen werden mit «...» abgeschnitten. Ein Hover über den Tab blendet den kompletten Namen in einem [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) ein.
-* Ein weiteres Tab-Modul innerhalb eines Registers (Tab-in-Tab) ist nicht erlaubt.
+## 2. When should the component be used? 
+* For switching between various aspects within the same context.
+* When the content of various aspects cannot be seen at the same time by the user.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* There are at least two tabs.
+* The first tab is always selected by default.
+* The tab names are always single-line.
+* The tab name should be as simple and concise as possible so that the themes can be quickly understood.
+* All tabs should be the same width, even when a name is not as long as others.
+* If the tab is too long for the viewport, the width is shortened and the names are shortened with “…”. When hovering over the tab, the complete name appears in a [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
+* Another tab module is not permitted within a tab (tab-in-tab).
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Active
 * Inactive
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
+![Image of the tab component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)

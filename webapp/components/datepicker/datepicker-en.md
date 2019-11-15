@@ -1,90 +1,94 @@
-## 1. Was macht das Element?
-* Dient zur Eingabe eines Datums.
+## 1. What does the component do?
+* It is used for the entry of a date.
 
-## 2. Wann soll das Element eingesetzt werden?
-* Immer wenn vom Benutzer ein Datumswert verlangt wird.
 
-## 3. Regeln
-* Datumsangaben sind immer einzeilig.
-* Die Datumswahl hat immer ein Label.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
-* Mit Klick ins Datumsfeld kann das Datum von Hand eingetragen werden.
-* Bei der manuellen Eingabe muss der Punkt immer vom Benutzer eingegeben werden. Danach übernimmt das Element die korrekte Formatierung, d.h. es müssen Eingaben wie 1.1.18 akzeptiert und ins gewünschte Format umgesetzt werden. In diesem Fall würde der 1. Januar 2018 ausgewählt.
-* Bei Klick auf das Kalender-Icon öffnet sich ein Kalender-Layer zur Auswahl des Datums. Mittels Klick ausserhalb des Kalender-Layers wird dieser wieder geschlossen.
-* Im Kalender-Layer können einzelne Tage oder ganze Datumsbereiche deaktiviert werden.
-* Die Navigationspfeile im Kalender-Layer (Monat / Jahr) werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
-* Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
-* Wenn der Fokus im Kalender-Layer liegt, kann dieser wie folgt mittels Tastatur bedient  werden:
-    * Pfeiltasten: Wechseln des markierten Tages.
-    * Leertaste / Enter: Auswahl des markierten Tages.
+## 2. When should the component be used?
+* Whenever a date value is required from the user.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+
+## 3. Rules    
+* Date details are always single-line.
+* The date selection always has a label.
+* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens when clicking on this question mark.
+* The date can be entered by hand by clicking in the date field.
+* The point must always be entered by the user with manual entry. The element then takes over the correct formatting, i.e. entries like 1.1.18 must be accepted and put into the required format. In this case, 1 January 2018 would be selected.
+* When the calendar icon is clicked on, a calendar layer opens to select the date. Clicking outside of the calendar layer closes it again.
+* Individual days or entire date ranges can be deactivated in the calendar layer.
+* The navigation arrows in the calendar layer (month/year) are only shown if a preceding/subsequent date can be selected.
+* The date selected is shown in the format of day of the week, DD.MM.YYYY (e.g. Fri, 04.08.2017).
+* If the focus is on the calendar layer, it can be operated by keyboard as follows:
+    * Arrow keys: Changing the marked day.
+    * Space key / Enter: Selection of the marked day.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Focused
 * Disabled
+* Error
 
 ### 4.1 Standard
-![Darstellung der Komponente Datumsauswahl in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
+![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
 
-### 4.2 Mit Blätterfunktion
-![Darstellung der Komponente Datumsauswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
-* Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
+### 4.2 With scroll function
+![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
+* The navigation arrows are only shown if a preceding/subsequent date can be selected.
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
-### 4.3 Datumsbereich
-* Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
-* Wird das Von-Datum mittels Kalender-Layer gewählt und das Bis-Datum ist noch nicht definiert, öffnet sich der Kalender-Layer des Bis-Feldes. Wurde bereits ein Bis-Datum gewählt, öffnet sich der Kalender-Layer nicht.
-* Wählt der Benutzer ein Von-Datum > Bis-Datum, wird das Bis-Datum gelöscht und dessen Kalender-Layer eingeblendet.
-* Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
+### 4.3 Date range
+* Two date pickers are combined to select a date range.
+* If the from date is selected via the calendar layer and the to date has not yet been defined, the calendar layer of the to field opens. If a to date has already been selected, the calendar layer does not open.
+* If the user selects a from date > to date, the to date is deleted and its calendar layer is shown.
+* If both dates are shown, the selected range is entered in the calendar in colour.
 
-### 4.4 Geburtsdatum
-![Darstellung der Komponente Datumsauswahl zur Eingabe eines Geburtstages](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
+### 4.4 Date of birth
+![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
 * [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect)
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
-### 4.5 Kalender-Layer (Datepicker)
-![Darstellung der Komponente Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
-Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
-1. Monat zurück
-2. Monat vor
-3. Jahr zurück
-4. Jahr vor
-5. Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tage liegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
+### 4.5 Calender Layer (date picker)
+![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
+The tab sequence within the calender layer is defined as follows:
+1. Previous month
+2. Next month
+3. Previous year
+4. Next year
+5. range of the individual days. If the focus is on the range of days, it is possible to navigate left, right, up and down within the days using the arrow keys.
 
-#### Design Spezifikation
-* [Keine Auswahl](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
-* [Datum gewählt](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
-* [Datum mir Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
-* [Auswahleinschränkungen](https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect)
-* [Datumsbereich innerhalb eines Monats](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
-* [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
+#### Design specification
+* [No selection](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
+* [Date selected](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
+* [Date with hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
+* [Selection restrictions](https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect)
+* [Date range within a month](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
+* [Date range beyond a month](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
 
-#### Code Spezifikation
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)

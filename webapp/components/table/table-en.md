@@ -1,46 +1,48 @@
-## 1. Was macht das Element?
-* Strukturierte Darstellung von Daten innerhalb einer Tabelle.
+## 1. What does the component do?
+* Structured display of data within a table.
 
-## 2. Wann soll das Element eingesetzt werden? 
-* Einsatz bei der Darstellung von Daten, nicht zur Strukturierung von Content.
-* Tabellen sollen so aufgebaut werden, dass diese beim Hinzufügen von Datensätzen in der Vertikalen (Zeilen) wächst.
 
-## 3. Regeln
-* Tabellenzellen können entweder nur Information (z.B. Text, Person, Statusanzeige, Icon, ...) oder Interaktionselemente (z.B. Textfeld, Select, Button, ...) enthalten.
-* Pro Zeile können verschiedene Aktionen platziert werden (z.B. Buttons, Icon-Buttons, Links).
-* Jede Spalte hat zwingend einen Header (Text oder Icon).
-* Header können ein- oder mehrzeilig sein.
-* Header- und Zeileninhalte können innerhalb der Tabellenzelle links-, rechtsbündig oder zentriert sein: Text linksbündig, Icons zentriert, Zahlen rechtsbündig
-* Masseinheiten von Inhalten werden optimalerweise auf der zweiten Zeile des Spaltenheaders eingefügt. Alternativ können sie direkt neben der Spaltenheader-Bezeichnung in runden Klammern angezeigt.
-* Horizontales Scrolling sollte wo möglich vermieden werden.
-* Beim Hover über Zeilen können Aktionen auf den Elementen mittels Icons angeboten werden.
-* Spalten können zu logischen Gruppen zusammengefasst werden. Zwischen gruppierten Spalten gibt es keine Trennlinie.
+## 2. When should the component be used? 
+* It is used for displaying data, not for structuring content.
+* Tables should be structured so that they grow vertically (lines) when data sets are added.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* Table cells may contain just information (e.g. text, person, status display, icon) or interaction elements (e.g. text field, select, button).
+* Various actions can be positioned per line (e.g. buttons, icon buttons, links).
+* Every column must have a header (text or icon).
+* Headers can be single or multi-line.
+* Header and line content may be left-aligned, right-aligned or centred within the table cell: Text left-aligned, icons centred, numbers right-aligned
+* Units of measurement in content are ideally entered on the second line of the column header. Alternatively, they can appear directly next to the column header name in round brackets.
+* Horizontal scrolling should be avoided as far as possible.
+* When hovering over lines, actions can be provided in the elements using icons.
+* Columns can be put into logical groups. There is no dividing line between grouped columns.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Komponente Tabelle in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_default.png 'class: image')
+![Image of the table component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
 
 
-### 4.2 Gruppiert
-![Darstellung der Komponente Tabelle mit gruppierten Inhalten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
+### 4.2 Grouped
+![Image of the table component with grouped content](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_grouped.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
 
-
-### 4.3 Sortierbar
-Diese Ausprägung hat folgende Zustände:
+### 4.3 Sortable
+This variant has the following statuses:
 * Sorted
 * Unsorted
 
-![Darstellung der Komponente Tabelle mit Sortierung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
+![Image of the table component with sorting](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/table/images/table_sortable.png 'class: image')
 
-#### Design Spezifikation
-* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)
+#### Design specification
+* [Default / Hover / Sorted / Unsorted](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)

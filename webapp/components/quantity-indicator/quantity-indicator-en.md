@@ -1,18 +1,21 @@
-## 1. Was macht die Komponente?
-* Zeigt die Anzahl Einträge oder Anzahl Objekte eines Containers.  
+## 1. What does the component do?
+* It shows the number of entries or the number of objects in a container.  
 
-## 2. Wann soll das Modul eingesetzt werden?
-* Wenn die Anzahl Einträge oder Anzahl Objekte eines Containers angezeigt werden soll. 
 
-## 3. Regeln
-* Der Mengenindikator beinhaltet nur Zahlen, maximal 2-stellig. Grössere Zahlen werden mit "99+" gekennzeichnet. 
+## 2. When should the component be used?
+* When the number of entries or the number of objects in a container should be shown. 
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+
+## 3. Rules
+* •	The quantity indicator contains just numbers which are a maximum of two-digit. Larger numbers are designated with ‘99+’. 
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-![Darstellung der Komponente Mengenindikators](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/quantity-indicator/images/quantity_indicator_default.png 'class: image')
+![Image of the quantity indicator component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/quantity-indicator/images/quantity_indicator_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/365541438/inspect)

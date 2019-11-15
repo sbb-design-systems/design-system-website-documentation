@@ -1,26 +1,28 @@
-## 1. Was macht das Modul? 
-* Dient zum Hochladen von Dateien.
+## 1. What does the component do? 
+* It is used for uploading files.
 
-## 2. Wann soll das Modul eingesetzt werden? 
-* Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
 
-## 3. Regeln 
-* Mit Klick auf den [Button](https://digital.sbb.ch/de/webapps/components/button) «Datei hochladen» öffnet sich der Datei-Browser des Systems.
-* Die hochgeladenen Dateien werden in einer Liste angezeigt.
-* Die Liste ist sortiert nach der chronologischen Reihenfolge des Hochladens.
-* Mittels dem Papierkorb-Icon kann eine einzelne Datei wieder aus der Liste entfernt werden.
-* Der Listeneintrag beinhaltet das Icon des Dateityps, den Dateinamen sowie in Klammern den Dateityp und die Dateigrösse.
-* Der Datei-Upload hat über dem [Button](https://digital.sbb.ch/de/webapps/components/button) immer einen Hinweis, welche Dateitypen und -grössen hochgeladen werden können.
+## 2. When should the component be used? 
+* When an application requires one or more user files.
 
-## 4. Ausprägungen und Zustände 
-Die Komponente hat folgende Zustände:
+
+## 3. Rules 
+* The system’s file browser opens when the ‘upload file’ [button](https://digital.sbb.ch/de/webapps/components/button) is clicked.
+* The uploaded files are shown in a list.
+* The list is sorted in chronological order of the upload.
+* An individual file can be removed from the list using the trash icon.
+* The list entry contains the icon of the file type, the file name and the file type and file size in brackets.
+* The file upload always indicates above the [button](https://digital.sbb.ch/de/webapps/components/button) which file types and sizes can be uploaded.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Default
 * Disabled
 
 ### 4.1 Standard
-![Darstellung der Komponente Dateiauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fileselector/images/fileselector_default.png 'class: image')
+![Image of the file selection component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fileselector/images/fileselector_default.png 'class: image')
 
-
-#### Design Spezifikation
+#### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318445/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318446/inspect)

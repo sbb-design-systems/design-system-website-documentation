@@ -1,38 +1,40 @@
 ## 1. Was macht die Komponente?
-* Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
+* It allows the user to show explanations if required.
+
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Bei kontextspezifischen Erklärungen zu Interaktionselementen oder Text.
+* For context-specific explanations on interaction elements or text.
 
-## 3. Regeln
-* Der Tooltip besteht aus einem Icon und dem Overlay. Das Info-Icon ist Standard und kann bei Bedarf durch ein anderes Icon ersetzt werden.
-* Das Overlay öffnet sich bei Klick auf das Icon.
-* Im Overlay dürfen nur Freitext und [Links](https://digital.sbb.ch/de/webapps/components/link) eingesetzt werden. Der Text darf auch als Liste dargestellt werden.
-* Der Tooltip-Text darf maximal 300 Zeichen umfassen.
-* Das Overlay enthält ein 'X'-Icon zum schliessen des Overlays.
-* Das Overlay kann auch wieder ausgeblendet werden, indem irgendwo neben das Overlay geklickt wird.
-* Der Spickel des Overlays, der zum Icon zeigt, kann horizontal irgendwo platziert werden (kommt auf die Position des Tooltips auf der Seite an).
-* Der Tooltip darf auch auf Texten oder Bildern platziert / zugänglich gemacht werden.
 
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 3. Rules
+* The tooltip consists of an icon and the overlay. The info-icon is standard and can be replaced by another icon if required.
+* The overlay opens when the icon is clicked on.
+* Only free text and [links](https://digital.sbb.ch/de/webapps/components/link) can be used in the overlay. The text can also be displayed as a list.
+* The tooltip text can have a maximum of 300 characters.
+* The overlay contains an ‘X’ icon to close the overlay.
+* The overlay can also be hidden again by clicking anywhere next to the overlay.
+* The pointer of the overlay, which points to the icon, can be positioned anywhere horizontally (depends on the position of the tooltip on the page).
+* The tooltip can also be positioned/made accessible on texts or images.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * Hidden
 * Hover
 * Visible
 
-### 4.1 Overlay oberhalb des Icons
-![Darstellung der Komponente Tooltip mit obenliegender Textbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
+### 4.1 Overlay above the icon
+![Image of the tooltip component with textbox above it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect)
 
+### 4.2 Overlay below the icon
+![Image of the tooltip component with the textbox below it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
 
-### 4.2 Overlay unterhalb des Icons
-![Darstellung der Komponente Tooltip mit untenliegender Textbox](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
-
-#### Design Spezifikation
+#### Design specification
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect)

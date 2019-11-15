@@ -1,32 +1,37 @@
-## 1. Was macht die Komponente?
-* Dient zum An-/Abmelden, zur Rolleauswahl und bietet dem angemeldeten Benutzer ein Menü mit übergreifenden Funktionalitäten an.
-## 2. Wann soll das Modul eingesetzt werden?
-* Immer wenn sich der Benutzer bei einer Anwendung anmelden können soll.
-## 3. Regeln
-* Das Benutzermenü ist immer im Header platziert und darf nur dort eingesetzt werden.
-* Das aufgeklappte Benutzermenü kann durch Klick ausserhalb des Dropdowns geschlossen werden.
-* Der letzte Menüpunkt in der Liste ist immer «Abmelden».
-## 4. Ausprägungen und Zustände
-Die Komponente hat folgende Zustände:
+## 1. What does the component do?
+* It is used for login/logout, role selection and provides the logged-in user with a menu with comprehensive functions.
+
+
+## 2. When should the component be used?
+* Whenever the user should be able to log into an application.
+
+
+## 3. Rules
+* The user menu is always positioned in the header and can only be used there.
+* The extended user menu can be closed by clicking outside of the dropdown.
+* The last menu item in the list is always ‘log out’.
+
+
+## 4. Variants and statuses
+The component has the following statuses:
 * LoggedOut
 * Collapsed
 * Expanded
 * Hover
 
 ### 4.1 Standard
-![Darstellung der Komponente Benutzermenü in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_default.png 'class: image')
+![Image of the user menu component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_default.png 'class: image')
 
-#### Design Spezifikation
+#### Design specification
 * [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318618/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318619/inspect)
 
+### 4.2 Role selection
+![Image of the user menu component with role selection](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
 
-### 4.2 Rollenauswahl
-![Darstellung der Komponente Benutzermenü mit Rollenauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
-
-#### Design Spezifikation
+#### Design specification
 * [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)
