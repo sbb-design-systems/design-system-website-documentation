@@ -1,36 +1,41 @@
 ## 1. What does the element do?
-* Bilder unterstützen das Verständnis von Texten und lockern textlastige Seiten auf.
+Images support the understanding of texts and loosen up text-heavy pages.
 
 ## 2. When should the element be used?
-* Zur Unterstützung der textuellen Kommunikation können Bilder eingesetzt werden (visuelle Kommunikation).
-* Grosse (content-wide) Bilder sollen sparsam eingesetzt werden.
+* Images can be used to support textual communication (with visual communication).
+* Large (content-wide) images should be used sparingly.
 
 ## 3. Rules 
-* Die Aufbereitung von Bildern und Illustrationen ist durch die Vorgaben von KOM geregelt (siehe Links).
-* Illustrationen und Infografiken als SVG einsetzen, bei Fotografien auf genügend grosse Auflösung für alle Screengrössen achten.
-* Ausser dem roten SBB Panel dürfen Bilder keine Overlays enthalten.
-* Es dürfen nur kontextrelevante Bilder verwendet werden (das Bild muss zum Inhalt passen).
-* Kombinieren verschiedener Stile kann die UX positiv beeinflussen (Fotografie für Gegebenheiten, Illustrationen für Konzepte)
-* Um die Wichtigkeit von Bildern zu unterstreichen (zu priorisieren), können verschiedene Bildgrössen helfen.
-* Bilder haben optional einen Beschreibungstext (Caption).
+* The preparation of pictures and illustrations is regulated by the specifications of KOM (see links).
+* Use illustrations and infographics as SVG, ensure high enough resolution for all screen sizes for photographs.
+* Apart from the red SBB panel, pictures may not contain any overlays.
+* Only context-relevant images may be used (the image must match the content).
+* Combining different styles can positively influence the UX (photography for realities, illustrations for concepts)
+* Different image sizes can help to emphasize (prioritize) the importance of images.
+* Optionally, images can have a description text (caption).
 
-## 4. Ausprägungen und Zustände 
+## 4. Variants and states
+The following styles are distinguished for images:
+* Photography.
+* Illustration.
+* Infographics.
+
 Bei Bildern werden folgende Stile unterschieden:
 * Fotografie
 * Illustration
 * Infografik
 
-### 4.1 Key Visual 
-* Nur Fotografien (keine Illustrationen) verwenden.
-* Keyvisuals haben keinen eigenen Informationsgehalt.
-* Keyvisuals können statische Bilder oder Videos sein. Animated GIFs sind nicht möglich.
-    * Bilder und Videos werden grundsätzlich gleich behandelt.
-* Keyvisuals haben nie Bildunterschriften oder Copyright-Infos.
-* Keyvisuals haben je Endgerät ein festes Format, der Bildausschnitt passt sich dem Viewport an.
-* Keyvisuals können als [Mediaslider](https://digital.sbb.ch/de/website/components/mediaslider) umgesetzt werden.
-* Kein Beschreibungstext erlaubt.
+### 4.1 Key Visual
+* Use only photographs (not illustrations).
+* Key visuals do not contain information.
+* Key visuals can be static images or videos. Animated GIFs are not possible.
+    * Pictures and videos are always treated equally.
+* Key visuals never have captions or copyright information.
+* Key visuals have a fixed format for each end device, the image section adapts to the viewport.
+* Key visuals can be implemented as Mediasliders.
+* No description text is allowed.
 
-### Formate
+### Formats
 <table>
    <colgroup>
       <col>
@@ -103,24 +108,24 @@ Bei Bildern werden folgende Stile unterschieden:
 </table>
 
 
-## 4.2 Infobild 
-* Infobilder können statische Bilder, animated GIFs oder Videos sein.
-    * Statische Bilder, animated GIFs und Videos werden grundsätzlich gleich behandelt.
-* Infobilder können optional eine Bildunterschrift und eine Copyright-Info unter dem Bild stehen haben.
-    * Empfohlene Textlänge der Bildunterschrift inkl. Copyright-Info: sollte auf Desktop max. 2 Zeilen umfassen.
-* Infobilder dürfen kein Panel verwenden.
-* Infobilder sind nie verlinkt.
-* Infobilder haben immer das Format 16:9
-* Infobilder haben keine Grossansicht
+## 4.2 Info picture 
+* Infopictures can be static images, animated GIFs or videos.
+    * Static images, animated GIFs and videos are always treated equally.
+* Infopictures can optionally have a caption and copyright information below the picture.
+    * Recommended text length of the caption including copyright info should be 2 lines on desktop at max.
+* Infopictures must not use a panel.
+* Infopictures are never linked.
+* Infopictures always have the format 16:9.
+* Infopictures do not have a fullscreen view.
 
-## 4.3 Lazyload 
-* Wenn viele Bilder auf einer Seite vorhanden sind, dann werden Bilder ausserhalb des Viewports lazyloaded.
+## 4.3 Lazyload
+* If there are many images on a page, then images are lazyloaded outside the viewport.
 
-## 4.4 Innerhalb eines Teasers
-* Bild muss bei Mouseover leicht reingezoomt werden.
+## 4.4 Inside of a teaser
+* Pictures are slightly zoomed on hover.
 
-## 4.5 Als Hintergrund (z.B. Karte)
-* Beim Scrollen nach unten, wird das Bild eingezoomt, beim Scrollen nach oben wird es ausgezoomt.
-* Bild soll den ganzen Viewport des Contentbereichs bedecken.
-* Text und Interaktionselemente (Buttons) über dem Bild sind erlaubt.
-* Wichtig: Kontraste einhalten → Bilder sollten dunkle Farben beinhalten, sodass Text in weiss darüber geht.
+## 4.5 As background (e.g. map)
+* Scrolling down zooms in, scrolling up zooms out.
+* The image should cover the entire viewport of the content area.
+* Text and interaction elements (buttons) above the image are allowed.
+* Important: always comply with minimal contrasts → Images should contain dark colors so that text in white can be used as overlay.

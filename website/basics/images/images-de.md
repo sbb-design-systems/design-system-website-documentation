@@ -16,9 +16,9 @@
 
 ## 4. Ausprägungen und Zustände 
 Bei Bildern werden folgende Stile unterschieden:
-* Fotografie
-* Illustration
-* Infografik
+* Fotografie.
+* Illustration.
+* Infografik.
 
 ### 4.1 Key Visual 
 * Nur Fotografien (keine Illustrationen) verwenden.
@@ -110,8 +110,8 @@ Bei Bildern werden folgende Stile unterschieden:
     * Empfohlene Textlänge der Bildunterschrift inkl. Copyright-Info: sollte auf Desktop max. 2 Zeilen umfassen.
 * Infobilder dürfen kein Panel verwenden.
 * Infobilder sind nie verlinkt.
-* Infobilder haben immer das Format 16:9
-* Infobilder haben keine Grossansicht
+* Infobilder haben immer das Format 16:9.
+* Infobilder haben keine Grossansicht.
 
 ## 4.3 Lazyload 
 * Wenn viele Bilder auf einer Seite vorhanden sind, dann werden Bilder ausserhalb des Viewports lazyloaded.
