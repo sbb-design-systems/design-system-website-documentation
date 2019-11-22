@@ -26,7 +26,7 @@ The component has the following statuses:
 * Visible
 
 ### 4.1 Overlay above the icon
-![Image of the tooltip component with textbox above it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/Tooltip_Above.png 'class: image')
+![Image of the tooltip component with textbox above it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### Design specification
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
@@ -37,7 +37,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/tooltip)
 
 ### 4.2 Overlay below the icon
-![Image of the tooltip component with the textbox below it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/Tooltip_Underneath.png 'class: image')
+![Image of the tooltip component with the textbox below it](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### Design specification
 * [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)

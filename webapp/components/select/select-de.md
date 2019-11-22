@@ -27,7 +27,7 @@ Die Komponente hat folgende Zustände:
 - Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/Select_Default.png 'class: image')
+![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect)
@@ -42,7 +42,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
 
 ### 4.2 Mehrfachauswahl 
-![Darstellung de rKomponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/Select_Multi.png 'class: image')
+![Darstellung de rKomponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_multi.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect)
@@ -53,7 +53,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
 
 ### 4.3 Gruppierte Einfachauswahl
-![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/Select_Grouped_Single.png 'class: image')
+![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_single.png 'class: image')
 
 #### Design Spezifikation
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
@@ -62,7 +62,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
 
 ### 4.4 Gruppierte Mehrfachauswahl
-![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/Select_Grouped_Multi.png 'class: image')
+![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/select/images/select_grouped_multi.png 'class: image')
 
 #### Design Spezifikation
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect)
