@@ -15,28 +15,49 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 ### 2.1 Überschrift H1
 ![Darstellung des H1-Stils](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_h1.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320821/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320821/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.2 Überschrift H2
 ![Darstellung des H2-Stils](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_h2.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320822/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320822/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.3 Überschrift H3
 ![Darstellung des H3-Stils](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_h3.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320823/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320823/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.4 Fliesstext (Copy)
 ![Darstellung des Fliesstext-Stils](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_copy.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320824/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320824/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.5 Link
 ![Darstellung des Link-Stils](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_link.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320825/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320825/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.6 Tabellenheader
 ![Darstellung des Stils einer Tabellenüberschrift](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_table_header.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320826/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320826/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
 
 ### 2.7 Tabellendaten
 ![Darstellung des Stils von Tabelleninhalten](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/typography/images/typo_table_data.png 'class: image')
-[Definition](https://sbb.invisionapp.com/d/main#/console/17140415/355320827/inspect)
+
+#### Spezifikation
+* [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320827/inspect)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)

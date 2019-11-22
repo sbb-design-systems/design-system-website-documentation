@@ -7,7 +7,7 @@
 
 
 ## 3. Rules
-* The process flow is always at the top, positioned directly after the [breadcrumb](https://digital.sbb.ch/de/webapps/components/breadcrumb).
+* The process flow is always at the top, positioned directly after the [breadcrumb](https://digital.sbb.ch/en/webapps/components/breadcrumb).
 * The user can navigate back to a process step already passed through in the process flow.
 * Forward navigation in the process is only permitted through the call-to-action of the page concerned. Skipping (forward) of steps is not permitted.
 
@@ -23,3 +23,6 @@ The component has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136686/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/processflow)

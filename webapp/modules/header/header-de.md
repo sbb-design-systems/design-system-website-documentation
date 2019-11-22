@@ -22,6 +22,9 @@ Diese Ausprägung hat folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+
 ### 4.2 Submenu
 Diese Ausprägung hat folgende Zustände:
 * Collapsed
@@ -35,6 +38,9 @@ Diese Ausprägung hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266879/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+
 ### 4.3 Suite
 Diese Ausprägung hat folgende Zustände:
 * Collapsed
@@ -45,3 +51,6 @@ Diese Ausprägung hat folgende Zustände:
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)

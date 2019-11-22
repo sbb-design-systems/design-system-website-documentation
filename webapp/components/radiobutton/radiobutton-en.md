@@ -14,7 +14,7 @@
 * The text can be multi-line.
 * In addition to the actual radio button, the entire text can also be used as a click target.
 * A title can be used above a radio button group.
-* A question mark in the circle can also be shown – in addition to the title – for detailed explanations on a radio button group. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens if this question mark is clicked on.
+* A question mark in the circle can also be shown – in addition to the title – for detailed explanations on a radio button group. A [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) opens if this question mark is clicked on.
 
 
 ## 4. Variants and statuses

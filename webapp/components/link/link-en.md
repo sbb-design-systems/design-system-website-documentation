@@ -9,7 +9,7 @@
 ## 3. Rules
 * There is no visual differentiation between internal and external links.
 * Hover and on-click have the same visual interaction behaviour.
-* Links can be created in [text](https://digital.sbb.ch/de/webapps/basics/text) and [icons](https://digital.sbb.ch/de/webapps/basics/icon).
+* Links can be created in [text](https://digital.sbb.ch/en/webapps/basics/text) and [icons](https://digital.sbb.ch/en/webapps/basics/icon).
 * Text links in parts of words are not permitted.
 
 

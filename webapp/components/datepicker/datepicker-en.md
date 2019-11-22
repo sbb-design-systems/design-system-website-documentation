@@ -9,7 +9,7 @@
 ## 3. Rules    
 * Date details are always single-line.
 * The date selection always has a label.
-* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens when clicking on this question mark.
+* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) opens when clicking on this question mark.
 * The date can be entered by hand by clicking in the date field.
 * The point must always be entered by the user with manual entry. The element then takes over the correct formatting, i.e. entries like 1.1.18 must be accepted and put into the required format. In this case, 1 January 2018 would be selected.
 * When the calendar icon is clicked on, a calendar layer opens to select the date. Clicking outside of the calendar layer closes it again.

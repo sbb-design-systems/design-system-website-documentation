@@ -53,6 +53,17 @@ Schreib einfach ein Mail an: [designsystems@sbb.ch](mailto:designsystems@sbb.ch?
 Das Design System Business Applikationen (DSBA) ist noch im Aufbau. Derzeit besteht es aus der UX-Dokumentation (Styleguide). Die zugehörige Angular Komponentenbibliothek befindet sich zur Zeit ebenfalls in Entwicklung.
 
 ## Updates
+22.11.2019: Grössere Überarbeitung mit Anpassungen bestehender Patterns und Ergänzung weiterer Patterns:
+#### Administrativ
+* Englische Übersetzung der Patterns
+* SBB Angular Komponenten Library verlinkt, Verweis auf Verwendung von PrimeNg entfernt
+#### Patterns
+* Header überarbeitet: App-Chooser Design und Responsive Verhalten ergänzt
+* Select (Dropdown): Mehrfachauswahl mit Autocomplete ergänzt, Gruppierte Mehrfachauswahl mit Tree ergänzt
+* Badge: Ergänzt
+* Tooltip: Regeln angepasst
+* Contextmenu: Sortierung Icon ersetzt
+* Table: Sortierung Icon ersetzt
 * * *
 31.03.2019: Initialer Upload der Dokumentation. (FE)
 * * *

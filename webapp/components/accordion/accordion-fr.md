@@ -30,3 +30,6 @@ Die Komponente hat die folgende Zustände:
 #### Design Spezifikation
 *   [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect)
 *   [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/accordion)

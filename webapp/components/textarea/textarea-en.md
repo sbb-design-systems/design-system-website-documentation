@@ -8,7 +8,7 @@
 
 ## 3. Rules 
 * The text area always has a label.
-* A question mark in the circle can also be shown – in addition to the label – for detailed explanations. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens when this question mark is clicked on.
+* A question mark in the circle can also be shown – in addition to the label – for detailed explanations. A [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) opens when this question mark is clicked on.
 * The number of characters still available is shown bottom right (outside the text area is disabled).
 * The basic height can be set when designing the form.
 * If the text is longer than the basic height of the text area, the element increases in height with the content.

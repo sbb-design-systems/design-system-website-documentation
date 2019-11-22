@@ -1,5 +1,5 @@
 ## 1. Use
-Icons are used to visually support themes and actions. Icons are used in SBB style for use in SBB applications. Details on this and a set of already available icons can be found [here](https://digital.sbb.ch/de/icons-und-piktogramme/sbb-icons).
+Icons are used to visually support themes and actions. Icons are used in SBB style for use in SBB applications. Details on this and a set of already available icons can be found [here](https://digital.sbb.ch/en/logo-icons-und-piktogramme/icons).
 
 
 ## 2. Rules

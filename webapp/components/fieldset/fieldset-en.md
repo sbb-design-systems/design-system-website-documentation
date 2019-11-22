@@ -9,7 +9,7 @@
 ## 3. Rules
 * A section always has a title.
 * Sections can also be used as sub-grouping in other sections or also in accordions.
-* A question mark in the circle can also be shown – in addition to the title – for detailed explanations. A [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) opens if this question mark is clicked on.
+* A question mark in the circle can also be shown – in addition to the title – for detailed explanations. A [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) opens if this question mark is clicked on.
 
  
 ## 4. Variants and statuses

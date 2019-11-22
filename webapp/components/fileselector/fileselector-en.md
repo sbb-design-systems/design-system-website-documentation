@@ -7,12 +7,12 @@
 
 
 ## 3. Rules 
-* The system’s file browser opens when the ‘upload file’ [button](https://digital.sbb.ch/de/webapps/components/button) is clicked.
+* The system’s file browser opens when the ‘upload file’ [button](https://digital.sbb.ch/en/webapps/components/button) is clicked.
 * The uploaded files are shown in a list.
 * The list is sorted in chronological order of the upload.
 * An individual file can be removed from the list using the trash icon.
 * The list entry contains the icon of the file type, the file name and the file type and file size in brackets.
-* The file upload always indicates above the [button](https://digital.sbb.ch/de/webapps/components/button) which file types and sizes can be uploaded.
+* The file upload always indicates above the [button](https://digital.sbb.ch/en/webapps/components/button) which file types and sizes can be uploaded.
 
 
 ## 4. Variants and statuses

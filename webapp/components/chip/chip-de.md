@@ -11,7 +11,7 @@
 * Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
 * Der Begriff im Chip ist immer einzeilig (keine Zeilenumbrüche) und der Chip selber wächst in der Breite mit dem Text mit.
 * Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
-* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/webapps/components/textfiled) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
+* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/de/webapps/components/textfield) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
 
 
 ## 4. Ausprägungen und Zustände

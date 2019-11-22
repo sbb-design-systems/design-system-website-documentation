@@ -8,7 +8,7 @@
 
 ## 3. Rules 
 * The text expand can only be used for texts.
-* Apart from the [link](https://digital.sbb.ch/de/webapps/components/link) ‘show less’, no further interaction elements can be used when expanded.
+* Apart from the [link](https://digital.sbb.ch/en/webapps/components/link) ‘show less’, no further interaction elements can be used when expanded.
 * The separation of the texts must ensure that the context of all the information is clear when expanded.
 * Can only be used in multi-line texts.
 * Multiple complex structures are not permitted.

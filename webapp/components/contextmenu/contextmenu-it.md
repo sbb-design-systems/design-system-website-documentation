@@ -31,6 +31,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318418/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+
 ### 4.2 Icon
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Default
@@ -47,6 +50,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
 * [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+
 ### 4.3 Sorting
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
@@ -61,3 +67,6 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 #### Design Spezifikation
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/369105601/inspect)
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)

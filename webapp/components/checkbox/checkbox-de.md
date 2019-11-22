@@ -14,7 +14,7 @@
 * Der Text kann mehrzeilig sein.
 * Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Checkbox-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/webapps/components/tooltip).
+* Für detaillierte Erklärungen zu einer Checkbox-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 
 
 ## 4. Ausprägungen und Zustände 

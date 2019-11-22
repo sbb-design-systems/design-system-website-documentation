@@ -10,7 +10,7 @@
 
 ## 3. Rules
 * Cannot be used within body copy.
-* Cannot be used in the [header](https://digital.sbb.ch/de/webapps/modules/header)  as navigation or a function.
+* Cannot be used in the [header](https://digital.sbb.ch/en/webapps/modules/header)  as navigation or a function.
 * The minimum width is 60px.
 * The width increases with the text length. The width is 100% for mobile views.
 * If the text is still too long when the maximum length is reached, it is shortened with “...”.

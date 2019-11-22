@@ -23,3 +23,6 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136686/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/processflow)

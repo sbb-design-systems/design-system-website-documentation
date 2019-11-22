@@ -11,7 +11,7 @@
 * A filter chip always has an indicator that shows how many results lie behind it.
 * The term in the chip is always single-line (no line breaks) and the chip itself increases in width with the text.
 * If a chip is too long for the viewport because of the text, the text is shortened with “…”.
-* The input chips are shown in a [text field](https://digital.sbb.ch/webapps/components/textfiled). This can also be multi-line depending on the number of chips.
+* The input chips are shown in a [text field](https://digital.sbb.ch/en/webapps/components/textfiled). This can also be multi-line depending on the number of chips.
 
 
 ## 4. Variants and statuses

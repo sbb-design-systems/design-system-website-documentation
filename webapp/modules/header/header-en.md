@@ -7,7 +7,7 @@
 
 
 ## 3. Rules
-* The header consists of an app chooser (optional, for application groups), surrounding banner (outside of prod), application name and version, [main navigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (if necessary), display for messages (optional), [user menu](https://digital.sbb.ch/de/webapps/components/usermenu) and [logo](https://digital.sbb.ch/de/webapps/basics/brand).
+* The header consists of an app chooser (optional, for application groups), surrounding banner (outside of prod), application name and version, [main navigation](https://digital.sbb.ch/de/webapps/modules/mainnavigation) (if necessary), display for messages (optional), [user menu](https://digital.sbb.ch/en/webapps/components/usermenu) and [logo](https://digital.sbb.ch/en/webapps/basics/brand).
 
 
 ## 4. Variants and statuses
@@ -22,6 +22,9 @@ This variant has following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
 
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+
 ### 4.2 Submenu
 This variant has following statuses:
 * Collapsed
@@ -35,6 +38,9 @@ This variant has following statuses:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266879/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
 
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+
 ### 4.3 Suite
 This variant has following statuses:
 * Collapsed
@@ -45,3 +51,6 @@ This variant has following statuses:
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)

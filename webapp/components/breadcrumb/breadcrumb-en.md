@@ -7,7 +7,7 @@
 
 
 ## 3. Rules
-* The breadcrumb is always positioned directly beneath the [header](https://digital.sbb.ch/de/webapps/modules/header).
+* The breadcrumb is always positioned directly beneath the [header](https://digital.sbb.ch/en/webapps/modules/header).
 * The breadcrumb can be multi-line for long entries.
 * All levels are always shown.
 

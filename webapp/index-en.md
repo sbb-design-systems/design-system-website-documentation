@@ -55,6 +55,17 @@ The Design System Business Applications (DSBA) is still under construction. It c
 
 
 ## Updates
+22.11.2019: Major revision with adjustments of existing patterns and addition of further patterns:
+#### Administrative
+* English translation of the patterns
+* SBB Angular Components Library linked, reference to use of PrimeNg removed
+#### Patterns
+* Header overworked: App-Chooser design and responsive behavior added
+* Select (Dropdown): multiple selection added with Autocomplete, grouped multiple selection added with Tree
+* Badge: Completed
+* Tooltip: Rules adapted
+* Context menu: Sorting icon replaced
+* Table: Sorting icon replaced
 * * *
 31.03.2019: Initial upload of the documentation. (FE)
 * * *

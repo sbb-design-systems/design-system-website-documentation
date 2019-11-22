@@ -13,7 +13,7 @@
 * The tab names are always single-line.
 * The tab name should be as simple and concise as possible so that the themes can be quickly understood.
 * All tabs should be the same width, even when a name is not as long as others.
-* If the tab is too long for the viewport, the width is shortened and the names are shortened with “…”. When hovering over the tab, the complete name appears in a [tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
+* If the tab is too long for the viewport, the width is shortened and the names are shortened with “…”. When hovering over the tab, the complete name appears in a [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip).
 * Another tab module is not permitted within a tab (tab-in-tab).
 
 
