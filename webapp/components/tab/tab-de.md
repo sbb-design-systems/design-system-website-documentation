@@ -8,7 +8,6 @@
 
 
 ## 3. Regeln
-* Es gibt mindestens zwei Register.
 * Per Default ist immer das erste Register ausgewählt.
 * Die Registerbezeichungen sind immer einzeilig.
 * Die Registerbezeichung sollte möglichst kurz und prägnant sein, damit die Themen schnell erfasst werden können.
@@ -30,3 +29,4 @@ Die Komponente hat folgende Zustände:
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)
+* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/395669804/inspect)
