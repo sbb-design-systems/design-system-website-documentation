@@ -20,6 +20,7 @@ Die Komponente hat folgende Zustände:
 * Active
 * Inactive
 * Hover
+* Disabled
 
 ### 4.1 Standard
 ![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
