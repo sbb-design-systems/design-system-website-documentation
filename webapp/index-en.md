@@ -55,6 +55,8 @@ The Design System Business Applications (DSBA) is still under construction. It c
 
 
 ## Updates
+29.11.2019: Restyling of the tab component (DF)
+* * *
 22.11.2019: Major revision with adjustments of existing patterns and addition of further patterns:
 #### Administrative
 * English translation of the patterns
