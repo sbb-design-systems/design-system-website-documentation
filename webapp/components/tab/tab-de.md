@@ -11,7 +11,6 @@
 * Per Default ist immer das erste Register ausgewählt.
 * Die Registerbezeichungen sind immer einzeilig.
 * Die Registerbezeichung sollte möglichst kurz und prägnant sein, damit die Themen schnell erfasst werden können.
-* Alle Register sollten gleich breit sein, auch wenn eine Bezeichnung nicht so lang ist.
 * Falls die Register für den Viewport zu lang sind, wird die Breite verkürzt und die Bezeichungen werden mit «...» abgeschnitten. Ein Hover über den Tab blendet den kompletten Namen in einem [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) ein.
 * Ein weiteres Tab-Modul innerhalb eines Registers (Tab-in-Tab) ist nicht erlaubt.
 
