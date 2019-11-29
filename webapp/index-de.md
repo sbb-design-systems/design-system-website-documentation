@@ -53,6 +53,8 @@ Schreib einfach ein Mail an: [designsystems@sbb.ch](mailto:designsystems@sbb.ch?
 Das Design System Business Applikationen (DSBA) ist noch im Aufbau. Derzeit besteht es aus der UX-Dokumentation (Styleguide). Die zugehörige Angular Komponentenbibliothek befindet sich zur Zeit ebenfalls in Entwicklung.
 
 ## Updates
+29.11.2019: Restyling of the tab component (DF)
+* * *
 22.11.2019: Grössere Überarbeitung mit Anpassungen bestehender Patterns und Ergänzung weiterer Patterns:
 #### Administrativ
 * Englische Übersetzung der Patterns
