@@ -20,11 +20,11 @@ You can *request* a new feature (new component, module or a new characteristic o
 
 ## <a name="submit-issue"></a> Submitting an Issue
 If your issue appears to be a bug or a new feature, and hasn't been reported, open a new issue.
-You can file new issues by providing the above information [here](https://github.com/sbb-design-systems/sbb-design-system/issues/new/choose).
+You can file new issues by providing the above information [here](https://github.com/sbb-design-systems/design-system-website-documentation/issues/new/choose).
 
 
 ## <a name="submit-changes"></a> Submitting some changes
-See [PROCESS.md](https://github.com/sbb-design-systems/sbb-design-system/blob/master/PROCESS.md)
+See [PROCESS.md](https://github.com/sbb-design-systems/design-system-website-documentation/blob/master/PROCESS.md)
 
 ## <a name="commit"></a> Commit Message Guidelines
 This project uses [Conventional Commits](https://www.conventionalcommits.org/) to generate the changelog.
