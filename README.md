@@ -2,7 +2,7 @@
 
 [digital.sbb.ch](https://digital.sbb.ch)
 
-This is the repository for the [website](https://digital.sbb.ch/de/websites), [webapp](https://digital.sbb.ch/de/webapps) and [mobile](https://digital.sbb.ch/de/mobile) design systems of SBB.
+This is the repository for the [website](https://digital.sbb.ch/de/websites) and [webapp](https://digital.sbb.ch/de/webapps) design systems of SBB.
 
 This is currently a work in progress.
 
