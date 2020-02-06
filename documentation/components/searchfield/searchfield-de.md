@@ -47,7 +47,7 @@ Diese Ausprägung hat folgende Zustände:
 ![Darstellung der Komponente Suchfeld integriert im Header](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/searchfield/images/searchfield_header.png 'class: image')
 * Durch Klick auf «Suchen» öffnet sich die Eingabemaske.
 * Nach dem Auslösen der Suche, wird die Eingabemaske wieder ausgeblendet und nur der Link «Suchen» angezeigt.
-* Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/modules/header) eingesetzt werden.
+* Dieses Modul darf nur im [Header](https://digital.sbb.ch/de/websites/modules/header) eingesetzt werden.
 * Beim Auslösen der Suche werden die Resultate auf einer eigenen Seite dargestellt.
 * Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.
 

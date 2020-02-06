@@ -5,7 +5,7 @@ It is used to display the navigation hierarchy of the current page.
 On every page where the user should be able to navigate quickly to a sister or parent page.
 
 ## 3. Rules
-* The breadcrumb is always positioned directly beneath the [header](https://digital.sbb.ch/en/modules/header). The exception is when a [ghettobox](https://digital.sbb.ch/en/components/ghettobox) is shown, then the breadcrumb follows immediately after the last ghettobox.
+* The breadcrumb is always positioned directly beneath the [header](https://digital.sbb.ch/en/websites/modules/header). The exception is when a [ghettobox](https://digital.sbb.ch/en/websites/components/ghettobox) is shown, then the breadcrumb follows immediately after the last ghettobox.
 * The breadcrumb can be multi-line for long entries.
 * All levels are always shown on the desktop and tablet.
 * Only the last levels are written out on the mobile. Preceding levels are shown on a single one with ‘…’. All intermediate levels are show if ‘…’ is clicked on.

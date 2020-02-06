@@ -32,7 +32,7 @@ Bei Bildern werden folgende Stile unterschieden:
     * Pictures and videos are always treated equally.
 * Key visuals never have captions or copyright information.
 * Key visuals have a fixed format for each end device, the image section adapts to the viewport.
-* Key visuals can be implemented as Mediasliders.
+* Key visuals can be implemented as [Mediasliders](https://digital.sbb.ch/de/websites/components/mediaslider).
 * No description text is allowed.
 
 ### Formats

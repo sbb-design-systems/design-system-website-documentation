@@ -2,12 +2,12 @@
 Links stellen Verbindungen zwischen Informationen, bzw. Seiten her.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
-Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/components/lightbox) gesprungen werden muss.
+Wenn von einer Seite auf eine andere (interne oder externe) Seite oder auf eine [Lightbox](https://digital.sbb.ch/de/websites/components/lightbox) gesprungen werden muss.
 
 ## 3. Regeln
 * Eine visuelle Unterscheidung zwischen internen und externen Links gibt es nicht.
 * Hover und On-Click haben das gleiche visuelle Interaktionsverhalten.
-* Links können auf [Texte](https://digital.sbb.ch/de/basics/text), [Icons](https://digital.sbb.ch/de/basics/icon) und [Bilder](https://digital.sbb.ch/de/basics/images) gesetzt werden.
+* Links können auf [Texte](https://digital.sbb.ch/de/websites/basics/text), [Icons](https://digital.sbb.ch/de/websites/basics/icon) und [Bilder](https://digital.sbb.ch/de/websites/basics/images) gesetzt werden.
 * Textlinks auf Teile von Wörtern sind nicht erlaubt.
 
 ## 4. Ausprägungen und Zustände 
@@ -25,7 +25,7 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073495/inspect)
 
 #### Code Spezifikation
-Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Bereich [Typografie](https://digital.sbb.ch/de/basics/typography) definiert.
+Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Bereich [Typografie](https://digital.sbb.ch/de/websites/basics/typography) definiert.
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ## 4.2 Lead Link 

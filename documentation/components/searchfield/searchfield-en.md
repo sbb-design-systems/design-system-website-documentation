@@ -47,7 +47,7 @@ The component has the following statuses:
 ![Image of the searchfield component integrated in the header](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/searchfield/images/searchfield_header.png 'class: image')
 * The entry mask opens when ‘search’ is clicked on.
 * After the search has been started, the entry mask is hidden again and only the ‘Search’ link is displayed.
-* This module can only be inserted in the [header](https://digital.sbb.ch/en/modules/header).
+* This module can only be inserted in the [header](https://digital.sbb.ch/en/websites/modules/header).
 * When the search is triggered, the results are displayed on a separate page.
 * When typing a maximum of four auto-suggest proposals are shown.
 

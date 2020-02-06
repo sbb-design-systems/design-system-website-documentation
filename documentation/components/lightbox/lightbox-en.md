@@ -2,7 +2,7 @@
 It is used to display detailed information of a content page.
 
 ## 2. When should the component be used?
-* If detailed or additional information has to be shown on-demand on part of a page (for example, additional support when the [tooltip](https://digital.sbb.ch/en/components/tooltip) is not sufficient).
+* If detailed or additional information has to be shown on-demand on part of a page (for example, additional support when the [tooltip](https://digital.sbb.ch/en/websites/components/tooltip) is not sufficient).
 * To display the editing mode on forms.
 * For an enlarged view of images.
 

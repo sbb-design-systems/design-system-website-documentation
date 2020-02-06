@@ -3,14 +3,14 @@ It is used for the selection of one or more options from a pre-defined list.
 
 ## 2. When should the component be used?
 * When selecting from several options (single or multiple choice) in a list.
-* If a selection must be made where the entries mutually exclude one another and no default value is to be set (in contrast to the [radio button](https://digital.sbb.ch/en/components/radiobutton) element).
+* If a selection must be made where the entries mutually exclude one another and no default value is to be set (in contrast to the [radio button](https://digital.sbb.ch/en/websites/components/radiobutton) element).
 * When selection options are to be grouped.
 
 ## 3. Rules
 * There must be at least two options available.
 * The element always has a label.
 * Optional selections include the text ‘(optional)’ behind the label. The text ‘(optional)’ can be abbreviated to ‘(opt.)’ in short fields.
-* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/components/tooltip) opens when this question mark is clicked on.
+* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/websites/components/tooltip) opens when this question mark is clicked on.
 * The text in the select element is always single-line.
 * If an entry is longer than the available width of the element, the entry’s text is abbreviated with ‘…’.
 * A pre-selection is not permitted with a mandatory field.

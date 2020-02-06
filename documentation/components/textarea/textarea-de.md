@@ -7,7 +7,7 @@ Wenn vom Benutzer längere Texteingaben verlangt werden.
 ## 3. Regeln 
 * Die Textarea hat immer ein Label.
 * Optionale Eingaben werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
+* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/websites/components/tooltip).
 * Unten rechts wird die noch verfügbare Anzahl Zeichen angezeigt (ausser die Textarea ist disabled).
 * Die Breite der Textarea entspricht immer der ganzen Formularbreite.
 * Die Basishöhe kann beim Gestalten des Formulars gesetzt werden.

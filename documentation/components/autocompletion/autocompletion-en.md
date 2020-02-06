@@ -8,7 +8,7 @@ It supports the user when entering suggestions.
 ## 3. Rules
 * Autocompletion always has a label.
 * Optional entries include the text ‘(optional)’ behind the label text. The text ‘(optional)’ can be abbreviated as ‘(opt.)’ in short fields.
-* A question mark in the circle can also be shown – in addition to the label – for detailed explanations. A tooltip opens if this question mark is clicked on.
+* A question mark in the circle can also be shown – in addition to the label – for detailed explanations. A [tooltip](https://digital.sbb.ch/de/websites/components/tooltip) opens if this question mark is clicked on.
 * During entry, suggestions appear directly (usually after three symbols but they can be modified on a project-specific basis).
 * The entries listed can be scrolled through using the arrow keys and accepted with Enter.
 * A maximum of ten suggestions are shown.

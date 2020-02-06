@@ -7,7 +7,7 @@ When the entry of longer text is required from the user.
 ## 3. Rules
 * The text area always has a label.
 * Optional entries include the text ‘(optional)’ behind the label text. The text ‘(optional)’ can be shortened to ‘(opt.)’ for short fields.
-* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/components/tooltip) opens when this question mark is clicked on.
+* A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/websites/components/tooltip) opens when this question mark is clicked on.
 * The number of characters still available is shown bottom right (outside the text area is disabled).
 * The width of the text area is always the same as the entire width of the form.
 * The basic height can be set when designing the form.

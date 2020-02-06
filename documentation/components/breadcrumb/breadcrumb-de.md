@@ -5,7 +5,7 @@ Dient zur Anzeige der Navigationshierarchie der aktuellen Seite.
 Auf jeder Seite, bei denen der Benutzer schnell auf eine Schwester-oder Eltern-Seite navigieren können soll.
 
 ## 3. Regeln
-* Der Breadcrumb ist immer direkt unter dem [Header](https://digital.sbb.ch/de/modules/header) zu positionieren. Ausnahme wenn eine [Ghettobox](https://digital.sbb.ch/de/components/ghettobox) angezeigt wird, dann folgt der Breadcrumb unmittelbar nach der letzten Ghettobox.
+* Der Breadcrumb ist immer direkt unter dem [Header](https://digital.sbb.ch/de/websites/modules/header) zu positionieren. Ausnahme wenn eine [Ghettobox](https://digital.sbb.ch/de/websites/components/ghettobox) angezeigt wird, dann folgt der Breadcrumb unmittelbar nach der letzten Ghettobox.
 * Der Breadcrumb kann bei langen Einträgen mehrzeilig werden.
 * Bei Desktop und Tablet werden immer alle Ebenen angezeigt.
 * Auf Mobile wird lediglich die letzte Ebenen ausgeschrieben. Vorangehende Ebenen werden durch eine einzige mit «...» dargestellt. Bei Klick auf «...» werden alle Zwischenebenen eingeblendet.

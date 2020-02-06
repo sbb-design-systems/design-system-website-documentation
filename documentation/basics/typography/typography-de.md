@@ -60,7 +60,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 ### 2.7 Link
 ![Darstellung des Schriftstils Link](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_link.png 'class: image')
 * Gilt als Standardlink innerhalb von Texten.
-* Zusätzliche Ausführungen von Links sind unter [Link](https://digital.sbb.ch/de/website/components/link) zu finden.
+* Zusätzliche Ausführungen von Links sind unter [Link](https://digital.sbb.ch/de/websites/components/link) zu finden.
 
 #### Spezifikation
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796878/inspect)
@@ -75,7 +75,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 ### 2.9 Tabellenheader
 ![Darstellung des Schriftstils Tabellenheader](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_header.png 'class: image')
-* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/website/components/table) zu finden.
+* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/websites/components/table) zu finden.
 
 #### Spezifikation
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796882/inspect)
@@ -83,7 +83,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 ### 2.10 Tabellendaten
 ![Darstellung des Schriftstils Tabellendaten](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_data.png 'class: image')
-* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/website/components/table) zu finden.
+* Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/websites/components/table) zu finden.
 
 #### Spezifikation
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)

@@ -2,7 +2,7 @@
 Das Logo wird bei allen SBB-Webseiten und -anwendungen eingesetzt.
 
 ## 2. Regeln
-* Das Logo tritt genau einmal pro Seite auf und befindet sich immer im [Header](https://digital.sbb.ch/de/modules/header).
+* Das Logo tritt genau einmal pro Seite auf und befindet sich immer im [Header](https://digital.sbb.ch/de/websites/modules/header).
 * Die Positionierung ist immer rechts oben.
 * Abwandlungen des Logos sind nicht erlaubt.
 * Das Logo ist immer verlinkt auf SBB.ch.

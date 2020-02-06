@@ -79,7 +79,7 @@ In Bearbeitung.
 ![Darstellung des Verhaltens eines Next Best Click Containers auf Desktop und grösseren Auflösungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_behaviour_desktop_default.png 'class: image')
 
 #### Sonderfall NBC-Box innerhalb eines Accordion
-* Bei der Anwendung einer NBC-Box innerhalb eines [Accordion](https://digital.sbb.ch/de/components/accordion) wird diese nie minimiert.
+* Bei der Anwendung einer NBC-Box innerhalb eines [Accordion](https://digital.sbb.ch/de/websites/components/accordion) wird diese nie minimiert.
 * Es darf nur eine NBC-Box in einem Accordion eingesetzt werden.
 * Beim Scrollen bleibt die NBC-Box sticky am oberen Rand bis zum Ende der Content-Area des Accordions, dannach wird die Box mit dem Content weitergescrollt.
 
