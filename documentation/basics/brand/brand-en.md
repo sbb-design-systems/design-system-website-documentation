@@ -2,7 +2,7 @@
 The logo is used in all SBB applications.
 
 ## 2. Rules
-* The logo appears exactly once per page and is always located in the [header](https://digital.sbb.ch/en/modules/header).
+* The logo appears exactly once per page and is always located in the [header](https://digital.sbb.ch/en/websites/modules/header).
 * It is always positioned top right.
 * Variations of the logo are not permitted.
 * The logo is not linked.

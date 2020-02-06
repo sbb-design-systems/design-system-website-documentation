@@ -13,7 +13,7 @@ Bei zwei und mehr Auswahlmöglichkeiten, bei der sich die Optionen gegenseitig a
 * Der Text kann mehrzeilig sein.
 * Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.
-* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
+* Für detaillierte Erklärungen zu einer Radiobutton-Gruppe kann neben dem Titel ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/websites/components/tooltip).
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:

@@ -8,9 +8,9 @@ It triggers an action on a page.
 
 ## 3. Rules
 * It cannot be used within body copy.
-* Cannot be used in the [header](https://digital.sbb.ch/de/modules/header) as navigation or a function.
+* Cannot be used in the [header](https://digital.sbb.ch/en/websites/modules/header) as navigation or a function.
 * The minimum width is 60px, the maximum width is 400px.
-* The width increases with the text length. When used in the [next best click (NBC)](https://digital.sbb.ch/en/components/nbc) or in mobile views, the width is 100%.
+* The width increases with the text length. When used in the [next best click (NBC)](https://digital.sbb.ch/en/websites/components/nbc) or in mobile views, the width is 100%.
 * If the text is still too long when the maximum length is reached, it is shortened with “...”.
 * The text is always single-line.
 * In exceptional cases, the arrow icon can be replaced with a different, suitable icon.

@@ -60,7 +60,7 @@ The font styles defined here form the basis of web applications and their compon
 ### 2.7 Link
 ![Image of the link font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_link.png 'class: image')
 * Is used as a standard link within texts.
-* Further information about links can be found at [link](https://digital.sbb.ch/en/website/components/link).
+* Further information about links can be found at [link](https://digital.sbb.ch/en/websites/components/link).
 
 #### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796878/inspect)
@@ -75,7 +75,7 @@ The font styles defined here form the basis of web applications and their compon
 
 ### 2.9 Table header
 ![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_header.png 'class: image')
-* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/website/components/table).
+* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/websites/components/table).
 
 #### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796882/inspect)
@@ -83,7 +83,7 @@ The font styles defined here form the basis of web applications and their compon
 
 ### 2.10 Table data
 ![Image of the table data font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_data.png 'class: image')
-* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/website/components/table).
+* The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/websites/components/table).
 
 #### Specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)

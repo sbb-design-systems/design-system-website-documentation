@@ -3,14 +3,14 @@ Dient zur Auswahl einer oder mehrerer Optionen aus einer vorgegebenen Liste.
 
 ## 2. Wann soll die Komponente eingesetzt werden? 
 * Bei einer Auswahl aus mehreren Optionen (Einfach- oder Mehrfachauswahl) einer Liste.
-* Wenn eine Auswahl getroffen werden muss, bei der sich die Einträge gegenseitig ausschliessen und kein Defaultwert gesetzt werden soll (anders als beim Element [Radiobutton](https://digital.sbb.ch/de/components/radiobutton)).
+* Wenn eine Auswahl getroffen werden muss, bei der sich die Einträge gegenseitig ausschliessen und kein Defaultwert gesetzt werden soll (anders als beim Element [Radiobutton](https://digital.sbb.ch/de/websites/components/radiobutton)).
 * Wenn Auswahloptionen gruppiert werden sollen.
 
 ## 3. Regeln
 * Es müssen mindestens zwei Optionen zur Auswahl stehen.
 * Das Element hat immer ein Label.
 * Optionale Auswahlen werden mit dem Text «(optional)» hinter dem Label versehen. Bei kurzen Feldern kann der Text «(optional)» mit «(opt.)» abgekürzt werden.
-* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/components/tooltip).
+* Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/websites/components/tooltip).
 * Der Text im Select-Element ist immer einzeilig.
 * Ist ein Eintrag länger als die verfügbare Breite des Elements, wird der Text des Eintrages mit «...» abgekürzt.
 * Bei einem Pflichtfeld ist eine Vorauswahl nicht erlaubt.

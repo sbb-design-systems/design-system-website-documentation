@@ -6,10 +6,10 @@ For information and errors that concern an entire application.
 
 ## 3. Rules
 * The ghettobox can be hidden with the X-icon until the next page reload.
-* The ghettobox is always directly below the [header](https://digital.sbb.ch/en/modules/header).
+* The ghettobox is always directly below the [header](https://digital.sbb.ch/en/websites/modules/header).
 * The ghettobox is not sticky but instead scrolls away with the content.
 * The text can be multi-line.
-* There is always an [icon](https://digital.sbb.ch/en/icons-und-piktogramme/sbb-icons) in a red area (HIM/CUS icons) in front of the text.
+* There is always an [icon](https://digital.sbb.ch/en/brand_elemente/icons) in a red area (HIM/CUS icons) in front of the text.
 * If several ghettoboxes are used at the same time, they are arranged beneath one another.
 
 ## 4. Variants and statuses

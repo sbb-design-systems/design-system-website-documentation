@@ -5,7 +5,7 @@
 * In all processes where a user has to go through several steps/pages to complete them.
 
 ## 3. Rules
-* The process flow is always positioned at the top immediately after the [breadcrumb](https://digital.sbb.ch/en/components/breadcrumb).
+* The process flow is always positioned at the top immediately after the [breadcrumb](https://digital.sbb.ch/en/websites/components/breadcrumb).
 * The user can navigate back to a process step already passed through.
 * Forward navigation in the process is only permitted by the call-to-action of the page concerned. Skipping steps (forward) is not permitted.
 

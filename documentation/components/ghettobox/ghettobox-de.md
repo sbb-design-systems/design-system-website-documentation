@@ -6,10 +6,10 @@ Bei Hinweisen und Störungen welche eine ganze Applikation betreffen.
 
 ## 3. Regeln
 * Die Ghettobox kann mit dem X-Icon bis zum nächsten Seiten-Reload ausgeblendet werden.
-* Die Ghettobox steht immer direkt unterhalb des [Header](https://digital.sbb.ch/de/modules/header).
+* Die Ghettobox steht immer direkt unterhalb des [Header](https://digital.sbb.ch/de/websites/modules/header).
 * Die Ghettobox ist nicht sticky sondern scrollt mit dem Inhalt weg.
 * Der Text kann mehrzeilig sein.
-* Vor dem Text steht immer ein [Icon](https://digital.sbb.ch/de/icons-und-piktogramme/sbb-icons) in roter Fläche (HIM/CUS-Icons).
+* Vor dem Text steht immer ein [Icon](https://digital.sbb.ch/de/brand_elemente/icons) in roter Fläche (HIM/CUS-Icons).
 * Wenn mehrere Ghettoboxen gleichzeitig verwendet werden, sind diese untereinander anzuordnen.
 
 ## 4. Ausprägungen und Zustände

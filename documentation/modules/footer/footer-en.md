@@ -14,7 +14,7 @@ A footer should be inserted on every webpage/application.
     * Clock module.
     * Choice of language.
     * Links to publication details, legal information, data protection.
-* They are shown full-screen in a [lightbox](https://digital.sbb.ch/en/components/lightbox) if the clock is clicked on.
+* They are shown full-screen in a [lightbox](https://digital.sbb.ch/en/websites/components/lightbox) if the clock is clicked on.
 
 ## 4. Variants and statuses
 ### 4.1 Standard
@@ -23,7 +23,7 @@ A footer should be inserted on every webpage/application.
 * The height of the footer changes depending on the length of the contact content.
 * The second column contains the rail traffic information.
 * The third column contains newsletter and social media information:
-    * Information text with newsletter with [link](https://digital.sbb.ch/en/components/link) to registration.
+    * Information text with newsletter with [link](https://digital.sbb.ch/en/websites/components/link) to registration.
     * External social media platforms (links to the SBB sites on various social media platforms)
     * Optional internal social media platforms (e.g. links to SBB blog (‘SBB Stories’ designation) and the SBB Community).
 * The last column contains links to certain SBB content. This is defined according to context.

@@ -8,9 +8,9 @@ Löst eine Aktion auf einer Seite aus.
 
 ## 3. Regeln
 * Darf nicht innerhalb von Fliesstext eingesetzt werden.
-* Darf nicht im [Header](https://digital.sbb.ch/de/modules/header) als Navigation oder Funktion eingesetzt werden.
+* Darf nicht im [Header](https://digital.sbb.ch/de/websites/modules/header) als Navigation oder Funktion eingesetzt werden.
 * Die Mindestbreite beträgt 60px, die Maximalbreite 400px.
-* Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
+* Die Breite wächst mit der Textlänge. Beim Einsatz im [Next Best Click (NBC)](https://digital.sbb.ch/de/websites/components/nbc) oder in mobilen Ansichten ist die Breite 100%.
 * Ist der Text beim Erreichen der Maximallänge immer noch zu lang, wird dieser mit «\...» abgekürzt.
 * Der Text ist immer einzeilig.
 * In Ausnahmefällen darf das Pfeil-Icon durch ein anderes, passendes Icon ersetzt werden.

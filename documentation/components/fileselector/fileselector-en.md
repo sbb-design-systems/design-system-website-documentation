@@ -5,12 +5,12 @@ It is used for uploading files.
 When an application requires one or more files from a user.
 
 ## 3. Rules 
-* Clicking on the ‘upload file’ [button](https://digital.sbb.ch/en/components/button) opens the system’s file browser.
+* Clicking on the ‘upload file’ [button](https://digital.sbb.ch/en/websites/components/button) opens the system’s file browser.
 * The uploaded files are displayed in a list.
 * The list is sorted according to the chronological order of the upload.
 * An individual file can be removed from the list using the trash icon.
 * The list entry contains the icon of the file type, the file name and the file type and file size in brackets.
-* The file upload always indicates above the [button](https://digital.sbb.ch/en/components/button) which file types and sizes can be uploaded.
+* The file upload always indicates above the [button](https://digital.sbb.ch/en/websites/components/button) which file types and sizes can be uploaded.
 
 ## 4. Variants and statuses
 The component has the following statuses:

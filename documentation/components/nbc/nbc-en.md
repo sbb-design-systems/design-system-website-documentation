@@ -79,7 +79,7 @@ In progress.
 ![Image of the behaviour of a Next Best Click container on desktops and with higher resolutions](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_behaviour_desktop_default.png 'class: image')
 
 #### Special case: NBC box within an accordion
-* A NBC box is never minimised when used within an [accordion](https://digital.sbb.ch/en/components/accordion).
+* A NBC box is never minimised when used within an [accordion](https://digital.sbb.ch/en/websites/components/accordion).
 * Only one NBC box can be inserted into an accordion.
 * When scrolling, the NBC box remains sticky on the top edge to the end of the content area of the accordion, after which the box continues to be scrolled with the content.
 

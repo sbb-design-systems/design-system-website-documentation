@@ -27,7 +27,7 @@ Bei Bildern werden folgende Stile unterschieden:
     * Bilder und Videos werden grundsätzlich gleich behandelt.
 * Keyvisuals haben nie Bildunterschriften oder Copyright-Infos.
 * Keyvisuals haben je Endgerät ein festes Format, der Bildausschnitt passt sich dem Viewport an.
-* Keyvisuals können als [Mediaslider](https://digital.sbb.ch/de/website/components/mediaslider) umgesetzt werden.
+* Keyvisuals können als [Mediaslider](https://digital.sbb.ch/de/websites/components/mediaslider) umgesetzt werden.
 * Kein Beschreibungstext erlaubt.
 
 ### Formate

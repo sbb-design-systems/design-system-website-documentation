@@ -1,5 +1,5 @@
 ## 1. Use
-Icons provide visual support for themes and actions. The icons in the SBB style must be used in SBB applications. Details on this and a set of already available icons can be found [here](https://digital.sbb.ch/en/icons-und-piktogramme/sbb-icons).
+Icons provide visual support for themes and actions. The icons in the SBB style must be used in SBB applications. Details on this and a set of already available icons can be found [here](https://digital.sbb.ch/en/brand_elemente/icons).
 
 ## 2. Rules
 * The use of icons within body copy should be avoided as far as possible.

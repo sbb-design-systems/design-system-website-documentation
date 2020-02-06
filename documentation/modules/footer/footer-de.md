@@ -14,7 +14,7 @@ Ein Footer ist bei jeder Webseite / jeder Anwendung einzufügen.
     * Uhr-Modul.
     * Sprachwahl.
     * Links zu Impressum, Rechtliche Hinweise, Datenschutz.
-* Mittels Klick auf die Uhr wird sie ganzflächig in einer [Lightbox](https://digital.sbb.ch/de/components/lightbox) angezeigt.
+* Mittels Klick auf die Uhr wird sie ganzflächig in einer [Lightbox](https://digital.sbb.ch/de/websites/components/lightbox) angezeigt.
 
 ## 4. Ausprägungen und Zustände
 ### 4.1 Standard
@@ -23,7 +23,7 @@ Ein Footer ist bei jeder Webseite / jeder Anwendung einzufügen.
 * Je nach Länge des Kontaktinhalts verändert sich die Höhe des Footers.
 * Die zweite Spalte enthält die Bahnverkehrsinformationen.
 * In der dritten Spalte stehen Informationen zu Newsletter & Social Media:
-    * Informationstext zum Newsletter mit [Link](https://digital.sbb.ch/de/components/link) zur Anmeldung.
+    * Informationstext zum Newsletter mit [Link](https://digital.sbb.ch/de/websites/components/link) zur Anmeldung.
     * Externe Social Media Plattformen (Links zu den SBB-Auftritten auf div. Social Media Plattformen)
     * Optional interne Social Media Plattformen (z.B. Links zum SBB Blog (Bezeichnung «SBB Stories»)  und der SBB Community).
 * Die letzte Spalte beinhaltet Links zu ausgewählten SBB-Inhalten. Diese sind je nach Kontext zu definieren.
