@@ -3,7 +3,7 @@ name: Bug report Website
 about: Bug report for the website design system
 title: 'Bug report Website: '
 labels: design-system-website
-projects: sbb-design-systems/design-system-website-documentation
+projects: Design System Website
 assignees: mikemorgenthaler
 
 ---
