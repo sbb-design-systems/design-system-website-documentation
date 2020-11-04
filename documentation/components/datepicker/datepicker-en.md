@@ -32,10 +32,10 @@ The component has the following statuses:
     * Space / Enter: Selection of the marked day.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605628/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605629/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605630/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703710/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Rx#Inspector)
+* [Focused]((https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPW8n#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwmG#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOob9A#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
@@ -50,9 +50,9 @@ The component has the following statuses:
     * Space / Enter: Selection of the marked day.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605631/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605632/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605633/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Ya5d7m#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqDg#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgoq#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
@@ -69,10 +69,10 @@ The component has the following statuses:
 * The date of birth is shown in the format DD.MM.YYYY (example: 02.09.1986).
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605634/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605635/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605636/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703711/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqE2#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLa3#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mav8P#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2xa#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
@@ -87,12 +87,12 @@ The tab sequence within the calender layer is defined as follows:
 5. range of the individual days. If the focus is in the range of days, the arrow keys can be used to navigate left, right, up and down within the days.
 
 #### Design specification
-* [No selection](https://sbb.invisionapp.com/d/main#/console/15744722/327605637/inspect)
-* [Date selected](https://sbb.invisionapp.com/d/main#/console/15744722/327605638/inspect)
-* [Date with hover](https://sbb.invisionapp.com/d/main#/console/15744722/327605639/inspect)
-* [Selection restrictions](https://sbb.invisionapp.com/d/main#/console/15744722/327605640/inspect)
-* [Date range within a month](https://sbb.invisionapp.com/d/main#/console/15744722/327605641/inspect)
-* [Date range beyond a month](https://sbb.invisionapp.com/d/main#/console/15744722/327605642/inspect)
+* [No selection](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWe8z#Inspector)
+* [Date selected](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPk8#Inspector)
+* [Date with hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZldj#Inspector)
+* [Selection restrictions](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4b8#Inspector)
+* [Date range within a month](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejnA#Inspector)
+* [Date range beyond a month](hhttps://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7A7#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)

@@ -18,8 +18,8 @@ The module has the following statuses:
 ![Image of the header module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/header/images/header_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985465/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/326985466/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAjj#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdV27#Inspector)
 
 ### 4.2 Microsite standard
 ![Image of the header module for a microsite](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/header/images/header_microsite.png 'class: image')
@@ -28,8 +28,8 @@ The module has the following statuses:
 * In addition to the login, the search is also shown.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985467/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/326985468/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREd4#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVGJ#Inspector)
 
 ### 4.3 Microsite with its own logo
 ![Image of the header module for a microsite with its own logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/header/images/header_microsite_logo.png 'class: image')
@@ -39,5 +39,5 @@ The module has the following statuses:
 * In addition to the login, the search is also shown.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985469/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/326985470/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwR2W#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRva#Inspector)

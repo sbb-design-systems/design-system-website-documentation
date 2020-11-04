@@ -23,10 +23,10 @@ Die Komponente hat folgende Zustände:
 	* Die Kurzform «...» für versteckte Seiten kann nicht angesprungen werden.
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/15744722/328136679/inspect)
-* [Middle](https://sbb.invisionapp.com/d/main#/console/15744722/328136680/inspect)
-* [Last](https://sbb.invisionapp.com/d/main#/console/15744722/328136681/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136682/inspect)
+* [First](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/EwG1Qq#Inspector)
+* [Middle](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRyb#Inspector)
+* [Last](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaEj#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMYl#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/pagination)
@@ -42,8 +42,8 @@ Diese Ausprägung hat folgende Zustände:
 * Der Link-Text hat eine Maximalbreite entsprechend dem Layout. Längere Texte werden mittels «...» abgeschnitten.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136683/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136684/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnzqv#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9JwqM#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/pagination)

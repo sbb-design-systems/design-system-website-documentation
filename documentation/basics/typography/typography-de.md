@@ -11,7 +11,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Text der Überschrift soll dem Titel in der Navigation entsprechen.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796872/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdV0O#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.2 Überschrift H2
@@ -21,7 +21,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Darf nicht ohne vorangehenden H1-Titel eingesetzt werden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796873/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREJm#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.3 Überschrift H3
@@ -30,7 +30,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Darf nicht ohne vorangehenden H2-Titel eingesetzt werden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796874/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVgP#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.4 Überschrift H4
@@ -39,14 +39,14 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Darf nicht ohne vorangehenden H3-Titel eingesetzt werden.
 
 #### Spezifikation
-* [Design](lhttps://sbb.invisionapp.com/d/main#/console/15744722/331796875/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRD4#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.5 Lead
 ![Darstellung des Schriftstils Lead-Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_lead.png 'class: image')
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796876/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOED#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 
@@ -54,7 +54,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 ![Darstellung des Schriftstils Fliesstext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_copy.png 'class: image')
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796877/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlGR#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.7 Link
@@ -63,14 +63,14 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Zusätzliche Ausführungen von Links sind unter [Link](https://digital.sbb.ch/de/websites/components/link) zu finden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796878/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7bOG#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.8 Subtext
 ![Darstellung des Schriftstils Subtext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_subtext.png 'class: image')
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796879/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGpYz#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.9 Tabellenheader
@@ -78,7 +78,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/websites/components/table) zu finden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796882/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1Yr#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.10 Tabellendaten
@@ -86,7 +86,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Definition der Tabelle als Komponente ist unter [Table](https://digital.sbb.ch/de/websites/components/table) zu finden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKWL#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.11 Liste geordnet
@@ -97,7 +97,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796880/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8eW#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.12 Liste ungeordnet
@@ -108,19 +108,19 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 * Wenn immer möglich, sollten kurze Beschreibungen für einen Listeneintrag (keine vielzeiligen Texte) definiert werden.
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796881/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWm5#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.13 Fieldset einfach
 ![Darstellung des Schriftstils Fieldset einfach](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_default.png 'class: image')
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwWo#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.14 Fieldset verschachtelt
 ![Darstellung des Schriftstils Fieldset verschachtelt](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_nested.png 'class: image')
 
 #### Spezifikation
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOobD8#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)

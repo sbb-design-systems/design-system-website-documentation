@@ -24,10 +24,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Tab in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tab/images/tab_default.png 'class: image')
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/15744722/332819501/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/332819502/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/332819503/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/332819504/inspect)
+* [Active](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVamvo#Inspector)
+* [Inactive](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWQg#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xdzD#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrLVx#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tabs)
@@ -38,10 +38,10 @@ Die Komponente hat folgende Zustände:
 * Der Mengenindikator beinhaltet nur Zahlen, maximal 3-stellig.
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/15744722/332819505/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/332819506/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/332819507/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/332819508/inspect)
+* [Active](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYoW#Inspector)
+* [Inactive](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1gQ8#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8vA#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/EwG1pY#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tabs)

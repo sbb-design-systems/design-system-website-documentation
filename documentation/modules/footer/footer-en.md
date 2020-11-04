@@ -29,7 +29,7 @@ A footer should be inserted on every webpage/application.
 * The last column contains links to certain SBB content. This is defined according to context.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985471/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnza7#Inspector)
 
 ### 4.2 Microsite with contact information
 ![Image of the footer module for microsite with contact information](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/footer/images/footer_microsite_single_contact.png 'class: image')
@@ -37,14 +37,14 @@ A footer should be inserted on every webpage/application.
 * The second column contains microsite-specific information.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985472/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jwx5#Inspector)
 
 ### 4.3 Microsite with several pieces of contact information
 ![Image of the footer module for microsite with several peices ofcontact information](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/footer/images/footer_microsite_multi_contact.png 'class: image')
 * The second column contains microsite-specific information.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985473/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPob#Inspector)
 
 ### 4.4 Microsite with its own logo
 ![Image of the footer module for microsite with its own logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/modules/footer/images/footer_microsite_logo.png 'class: image')
@@ -54,4 +54,4 @@ A footer should be inserted on every webpage/application.
 * The SBB logo is linked with [sbb.ch](https://sbb.ch).
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326985474/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zwZ#Inspector)

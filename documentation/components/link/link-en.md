@@ -20,9 +20,9 @@ The component has the following statuses:
 ![Image of the link component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_copy.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073493/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073494/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073495/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/EwG15q#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRWb#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaQj#Inspector)
 
 #### Code specification
 The standard link is not an independent component but is instead defined directly in the [Typografie](https://digital.sbb.ch/en/websites/basics/typography) area.
@@ -32,9 +32,9 @@ The standard link is not an independent component but is instead defined directl
 ![Image of the link component for use in a lead text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_lead.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073496/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073497/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073498/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKM0l#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnz9v#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jw5M#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
@@ -43,9 +43,9 @@ The standard link is not an independent component but is instead defined directl
 ![Image of the link component for use after a paragraph](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_paragraph.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073499/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073500/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073501/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPm1#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zLx#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdA9z#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
@@ -54,9 +54,9 @@ The standard link is not an independent component but is instead defined directl
 ![Image of the link component for use after form elements](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_form.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073502/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073503/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073504/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdV5Y#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzRE58#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVdz#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
@@ -65,9 +65,9 @@ The standard link is not an independent component but is instead defined directl
 ![Image of the link component in menus](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_menu.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073505/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073506/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073507/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwR5q#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaO5v#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlqz#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)
@@ -76,9 +76,9 @@ The standard link is not an independent component but is instead defined directl
 ![Image of the link component to jump to a social media channel](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_icon.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327073508/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327073509/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/15744722/327073510/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7bqO#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGpj4#Inspector)
+* [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ199#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/links)

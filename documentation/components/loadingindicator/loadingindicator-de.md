@@ -20,7 +20,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKZx#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
@@ -29,7 +29,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 ![Darstellung der Komponente Ladeindikator in der Grösse klein](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_small.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Ex#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
@@ -38,7 +38,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 ![Darstellung der Komponente Ladeindikator in der Grösse mittel](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWrn#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
@@ -47,7 +47,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 ![Darstellung der Komponente Ladeindikator in der Grösse gross](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_big.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwJG#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)

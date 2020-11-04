@@ -25,8 +25,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Akkordeon in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/accordion/images/accordion_default.png 'class: image')
 
 #### Design Spezifikation
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/332819509/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/332819510/inspect)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Ya5d0L#Inspector)
+* [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqjr#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/accordion)

@@ -24,11 +24,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkboxpanel in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_default.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024578/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024579/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761207/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761208/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390701887/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnz7v#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9JwmM#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPk1#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5z8x#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAWz#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)
@@ -37,11 +37,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkboxpanel mit zusätzlichem Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024580/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024581/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761209/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761210/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390701888/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdVeY#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREl8#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVez#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRJq#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaO7v#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)
@@ -50,11 +50,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkboxpanel mit zusätzlichem Piktogramm oder Logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024582/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024583/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360761211/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360761212/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390701889/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlEz#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7b8O#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGp44#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1v9#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKOx#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)

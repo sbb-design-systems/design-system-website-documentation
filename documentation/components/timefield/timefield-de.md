@@ -21,11 +21,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Eingabefeld für Uhrzeiten](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/timefield/images/timefield_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327611017/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/15744722/335006454/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327611018/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327611019/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/388876245/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgJV#Inspector)
+* [Hinted](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqpd#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLQ5#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mav4w#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2p8#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/time-input)

@@ -22,7 +22,7 @@ Structured display of data.
 ![Image of the table component as a simple table](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_simple.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267417/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRA0#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
@@ -31,7 +31,7 @@ Structured display of data.
 ![Image of the table component with sub-groups in the lines](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267418/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaeZ#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)
@@ -40,7 +40,7 @@ Structured display of data.
 ![Image of the table component as a title value list](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_key_value.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345267419/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMeW#Inspector)
 
 #### ode specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/table)

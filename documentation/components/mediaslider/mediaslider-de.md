@@ -24,7 +24,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Medienslider in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/mediaslider/images/mediaslider_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqv2#Inspector)
 
 #### Code Spezifikation
 In Bearbeitung.
@@ -33,7 +33,7 @@ In Bearbeitung.
 ![Darstellung der Komponente Medienslider mit zusätzlichem Text unter dem Bild](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/mediaslider/images/mediaslider_text.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLx3#Inspector)
 
 #### Code Spezifikation
 In Bearbeitung.

@@ -17,8 +17,8 @@ The component has the following statuses:
 ![Image of the captcha component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/captcha/images/captcha_default.png 'class: image')
 
 #### Design specification
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327768739/inspect) 
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327768740/inspect) 
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPW4#Inspector) 
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zAD#Inspector) 
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/captcha)

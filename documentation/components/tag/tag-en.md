@@ -29,10 +29,10 @@ Example:
 ![Image of an example for filter tag component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tag/images/tag_filtertag_example.png 'class: image')
 
 #### Design specification
-* [Active](https://sbb.invisionapp.com/d/main#/console/15744722/327768741/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/15744722/327768742/inspect)
-* [Hover active](https://sbb.invisionapp.com/d/main#/console/15744722/390754605/inspect)
-* [Hover inactive](https://sbb.invisionapp.com/d/main#/console/15744722/390754606/inspect)
+* [Active](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnzQ7#Inspector)
+* [Inactive](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9JwQ5#Inspector)
+* [Hover active](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPZb#Inspector)
+* [Hover inactive](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zZZ#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
@@ -46,8 +46,8 @@ Example:
 ![Image of an example for link tag component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tag/images/tag_linktag_example.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327768743/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/390754607/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAGj#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdVQ7#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)

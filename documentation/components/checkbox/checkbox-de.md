@@ -29,12 +29,12 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkbox in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_default.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724165/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724166/inspect)
-* [Focused checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724167/inspect)
-* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724168/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/327724169/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/327724170/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdALP#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdVeO#Inspector)
+* [Focused checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzRElm#Inspector)
+* [Focused unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVeP#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRJ4#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRJb#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
@@ -43,7 +43,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkbox als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_vertical.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724171/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKja7j#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
@@ -52,7 +52,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Checkbox als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_horizontal.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327724172/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKM2l#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)

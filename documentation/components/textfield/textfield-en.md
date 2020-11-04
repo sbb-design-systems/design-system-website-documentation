@@ -30,11 +30,11 @@ The component has the following statuses:
 ![Image of the entry field component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/textfield/images/textfield_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327021294/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/15744722/327021295/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327021296/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327021297/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021298/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGplV#Inspector)
+* [Hinted](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ10P#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKR3#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8xj#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWjk#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
@@ -44,10 +44,10 @@ The component has the following statuses:
 * The entry field in the ‘password’ variant does not provide a ‘hinted’ status.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327021299/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327021300/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327021301/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327021302/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKw1k#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOobQa#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Ya5dQd#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqQK#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
