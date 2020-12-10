@@ -21,7 +21,7 @@ It is used to display detailed information of a content page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g5b#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/lightbox)
 
 ### 4.2 With form components
 ![Image of the lightbox component with form components](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/lightbox/images/lightbox_form.png 'class: image')
@@ -34,4 +34,4 @@ It is used to display detailed information of a content page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8a0#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/lightbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/lightbox)

@@ -38,7 +38,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOob9A#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
 
 ### 4.2 With scroll function
 ![Image of the datepicker component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/datepicker/images/datepicker_pageable.png 'class: image')
@@ -55,7 +55,7 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgoq#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
 
 ### 4.3 Date range
 * Two date pickers are combined to select a date range.
@@ -75,7 +75,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2xa#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
 
 ### 4.5 Calendar layer
 ![Image of the datepicker component with visible date layer](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/datepicker/images/datepicker_picker.png 'class: image')
@@ -95,4 +95,4 @@ The tab sequence within the calender layer is defined as follows:
 * [Date range beyond a month](hhttps://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7A7#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)

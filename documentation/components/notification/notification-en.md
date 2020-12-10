@@ -17,7 +17,7 @@ It is used to display messages that concern an entire page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrL4A#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
 
 ### 4.2 Information
 ![Image of the notification component to display information messages](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
@@ -26,7 +26,7 @@ It is used to display messages that concern an entire page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYMl#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
 
 ### 4.3 Error 
 ![Image of the notification component to display error messages](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
@@ -35,7 +35,7 @@ It is used to display messages that concern an entire page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g7b#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
 
 ### 4.4 Error with jump marker 
 ![Image of the notification component to display error messages with jump marker](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
@@ -47,4 +47,4 @@ It is used to display messages that concern an entire page.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8E0#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/notification)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)

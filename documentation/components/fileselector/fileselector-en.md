@@ -27,4 +27,4 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWbk#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/file-selector)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/file-selector)

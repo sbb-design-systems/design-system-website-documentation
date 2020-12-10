@@ -28,7 +28,7 @@ Beim Viewport «Mobile» gibt es folgende Zustände:
 * [Hover/Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlYz#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/breadcrumb)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/breadcrumb)
 
 ### 4.2 Mit Schwesterseiten
 Diese Ausprägung hat zusätzlich folgende Zustände:
@@ -46,4 +46,4 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7zw#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/breadcrumb)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/breadcrumb)

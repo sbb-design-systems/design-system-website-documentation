@@ -30,7 +30,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zrZ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)
 
 ### 4.2 Mit Infotext
 ![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png 'class: image')
@@ -43,7 +43,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRrW#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)
 
 ### 4.3 Mit Piktogramm / Logo
 ![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Piktogramm oder Logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_picto.png 'class: image')
@@ -56,4 +56,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1yP#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)

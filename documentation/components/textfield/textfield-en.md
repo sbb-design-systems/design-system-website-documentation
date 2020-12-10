@@ -37,7 +37,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWjk#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/field)
 
 ### 4.2 Password entry
 ![Image of the entry field component for password entry](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
@@ -50,4 +50,4 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqQK#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/field)

@@ -30,4 +30,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOJZ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/textarea)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/textarea)

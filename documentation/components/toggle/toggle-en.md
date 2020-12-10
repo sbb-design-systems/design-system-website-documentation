@@ -22,7 +22,7 @@ The component has the following statuses:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPz1#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
    
 ### 4.2 With icon
 ![Image of the toggle button component with icons](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_icon.png 'class: image')
@@ -32,7 +32,7 @@ The component has the following statuses:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp42w#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
 
 ### 4.3 With info text 
 ![Image of the toggle button component with additional information text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_infotext.png 'class: image')
@@ -42,7 +42,7 @@ The component has the following statuses:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM72l#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
 
 ### 4.4 With additional entry context
 ![Image of the toggle button component with additional entry context](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_content.png 'class: image')
@@ -52,7 +52,7 @@ The component has the following statuses:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVampo#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
 
 
 
