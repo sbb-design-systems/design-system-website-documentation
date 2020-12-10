@@ -18,7 +18,7 @@ Dient zur Darstellung von Detailinformationen einer Content-Seite.
 ![Darstellung der Komponente Lightbox in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/lightbox/images/lightbox_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default]https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g5b#Inspector)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g5b#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/lightbox)

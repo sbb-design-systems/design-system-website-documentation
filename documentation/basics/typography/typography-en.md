@@ -86,7 +86,7 @@ The font styles defined here form the basis of web applications and their compon
 * The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/websites/components/table).
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKWL#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.11 List structure

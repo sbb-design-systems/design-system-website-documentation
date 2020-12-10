@@ -22,7 +22,7 @@ Strukturierte Darstellung von Daten.
 ![Darstellung der Komponente Tabelle als einfache Tabelle](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_simple.png 'class: image')
 
 #### Design Spezifikation
-* [Default]https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRA0#Inspector)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRA0#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/table)

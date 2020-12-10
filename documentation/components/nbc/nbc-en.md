@@ -39,7 +39,7 @@ In progress.
 ![Image of the Next Best Click container component as a link list to other topics](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_link.png 'class: image')
 
 #### Design specification
-* [Default]((https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4q8#Inspector)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4q8#Inspector)
 * [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejgA#Inspector)
 
 #### Code specification

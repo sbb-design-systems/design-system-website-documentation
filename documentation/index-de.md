@@ -26,11 +26,8 @@ Um die Library zu installieren, folgen Sie dem Link. So können Sie schnell und 
 <button class="accordion">Zugang zu Spezifikationen</button>
 <div class="panel">
 <div class="panel-conent">
-Sofern Sie Sketch nicht verwenden können oder wollen, können Sie die Design-Spezifikationen auch auf inVision einsehen.<br><br>
-Login auf <a href="https://sbb.invisionapp.com/">sbb.invisionapp.com</a><br>
-User: designsysteme@sbb.ch<br>
-Pw: ux4ever<br><br>
-Die einzelnen Elemente, Module und Seitentypen enthalten jeweils Direkt-Links auf die entsprechenden Inhalte auf inVision. 
+Sofern Sie Sketch nicht verwenden können oder wollen, können Sie die Design-Spezifikationen auch auf der Sketch Cloud einsehen.<br><br>
+Die einzelnen Komponenten und Module enthalten jeweils Direkt-Links auf die entsprechenden Inhalte auf der Sketch Cloud. 
 </div>
 </div>
 <button class="accordion">Feedback</button>

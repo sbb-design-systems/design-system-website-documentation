@@ -17,7 +17,7 @@ For information and errors that concern an entire application.
 ![Image of the ghettobox component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/ghettobox/images/ghettobox_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136671/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xd8m#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)
@@ -33,8 +33,8 @@ This variant has the following statuses:
 * The entire area of the ghettobox can be clicked on and opens the link inserted (except above the X-icon).
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136672/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136673/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrLaA#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYzl#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)

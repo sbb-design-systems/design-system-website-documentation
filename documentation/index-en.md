@@ -26,11 +26,8 @@ To install the library, follow the link. This allows you to quickly and easily b
 <button class="accordion">Access to specifications</button>
 <div class="panel">
 <div class="panel-conent">
-If you cannot or do not want to use Sketch, you can also view the design specifications on inVision.<br><br>
-Login to <a href="https://sbb.invisionapp.com/">sbb.invisionapp.com</a><br>
-User: designsysteme@sbb.ch<br>
-Pw: ux4ever<br><br>
-The individual elements, modules and page types each contain direct links to the corresponding content on inVision. 
+If you cannot or do not want to use Sketch, you can also view the design specifications on Sketch Cloud.<br><br>
+The individual elements and modules each contain direct links to the corresponding content on Sketch Cloud. 
 </div>
 </div>
 <button class="accordion">Feedback</button>
