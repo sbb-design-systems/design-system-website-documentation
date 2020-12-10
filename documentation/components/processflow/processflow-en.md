@@ -14,7 +14,7 @@
 ![Image of the component for process steps](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/processflow/images/processflow_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPb1#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/processflow)

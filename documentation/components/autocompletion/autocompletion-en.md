@@ -23,8 +23,8 @@ The component has the following statuses:
 ![Image of the autocompletion component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/autocompletion/images/autocompletion_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327147336/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327147337/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgWp#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqWk#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/autocomplete)
@@ -34,8 +34,8 @@ As an option to the standard variant, this variant can be used when an auto-comp
 ![Image of the autocompletion component with display of hits](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/autocompletion/images/autocompletion_overflow.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/383235117/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/383235118/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLdd#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mavk8#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/autocomplete)
@@ -44,8 +44,8 @@ As an option to the standard variant, this variant can be used when an auto-comp
 ![Image of the autocompletion component with static entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/autocompletion/images/autocompletion_static.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327147338/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327147339/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2WA#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWejn#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/autocomplete)

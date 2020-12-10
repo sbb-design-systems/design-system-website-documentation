@@ -23,8 +23,8 @@ The component has the following statuses:
 ![Image of the tooltip component with text box above it](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### Design specification
-* [Hidden](https://sbb.invisionapp.com/d/main#/console/15744722/328424439/inspect)
-* [Visible](https://sbb.invisionapp.com/d/main#/console/15744722/328424440/inspect)
+* [Hidden](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWOg#Inspector)
+* [Visible](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xdgD#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tooltip)
@@ -33,8 +33,8 @@ The component has the following statuses:
 ![Image of the tooltip component with text box below it](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### Design specification
-* [Hidden](https://sbb.invisionapp.com/d/main#/console/15744722/328424441/inspect)
-* [Visible](https://sbb.invisionapp.com/d/main#/console/15744722/328424442/inspect)
+* [Hidden](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrLEx#Inspector)
+* [Visible](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYOW#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/tooltip)

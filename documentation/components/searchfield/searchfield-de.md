@@ -29,9 +29,9 @@ Die Komponente hat folgende Zustände:
 * Empfehlung maximal 10 Einträge.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344622859/inspect)
-* [No Result](https://sbb.invisionapp.com/d/main#/console/15744722/344622860/inspect)
-* [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622861/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKx3#Inspector)
+* [No Result](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8qj#Inspector)
+* [Suggested](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWRk#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/search)
@@ -52,11 +52,11 @@ Diese Ausprägung hat folgende Zustände:
 * Während des Tippens werden maximal 4 Auto-Suggest Vorschläge angezeigt.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/344622862/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/344622863/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/344622864/inspect)
-* [No Result](https://sbb.invisionapp.com/d/main#/console/15744722/344622865/inspect)
-* [Suggested](https://sbb.invisionapp.com/d/main#/console/15744722/344622866/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwyk#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOobqa#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Ya5dqd#Inspector)
+* [No Result](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRq8K#Inspector)
+* [Suggested](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgYV#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/search)

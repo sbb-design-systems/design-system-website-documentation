@@ -12,10 +12,10 @@ Das Logo wird bei allen SBB-Webseiten und -anwendungen eingesetzt.
 ![Darstellung des Standard SBB Logos](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/brand/images/logo_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/326997646/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5z4D#Inspector)
 
 ### 3.2 SBB Cargo
 ![Darstellung des SBB Cargo Logos](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/brand/images/logo_cargo.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/331829763/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAJP#Inspector)

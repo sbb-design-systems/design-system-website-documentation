@@ -24,8 +24,8 @@ The following statuses exist for the ‘mobile’ viewport:
 ![Image of the breadcrumb component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design specification
-* [Default/Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136674/inspect)
-* [Hover/Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136675/inspect)
+* [Default/Full](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPvQ#Inspector)
+* [Hover/Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlYz#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/breadcrumb)
@@ -41,9 +41,9 @@ This variant also has the following statuses:
 * The active page is highlighted in the dropdown.
 
 #### Design specification
-* [Default / Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136676/inspect)
-* [Hover / Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136677/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/328136678/inspect)
+* [Default / Full](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4o7#Inspector)
+* [Hover / Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejDM#Inspector)
+* [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7zw#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/breadcrumb)

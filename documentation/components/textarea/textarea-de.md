@@ -24,10 +24,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Textarea in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/textarea/images/textarea_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327171858/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327171859/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327171860/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/327171861/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREQ4#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVkJ#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwR1W#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOJZ#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/textarea)

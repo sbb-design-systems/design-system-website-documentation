@@ -19,7 +19,7 @@ It shows that a longer-lasting action is being carried out.
 ![Image of the tiny loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_tiny.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015704/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKZx#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
@@ -28,7 +28,7 @@ It shows that a longer-lasting action is being carried out.
 ![Image of the small loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_small.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015705/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Ex#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
@@ -37,7 +37,7 @@ It shows that a longer-lasting action is being carried out.
 ![Image of the medium loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015706/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWrn#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)
@@ -46,7 +46,7 @@ It shows that a longer-lasting action is being carried out.
 ![Image of the big loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_big.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327015707/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwJG#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/loading)

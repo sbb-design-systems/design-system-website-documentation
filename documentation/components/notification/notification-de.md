@@ -14,7 +14,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 ![Darstellung der Komponente Notification zur Darstellung von Bestätigungsmeldungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_confirmation.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849832/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrL4A#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
@@ -23,7 +23,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 ![Darstellung der Komponente Notification zur Darstellung von Hinweismeldungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849833/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYMl#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
@@ -32,7 +32,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 ![Darstellung der Komponente Notification zur Darstellung von Fehlermeldungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849834/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g7b#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)
@@ -44,7 +44,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 * Das Sprungmarkenziel ist immer auf derselben Seite wie die Notification (kein Absprung auf andere Seiten).
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/332849835/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8E0#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/notification)

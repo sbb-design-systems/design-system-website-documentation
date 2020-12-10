@@ -32,10 +32,10 @@ Die Komponente hat folgende Zustände:
         * Leertaste / Enter: Auswahl des markierten Tages.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605628/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605629/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605630/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703710/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Rx#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPW8n#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwmG#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOob9A#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
@@ -51,9 +51,9 @@ Die Komponente hat folgende Zustände:
 * In dieser Ausprägung ist immer ein gültige Datum vorausgewählt.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605631/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605632/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605633/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Ya5d7m#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqDg#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgoq#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
@@ -70,10 +70,10 @@ Die Komponente hat folgende Zustände:
 * Das Geburtsdatum wird im Format TT.MM.JJJJ dargestellt (Beispiel 02.09.1986).
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/327605634/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/15744722/327605635/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/327605636/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/377703711/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqE2#Inspector)
+* [Focused](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLa3#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mav8P#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2xa#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)
@@ -89,12 +89,12 @@ defniert:
 5.  Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tageliegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
 
 #### Design Spezifikation
-* [Keine Auswahl](https://sbb.invisionapp.com/d/main#/console/15744722/327605637/inspect)
-* [Datum gewählt](https://sbb.invisionapp.com/d/main#/console/15744722/327605638/inspect)
-* [Datum mit Hover](https://sbb.invisionapp.com/d/main#/console/15744722/327605639/inspect)
-* [Auswahleinschränkungen](https://sbb.invisionapp.com/d/main#/console/15744722/327605640/inspect)
-* [Datumsbereich innerhalb eines Monats](https://sbb.invisionapp.com/d/main#/console/15744722/327605641/inspect)
-* [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/15744722/327605642/inspect)
+* [Keine Auswahl](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWe8z#Inspector)
+* [Datum gewählt](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPk8#Inspector)
+* [Datum mit Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZldj#Inspector)
+* [Auswahleinschränkungen](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4b8#Inspector)
+* [Datumsbereich innerhalb eines Monats](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejnA#Inspector)
+* [Datumsbereich über Monatsgrenze](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7A7#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/datepicker)

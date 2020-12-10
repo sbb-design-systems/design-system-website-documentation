@@ -18,8 +18,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Toggle-Button mit der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_default.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849836/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849837/inspect)
+* [First](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWebP#Inspector)
+* [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPz1#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/toggle)
@@ -28,8 +28,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Toggle-Button mit Icons](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_icon.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849838/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849839/inspect)
+* [First](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlzr#Inspector)
+* [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp42w#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)
@@ -38,8 +38,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Toggle-Button mit zusätzlichen Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_infotext.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849840/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849841/inspect)
+* [First](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejwe#Inspector)
+* [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM72l#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)
@@ -48,8 +48,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Toggle-Button mit zusätzlichem Eingabekontext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_content.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/15744722/332849842/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/15744722/332849843/inspect)
+* [First](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/5GoZ7P#Inspector)
+* [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVampo#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/toggle)

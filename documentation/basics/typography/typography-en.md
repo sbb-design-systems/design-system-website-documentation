@@ -11,7 +11,7 @@ The font styles defined here form the basis of web applications and their compon
 * The text of the heading should be the same as the title in the navigation.
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796872/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdV0O#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.2 Heading H2
@@ -21,7 +21,7 @@ The font styles defined here form the basis of web applications and their compon
 * Cannot be used without a preceding H1 title.
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796873/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREJm#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.3 Heading H3
@@ -30,7 +30,7 @@ The font styles defined here form the basis of web applications and their compon
 * It cannot be used without a preceding H2 title.
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796874/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVgP#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.4 Heading H4
@@ -39,14 +39,14 @@ The font styles defined here form the basis of web applications and their compon
 * It cannot be used without a preceding H3 title.
 
 #### Specification
-* [Design](lhttps://sbb.invisionapp.com/d/main#/console/15744722/331796875/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRD4#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.5 Lead
 ![Image of the lead text font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_lead.png 'class: image')
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796876/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOED#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 
@@ -54,7 +54,7 @@ The font styles defined here form the basis of web applications and their compon
 ![Image of the body copy font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_copy.png 'class: image')
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796877/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlGR#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.7 Link
@@ -63,14 +63,14 @@ The font styles defined here form the basis of web applications and their compon
 * Further information about links can be found at [link](https://digital.sbb.ch/en/websites/components/link).
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796878/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7bOG#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.8 Subtext
 ![Image of the subtext font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_subtext.png 'class: image')
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796879/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGpYz#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.9 Table header
@@ -78,7 +78,7 @@ The font styles defined here form the basis of web applications and their compon
 * The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/websites/components/table).
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796882/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1Yr#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.10 Table data
@@ -86,7 +86,7 @@ The font styles defined here form the basis of web applications and their compon
 * The definition of the table as a component can be found under [table](https://digital.sbb.ch/en/websites/components/table).
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796883/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKWL#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.11 List structure
@@ -97,7 +97,7 @@ The font styles defined here form the basis of web applications and their compon
 * Short descriptions should be defined for a list entry (no four-line texts) whenever possible.
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796880/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8eW#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.12 Unstructured list
@@ -108,19 +108,19 @@ The font styles defined here form the basis of web applications and their compon
 * Short descriptions should be defined for a list entry (no four-line texts) whenever possible.
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/331796881/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWm5#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.13 Fieldset simple
 ![Image of the fieldset simple font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_default.png 'class: image')
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082546/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwWo#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)
 
 ### 2.14 Fieldset complex
 ![Image of the fieldset font style complex](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_nested.png 'class: image')
 
 #### Specification
-* [Design](https://sbb.invisionapp.com/d/main#/console/15744722/328082547/inspect)
+* [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOobD8#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/typography)

@@ -17,7 +17,7 @@ Bei Hinweisen und Störungen welche eine ganze Applikation betreffen.
 ![Darstellung der Komponente Ghettobox in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/ghettobox/images/ghettobox_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136671/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xd8m#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)
@@ -33,8 +33,8 @@ Diese Ausprägung hat folgende Zustände:
 * Die ganze Fläche der Ghettobox ist klickbar und öffnet den hinterlegten Link (ausser über dem X-Icon).
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136672/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136673/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrLaA#Inspector)
+* [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYzl#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)

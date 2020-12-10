@@ -18,9 +18,9 @@ The Next Best Click container does not have any cross-viewport statuses as they 
 ![Image of the Next Best Click container image to trigger actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_action.png 'class: image')
 
 ####Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616913/inspect)
-* [Double](https://sbb.invisionapp.com/d/main#/console/15744722/345616914/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616915/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mav9P#Inspector)
+* [Double](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2Aa#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWeqz#Inspector)
 
 #### Code specification
 In progress.
@@ -29,8 +29,8 @@ In progress.
 ![Image of the Next Best Click container component as information on the contact options](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_contact.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616916/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616917/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoP58#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlWj#Inspector)
 
 #### Code specification
 In progress.
@@ -39,8 +39,8 @@ In progress.
 ![Image of the Next Best Click container component as a link list to other topics](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_link.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616918/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616919/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4q8#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejgA#Inspector)
 
 #### Code specification
 In progress.
@@ -49,9 +49,9 @@ In progress.
 ![Image of the Next Best Click container component with several download files](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_download.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616920/inspect)
-* [App](https://sbb.invisionapp.com/d/main#/console/15744722/345616921/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616922/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM757#Inspector)
+* [App](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/5GoZqd#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVam9j#Inspector)
 
 #### Code specification
 In progress.
@@ -60,8 +60,8 @@ In progress.
 ![Image of the Next Best Click container component to start the live chat](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/nbc/images/nbc_chat.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345616923/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/345616924/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWrk#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xdqm#Inspector)
 
 #### Code specification
 In progress.

@@ -24,7 +24,7 @@ The component has the following statuses:
 ![Image of the media slider component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/mediaslider/images/mediaslider_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075289/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqv2#Inspector)
 
 #### Code specification
 In progress.
@@ -33,7 +33,7 @@ In progress.
 ![Image of the media slider component with additional text under the image](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/mediaslider/images/mediaslider_text.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/345075290/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/LgnLx3#Inspector)
 
 #### Code specification
 In progress.

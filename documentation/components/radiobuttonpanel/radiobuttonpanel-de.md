@@ -23,11 +23,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Radiobuttonpanel in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_default.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024572/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024573/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763123/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763124/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733305/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMYW#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ZAnzq7#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jwq5#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPbb#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zrZ#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)
@@ -36,11 +36,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024574/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024575/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763125/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763126/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733306/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAyj#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdVr7#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREq4#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVyJ#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRrW#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)
@@ -49,11 +49,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Radiobuttonpanel mit zusätzlichem Piktogramm oder Logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_picto.png 'class: image')
 
 #### Design Spezifikation
-* [Checked](https://sbb.invisionapp.com/d/main#/console/15744722/333024576/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/333024577/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/15744722/360763127/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/15744722/360763128/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/15744722/390733307/inspect)
+* [Checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOyZ#Inspector)
+* [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlr4#Inspector)
+* [Disabled checked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7boy#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGpPV#Inspector)
+* [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1yP#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button-panel)

@@ -22,9 +22,9 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente zur Hochladen von Dateien](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/fileselector/images/fileselector_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/378105832/inspect)
-* [Uploaded](https://sbb.invisionapp.com/d/main#/console/15744722/378105833/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/15744722/378105834/inspect)
+* [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/5GoZ8d#Inspector)
+* [Uploaded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVamQj#Inspector)
+* [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWbk#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/file-selector)

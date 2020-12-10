@@ -22,17 +22,17 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/usermenu)
 
 #### Design specification
-* [Logged Out](https://sbb.invisionapp.com/d/main#/console/15744722/344628068/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/344628069/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/344628070/inspect)
+* [Logged Out](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1gZ8#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ81A#Inspector)
+* [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/EwG12Y#Inspector)
 
 ### 4.2 With additional info
 ![Image of the user menu component with additional text.](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/usermenu/images/usermenu_addinfo.png 'class: image')
 
 #### Design specification
-* [Logged Out](https://sbb.invisionapp.com/d/main#/console/15744722/344628071/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/15744722/344628072/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/344628073/inspect)
+* [Logged Out](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRv0#Inspector)
+* [Collapsed](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaYZ#Inspector)
+* [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMVW#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/usermenu)

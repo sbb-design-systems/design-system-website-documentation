@@ -24,8 +24,8 @@ Beim Viewport «Mobile» gibt es folgende Zustände:
 ![Darstellung der Komponente Breadcrumb in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default/Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136674/inspect)
-* [Hover/Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136675/inspect)
+* [Default/Full](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPvQ#Inspector)
+* [Hover/Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlYz#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/breadcrumb)
@@ -41,9 +41,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Die aktive Seite wird im Dropdown hervorgehoben.
 
 #### Design Spezifikation
-* [Default / Full](https://sbb.invisionapp.com/d/main#/console/15744722/328136676/inspect)
-* [Hover / Overflow](https://sbb.invisionapp.com/d/main#/console/15744722/328136677/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/15744722/328136678/inspect)
+* [Default / Full](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp4o7#Inspector)
+* [Hover / Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejDM#Inspector)
+* [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7zw#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/breadcrumb)
