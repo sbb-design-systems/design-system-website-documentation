@@ -35,7 +35,7 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWeGP#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
 
 ### 4.2 Multiple choice 
 ![Image of the select component with multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_multi.png 'class: image')
@@ -45,7 +45,7 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlmr#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
 
 ### 4.3 Grouped single selection
 ![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_grouped_single.png 'class: image')
@@ -55,7 +55,7 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejde#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
 
 ### 4.4 Grouped multiple choice
 ![Image of the select component with grouped entries and multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_grouped_multi.png 'class: image')
@@ -65,4 +65,4 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/5GoZJP#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)

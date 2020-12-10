@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRJb#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)
 
 ### 4.2 Vertikale Checkbox-Gruppe 
 ![Darstellung der Komponente Checkbox als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_vertical.png 'class: image')
@@ -46,7 +46,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKja7j#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)
 
 ### 4.3 Horizontale Checkbox-Gruppe
 ![Darstellung der Komponente Checkbox als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_horizontal.png 'class: image')
@@ -55,4 +55,4 @@ Die Komponente hat folgende Zustände:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKM2l#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)

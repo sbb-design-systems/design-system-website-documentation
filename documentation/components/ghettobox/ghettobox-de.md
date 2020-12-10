@@ -20,7 +20,7 @@ Bei Hinweisen und Störungen welche eine ganze Applikation betreffen.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xd8m#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/ghettobox)
 
 ### 4.2 Link
 Diese Ausprägung hat folgende Zustände:
@@ -37,4 +37,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYzl#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/ghettobox)

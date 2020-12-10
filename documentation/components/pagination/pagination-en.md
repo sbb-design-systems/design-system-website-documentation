@@ -29,7 +29,7 @@ The component has the following statuses:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMYl#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/pagination)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/pagination)
 
 ### 4.2 Page names
 This variant has the following statuses:
@@ -46,4 +46,4 @@ This variant has the following statuses:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9JwqM#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/pagination)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/pagination)

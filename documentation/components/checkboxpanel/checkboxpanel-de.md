@@ -31,7 +31,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAWz#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)
 
 ### 4.2 Mit Infotext
 ![Darstellung der Komponente Checkboxpanel mit zusätzlichem Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image')
@@ -44,7 +44,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaO7v#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)
 
 ### 4.3 Mit Piktogramm / Logo
 ![Darstellung der Komponente Checkboxpanel mit zusätzlichem Piktogramm oder Logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image')
@@ -57,4 +57,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKOx#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)

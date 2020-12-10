@@ -35,7 +35,7 @@ Beispiel:
 * [Hover inactive](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zZZ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/tag)
 
 ### 4.2 Linktag
 ![Darstellung der Komponente Tag zur Verwendung als Link](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tag/images/tag_linktag.png 'class: image')
@@ -50,4 +50,4 @@ Beispiel:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdVQ7#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/tag)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/tag)

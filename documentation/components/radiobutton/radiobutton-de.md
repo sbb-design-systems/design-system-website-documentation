@@ -36,7 +36,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRrq#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button)
 
 ### 4.2 Vertikale Radiobutton-Gruppe
 ![Darstellung der Komponente Radiobutton als vertikale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobutton/images/radiobutton_vertical.png 'class: image')
@@ -45,7 +45,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRy0#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button)
 
 ### 4.3 Horizontale Radiobutton-Gruppe
 ![Darstellung der Komponente Radiobutton als horizontale Gruppe](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobutton/images/radiobutton_horizontal.png 'class: image')
@@ -54,4 +54,4 @@ Die Komponente hat folgende Zustände:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaEZ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button)

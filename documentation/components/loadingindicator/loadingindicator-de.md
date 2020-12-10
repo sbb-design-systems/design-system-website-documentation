@@ -23,7 +23,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKZx#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
 
 ### 4.2 Small
 ![Darstellung der Komponente Ladeindikator in der Grösse klein](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_small.png 'class: image')
@@ -32,7 +32,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Ex#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
 
 ### 4.3 Medium 
 ![Darstellung der Komponente Ladeindikator in der Grösse mittel](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
@@ -41,7 +41,7 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWrn#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
 
 ### 4.4 Big
 ![Darstellung der Komponente Ladeindikator in der Grösse gross](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_big.png 'class: image')
@@ -50,4 +50,4 @@ Zeigt an, dass eine länger dauernde Aktion durchgeführt wird.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwJG#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/public/components/loading)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)

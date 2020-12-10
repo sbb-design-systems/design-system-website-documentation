@@ -20,7 +20,7 @@ For information and errors that concern an entire application.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xd8m#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/ghettobox)
 
 ### 4.2 Link
 This variant has the following statuses:
@@ -37,4 +37,4 @@ This variant has the following statuses:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYzl#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/ghettobox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/ghettobox)

@@ -31,7 +31,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdAWz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)
 
 ### 4.2 With info text
 ![Image of the checkbox panel component with additional information text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_infotext.png 'class: image')
@@ -44,7 +44,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaO7v#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)
 
 ### 4.3 With pictogram/logo
 ![Image of the checkbox panel image with additional pictogram or logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkboxpanel/images/checkboxpanel_picto.png 'class: image')
@@ -57,4 +57,4 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKOx#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/content/checkbox-panel)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox-panel)
