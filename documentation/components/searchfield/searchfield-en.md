@@ -34,7 +34,7 @@ The component has the following statuses:
 * [Suggested](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWRk#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/search)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/search?variant=standard)
 
 ### 4.2 In the header
 The component has the following statuses:
@@ -59,4 +59,4 @@ The component has the following statuses:
 * [Suggested](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgYV#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/search)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/search?variant=standard)

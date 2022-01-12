@@ -17,4 +17,4 @@ Bei s√§mtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchl√
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/vOQPb1#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/processflow)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/processflow?variant=standard)

@@ -21,4 +21,4 @@ The component has the following statuses:
 * [Unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zAD#Inspector) 
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/captcha)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/captcha?variant=standard)

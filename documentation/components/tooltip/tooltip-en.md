@@ -27,7 +27,7 @@ The component has the following statuses:
 * [Visible](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xdgD#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/tooltip)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/tooltip?variant=standard)
 
 ### 4.2 Overlay below the icon
 ![Image of the tooltip component with text box below it](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/tooltip/images/tooltip_underneath.png 'class: image')
@@ -37,4 +37,4 @@ The component has the following statuses:
 * [Visible](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYOW#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/tooltip)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/tooltip?variant=standard)

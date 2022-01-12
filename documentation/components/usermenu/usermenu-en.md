@@ -19,7 +19,7 @@ The component has the following statuses:
 ![Image of the user menu component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/usermenu/images/usermenu_default.png 'class: image')
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/usermenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu?variant=standard)
 
 #### Design specification
 * [Logged Out](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1gZ8#Inspector)
@@ -35,13 +35,4 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMVW#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/usermenu)
-
-
-
-
-
-
-
-
-
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu?variant=standard)

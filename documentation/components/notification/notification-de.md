@@ -17,7 +17,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/rvrL4A#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=standard)
 
 ### 4.2 Hinweis
 ![Darstellung der Komponente Notification zur Darstellung von Hinweismeldungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
@@ -26,7 +26,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ndDYMl#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=standard)
 
 ### 4.3 Fehler 
 ![Darstellung der Komponente Notification zur Darstellung von Fehlermeldungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
@@ -35,7 +35,7 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g7b#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=standard)
 
 ### 4.4 Fehler mit Sprungmarke 
 ![Darstellung der Komponente Notification zur Darstellung von Fehlermeldungen mit zusätzlichen Sprungmarken](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
@@ -47,4 +47,4 @@ Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein 
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8E0#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=standard)

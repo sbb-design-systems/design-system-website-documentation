@@ -21,7 +21,7 @@ Dient zur Darstellung von Detailinformationen einer Content-Seite.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1g5b#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/lightbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/lightbox?variant=standard)
 
 ### 4.2 Mit Formularkomponenten
 ![Darstellung der Komponente Lightbox mit Formular als Inhalt](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/lightbox/images/lightbox_form.png 'class: image')
@@ -35,4 +35,4 @@ Dient zur Darstellung von Detailinformationen einer Content-Seite.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8a0#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/lightbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/lightbox?variant=standard)

@@ -27,4 +27,4 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/WmnWbk#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/file-selector)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/file-selector?variant=standard)

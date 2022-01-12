@@ -12,7 +12,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/GLdV0O#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.2 Überschrift H2
 ![Darstellung des Schriftstils Überschrift H2](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_h2.png 'class: image')
@@ -22,7 +22,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/OzREJm#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.3 Überschrift H3
 ![Darstellung des Schriftstils Überschrift H3](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_h3.png 'class: image')
@@ -31,7 +31,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVgP#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.4 Überschrift H4
 ![Darstellung des Schriftstils Überschrift H4](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_h4.png 'class: image')
@@ -40,14 +40,14 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRD4#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.5 Lead
 ![Darstellung des Schriftstils Lead-Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_lead.png 'class: image')
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/apaOED#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 
 ### 2.6 Fliesstext (Copy)
@@ -55,7 +55,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlGR#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.7 Link
 ![Darstellung des Schriftstils Link](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_link.png 'class: image')
@@ -64,14 +64,14 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7bOG#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.8 Subtext
 ![Darstellung des Schriftstils Subtext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_subtext.png 'class: image')
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/lgGpYz#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.9 Tabellenheader
 ![Darstellung des Schriftstils Tabellenheader](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_header.png 'class: image')
@@ -79,7 +79,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1Yr#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.10 Tabellendaten
 ![Darstellung des Schriftstils Tabellendaten](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_table_data.png 'class: image')
@@ -87,7 +87,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKWL#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.11 Liste geordnet
 ![Darstellung des Schriftstils Liste geordnet](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_list_ordered.png 'class: image')
@@ -98,7 +98,7 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8eW#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.12 Liste ungeordnet
 ![Darstellung des Schriftstils Liste ungeordnet](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_list_unordered.png 'class: image')
@@ -109,18 +109,18 @@ Die hier definierten Schriftstile bilden die Basis von Webseiten und deren Kompo
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWm5#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.13 Fieldset einfach
 ![Darstellung des Schriftstils Fieldset einfach](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_default.png 'class: image')
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwWo#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ### 2.14 Fieldset verschachtelt
 ![Darstellung des Schriftstils Fieldset verschachtelt](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/basics/typography/images/typo_fieldset_nested.png 'class: image')
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOobD8#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)

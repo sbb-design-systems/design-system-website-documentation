@@ -26,7 +26,7 @@ The component has the following statuses:
 
 #### Code specification
 The standard link is not an independent component but is instead defined directly in the [Typografie](https://digital.sbb.ch/en/websites/basics/typography) area.
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ## 4.2 Lead link 
 ![Image of the link component for use in a lead text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_lead.png 'class: image')
@@ -37,7 +37,7 @@ The standard link is not an independent component but is instead defined directl
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jw5M#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.3 After paragraphs
 ![Image of the link component for use after a paragraph](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_paragraph.png 'class: image')
@@ -48,7 +48,7 @@ The standard link is not an independent component but is instead defined directl
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdA9z#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.4 After form elements
 ![Image of the link component for use after form elements](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_form.png 'class: image')
@@ -59,7 +59,7 @@ The standard link is not an independent component but is instead defined directl
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVdz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.5 In menus
 ![Image of the link component in menus](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_menu.png 'class: image')
@@ -70,7 +70,7 @@ The standard link is not an independent component but is instead defined directl
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlqz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.6 Social media
 ![Image of the link component to jump to a social media channel](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_icon.png 'class: image')
@@ -81,4 +81,4 @@ The standard link is not an independent component but is instead defined directl
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ199#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)

@@ -28,4 +28,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2p8#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/time-input)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/time-input?variant=standard)

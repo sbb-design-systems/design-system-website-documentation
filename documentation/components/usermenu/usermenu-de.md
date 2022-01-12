@@ -19,7 +19,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benutzermenü in der Ausprägung Standard](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/usermenu/images/usermenu_default.png 'class: image')
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/usermenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu?variant=standard)
 
 #### Design Spezifikation
 * [Logged Out](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/QJ1gZ8#Inspector)
@@ -35,13 +35,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMVW#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/usermenu)
-
-
-
-
-
-
-
-
-
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu?variant=standard)

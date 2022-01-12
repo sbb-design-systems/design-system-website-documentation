@@ -34,7 +34,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/34xdar#Inspector) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ### 4.2 Secondary Button
 ![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/button/images/button_secondary.png 'class: image')
@@ -46,7 +46,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/xDQ8xJ#Inspector) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ### 4.3 Ghost Button
 ![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/button/images/button_ghost.png 'class: image')
@@ -57,7 +57,7 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKja5L#Inspector) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ### 4.4 Frameless Button
 ![Darstellung der Komponente Frameless Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/button/images/button_frameless.png 'class: image')
@@ -68,4 +68,4 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jwok#Inspector) 
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)

@@ -26,4 +26,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/0Z7b2y#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/textexpand)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/textexpand?variant=standard)

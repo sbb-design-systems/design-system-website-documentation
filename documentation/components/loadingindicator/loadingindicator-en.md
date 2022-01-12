@@ -22,7 +22,7 @@ It shows that a longer-lasting action is being carried out.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ozDKZx#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=standard)
 
 ### 4.2 Small
 ![Image of the small loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_small.png 'class: image')
@@ -31,7 +31,7 @@ It shows that a longer-lasting action is being carried out.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/Rvo8Ex#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=standard)
 
 ### 4.3 Medium 
 ![Image of the medium loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_medium.png 'class: image')
@@ -40,7 +40,7 @@ It shows that a longer-lasting action is being carried out.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWrn#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=standard)
 
 ### 4.4 Big
 ![Image of the big loading indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/loadingindicator/images/loadingindicator_big.png 'class: image')
@@ -49,4 +49,4 @@ It shows that a longer-lasting action is being carried out.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/pZKwJG#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=standard)

@@ -22,7 +22,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/PZoPz1#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/toggle?variant=standard)
    
 ### 4.2 Mit Icon
 ![Darstellung der Komponente Toggle-Button mit Icons](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_icon.png 'class: image')
@@ -32,7 +32,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/8Dp42w#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/toggle?variant=standard)
 
 ### 4.3 Mit Infotext 
 ![Darstellung der Komponente Toggle-Button mit zusätzlichen Hinweistext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_infotext.png 'class: image')
@@ -42,7 +42,7 @@ Die Komponente hat folgende Zustände:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM72l#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/toggle?variant=standard)
 
 ### 4.4 Mit zusätzlichem Eingabekontext
 ![Darstellung der Komponente Toggle-Button mit zusätzlichem Eingabekontext](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/toggle/images/toggle_content.png 'class: image')
@@ -52,15 +52,4 @@ Die Komponente hat folgende Zustände:
 * [Second](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/bVampo#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/toggle)
-
-
-
-
-
-
-
-
-
-
-
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/toggle?variant=standard)

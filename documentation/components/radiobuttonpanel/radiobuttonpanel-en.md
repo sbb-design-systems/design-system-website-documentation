@@ -30,7 +30,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/4e5zrZ#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/radio-button-panel?variant=standard)
 
 ### 4.2 With info text
 ![Image of the radio button panel component with additional info text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_infotext.png 'class: image')
@@ -43,7 +43,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/DKwRrW#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/radio-button-panel?variant=standard)
 
 ### 4.3 With pictogram/logo
 ![Image of the radio button panel component with additional pictogram or logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/radiobuttonpanel/images/radiobuttonpanel_picto.png 'class: image')
@@ -56,4 +56,4 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ1yP#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/radio-button-panel)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/radio-button-panel?variant=standard)
