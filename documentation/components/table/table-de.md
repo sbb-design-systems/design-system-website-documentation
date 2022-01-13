@@ -25,7 +25,7 @@ Strukturierte Darstellung von Daten.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRA0#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)
 
 ### 4.2 Gruppiert
 ![Darstellung der Komponente Tabelle mit Untergruppen in den Zeilen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
@@ -34,7 +34,7 @@ Strukturierte Darstellung von Daten.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaeZ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)
 
 ### 4.3 Titel - Wert
 ![Darstellung der Komponente Tabelle als Titel-Wert Auflistung](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_key_value.png 'class: image')
@@ -43,4 +43,4 @@ Strukturierte Darstellung von Daten.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMeW#Inspector)
 
 #### ode Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)

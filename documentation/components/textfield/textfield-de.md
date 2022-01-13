@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/1JPWjk#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/field)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/form-field?variant=standard)
 
 ### 4.2 Passworteingabe
 ![Darstellung der Komponente Eingabefeld für Passwort](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
@@ -50,4 +50,4 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/KPRqQK#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/field)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/form-field?variant=standard)

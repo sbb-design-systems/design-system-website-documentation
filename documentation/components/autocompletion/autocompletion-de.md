@@ -27,7 +27,7 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/qJVqWk#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete?variant=standard)
 
 ### 4.2 Mit Trefferanzeige
 Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn eine Autocompletion-Liste immer mehr als die maximal angezeigten 10 Treffer beinhaltet.
@@ -38,7 +38,7 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/7mavk8#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete?variant=standard)
 
 ### 4.3 Mit statischen Einträgen
 ![Darstellung der Komponente Autocompletion mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/autocompletion/images/autocompletion_static.png 'class: image')
@@ -48,4 +48,4 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 * [Hover](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWejn#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete?variant=standard)

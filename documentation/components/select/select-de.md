@@ -35,7 +35,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/9aWeGP#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=standard)
 
 ### 4.2 Mehrfachauswahl 
 ![Darstellung der Komponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_multi.png 'class: image')
@@ -45,7 +45,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlmr#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=standard)
 
 ### 4.3 Gruppierte Einfachauswahl
 ![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_grouped_single.png 'class: image')
@@ -55,7 +55,7 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/2vejde#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=standard)
 
 ### 4.4 Gruppierte Mehrfachauswahl
 ![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/select/images/select_grouped_multi.png 'class: image')
@@ -65,4 +65,4 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/5GoZJP#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=standard)

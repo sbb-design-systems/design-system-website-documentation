@@ -26,7 +26,7 @@ Die Komponente hat folgende Zustände:
 
 #### Code Spezifikation
 Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Bereich [Typografie](https://digital.sbb.ch/de/websites/basics/typography) definiert.
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=standard)
 
 ## 4.2 Lead Link 
 ![Darstellung der Komponente Link zur Anwendung in einem Lead-Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_lead.png 'class: image')
@@ -37,7 +37,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/J9Jw5M#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.3 Nach Textabschnitten (Paragraph)
 ![Darstellung der Komponente Link zur Anwendung nach einem Textabschnitt (Paragraph)](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_paragraph.png 'class: image')
@@ -48,7 +48,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ewdA9z#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.4 Nach Formularelementen
 ![Darstellung der Komponente Link zur Anwendung nach Formularelementen](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_form.png 'class: image')
@@ -59,7 +59,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/mjKVdz#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.5 In Menüs
 ![Darstellung der Komponente Link in Menüs](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_menu.png 'class: image')
@@ -70,7 +70,7 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/ApRlqz#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)
 
 ## 4.6 Socialmedia
 ![Darstellung der Komponente Link als Absprung zu einem Social-Media Kanal](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/link/images/link_icon.png 'class: image')
@@ -81,4 +81,4 @@ Der Standard-Link ist keine eigenständige Komponente sonder ist direkt im Berei
 * [On-Click](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/kPQ199#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=standard)

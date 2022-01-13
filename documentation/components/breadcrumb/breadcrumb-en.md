@@ -28,7 +28,7 @@ The following statuses exist for the ‘mobile’ viewport:
 * [Hover/Overflow](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/gLZlYz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/breadcrumb)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/breadcrumb?variant=standard)
 
 ### 4.2 With sister pages
 This variant also has the following statuses:
@@ -46,4 +46,4 @@ This variant also has the following statuses:
 * [Expanded](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7zw#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/breadcrumb)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/breadcrumb?variant=standard)

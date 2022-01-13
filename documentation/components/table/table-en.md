@@ -25,7 +25,7 @@ Structured display of data.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRA0#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)
 
 ### 4.2 Grouped
 ![Image of the table component with sub-groups in the lines](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
@@ -34,7 +34,7 @@ Structured display of data.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKjaeZ#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)
 
 ### 4.3 Title – value
 ![Image of the table component as a title value list](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/table/images/table_key_value.png 'class: image')
@@ -43,4 +43,4 @@ Structured display of data.
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKMeW#Inspector)
 
 #### ode specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=standard)

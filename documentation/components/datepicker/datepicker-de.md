@@ -38,7 +38,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/VOob9A#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=standard)
 
 ### 4.2 Mit Blätterfunktion
 ![Darstellung der Komponente Datumswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/datepicker/images/datepicker_pageable.png 'class: image')
@@ -56,7 +56,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/wmQgoq#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=standard)
 
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
@@ -76,7 +76,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/yaQ2xa#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=standard)
 
 ### 4.5 Kalender-Layer
 ![Darstellung der Komponente Datumswahl mit geöffnetem Datepicker](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/datepicker/images/datepicker_picker.png 'class: image')
@@ -97,4 +97,4 @@ defniert:
 * [Datumsbereich über Monatsgrenze](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/MjM7A7#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=standard)

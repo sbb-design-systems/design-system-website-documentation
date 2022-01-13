@@ -37,7 +37,7 @@ The component has the following statuses:
 * [Disabled unchecked](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/j9rRJb#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/checkbox?variant=standard)
 
 ### 4.2 Vertical checkbox group 
 ![Image of the checkbox as a vertical group component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_vertical.png 'class: image')
@@ -46,7 +46,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/dKja7j#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/checkbox?variant=standard)
 
 ### 4.3 Horizontal checkbox group
 ![Image of the checkbox as a horizontal group component](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/checkbox/images/checkbox_horizontal.png 'class: image')
@@ -55,4 +55,4 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/80f12b3b-58e5-4b4c-98cd-c553bae18db0/a/zAKM2l#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/public/components/checkbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/checkbox?variant=standard)
