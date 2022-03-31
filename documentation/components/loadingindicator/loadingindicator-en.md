@@ -3,14 +3,12 @@ It shows that a longer-lasting action is being carried out.
 
 ## 2. When should the component be used?
 * When sending forms.
-* When loading or updating an entire page.
 * When loading or updating an individual part of a page.
 
 ## 3. Rules
 * If the system requires longer than 100ms to show an answer, a loading indicator must be displayed.
-* Only one loading indicator can be displayed per page/viewport.
-* If several areas are downloading data, only one loading indicator can be displayed on the entire page.
 * The loading indicator is always used on a white, semi-transparent zone.
+* Only one loading indicator can be displayed per page/viewport.
 * The white zone covers the area being loaded or updated.
 * The ‘medium’ loading indicator is used as standard.
 
